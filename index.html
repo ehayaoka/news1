@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ニュースねこ サマにゃん｜研究トレンドまとめ</title>
+<style>
+  :root{
+    --mint:#bfe8d8; --mint-d:#5db894; --cream:#fdf9ef; --pink:#f7c8d0;
+    --ink:#4a4a44; --card:#ffffff;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:"Hiragino Maru Gothic ProN","BIZ UDGothic","Yu Gothic",sans-serif;
+    background:var(--cream); color:var(--ink); line-height:1.7;}
+  header{background:linear-gradient(135deg,#d9f2e6,#fdeef0); padding:24px 16px 12px;
+    text-align:center; border-bottom:3px dashed var(--mint-d);}
+  .mascot-area{display:flex; justify-content:center; align-items:center; gap:16px; flex-wrap:wrap;}
+  #mascot{width:110px; height:110px; object-fit:contain; animation:float 3s ease-in-out infinite;}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+  .bubble{background:#fff; border:2px solid var(--mint-d); border-radius:18px;
+    padding:10px 16px; max-width:420px; position:relative; font-size:.95rem; text-align:left;}
+  .bubble:before{content:""; position:absolute; left:-12px; top:40%;
+    border:8px solid transparent; border-right-color:var(--mint-d);}
+  h1{font-size:1.4rem; margin-top:10px; color:#3c7a60;}
+  .sub{font-size:.8rem; color:#888;}
+  .updated{text-align:center; font-size:.8rem; color:#888; padding:12px;
+    position:sticky; top:0; background:rgba(253,249,239,.95); z-index:10; border-bottom:1px solid #eee;}
+  main{max-width:860px; margin:0 auto; padding:16px;}
+  section.cat{margin-bottom:34px;}
+  .cat-head{display:flex; align-items:center; gap:10px; flex-wrap:wrap;
+    border-left:8px solid var(--mint-d); background:#eef8f2; padding:10px 14px;
+    border-radius:0 12px 12px 0; margin-bottom:12px;}
+  .cat-head h2{font-size:1.05rem; flex:1; min-width:200px;}
+  .card{background:var(--card); border-radius:14px; padding:14px 16px; margin-bottom:10px;
+    box-shadow:0 2px 6px rgba(0,0,0,.06); border:1px solid #f0ece0;}
+  .card a{color:#2f6e52; text-decoration:none; font-weight:bold; font-size:.98rem;}
+  .card a:hover{text-decoration:underline;}
+  .tag{display:inline-block; font-size:.68rem; padding:1px 8px; border-radius:999px;
+    margin-right:6px; vertical-align:middle;}
+  .tag.news{background:#dff0fb; color:#33698c;}
+  .tag.paper{background:#fbe9df; color:#a05a34;}
+  .tag.gov{background:#e9e2f7; color:#6a4fa3;}
+  .src{font-size:.72rem; color:#aaa; margin-left:4px;}
+  .summary{font-size:.9rem; margin-top:6px; background:#fbf7ec; border-radius:8px; padding:8px 10px;}
+  .summary b{color:var(--mint-d);}
+  .loading,.err{text-align:center; padding:30px; color:#888;}
+  .err{color:#a33;}
+  footer{text-align:center; font-size:.72rem; color:#bbb; padding:24px;}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="mascot-area">
+    <img id="mascot" src="mascot.png" alt="サマにゃん" onerror="this.outerHTML='<div style=&quot;font-size:70px&quot;>🐱</div>'">
+    <div class="bubble" id="bubble">こんにちは！ニュースねこのサマにゃんだにゃ🐾 毎朝6時に最新情報を集めてるにゃ！</div>
+  </div>
+  <h1>サマにゃんの研究トレンドまとめ</h1>
+  <div class="sub">AI×メディア／地方創生／メディア起業／博物館／VR・AR・PM を毎日自動更新</div>
+</header>
+
+<div class="updated" id="updated">読み込み中…</div>
+
+<main id="main"><div class="loading">🌀 データを読み込んでいます…</div></main>
+
+<footer>出典：Google News RSS / arXiv API ｜ 要約はAIによる自動生成のため、必ず原文をご確認ください。</footer>
+
+<script>
+const TAG_LABEL = {news:"ニュース", paper:"論文", gov:"行政"};
+const esc = s => (s||"").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+async function load(){
+  try{
+    const res = await fetch("news.json?t=" + Date.now());
+    if(!res.ok) throw new Error("news.json が見つかりません（まだ一度もActionsが実行されていない可能性があります）");
+    const data = await res.json();
+    document.getElementById("updated").textContent =
+      "最終更新: " + new Date(data.updated).toLocaleString("ja-JP") + "（毎朝6時に自動更新）";
+    document.getElementById("main").innerHTML = data.categories.map(cat => `
+      <section class="cat">
+        <div class="cat-head"><h2>${esc(cat.title)}</h2></div>
+        ${cat.items.length === 0 ? '<div class="err">該当する記事が見つかりませんでした</div>' : ""}
+        ${cat.items.map(it => `
+          <div class="card">
+            <span class="tag ${it.type}">${TAG_LABEL[it.type]||it.type}</span>
+            <a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a>
+            <span class="src">${esc(it.source)} ｜ ${it.date ? new Date(it.date).toLocaleDateString("ja-JP") : ""}</span>
+            <div class="summary">${it.summary
+              ? "<b>🐱 サマにゃん要約：</b>" + esc(it.summary)
+              : "<b>📄 概要：</b>" + esc((it.snippet||"").slice(0,200) || "（概要なし）")}</div>
+          </div>`).join("")}
+      </section>`).join("");
+    document.getElementById("bubble").textContent = "きょうのまとめができてるにゃ！ゆっくり読んでほしいにゃ🐾✨";
+  }catch(e){
+    document.getElementById("main").innerHTML = `<div class="err">⚠ ${esc(e.message)}</div>`;
+    document.getElementById("updated").textContent = "データ未取得";
+  }
+}
+load();
+</script>
+</body>
+</html>
