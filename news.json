@@ -1,0 +1,305 @@
+{
+ "updated": "2026-07-05T14:37:25.045444+00:00",
+ "categories": [
+  {
+   "id": "ai_media",
+   "title": "🤖 AI×メディア研究（ニュース・論文・行政）",
+   "items": [
+    {
+     "type": "news",
+     "title": "政府管理メディア、生成AIの回答に影響か プリンストン大がLLMの訓練データを分析 - ｄメニューニュース",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvRnNsTjk5NTd3bkM3ZWQ0UWNiNGV2dWNBeHh4dldLQy16ZTVxaWxrY2tlLUM1MG5CX2lEdUlPeXBiU0hhY2hlSU4zZ09YWVVDYTV4bE5MRzlNalZOZU1LbVpQSnI5VUx2M1dfTzdsQlNXdmg2OWo40gF3QVVfeXFMUG9Gc2xOOTk1N3duQzdlZDRRY2I0ZXZ1Y0F4eHh2V0tDLXplNXFpbGtja2UtQzUwbkJfaUR1SU95cGJTSGFjaGVJTjNnT1hZVUNhNXhsTkxHOU1qVk5lTUttWlBKcjlVTHYzV19PN2xCU1d2aDY5ajg?oc=5",
+     "date": "2026-07-04T12:02:00+00:00",
+     "source": "ｄメニューニュース",
+     "snippet": "政府管理メディア、生成AIの回答に影響か プリンストン大がLLMの訓練データを分析&nbsp;&nbsp;ｄメニューニュース",
+     "summary": "プリンストン大学の研究によると、政府管理メディアが生成AIの回答に影響を与えている可能性があることが示されています。研究者たちは、大規模言語モデル（LLM）の訓練データを分析し、特に政府の情報がどのようにAIの出力に反映されるかを探求しました。この結果、AIの回答が特定の政治的視点やバイアスを持つ可能性があることが指摘されています。"
+    },
+    {
+     "type": "news",
+     "title": "Bocek、国内外の生成AI関連サービスをまとめた「生成AI関連サービスカオスマップ 2023」を発表 - ProductZine",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TdXNYb0ZRc2RtLUg2cV9fbW1TNHpBUzJWaDZfdlFMWUVLZ1dkNUg3NFZPa3Y3dnVWN09hNE9Qb25FcUZOOGU0QlFsX3NFT0I5UlRLbw?oc=5",
+     "date": "2026-07-03T20:13:45+00:00",
+     "source": "ProductZine",
+     "snippet": "Bocek、国内外の生成AI関連サービスをまとめた「生成AI関連サービスカオスマップ 2023」を発表&nbsp;&nbsp;ProductZine",
+     "summary": "Bocekが発表した「生成AI関連サービスカオスマップ 2023」は、国内外の生成AI関連サービスをまとめたもので、各サービスの特徴や用途を視覚的に示しています。このカオスマップは、生成AIの急速な発展を反映しており、企業や開発者が新たなサービスを見つける手助けとなることを目的としています。"
+    },
+    {
+     "type": "gov",
+     "title": "セミナー・イベント：【参加者募集！！】XRビジネスブートキャンプ - J-Net21[中小企業ビジネス支援サイト]",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SRGZ6Rk9CdHE0clI2c2c4d1NyeW5fNnVXOUxOQ2k3VGpnR3BrbkxKSkh1aEd1R0o2TkY1dFpHcGJoemVlTjI1eDVfa2xNb1Q2Sk5QSEk1VndMV1hCWUN0R0xtVQ?oc=5",
+     "date": "2026-07-03T18:03:44+00:00",
+     "source": "J-Net21[中小企業ビジネス支援サイト]",
+     "snippet": "セミナー・イベント：【参加者募集！！】XRビジネスブートキャンプ&nbsp;&nbsp;J-Net21[中小企業ビジネス支援サイト]",
+     "summary": "J-Net21が主催する「XRビジネスブートキャンプ」の参加者を募集しています。このイベントは、XR（拡張現実）技術を活用したビジネスの可能性を探るもので、参加者は新しいビジネスモデルや技術の習得を目指します。中小企業の支援を目的としたこのプログラムは、実践的な内容が特徴です。"
+    },
+    {
+     "type": "news",
+     "title": "AXer、生成AIの動画制作フローを拡張。シーンの質と複数動画の一貫性を安定化 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OZ0NyVXpMaTJ1SG9NQldtU3lFMHBfbUsyVlFaVnJTemxiVHh3NTY4M1RuTnNMRi1Dbk1ZYnhFMTBBdi1BYW15a1lYakpwdVctSnFxUGJLS08yRzJTaWZnZEN0bGlnNHI0NUpMajh5eWItb2pXaTNqYW9GYw?oc=5",
+     "date": "2026-07-03T13:00:27+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "AXer、生成AIの動画制作フローを拡張。シーンの質と複数動画の一貫性を安定化&nbsp;&nbsp;ニコニコニュース",
+     "summary": "AXerは、生成AIを用いた動画制作フローを拡張し、シーンの質と複数動画の一貫性を安定化させる新機能を発表しました。この技術革新により、動画制作の効率が向上し、より高品質なコンテンツの制作が可能になると期待されています。AXerは、生成AIの活用を進めることで、クリエイティブなプロセスを革新しようとしています。"
+    },
+    {
+     "type": "news",
+     "title": "放送メディア通信委員会、「2026視聴者メディア大賞」の応募受け付け開始 - 디지털투데이",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFg5bDNBQkFISnkwbVNCZlA4ZWJIa3ZKSElhWDZHTVVPbjI0N0NLNmdxY25XZkJNNHMxMVBWRndlR0xTamlVQ094NzhoX3VULXVrX0NYRHVhX2drX2F1MGxfME9OMXBnbllzaEZrNGR4Z2VONnNqUDk3b0FKa2Q0eFR4dkpJX3pLclYyWHA4Y3FPbDBma292SVNwZlZEYmJXQV9rQ1hGWHpGZw?oc=5",
+     "date": "2026-07-03T06:03:37+00:00",
+     "source": "디지털투데이",
+     "snippet": "放送メディア通信委員会、「2026視聴者メディア大賞」の応募受け付け開始&nbsp;&nbsp;디지털투데이",
+     "summary": "放送メディア通信委員会は、「2026視聴者メディア大賞」の応募受付を開始しました。この賞は、視聴者に優れたメディアコンテンツを提供した団体や個人を表彰するもので、メディアの質向上を目指しています。応募は広く一般から受け付けられ、優れた作品が評価される機会となります。"
+    },
+    {
+     "type": "gov",
+     "title": "米製薬大手アッヴィ、約109億ドルの買収を通じ免疫・炎症領域を強化 - jetro.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNODZIMk9VUExPeXVOdTQtc0FVcGZjN1B0WmVzMFpiVXdmTWJwRHdpcDRCVDFZNE55SG95QkQ3LW1QRzZLeklTWDdUWENheWdJZW9XeWt3dlZtRXV2VUJpV1laQk5QMEczZDdVa2pkb2pqbzRGM3Q2a3I1b1hTM2xzZFFqaFdhX2p3c3VFOF9FdDVLMjlYYlNLTHdudnhjWUFjQjNCXzZR?oc=5",
+     "date": "2026-07-02T21:00:50+00:00",
+     "source": "jetro.go.jp",
+     "snippet": "米製薬大手アッヴィ、約109億ドルの買収を通じ免疫・炎症領域を強化&nbsp;&nbsp;jetro.go.jp",
+     "summary": "米製薬大手アッヴィは、約109億ドルでの買収を通じて免疫・炎症領域の強化を図っています。この買収は、アッヴィの製品ポートフォリオを拡充し、競争力を高めることを目的としています。免疫関連の治療法の開発に注力することで、同社は市場での地位をさらに強固にする狙いがあります。"
+    },
+    {
+     "type": "gov",
+     "title": "Research Trends on “Reasonable Accommodation” - jstage.jst.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZZ1pMa3RSWFFNTHU4bmRHN3Z5MFBsR3E5bG4tQnpCYzRRV3ZZRF9kNEVGZDR1Xy00TTh2VDJrMVhUaUloNEUxTDNwRl9iYlU1RnRlRDlwbXhoNEZlMnIwWnlOcUdodE1VMFF5M3M1TlZrNFROODRFV0FiVQ?oc=5",
+     "date": "2026-07-02T13:29:56+00:00",
+     "source": "jstage.jst.go.jp",
+     "snippet": "Research Trends on “Reasonable Accommodation”&nbsp;&nbsp;jstage.jst.go.jp",
+     "summary": "「合理的配慮」に関する研究動向についての論文が発表されました。この研究は、障害者や特別な支援が必要な人々に対する配慮の重要性を強調し、社会的な包摂を促進するための方策を探求しています。合理的配慮は、教育や職場環境においても重要なテーマであり、今後の研究が期待されます。"
+    },
+    {
+     "type": "news",
+     "title": "『生成AI時代、BtoB新規顧客との接点はどう設計すべきか？』というテーマのウェビナーを開催 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10aGhUSDcwX2VSV1J2R1VINWx1MW9oTFJIV3RMMUxORGpRUlVHZTZCWXRpUUQzaGpfRHBhdFg2U2xFZ0dVYW12X0V4dkF2RmlhMEI3eUlOSW5jRmhocGV2NFllVTdZaklYZnJxWUNaT2V0UlUydXgxQi1zZw?oc=5",
+     "date": "2026-07-02T09:15:24+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "『生成AI時代、BtoB新規顧客との接点はどう設計すべきか？』というテーマのウェビナーを開催&nbsp;&nbsp;ニコニコニュース",
+     "summary": "「生成AI時代、BtoB新規顧客との接点はどう設計すべきか？」というテーマのウェビナーが開催されます。このウェビナーでは、生成AIを活用した新規顧客獲得の戦略や手法について議論される予定です。参加者は、BtoBビジネスにおける最新のトレンドや実践的な知識を得ることができる機会となります。"
+    },
+    {
+     "type": "news",
+     "title": "ドイツ経済相の寄稿はAI生成か 雑誌報道、活用巡り議論 - 日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GRW5qWUd2bWxPclI3blJrai01VC1vc2gtX3pUVHhGMzFwQWVVYTEtSDNnVm16RDMyODFLUjBEM2F0NVBPRXM3NWpYSmVBcUFxYkw2b2Q3YjNBV2FfbnpzWWJVdVpVWlNNUmJldg?oc=5",
+     "date": "2026-07-02T05:13:05+00:00",
+     "source": "日本経済新聞",
+     "snippet": "ドイツ経済相の寄稿はAI生成か 雑誌報道、活用巡り議論&nbsp;&nbsp;日本経済新聞",
+     "summary": "ドイツ経済相の寄稿がAIによって生成された可能性があるとの報道があり、これに関する議論が巻き起こっています。雑誌に掲載されたこの寄稿は、AIの活用が政治や経済の分野にどのような影響を与えるかについての重要な問題を提起しています。AIの利用が進む中で、信頼性や倫理的な観点からの検討が求められています。"
+    },
+    {
+     "type": "news",
+     "title": "【画像】ドイツ経済相の寄稿、AI生成か 雑誌報道、活用巡り議論 - ライブドアニュース",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XZVQ4T1VPeTdZZ3ZpMUVQVTJFd0NrbEpKU2xCMlZPQ2dvQzRUeGRjVEY1OXZtcUh2RVNiemNldl93Y0dpOUt1R01oRUFCSC1hanY1NC1nRzlhTm16SDVkZXIycGZiWGVPVkl4d2J0UVZJMllFckVTaG1oWGc?oc=5",
+     "date": "2026-07-02T01:19:37+00:00",
+     "source": "ライブドアニュース",
+     "snippet": "【画像】ドイツ経済相の寄稿、AI生成か 雑誌報道、活用巡り議論&nbsp;&nbsp;ライブドアニュース",
+     "summary": "ドイツ経済相の寄稿がAI生成である可能性が指摘され、これに関する議論が広がっています。報道によると、AIの活用が政治的な発言や政策形成にどのように影響を与えるかが焦点となっています。この問題は、AIの利用がもたらす倫理的な課題や信頼性についての重要な議論を引き起こしています。"
+    }
+   ]
+  },
+  {
+   "id": "regional",
+   "title": "🏘 地方創生×メディア",
+   "items": [
+    {
+     "type": "news",
+     "title": "石破前総理大臣 「地方創生」語る 鹿児島（KKB鹿児島放送） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KN1FTVEVfSUdZTU9XRG1tMFdYZzAzcGNXVmc3d2hQQ2YwWllWeDk3TmlLVTh4d3FjQUs1bmd3ajRvNTdvbjB0MjVJNmt4cmRtcVZoWnU1VUZTSVRLRGE1VFNkX1dxWS14X1lxT2lhekdnNUJ5Z0I2NzhEaUhJeHM?oc=5",
+     "date": "2026-07-05T09:05:21+00:00",
+     "source": "Yahoo!ニュース",
+     "snippet": "石破前総理大臣 「地方創生」語る 鹿児島（KKB鹿児島放送）&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "石破前総理大臣が鹿児島で「地方創生」について講演しました。彼は地方の活性化が重要であると強調し、地域の特性を生かした取り組みの必要性を訴えました。地方創生は経済の活性化だけでなく、地域住民の生活向上にも寄与するとの見解を示しました。"
+    },
+    {
+     "type": "gov",
+     "title": "2020年基準 消費者物価指数 全国（2026年（令和8年）4月分） - 政府広報オンライン",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IM1hMNUV0a21TczJnTVk0bjMwR0xCT3Raa3NYSDljYVltMEJEcWxTSk5rNUR2WHR6TTMzTjMyb09PSXpqbFZJX1liOVh4SmpSb3ROZ0Vsa3VqSjkzZzB0czkyNFZJMTdQYzBKUXA3ajhKaWs5aWQ0bUZiUHpFeG8?oc=5",
+     "date": "2026-07-04T00:00:30+00:00",
+     "source": "政府広報オンライン",
+     "snippet": "2020年基準 消費者物価指数 全国（2026年（令和8年）4月分）&nbsp;&nbsp;政府広報オンライン",
+     "summary": "2020年基準の消費者物価指数に関するデータが2026年4月分として発表されました。この指標は、全国の物価動向を示すもので、経済政策や生活水準の分析に重要な役割を果たします。具体的な数値や変動については、政府広報オンラインでの詳細な情報を参照してください。"
+    },
+    {
+     "type": "news",
+     "title": "地方創生×最先端テクノロジーをテーマにした新Web番組「ミライ会議」が2026年7月3日（金）18時よりYouTubeにて配信開始 ―― 世界のニュースを「地方目線」で読... - アットプレス",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQb3RSRGYtMlpmbWFLQkNBeVVCbjVKX1pBLU9PcHpfdWhUaURoa0cyQ29vYnNZejVVb0tuei00M1RCdnNIeU1sWEpTZGZ4RWM?oc=5",
+     "date": "2026-07-03T08:00:00+00:00",
+     "source": "アットプレス",
+     "snippet": "地方創生×最先端テクノロジーをテーマにした新Web番組「ミライ会議」が2026年7月3日（金）18時よりYouTubeにて配信開始 ―― 世界のニュースを「地方目線」で読...&nbsp;&nbsp;アットプレス",
+     "summary": "新しいWeb番組「ミライ会議」が2026年7月3日からYouTubeで配信されます。この番組は地方創生と最先端テクノロジーをテーマにしており、世界のニュースを地方の視点で分析します。視聴者に新たな視点を提供し、地方の課題解決に寄与することを目指しています。"
+    },
+    {
+     "type": "news",
+     "title": "【中間報告｜シニア×地方創生プロジェクト2026】地方のCXO・プロ人材不足に挑む上半期の軌跡と成果 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OeVRBV0l0OGF3ajFLdzAyZTdkb2JqSHhnU3lFRW5XbjNZbXpfR3pteEhqNk1IRGpfSUpvOFVEcFBwcTB1VmR3TmwxVVdHSUdBdDM2NjhMdV9OYTRlbWhabjBZeW1PLS1UeGc?oc=5",
+     "date": "2026-07-03T05:31:22+00:00",
+     "source": "PR TIMES",
+     "snippet": "【中間報告｜シニア×地方創生プロジェクト2026】地方のCXO・プロ人材不足に挑む上半期の軌跡と成果&nbsp;&nbsp;PR TIMES",
+     "summary": "「シニア×地方創生プロジェクト2026」の中間報告が行われ、地方におけるCXOやプロ人材の不足に対する取り組みの成果が発表されました。上半期の活動を通じて、地域の人材育成や雇用創出に向けた具体的な進展が見られたことが強調されています。"
+    },
+    {
+     "type": "news",
+     "title": "地域創生メディア「Mediall」、東京23FCとメディアパートナー契約を締結 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05b3Nxam51dkprQTBoWHF6M3RVZ0VIV25KSElHQ2JxS0wzYlYyLVU5YjZiYTN1dlZjbjJhLUxPY3Y0cktvR0hYRmVlYllqWS1KU3lyQg?oc=5",
+     "date": "2026-07-02T07:03:22+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "地域創生メディア「Mediall」、東京23FCとメディアパートナー契約を締結&nbsp;&nbsp;ニコニコニュース",
+     "summary": "地域創生メディア「Mediall」が東京23FCとメディアパートナー契約を締結しました。この契約により、両者は地域の活性化に向けた情報発信やイベントの共同開催を行う予定です。地域の魅力を広めるための新たな取り組みが期待されています。"
+    }
+   ]
+  },
+  {
+   "id": "media_biz",
+   "title": "📺 NHK・テレビ制作・新聞社のメディア起業動向",
+   "items": [
+    {
+     "type": "news",
+     "title": "秀吉､秀長はNHK大河のような｢いい人｣ではない…\"信長より残酷な豊臣兄弟\"が城攻めの後に行っていた非道 - PRESIDENT Online（プレジデントオンライン）",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyYmJsYkhxd09nNXg1akdnZHBURk0tajg3RnBuaGJPNEU3bENxU3BWajJLNlJBc1ZKQkthbTFwUVJjYVlCOWJkVHVYZUVIMk0?oc=5",
+     "date": "2026-07-05T10:01:26+00:00",
+     "source": "PRESIDENT Online（プレジデントオンライン）",
+     "snippet": "秀吉､秀長はNHK大河のような｢いい人｣ではない…\"信長より残酷な豊臣兄弟\"が城攻めの後に行っていた非道&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）",
+     "summary": "豊臣秀吉と秀長は、NHKの大河ドラマで描かれるような「良い人」ではなく、実際には信長よりも残酷な一面を持っていたとされる。彼らは城攻めの後に非道な行為を行っていたことが指摘されており、歴史的な評価が見直される必要がある。記事では、彼らの実際の行動とその影響について詳しく述べられている。"
+    },
+    {
+     "type": "news",
+     "title": "第1回新事業進出・ものづくり商業サービス補助金の内容｜増原隆光 - mbp-japan.com",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE40WVMxUF9fT2ZucEtWTF9qdHRSdXB6WkEzRzJaM0tOcGQ3Qk8yalhPbmxTdl9WSGhCRUthWk8yR1g4cE1CRlJsUlg5Smt0YzU2d0c5UC1QT2hHU2ZUckJ1a3N2dk5uVXJObzNrZnA5Y3pVdw?oc=5",
+     "date": "2026-07-05T02:33:27+00:00",
+     "source": "mbp-japan.com",
+     "snippet": "第1回新事業進出・ものづくり商業サービス補助金の内容｜増原隆光&nbsp;&nbsp;mbp-japan.com",
+     "summary": "第1回新事業進出・ものづくり商業サービス補助金についての詳細が紹介されている。この補助金は、新たな事業に進出する企業やものづくりに関連する商業サービスを提供する事業者を対象としており、具体的な条件や申請方法についての情報が提供されている。"
+    },
+    {
+     "type": "news",
+     "title": "高市早苗がNHK改革を正式表明｜受信料・随意契約・総務省人事に波紋 Brandon Clarke (TnzWyGG7Pw) - Mshale",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41X3NMZWMwLWZPUlBvYllRQ2U0UTZ2Wnk4NE81Q01NX05Rb21wdXVzWDc3VDN0WTJQNlFtWmczclZxVWw1QXNQclA3emNBVXl2ZVVyWXdsOHd3aGs?oc=5",
+     "date": "2026-07-05T00:18:00+00:00",
+     "source": "Mshale",
+     "snippet": "高市早苗がNHK改革を正式表明｜受信料・随意契約・総務省人事に波紋 Brandon Clarke (TnzWyGG7Pw)&nbsp;&nbsp;Mshale",
+     "summary": "高市早苗氏がNHK改革を正式に表明し、受信料制度や随意契約、総務省の人事に関する影響が懸念されている。改革の内容は、受信料の見直しや契約の透明性向上を目指すもので、今後のNHKの運営に大きな波紋を呼ぶ可能性がある。"
+    },
+    {
+     "type": "news",
+     "title": "神戸市出資のスタートアップ向け２号ファンド、設立後初の投資を実行 ３ 社に出資 - - 神戸経済ニュース",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rcVQ4dTg3T3hZX0JSd0N6NnVacjhrVW1xUGFrUnJGWHR5ajhkdnpXeE9XdE1MdV96aF9ORGFXenkwc0FoTnUyMGF6VVNIOXN5LWpSN0llb0dtOXRq?oc=5",
+     "date": "2026-07-04T01:24:00+00:00",
+     "source": "- 神戸経済ニュース",
+     "snippet": "神戸市出資のスタートアップ向け２号ファンド、設立後初の投資を実行 ３ 社に出資&nbsp;&nbsp;- 神戸経済ニュース",
+     "summary": "神戸市が出資するスタートアップ向けの2号ファンドが、設立後初の投資を実行し、3社に出資した。このファンドは地域のスタートアップ支援を目的としており、今後の成長が期待される企業への投資が進められている。"
+    },
+    {
+     "type": "news",
+     "title": "IVS2026、有力スタートアップ300社が出展する展示交流スペース「IVS Startup Market」を今年も開催。出展企業を5月31日まで募集 - 朝日新聞",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2R2ZoYVZYRzN3Z0NKVEVBYWdpQVFRVDJLejg5OUtlbnhmc1o5RmkwQTdReHBWY19BWWlXNDVkQ3IxME9yU0Nva3JCelBWVklLSzNSbG5zbzltVnc?oc=5",
+     "date": "2026-07-03T07:00:00+00:00",
+     "source": "朝日新聞",
+     "snippet": "IVS2026、有力スタートアップ300社が出展する展示交流スペース「IVS Startup Market」を今年も開催。出展企業を5月31日まで募集&nbsp;&nbsp;朝日新聞",
+     "summary": "IVS2026では、有力なスタートアップ300社が出展する「IVS Startup Market」が開催される。出展企業の募集は5月31日まで行われており、スタートアップ同士の交流やビジネスマッチングの場として注目されている。"
+    }
+   ]
+  },
+  {
+   "id": "museum",
+   "title": "🦕 自然博物館・科学博物館",
+   "items": [
+    {
+     "type": "news",
+     "title": "＜画像2 / 17＞伝説の巨大ダイオウイカのすむ深い海の世界を体験 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZRXduYXVFUmdVVDNiN2tXT0U0NFZhNloycE13TmJ6YlRGcU5zdUlFWHptQVVCa3k4MWtVUHlmbkpnczZScldYTHZmZXdoNi05ZUxoeWhQVlZ1S2t1QXotTVlzUF8zYTNq?oc=5",
+     "date": "2026-07-04T22:04:12+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "＜画像2 / 17＞伝説の巨大ダイオウイカのすむ深い海の世界を体験&nbsp;&nbsp;ウォーカープラス",
+     "summary": "ウォーカープラスの記事では、伝説の巨大ダイオウイカが生息する深海の世界を体験できるイベントが紹介されています。ダイオウイカは神秘的な生物であり、その生態や生息環境についての理解を深めることができる機会となっています。イベントでは、参加者が深海の魅力を体感し、ダイオウイカの生態について学ぶことができる内容が展開されています。"
+    },
+    {
+     "type": "news",
+     "title": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yU1d6MTZqYnQwUzVsSW13TDQ5WXZyd3dnMTFGbmZWVDhhV1dYSDQtUWtOSE5Uc09hbmQxRmJTd1UzRDJWVENWd1luWXktWnJjZy1WSlE3YmxLVlpJUnBkWXZ4NXNPcnh1dFE?oc=5",
+     "date": "2026-07-04T21:36:56+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任&nbsp;&nbsp;ウォーカープラス",
+     "summary": "香川照之が国立科学博物館の「昆虫」展のサポーターに就任したことがウォーカープラスで報じられています。彼の役割は、昆虫の魅力を広めることにあり、展覧会を通じて多くの人々に昆虫の重要性や美しさを伝えることが期待されています。香川の参加により、展覧会の注目度が高まることが予想されます。"
+    },
+    {
+     "type": "news",
+     "title": "画像3 / 12＞国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中！おすすめ展覧会グッズを一挙紹介 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43UnNXbjg3RUkta3Y0QUFjSUFIek1vMllnbUJPNVBHN2gxYXZkTmkyRHd3TFYzQWRfU21qWWwwT1ZNb0gzakFnOHlrSll6RDZMc0tSUmhWT0xjYUZiREZBWkxrUFJDbmZtZ1NNVE53?oc=5",
+     "date": "2026-07-04T21:33:59+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "画像3 / 12＞国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中！おすすめ展覧会グッズを一挙紹介&nbsp;&nbsp;ウォーカープラス",
+     "summary": "国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中であることがウォーカープラスに掲載されています。この展覧会では、古代のDNAを通じて日本人の起源や歴史を探る内容が展開されており、来場者は日本人のルーツについて深く学ぶことができます。また、展覧会に関連したグッズも紹介されています。"
+    },
+    {
+     "type": "news",
+     "title": "＜画像2 / 5＞自宅が国立科学博物館に大変身！3Dビュー&VR映像で常設展示を無料公開 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZEI5eEVJUF9FTV9lQ09CejYtcHFsb1NwMmpqdjIxLWZSSWkzSmkwUWUtY2dvSFl1N1VqWW4wTkFyWGY5RU9BY2ZkN2lnZFh4azcydmljWHNVR3NVV3BCZDFJS252UFJLLWVmbzlKMGExdG0xNkJhV2JhQkpxWWc?oc=5",
+     "date": "2026-07-03T19:22:47+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "＜画像2 / 5＞自宅が国立科学博物館に大変身！3Dビュー&amp;VR映像で常設展示を無料公開&nbsp;&nbsp;ウォーカープラス",
+     "summary": "ウォーカープラスの記事では、自宅が国立科学博物館に変身するプロジェクトが紹介されています。3DビューやVR映像を利用して、常設展示を無料で公開する取り組みが行われており、これにより自宅に居ながら博物館の展示を楽しむことができます。新しい形の文化体験として、多くの人々に博物館の魅力を届けることが目的です。"
+    },
+    {
+     "type": "news",
+     "title": "全国科学館連携協議会巡回展示 世界一新しい花崗岩-花崗岩ベイビーを抱っこしよう-(岩手県)の情報 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkZm9RUFZ1bEszbTVJc2FrR0dPZGhwSkNMV242U1dmeFk0ekw4TFpZN2V6aE9DOGpHcFNwVVN6emxWMUk0R3NFcU9EYXBSNjNrdmREZTBHQ3VzMWs?oc=5",
+     "date": "2026-07-03T11:01:43+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "全国科学館連携協議会巡回展示 世界一新しい花崗岩-花崗岩ベイビーを抱っこしよう-(岩手県)の情報&nbsp;&nbsp;ウォーカープラス",
+     "summary": "全国科学館連携協議会による巡回展示「世界一新しい花崗岩-花崗岩ベイビーを抱っこしよう-」が岩手県で開催されることがウォーカープラスで報じられています。この展示では、最新の花崗岩に触れることができ、参加者がその特性を学ぶ機会が提供されます。科学館の連携によって、地域の科学教育の促進が期待されています。"
+    }
+   ]
+  },
+  {
+   "id": "xr",
+   "title": "🥽 VR・AR・プロジェクションマッピング",
+   "items": [
+    {
+     "type": "news",
+     "title": "“推し体験”はどこまで近づけるのか。キヤノン・イルカ・DeoVRが実証するリアルタイムVRライブ配信 - pronews.com",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Nb0JaWjVHdWJvTV9HMUVhamR3MkluQzBrR2JCZVFQSzZ3WkE4azFuZV8wak82SWFXMGpxNHVOZzBRcE9nTXp3VkhfamVVMW01ZkYzVW0wVE9Pb1FMUGptQQ?oc=5",
+     "date": "2026-07-05T05:52:18+00:00",
+     "source": "pronews.com",
+     "snippet": "“推し体験”はどこまで近づけるのか。キヤノン・イルカ・DeoVRが実証するリアルタイムVRライブ配信&nbsp;&nbsp;pronews.com",
+     "summary": "キヤノン、イルカ、DeoVRが共同で、リアルタイムVRライブ配信の実証実験を行っています。このプロジェクトは、ファンが自分の「推し」との距離を縮める新たな体験を提供することを目的としています。技術の進化により、よりリアルで没入感のある体験が可能になることが期待されています。"
+    },
+    {
+     "type": "news",
+     "title": "今ある推し活グッズがAR・AIで進化。ONCARDが推し活EXPOで新しいファン体験を提案 - ｄメニューニュース",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbUxFMUY4MVRQTURyeTBvOWFHMGpJRmtzT0piX2NfcUNYOVFDR21sbWdlZXk5emxveS1rYkFCeVNlbklhV0N1dTlDX1Nfc1JTeVN6UlZ3RjUxR3RjbG1UMlhsb1ZISTZEcWFYSlZDNTVkWG9KRlpYbW5kMFkyUjIwd012YWM2UDNxZjZPS9IBjAFBVV95cUxQbUxFMUY4MVRQTURyeTBvOWFHMGpJRmtzT0piX2NfcUNYOVFDR21sbWdlZXk5emxveS1rYkFCeVNlbklhV0N1dTlDX1Nfc1JTeVN6UlZ3RjUxR3RjbG1UMlhsb1ZISTZEcWFYSlZDNTVkWG9KRlpYbW5kMFkyUjIwd012YWM2UDNxZjZPSw?oc=5",
+     "date": "2026-07-05T03:01:00+00:00",
+     "source": "ｄメニューニュース",
+     "snippet": "今ある推し活グッズがAR・AIで進化。ONCARDが推し活EXPOで新しいファン体験を提案&nbsp;&nbsp;ｄメニューニュース",
+     "summary": "ONCARDが推し活EXPOで、ARやAIを活用した新しいファン体験を提案しています。従来の推し活グッズが進化し、ファンがよりインタラクティブに推しと関わることができる仕組みが紹介されました。これにより、ファン活動がさらに魅力的で楽しめるものになることが期待されています。"
+    },
+    {
+     "type": "news",
+     "title": "防災意識向上へ VR体験や車両展示 茨城・土浦で啓発イベント - 茨城新聞クロスアイ",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZclJLSUtNcnpPbUJoaUpqZ1NSY2FTMWVDaVBaOXJmNkh2YjB3NFBieF9uak9xamo2TkJXSkFlaHBybVVuWkNDdm5Vb1lzZG42T0k2c0lyMDZrdjBTN29XZ2JGSHVZUFdXcUxQR2hEVWkzUEk?oc=5",
+     "date": "2026-07-04T20:03:45+00:00",
+     "source": "茨城新聞クロスアイ",
+     "snippet": "防災意識向上へ VR体験や車両展示 茨城・土浦で啓発イベント&nbsp;&nbsp;茨城新聞クロスアイ",
+     "summary": "茨城県土浦市で、防災意識を高めるための啓発イベントが開催されました。イベントでは、VR体験や防災車両の展示が行われ、参加者は実際に防災について学ぶ機会を得ました。地域の防災意識向上を目指した取り組みとして、多くの人々が参加しました。"
+    },
+    {
+     "type": "news",
+     "title": "平等寺「夏祭り 観音様縁日」 - ｄメニューニュース",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcEQ3NGVUYzZFSWVaYjBmcl95UVZZRlhNbjY1cnZzWTdKVmFBTzNrbHk5ZWZWZ3NDZWVIZTBhTEgwZ0hnWGt0Sk5DTGwwRWkyQlhXQ29mb2N3T0pHWkNsbnkzX3JPSUM4RWRMdWxMVlkzRXo4cWlHaVZSOHVmWVgwWHduU1lqQdIBhgFBVV95cUxOcEQ3NGVUYzZFSWVaYjBmcl95UVZZRlhNbjY1cnZzWTdKVmFBTzNrbHk5ZWZWZ3NDZWVIZTBhTEgwZ0hnWGt0Sk5DTGwwRWkyQlhXQ29mb2N3T0pHWkNsbnkzX3JPSUM4RWRMdWxMVlkzRXo4cWlHaVZSOHVmWVgwWHduU1lqQQ?oc=5",
+     "date": "2026-07-04T01:00:00+00:00",
+     "source": "ｄメニューニュース",
+     "snippet": "平等寺「夏祭り 観音様縁日」&nbsp;&nbsp;ｄメニューニュース",
+     "summary": "平等寺で「夏祭り 観音様縁日」が開催されました。このイベントは、地域の人々が集まり、伝統的な祭りを楽しむ機会となっています。詳細な内容は不明ですが、地域の文化やコミュニティのつながりを深める重要なイベントとされています。"
+    },
+    {
+     "type": "news",
+     "title": "推し活グッズにAR体験をプラス。「推し活EXPO」で新しい推し活を体験 - ｄメニューニュース",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRnR5bVhjZjAwRzgwYWp2cU51Qnd4ekFQYkdqUTVxaEg5dVBqcWhGMklEZFc2emdqUENlbVRnV1N3VEtHaF9lWGJXSGxhelJKM1J1QUtSWGNaeUtnSzJLaHNSVzBKUHN1NG5GbzVWblk4RnVhX2g1Z3k2T2pNNDhIbUJmNmNBQXc4UUVEMNIBjAFBVV95cUxPRnR5bVhjZjAwRzgwYWp2cU51Qnd4ekFQYkdqUTVxaEg5dVBqcWhGMklEZFc2emdqUENlbVRnV1N3VEtHaF9lWGJXSGxhelJKM1J1QUtSWGNaeUtnSzJLaHNSVzBKUHN1NG5GbzVWblk4RnVhX2g1Z3k2T2pNNDhIbUJmNmNBQXc4UUVEMA?oc=5",
+     "date": "2026-07-03T22:01:00+00:00",
+     "source": "ｄメニューニュース",
+     "snippet": "推し活グッズにAR体験をプラス。「推し活EXPO」で新しい推し活を体験&nbsp;&nbsp;ｄメニューニュース",
+     "summary": "推し活EXPOでは、AR体験を取り入れた新しい推し活の形が紹介されました。参加者は、従来のグッズに加え、AR技術を通じてより深い体験を楽しむことができました。この取り組みは、ファン活動をさらに進化させる可能性を秘めています。"
+    }
+   ]
+  }
+ ]
+}
