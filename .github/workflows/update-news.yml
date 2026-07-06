@@ -2,8 +2,9 @@ name: Update News
 
 on:
   schedule:
-    - cron: '0 21 * * *'   # 毎日 21:00 UTC = 日本時間 朝6:00
-  workflow_dispatch:        # 手動実行ボタンも有効化
+    - cron: '45 20 * * *'   # 日本時間 朝5:45頃（混雑する毎時0分を避ける）
+    - cron: '45 22 * * *'   # 日本時間 朝7:45頃（1回目が失敗/スキップされた時の保険）
+  workflow_dispatch:
 
 permissions:
   contents: write
