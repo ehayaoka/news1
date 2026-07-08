@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-07T23:41:25.852328+00:00",
+ "updated": "2026-07-08T07:43:20.685034+00:00",
  "categories": [
   {
    "id": "ai_media",
@@ -7,21 +7,48 @@
    "items": [
     {
      "type": "gov",
-     "title": "採択結果：IP360 -Toward 20 Trillion Yen- - meti.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeWNmUWtvcXZEaEwzWkkwV09POTFMcjdraWhQVDl2YVBIR0JfdnR5MXpRZmh5RlpRQU1NUi1CTUQtRHJsN0lsYkpQWFJ6TGhMamxrLUFPdm03ZEhOWTQwZ1Z5aVllVFBRWVNobF85STJhS1ZHSExpSldXblJOWm5DWFBEM0VVZw?oc=5",
-     "date": "2026-07-07T07:38:22+00:00",
-     "source": "meti.go.jp",
-     "snippet": "採択結果：IP360 -Toward 20 Trillion Yen-&nbsp;&nbsp;meti.go.jp",
-     "summary": "「IP360 -Toward 20 Trillion Yen-」の採択結果が発表されました。このプロジェクトは、日本の経済成長を促進することを目的としており、20兆円の経済効果を目指しています。具体的な施策や取り組みについては、今後の詳細な発表が期待されます。"
+     "title": "イスラエル中銀、政策金利を3.5％に引き下げ、2026年GDP成長率見通しは4.0％ - jetro.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94SkpwcGNIbmlaQjNremsxMjBDUi1jM25YSFR4WHpPX1NtXzBvdVJpNGVvUWQwQklmUnZKQVRWS1RwTVd2WHBoR0FLNlpIUGJKa1NZcVlJd2VGWFJqNGE1cWhSWmxjYzlnT0t3NnlR?oc=5",
+     "date": "2026-07-08T07:38:31+00:00",
+     "source": "jetro.go.jp",
+     "snippet": "イスラエル中銀、政策金利を3.5％に引き下げ、2026年GDP成長率見通しは4.0％&nbsp;&nbsp;jetro.go.jp",
+     "summary": "イスラエル中央銀行は政策金利を3.5％に引き下げたにゃ。この決定は経済成長を促進するためのもので、2026年のGDP成長率見通しは4.0％とされているにゃ。経済の安定を図るための施策だにゃん。"
     },
     {
      "type": "gov",
-     "title": "デジタルインフラ事業者にセキュリティー・環境規制、新法導入へ意見公募開始(シンガポール) | ビジネス短信 - jetro.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rT01wbllaQXo4Q0lhRjRCM3NUN0xQeXdZZEkyTWxrbklEMHhNRHNyamxYa2dxTUpKSVNGWk55eldXak9XdjZuakQzcno3M0xWQ2ZRNHlyT0I0a3p1MVNZUmIwbGoyMEpBaEFGMzVB?oc=5",
-     "date": "2026-07-07T07:03:48+00:00",
+     "title": "トランプ米大統領の純支持率は再び最低レベルに、バイデン前大統領を下回る、世論調査(米国) | ビジネス短信 - jetro.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tT1lMZW9jS01ZSnRhY3JfS1pwaUhWaHZVcXc4dkJDaWE2aTltcXFQUXgzaHNpbDNYVUdPeHB2OGtQZnpVQXRzNFVaUDNVLUxtdHhBbWxPdnRsRmRDLTNEN1JKNjU1UjJWVG8wcEV3?oc=5",
+     "date": "2026-07-08T07:28:28+00:00",
      "source": "jetro.go.jp",
-     "snippet": "デジタルインフラ事業者にセキュリティー・環境規制、新法導入へ意見公募開始(シンガポール) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
-     "summary": "シンガポールでは、デジタルインフラ事業者に対する新たなセキュリティーおよび環境規制の導入に向けて、意見公募が開始されました。この新法は、デジタルインフラの安全性と持続可能性を向上させることを目的としており、業界関係者からの意見を広く求めています。"
+     "snippet": "トランプ米大統領の純支持率は再び最低レベルに、バイデン前大統領を下回る、世論調査(米国) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
+     "summary": "トランプ米大統領の純支持率が再び最低レベルに達し、バイデン前大統領を下回ったという世論調査の結果が発表されたにゃ。政治情勢が厳しい中、支持基盤の変化が注目されるにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "米NHTSA、完全自動運転車の手動ブレーキ操作装置搭載義務撤廃へ規則案を公表(米国) | ビジネス短信 - jetro.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BMVg3cnlBcXNvZXFRdVJZaVp3UURVYmduTkpqc3pEVmdaS0NhcTlSM28wSjVhREs0dVhadkdWcmY3dHVlMGpUUldYYWxMMTFlX3FQc2YyeENTVDVxY0t5eW1TZ0VwZmVHV1BaQ1Z3?oc=5",
+     "date": "2026-07-08T07:18:25+00:00",
+     "source": "jetro.go.jp",
+     "snippet": "米NHTSA、完全自動運転車の手動ブレーキ操作装置搭載義務撤廃へ規則案を公表(米国) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
+     "summary": "米国のNHTSAは、完全自動運転車に手動ブレーキ操作装置を搭載する義務を撤廃する規則案を公表したにゃ。この動きは自動運転技術の進展を反映しており、業界に大きな影響を与える可能性があるにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "参考資料を自ら探す画像生成AI、Metaが開発 “長考”でクオリティー向上も - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxMmYydjU5dk1sMU93VG9YY2t3MFE4VGxnRHFvYjVHdm1pUWpiOVZ5cm5tY1RKYzJfdnB2YXdyWnNObDV6aW5aT0JhQzJMZC1nNGRWTWowQXBfNXR0OWVwR01odkJrTnNqY05kMlZvVUozMy1EM2NidTd3dw?oc=5",
+     "date": "2026-07-08T04:45:11+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "参考資料を自ら探す画像生成AI、Metaが開発 “長考”でクオリティー向上も&nbsp;&nbsp;ニコニコニュース",
+     "summary": "Metaが開発した画像生成AIは、参考資料を自ら探し出す機能を持っているにゃ。このAIは「長考」を行うことで、生成する画像のクオリティを向上させることを目指しているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "生成AIにはできない「人間の頭の中にしかない情報をいち早く伝える」躍進する新たな金融ウェブメディア、65歳の編集長の哲学とは (賢者の選択サクセッション) - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUDllQTVJUVRqMmhmbnNSUDRRVWVDTUU5TDdOWGdETThwVEFueVJrTHhNS3JiZlFleHIyejVqZWNpOWNvX2tmTTlDemhUMi01RVhvTWUxSFpPOGdVWktRY01vYUZfaHlyb2R2X0xvVTkwdlRVMEtEelBySG16MGwzY05ZQVM1UmUwQWFfMHFR?oc=5",
+     "date": "2026-07-07T23:06:44+00:00",
+     "source": "Yahoo!ニュース",
+     "snippet": "生成AIにはできない「人間の頭の中にしかない情報をいち早く伝える」躍進する新たな金融ウェブメディア、65歳の編集長の哲学とは (賢者の選択サクセッション)&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "新たな金融ウェブメディアが、人間の頭の中にしかない情報を迅速に伝えることを目指しているにゃ。65歳の編集長の哲学が反映されており、生成AIにはできない独自の視点を提供することを重視しているそうだにゃん。"
     },
     {
      "type": "news",
@@ -30,34 +57,7 @@
      "date": "2026-07-07T07:00:03+00:00",
      "source": "media-innovation.jp",
      "snippet": "ユネスコがニュース利用への「公正補償ガイダンス」草案で意見募集、7月30日まで各国政府・メディアから意見収集&nbsp;&nbsp;media-innovation.jp",
-     "summary": "ユネスコは、ニュース利用に関する「公正補償ガイダンス」の草案について意見を募集しています。このガイダンスは、各国政府やメディアからのフィードバックを基に、ニュースコンテンツの利用における公正な補償を促進することを目指しています。意見募集は7月30日まで行われます。"
-    },
-    {
-     "type": "gov",
-     "title": "日・ザンビア投資協定、7月30日に発効(ザンビア、日本、アフリカ) | ビジネス短信 - jetro.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OYUx5Rlo3TW50Yk5Ea0ZVQ1pBaXNCU1YxZUMxbEZNYjl5U2ZtRUZ5eEJOQWxWcWpQVzNNM0RUNFhreGF0RTU1ZE14RXIweHVpSHNaZWFSOWtlUWdlS1poSzMzanprakxiT1NjWDBB?oc=5",
-     "date": "2026-07-07T06:53:44+00:00",
-     "source": "jetro.go.jp",
-     "snippet": "日・ザンビア投資協定、7月30日に発効(ザンビア、日本、アフリカ) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
-     "summary": "日本とザンビアの投資協定が、7月30日に発効します。この協定は、両国間の投資を促進し、経済関係を強化することを目的としており、特に日本企業のザンビアへの進出が期待されています。"
-    },
-    {
-     "type": "news",
-     "title": "児玉幸子 研究室紹介 - 国立大学法人 電気通信大学",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQTJLa1VzRmwwekMwNmlyQms1eHRfX0hCTG9jd2VaUS1HZGtRVXBMWUR0RlIzeVltdFZOTGt5amlROVVUTWhUamozSFI2aUdjTFJSR2oyaHRGOTNWRll4ZWI0MVdVMVVUbnFIU3J3U3QzaE94SEY5anBDbHRORGZqVXV2eWVJUQ?oc=5",
-     "date": "2026-07-07T06:28:27+00:00",
-     "source": "国立大学法人 電気通信大学",
-     "snippet": "児玉幸子 研究室紹介&nbsp;&nbsp;国立大学法人 電気通信大学",
-     "summary": "国立大学法人電気通信大学の児玉幸子研究室が紹介されています。研究室では、情報通信技術やその応用に関する研究が行われており、学生や研究者の育成にも力を入れています。具体的な研究テーマや活動内容については、公式サイトで確認できます。"
-    },
-    {
-     "type": "news",
-     "title": "米映画界で物議の「AI女優」、長編映画で主演へ 生成した制作会社が発表 米誌報道 - 産経ニュース",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CR2xkSkZ0b0E2OHE0cVdGd0dqM002dTFNYWlNQ0NzUFJDeG9Nbll6VW5fa0JRcWludFB0aVFhWWJYRmQzQ3NSemNqVGVGNEFSakgxbkdNbjFhS3h3MEZSQVZ3ZDFtd3pRNEdGUG5BN2FDNXB1OEE?oc=5",
-     "date": "2026-07-07T05:35:59+00:00",
-     "source": "産経ニュース",
-     "snippet": "米映画界で物議の「AI女優」、長編映画で主演へ 生成した制作会社が発表 米誌報道&nbsp;&nbsp;産経ニュース",
-     "summary": "米映画界で物議を醸している「AI女優」が、長編映画で主演することが発表されました。このAIキャラクターは、生成した制作会社によって制作され、今後の映画産業におけるAIの役割についての議論を呼ぶことが予想されます。"
+     "summary": "ユネスコはニュース利用に関する「公正補償ガイダンス」の草案について意見を募集しているにゃ。各国政府やメディアからの意見を7月30日まで収集し、今後の方針を決定する予定だにゃん。"
     },
     {
      "type": "news",
@@ -66,16 +66,7 @@
      "date": "2026-07-07T03:00:00+00:00",
      "source": "japandesign.ne.jp",
      "snippet": "生成AIが視覚文化に与える影響を考察する書籍『人工美学 生成AI・アート・ビジュアルメディア』が発売&nbsp;&nbsp;japandesign.ne.jp",
-     "summary": "書籍『人工美学 生成AI・アート・ビジュアルメディア』が発売され、生成AIが視覚文化に与える影響について考察しています。この書籍では、生成AIがアートやビジュアルメディアの創作にどのように関与しているかを探求し、現代の文化におけるその重要性を論じています。"
-    },
-    {
-     "type": "news",
-     "title": "「広報×生成AI」、現場のリアルは？【汐留PR塾】が「いま読みたい”2026年6月の記事をピックアップ - 紀伊民報AGARA",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kS3J5aWZHMEZzbExUU2NVcFlHc3QyeUFtQnVaZTloaDB6bkVpMTcwbEh4RFZ3RGtPZjJOd2QtcDFNZk8ycHE2U0hJczItbTQ?oc=5",
-     "date": "2026-07-07T02:30:00+00:00",
-     "source": "紀伊民報AGARA",
-     "snippet": "「広報×生成AI」、現場のリアルは？【汐留PR塾】が「いま読みたい”2026年6月の記事をピックアップ&nbsp;&nbsp;紀伊民報AGARA",
-     "summary": "汐留PR塾が「広報×生成AI」に関する記事をピックアップし、現場のリアルを探る内容が紹介されています。生成AIが広報活動にどのように影響を与えているかについての洞察が得られると期待されています。"
+     "summary": "生成AIが視覚文化に与える影響を考察する書籍『人工美学 生成AI・アート・ビジュアルメディア』が発売されたにゃ。この書籍は、生成AIとアートの関係について深く掘り下げているそうだにゃん。"
     },
     {
      "type": "news",
@@ -84,7 +75,7 @@
      "date": "2026-07-07T02:00:02+00:00",
      "source": "PR TIMES",
      "snippet": "調剤薬局向けAI薬歴作成支援サービス「corte」と音声認識API「AmiVoice API」が連携&nbsp;&nbsp;PR TIMES",
-     "summary": "調剤薬局向けのAI薬歴作成支援サービス「corte」と音声認識API「AmiVoice API」が連携しました。この連携により、薬歴作成の効率が向上し、業務の負担軽減が期待されています。AI技術の活用が医療現場における業務改善に寄与することが目指されています。"
+     "summary": "調剤薬局向けのAI薬歴作成支援サービス「corte」と音声認識API「AmiVoice API」が連携したにゃ。この連携により、薬歴作成の効率が向上し、業務の負担軽減が期待されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -93,7 +84,16 @@
      "date": "2026-07-06T20:00:00+00:00",
      "source": "朝日新聞",
      "snippet": "（Ｍｅｄｉａ Ｔｉｍｅｓ）ＡＩ時代、報道の価値を問う フランスで大会、６０カ国・地域から参加&nbsp;&nbsp;朝日新聞",
-     "summary": "フランスで開催された大会では、AI時代における報道の価値について議論が行われ、60カ国・地域から参加者が集まりました。この大会では、報道の役割や倫理、AIの影響についての多様な視点が共有され、今後のメディアの在り方について考える機会となりました。"
+     "summary": "フランスで開催された大会では、AI時代における報道の価値が問われたにゃ。60カ国・地域から参加者が集まり、報道の未来について議論が行われたそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "初音ミクの生みの親がNHK「視点・論点」に出演 生成AIと創作活動を語る - KAI-YOU",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9hcncyeHZLcldjRnpzWVNrOGpCb01nMnFKcm1ETW5CUjlKeThzaFNGV0VMZ0F6Qmw2UWpmTzlBcmtmNkRLZW9DQw?oc=5",
+     "date": "2026-07-06T09:18:00+00:00",
+     "source": "KAI-YOU",
+     "snippet": "初音ミクの生みの親がNHK「視点・論点」に出演 生成AIと創作活動を語る&nbsp;&nbsp;KAI-YOU",
+     "summary": "初音ミクの生みの親がNHKの「視点・論点」に出演し、生成AIと創作活動について語ったにゃ。AIの進化が創作活動に与える影響についての考察が注目されているそうだにゃん。"
     }
    ]
   },
@@ -103,12 +103,21 @@
    "items": [
     {
      "type": "gov",
-     "title": "准教授または講師の公募（人文社会科学部：環境法政策論分野） - JREC-IN",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92MjczZ3Rnb05mdTlsLXdwSkJTY2s4UkZoUFI0ZUxlcG9RSVF5amg3VkRTSWcxa0VvUWcxeWZxczFHdWJVODI3Vy1fRGlHMGF4Sm9ES3JXcFBRbmY0X3FGalpLM0E2Tzh2?oc=5",
-     "date": "2026-07-07T15:16:28+00:00",
-     "source": "JREC-IN",
-     "snippet": "准教授または講師の公募（人文社会科学部：環境法政策論分野）&nbsp;&nbsp;JREC-IN",
-     "summary": "人文社会科学部の環境法政策論分野で准教授または講師を公募しています。詳細はJREC-INの公式サイトで確認できます。"
+     "title": "東海国立大学機構におけるスタートアップを日本公庫が支援 - jfc.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10aGZpaDI1VjBRMWlqLWVaaG5vVUp2UUc2Y2dEdUVoa29CTTlBZnAzYmZ3TlpoLXpDRXUybHJXS2dCbWs4b2l5Mk1NTlFud1Nzb0lnSlJkamszLXF5Njd1dk1aSEZXVDJUZkxwSXFzR2JSdEF4aWVyQzlzOA?oc=5",
+     "date": "2026-07-08T05:10:19+00:00",
+     "source": "jfc.go.jp",
+     "snippet": "東海国立大学機構におけるスタートアップを日本公庫が支援&nbsp;&nbsp;jfc.go.jp",
+     "summary": "東海国立大学機構では、日本公庫がスタートアップ支援を行うことが決まったにゃ。この支援により、大学内での新たなビジネス創出が期待されているそうだにゃん。具体的な支援内容や対象となるスタートアップについては、今後の発表を待つ必要がありそうだにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "テレビ大分×大分育ちのVTuber・白銀ノエル 地元愛をテレビとネットで発信――メディアの相乗効果で地域活性化 - 民放online",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nZnRBdG90SXNid0JoblNhaG53SE5PajNSRi1ra013NnM1SjJvZ0FIRHRSeElEeWdXMmRoY01YZjJyWG9vSFdEYlJMcTA3b0FFZ2c?oc=5",
+     "date": "2026-07-08T01:00:00+00:00",
+     "source": "民放online",
+     "snippet": "テレビ大分×大分育ちのVTuber・白銀ノエル 地元愛をテレビとネットで発信――メディアの相乗効果で地域活性化&nbsp;&nbsp;民放online",
+     "summary": "テレビ大分と大分出身のVTuber・白銀ノエルが協力し、地域愛をテレビとネットで発信する取り組みを行っているにゃ。このメディアの相乗効果により、地域活性化が期待されているそうだにゃん。地元の魅力を広める新たな試みとして注目されているにゃ。"
     },
     {
      "type": "news",
@@ -117,7 +126,7 @@
      "date": "2026-07-07T00:03:56+00:00",
      "source": "観光経済新聞",
      "snippet": "【VOICE】元記者が体感した魚津の魅力と伸びしろ 魚津市地域おこし協力隊 梅田大希氏&nbsp;&nbsp;観光経済新聞",
-     "summary": "元記者の梅田大希氏が魚津市地域おこし協力隊として、魚津の魅力や成長の可能性について語っています。彼は地域の特性を生かした観光や地域活性化の重要性を強調しています。"
+     "summary": "元記者の梅田大希氏が魚津市の魅力とその可能性について語ったにゃ。地域おこし協力隊としての活動を通じて、魚津の良さを体感し、地域の発展に寄与する意義を感じているそうだにゃん。地域の魅力を再発見することが、今後の地域振興に繋がると考えられているにゃ。"
     },
     {
      "type": "news",
@@ -126,7 +135,7 @@
      "date": "2026-07-06T10:48:21+00:00",
      "source": "ニコニコニュース",
      "snippet": "ワンズトライン株式会社「大阪市を代表する企業100選」に選出&nbsp;&nbsp;ニコニコニュース",
-     "summary": "ワンズトライン株式会社が「大阪市を代表する企業100選」に選出されました。この選出は企業の社会的貢献や地域経済への影響を評価した結果です。"
+     "summary": "ワンズトライン株式会社が「大阪市を代表する企業100選」に選出されたにゃ。この選出は、同社の業績や地域貢献が評価された結果だそうだにゃん。今後も地域経済の発展に寄与する企業として注目されることが期待されているにゃ。"
     },
     {
      "type": "news",
@@ -135,16 +144,7 @@
      "date": "2026-07-06T06:00:01+00:00",
      "source": "PR TIMES",
      "snippet": "【愛知県西尾市】人口減少時代の地方創生に新たな挑戦。市と愛知大学が「地域メディア」を共創。大学生4チームが”西尾の推し”を発掘し、13本の記事を制作&nbsp;&nbsp;PR TIMES",
-     "summary": "愛知県西尾市が人口減少時代の地方創生に向けて、愛知大学と協力し「地域メディア」を共創しています。大学生4チームが地域の魅力を発掘し、13本の記事を制作しました。"
-    },
-    {
-     "type": "news",
-     "title": "石破茂前総理が来鹿 地方創生と防災について語る 鹿児島市 - Excite エキサイト",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01RUxKVG12eWhOdXZWcE9qczlYd1NXMEs0VmVXZnNuQ0MtUGhlRlpFTC1TUXBUYWFiZldxRW1sZHZmT19uWS1oVmhQd1FrUHBoZTk0MnN4eV9fVTROQTlNSURWNnhHcE1ZbG9HNmtn?oc=5",
-     "date": "2026-07-05T09:31:00+00:00",
-     "source": "Excite エキサイト",
-     "snippet": "石破茂前総理が来鹿 地方創生と防災について語る 鹿児島市&nbsp;&nbsp;Excite エキサイト",
-     "summary": "石破茂前総理が鹿児島市を訪れ、地方創生と防災についての講演を行いました。地域の課題解決に向けた取り組みの重要性を訴えました。"
+     "summary": "愛知県西尾市では、人口減少時代における地方創生の一環として、市と愛知大学が「地域メディア」を共創する取り組みを始めたにゃ。大学生4チームが西尾の魅力を発掘し、13本の記事を制作する予定だそうだにゃん。この活動が地域の活性化に繋がることが期待されているにゃ。"
     }
    ]
   },
@@ -154,48 +154,48 @@
    "items": [
     {
      "type": "news",
-     "title": "DXアンテナ、10月に日本アンテナを吸収合併 エレコム傘下の2社統合、事業を効率化|経済ニュース - 神戸新聞NEXT",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XZGJNaU44dl8tZl9veUpaU3hBaDJWREU1Y0kwcjFORmVHQU5vaW1uVDNIc0ROaHFXU2ZmYnNQYm1nRkVKdVlQLWVHcmQxLVV1TUJhYXlVSkkwM1pFMEZjNVd1enVPdmIxdXRVNDhTYw?oc=5",
-     "date": "2026-07-07T08:10:43+00:00",
-     "source": "神戸新聞NEXT",
-     "snippet": "DXアンテナ、10月に日本アンテナを吸収合併 エレコム傘下の2社統合、事業を効率化|経済ニュース&nbsp;&nbsp;神戸新聞NEXT",
-     "summary": "DXアンテナは、2023年10月に日本アンテナを吸収合併することを発表しました。この合併は、エレコム傘下の2社の統合を通じて事業の効率化を図ることを目的としています。両社は、通信機器や映像関連の製品を提供しており、合併により市場競争力の向上が期待されています。"
+     "title": "北海道新聞社が経費精算業務のデジタル化を推進し業務効率を向上 - ニュースメディアVOIX",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PN0tMaEdqQmFJc0ZpOEM3Vk1NNjdid1lrTTFpejZ3dEVyTkhacGJiUXNzNGxaNVhxTUR1RlFsNnl4aDFMSWpJLWVqU3hLZDZyLVlXYVVEaGJydjhfQkRBOGxkY1dMZGotWUZVTVBVcjNibVc1MEZzdDR6RjhrQQ?oc=5",
+     "date": "2026-07-08T07:05:45+00:00",
+     "source": "ニュースメディアVOIX",
+     "snippet": "北海道新聞社が経費精算業務のデジタル化を推進し業務効率を向上&nbsp;&nbsp;ニュースメディアVOIX",
+     "summary": "北海道新聞社は、経費精算業務のデジタル化を推進して、業務効率を向上させる取り組みを行っているにゃ。これにより、経費管理がよりスムーズになり、業務の生産性が高まることが期待されるにゃん。"
     },
     {
      "type": "news",
-     "title": "カンボジアの公務員に贈賄か 東京の設備会社役員らを略式起訴 - NHKニュース",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9faTZBZW9LMzV4VFdrWDNWSE1UWTNtWWlua0p3eGJWTDlVME56ZDZNMzNXM21ZdXhQVE9uRjBoa2djVXRXMW5qOU9laEgxTzJYcXBGLVFzd0ZnSzBKdTJN?oc=5",
-     "date": "2026-07-07T05:32:01+00:00",
-     "source": "NHKニュース",
-     "snippet": "カンボジアの公務員に贈賄か 東京の設備会社役員らを略式起訴&nbsp;&nbsp;NHKニュース",
-     "summary": "東京の設備会社の役員らが、カンボジアの公務員に対して贈賄を行った疑いで略式起訴されました。具体的な贈賄の内容や金額は明らかにされていませんが、事件は国際的な贈賄防止の観点からも注目されています。"
+     "title": "北海道新聞社様の経費精算DXを支援 - newscast.jp",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ic2wxb296TUdzUGhFMmNxUm5wcmdKVENhSWdSeTAzbUxSUmRDcklDYk5hS1BkaFZRLUhyRDhzanJDRzlWSTRnNmRUMmtlVmc?oc=5",
+     "date": "2026-07-08T06:10:00+00:00",
+     "source": "newscast.jp",
+     "snippet": "北海道新聞社様の経費精算DXを支援&nbsp;&nbsp;newscast.jp",
+     "summary": "北海道新聞社の経費精算業務のデジタル化（DX）を支援する取り組みが進行中だにゃ。これにより、経費精算のプロセスが効率化され、業務の負担軽減が図られることが目指されているにゃん。"
     },
     {
      "type": "news",
-     "title": "カンボジアの公務員に贈賄か 東京の設備会社役員らを書類送検 - NHKニュース",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uaEg0TFFJNjVUUHpFbGFVOTUzXzAwdnVxUzdWMUFDelJxMmRrazdiQ0NXbnJZWDVsajh5MGJSeTQzNkNqMW9oUnJEN0FRejFjNHFJU0NFTWs?oc=5",
-     "date": "2026-07-07T05:30:00+00:00",
-     "source": "NHKニュース",
-     "snippet": "カンボジアの公務員に贈賄か 東京の設備会社役員らを書類送検&nbsp;&nbsp;NHKニュース",
-     "summary": "東京の設備会社の役員らが、カンボジアの公務員に贈賄をした疑いで書類送検されました。この事件は、国際的な贈賄防止の取り組みの一環として重要視されており、今後の捜査の進展が注目されています。"
+     "title": "スカイ、英ITVのメディア事業を約3500億円で買収 - RTB SQUARE",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Ra0pRVjRqU2t0b1FYLTE1dmZZQW1sbGs1N1RKZmtXR0o1QVpjS3NDVGxwZWRqREpNSnlna3pWc3NTcnR6eVhhMEc0RkpZQQ?oc=5",
+     "date": "2026-07-08T04:39:35+00:00",
+     "source": "RTB SQUARE",
+     "snippet": "スカイ、英ITVのメディア事業を約3500億円で買収&nbsp;&nbsp;RTB SQUARE",
+     "summary": "スカイが英ITVのメディア事業を約3500億円で買収することが決まったにゃ。この買収により、スカイのメディア事業がさらに拡大し、競争力を強化する狙いがあるそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "京進、DX戦略推進・デジタル人材育成のプラットフォーム 「Kyoshin Digital Academy（KDA）」を立ち上げ特設ウェブサイトを公開 - 朝日新聞",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mYV9tb3RuQVNlNUlwVW8xWFhQTUp1eVlEMS1INnY3U294LXJsNUdEcWZEcW1jZE0yY2dia2lOSlZvLXYxd1AyVGM5LTRnNGJEaUxqNVRtc0ZrM1E?oc=5",
-     "date": "2026-07-07T04:00:00+00:00",
-     "source": "朝日新聞",
-     "snippet": "京進、DX戦略推進・デジタル人材育成のプラットフォーム 「Kyoshin Digital Academy（KDA）」を立ち上げ特設ウェブサイトを公開&nbsp;&nbsp;朝日新聞",
-     "summary": "京進は、デジタルトランスフォーメーション（DX）戦略を推進するためのプラットフォーム「Kyoshin Digital Academy（KDA）」を立ち上げ、特設ウェブサイトを公開しました。この取り組みは、デジタル人材の育成を目的としており、教育分野におけるDXの促進が期待されています。"
+     "title": "「起業の種をまき育てる」イベント “ガタシード”開催 若者の挑戦を後押し《新潟》 - Excite エキサイト",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xbmR4X2ZmTjVSMV8xVnpCZFRSM0NYeWlTM1hrNW15eXJtVVQwRHFUYmJaNVd1emJ6N1NQd3c1czI4VmZXZVlFY3ozUnVKVXNTWWIwN2VSbEIxdFZzLUIwZ0xsdHhSay16YjdUdmhZOA?oc=5",
+     "date": "2026-07-08T02:58:00+00:00",
+     "source": "Excite エキサイト",
+     "snippet": "「起業の種をまき育てる」イベント “ガタシード”開催 若者の挑戦を後押し《新潟》&nbsp;&nbsp;Excite エキサイト",
+     "summary": "新潟で「起業の種をまき育てる」イベント「ガタシード」が開催され、若者の挑戦を後押しすることを目的としているにゃ。このイベントは、起業に興味がある若者たちにとって貴重な機会となるだろうにゃん。"
     },
     {
      "type": "news",
-     "title": "たかまつなな 別人級のウェディングフォト！２ショットも公開「幸せそう」昨年に事実婚、お相手は元官僚 - au Webポータル",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zOThGQ1l2ZG1xQ2VKaG9adzE5bV9RWFY2eGl3Q3d2bW1NOEZ0czhXX3kxT2R0aU1PMUcwLVBtN29BeG9ZbXpaVGJ0RmhlTURqRnhPdXhTNF9sWV9rM19LMHE4MDNadDBzQTRjeE5aaG44Zm43YldUTHo4MA?oc=5",
-     "date": "2026-07-06T06:25:00+00:00",
-     "source": "au Webポータル",
-     "snippet": "たかまつなな 別人級のウェディングフォト！２ショットも公開「幸せそう」昨年に事実婚、お相手は元官僚&nbsp;&nbsp;au Webポータル",
-     "summary": "たかまつななが、昨年に事実婚をした相手が元官僚であることを明かし、ウェディングフォトを公開しました。写真には幸せそうな2ショットが収められており、彼女の新たな生活に対する期待が感じられます。"
+     "title": "2026年夏 緊急対策 『セキュリティ格付け』が変えるBtoB取引の未来 8月4日（火）13時からオンラインセミナー開催《参加者募集》 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xNUtHZ05nSHBFa1loMm1vQkFwMmRoWHVrQTVVcDhiMUhBdmMwdE5fakM3aldHUnRHaDVkTzNLMEkyUEJ4U3g5dUdoMi1pby1Zd25WVWxRYUJQV1ltcVItYzVHZ2g0ZWZ6Mnc?oc=5",
+     "date": "2026-07-08T01:10:01+00:00",
+     "source": "PR TIMES",
+     "snippet": "2026年夏 緊急対策 『セキュリティ格付け』が変えるBtoB取引の未来 8月4日（火）13時からオンラインセミナー開催《参加者募集》&nbsp;&nbsp;PR TIMES",
+     "summary": "2026年夏に向けて、緊急対策として『セキュリティ格付け』がBtoB取引の未来を変える可能性があるにゃ。8月4日にはオンラインセミナーが開催され、参加者を募集中だにゃん。"
     }
    ]
   },
@@ -205,12 +205,39 @@
    "items": [
     {
      "type": "news",
+     "title": "【国立科学博物館】科博ＮＥＷＳ展示 「ネアンデルタール人と現生人類は価値観を共有していた」 のご案内 - 時事ドットコム",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rYzM5WGRQZkY5b0RfbzBzNFBBeU5TZUlReTBISmZqWHZuVmMtMTlvY0Z2U1JjQzZEeVYxalN4WldwdEpFcF96ZDc3UGxTSjc4VXYxcEt0WVhPazVkX2FOVklpOEh2T2ZJclFB?oc=5",
+     "date": "2026-07-08T05:45:00+00:00",
+     "source": "時事ドットコム",
+     "snippet": "【国立科学博物館】科博ＮＥＷＳ展示 「ネアンデルタール人と現生人類は価値観を共有していた」 のご案内&nbsp;&nbsp;時事ドットコム",
+     "summary": "国立科学博物館での新しい展示「ネアンデルタール人と現生人類は価値観を共有していた」が開催されるにゃ。展示では、ネアンデルタール人と現生人類の間に存在した共通の価値観や文化的なつながりについて探求する内容が紹介されるそうだにゃん。これにより、古代の人類の理解が深まることが期待されるにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "【大阪市立科学館】企画展 昭和南海地震80年「地震の科学 -記録が語る過去、科学が解く仕組みと備え- 」開催！ - 時事ドットコム",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IVDAyYXFNQXJkcTF0UHVzT0tsWENJWmxpNE41UjhJbGhaZHVDbVZsVVFqakRXazFodHFuZHN3ZlM2cXVKRUdHN053bmJjSmZibFJ3Q1hsUjZXOUN6MEh1ZWtCcVZtdEF2Qm53?oc=5",
+     "date": "2026-07-08T05:45:00+00:00",
+     "source": "時事ドットコム",
+     "snippet": "【大阪市立科学館】企画展 昭和南海地震80年「地震の科学 -記録が語る過去、科学が解く仕組みと備え- 」開催！&nbsp;&nbsp;時事ドットコム",
+     "summary": "大阪市立科学館で企画展「昭和南海地震80年 地震の科学 -記録が語る過去、科学が解く仕組みと備え-」が開催されるにゃ。地震の歴史やメカニズム、備えについて学べる内容が盛り込まれているそうだにゃん。地震の影響を受けた地域の記録を通じて、科学的な知識を深める良い機会になるにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "＜画像2 / 17＞伝説の巨大ダイオウイカのすむ深い海の世界を体験 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZRXduYXVFUmdVVDNiN2tXT0U0NFZhNloycE13TmJ6YlRGcU5zdUlFWHptQVVCa3k4MWtVUHlmbkpnczZScldYTHZmZXdoNi05ZUxoeWhQVlZ1S2t1QXotTVlzUF8zYTNq?oc=5",
+     "date": "2026-07-08T02:13:01+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "＜画像2 / 17＞伝説の巨大ダイオウイカのすむ深い海の世界を体験&nbsp;&nbsp;ウォーカープラス",
+     "summary": "伝説の巨大ダイオウイカが住む深い海の世界を体験できるイベントが開催されるにゃ。参加者は、ダイオウイカの生息環境や生態について学びながら、海の神秘を感じることができるそうだにゃん。深海の魅力を体感することで、海洋生物への理解が深まることが期待されるにゃ。"
+    },
+    {
+     "type": "news",
      "title": "【自由研究】「国立科学博物館」の研究員が教える最強のテーマ探し【事前の学びで子どもが激変！】 - コクリコ｜講談社 - 講談社コクリコ",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0MUdEUkM0UzBJblB1Z2IwSmpNTUNkLUtUN0E4MEcyazNSNUNjV0Vub3NCR3hTRXhtLTUwZmMxZFZLMnE5Ulc3eWZkOV9HalNpdzR4WXFYY0Y5QmVFUnpJYVU1TnhNYjhlQ2c?oc=5",
      "date": "2026-07-07T20:00:00+00:00",
      "source": "講談社コクリコ",
      "snippet": "【自由研究】「国立科学博物館」の研究員が教える最強のテーマ探し【事前の学びで子どもが激変！】 - コクリコ｜講談社&nbsp;&nbsp;講談社コクリコ",
-     "summary": "国立科学博物館の研究員が、自由研究のテーマ選びについてアドバイスを提供しています。事前に学ぶことで、子どもたちの理解や興味が深まり、研究の質が向上することを強調しています。特に、テーマ選びが重要であり、子どもたちが自分の興味を見つける手助けをすることが、学びの効果を高めるとされています。"
+     "summary": "国立科学博物館の研究員が教える自由研究のテーマ探しについての情報が紹介されているにゃ。事前に学ぶことで、子どもたちの研究がより充実したものになるとされているそうだにゃん。具体的なテーマやアプローチ方法が提案され、自由研究の質を向上させる手助けをする内容だにゃ。"
     },
     {
      "type": "news",
@@ -219,34 +246,7 @@
      "date": "2026-07-07T20:00:00+00:00",
      "source": "講談社コクリコ",
      "snippet": "【自由研究】「国立科学博物館」の研究員が教えてくれた！ 小学生の学び・最強のテーマ探し 『いきもの超ワールド展』総合監修者が解説｜画像&nbsp;&nbsp;講談社コクリコ",
-     "summary": "国立科学博物館の研究員が、小学生向けの自由研究のテーマ選びについて解説しています。特に『いきもの超ワールド展』の総合監修者が、子どもたちが興味を持つテーマを見つける方法を紹介し、学びを深めるための具体的なアプローチを提案しています。子どもたちの好奇心を引き出すことが、自由研究の成功に繋がるとされています。"
-    },
-    {
-     "type": "news",
-     "title": "画像37 / 42＞上野・国立科学博物館で「大絶滅展」が開催中！生命のピンチと進化の歴史「ビッグファイブ」に迫る - ウォーカープラス",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNOWVRNS11UFlmdEpBUWIyclRjbnczaWtpZWk4TTZHNlBsR0NmeGNLeHhLYUtIejMwRXVJZXBnd0swcEhzbzZSSE1zMWFJblYwdWhTTVJLRkJpaDd4OUNSeFJYTmYtenJUUHk4Z0tB?oc=5",
-     "date": "2026-07-07T13:59:30+00:00",
-     "source": "ウォーカープラス",
-     "snippet": "画像37 / 42＞上野・国立科学博物館で「大絶滅展」が開催中！生命のピンチと進化の歴史「ビッグファイブ」に迫る&nbsp;&nbsp;ウォーカープラス",
-     "summary": "上野の国立科学博物館で「大絶滅展」が開催中です。この展覧会では、生命の危機と進化の歴史に焦点を当て、「ビッグファイブ」と呼ばれる大絶滅イベントについて詳しく紹介されています。来場者は、過去の絶滅の原因やその影響を学ぶことができ、生命の進化の過程を理解する機会を得られます。"
-    },
-    {
-     "type": "news",
-     "title": "全国科学館連携協議会巡回展示 世界一新しい花崗岩-花崗岩ベイビーを抱っこしよう-｜レッツエンジョイ東京 - レッツエンジョイ東京",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04SjFuU1BLc01WZUlwbzJ0YzRKWXB6WjZjaEpMdS1mY2FOLVVHZERUVnp3eE5rMUNaQ0habmNyVklJdERvcFp1WUlfcTJyTUQ2QVE?oc=5",
-     "date": "2026-07-07T12:22:16+00:00",
-     "source": "レッツエンジョイ東京",
-     "snippet": "全国科学館連携協議会巡回展示 世界一新しい花崗岩-花崗岩ベイビーを抱っこしよう-｜レッツエンジョイ東京&nbsp;&nbsp;レッツエンジョイ東京",
-     "summary": "全国科学館連携協議会による巡回展示「世界一新しい花崗岩」が開催されています。この展示では、特に新たに発見された花崗岩をテーマにしており、来場者は「花崗岩ベイビー」を抱っこする体験ができるなど、インタラクティブな要素が盛り込まれています。科学館の連携によって、より多くの人々に科学の魅力を伝えることを目的としています。"
-    },
-    {
-     "type": "news",
-     "title": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任 - ウォーカープラス",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yU1d6MTZqYnQwUzVsSW13TDQ5WXZyd3dnMTFGbmZWVDhhV1dYSDQtUWtOSE5Uc09hbmQxRmJTd1UzRDJWVENWd1luWXktWnJjZy1WSlE3YmxLVlpJUnBkWXZ4NXNPcnh1dFE?oc=5",
-     "date": "2026-07-07T11:07:20+00:00",
-     "source": "ウォーカープラス",
-     "snippet": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任&nbsp;&nbsp;ウォーカープラス",
-     "summary": "香川照之さんが国立科学博物館の「昆虫」展のサポーターに就任しました。この展覧会では、昆虫の多様性や生態についての理解を深めることを目指しています。香川さんの参加により、昆虫の魅力を広め、来場者に興味を持ってもらうことが期待されています。昆虫展は、子どもから大人まで楽しめる内容となっています。"
+     "summary": "国立科学博物館の研究員が、小学生向けの自由研究テーマ探しについて解説しているにゃ。「いきもの超ワールド展」の総合監修者が、子どもたちが興味を持ちやすいテーマを提案し、学びを深める方法を教えてくれるそうだにゃん。これにより、自由研究がより楽しく、意義深いものになることが期待されるにゃ。"
     }
    ]
   },
@@ -256,12 +256,39 @@
    "items": [
     {
      "type": "news",
-     "title": "脱出ゲーム市場の状況：2026年から2033年にかけてCAGRが11.6%の成長が予測さ - pando.life",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vUmRSVFlJVWY4dXlzMWpMNVoxZFl5a0lVVFpPbzlwYjFxcUkxNWJTQzYzSEJ6d2ZhZExZQU9rOE14aGd4YVNxSVNB?oc=5",
-     "date": "2026-07-07T22:10:05+00:00",
-     "source": "pando.life",
-     "snippet": "脱出ゲーム市場の状況：2026年から2033年にかけてCAGRが11.6%の成長が予測さ&nbsp;&nbsp;pando.life",
-     "summary": "脱出ゲーム市場は、2026年から2033年にかけて年平均成長率（CAGR）が11.6%に達することが予測されています。この成長は、エンターテインメントや体験型アクティビティへの需要の高まりに起因しており、特に若年層を中心に人気が高まっています。市場の拡大に伴い、さまざまなテーマや形式の脱出ゲームが登場することが期待されています。"
+     "title": "【山形県】山形発VR×AI観光プロジェクトがクラファン開始。観光農園でのAI体験などを検証 - STRAIGHT PRESS",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VNTNWamRuWFFvYVZhcHlpOWh5N3N6bUg0cmNVZGNBZlNCWjRsOVpBVnJBRFZHbnU0ekRtSVBxQkRMT0pzaHhLdDhza3FQRnlDSEMw?oc=5",
+     "date": "2026-07-08T06:07:48+00:00",
+     "source": "STRAIGHT PRESS",
+     "snippet": "【山形県】山形発VR×AI観光プロジェクトがクラファン開始。観光農園でのAI体験などを検証&nbsp;&nbsp;STRAIGHT PRESS",
+     "summary": "山形県でVRとAIを活用した観光プロジェクトが始まったにゃ。このプロジェクトでは、観光農園でのAI体験を検証するためのクラウドファンディングがスタートしたそうだにゃ。地域の観光資源を活かし、最新技術を取り入れた新しい観光体験を提供することを目指しているにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "NEC・ソニーらが「音声ARコンソーシアム」を発足 観光・防災・教育DXを推進 - ビジネスネットワーク",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96eGxDZGllOFFDRTNYTldTQXlWMTdMbDZxZkRHVmRwREpHVngzZzl5RnZDTWozbXpoMzNIa3E4MFNSV0h4SnFBZ3RKTHVMM1Q2dmhv?oc=5",
+     "date": "2026-07-08T02:55:13+00:00",
+     "source": "ビジネスネットワーク",
+     "snippet": "NEC・ソニーらが「音声ARコンソーシアム」を発足 観光・防災・教育DXを推進&nbsp;&nbsp;ビジネスネットワーク",
+     "summary": "NECとソニーが「音声ARコンソーシアム」を発足したにゃ。このコンソーシアムは観光、防災、教育分野でのデジタルトランスフォーメーション（DX）を推進することを目的としているそうだにゃ。音声AR技術を活用して、さまざまな分野での新しい体験を提供することを目指しているにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "「選球眼」はＶＲで鍛えられる？新潟医療福祉大研究グループが能力測定、科学的に鍛えるトレーニングの未来 - 新潟日報",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12dmNaZGJoeEMwWFhpcXI3VXpXZ2VqY1A1bnhpYVJiSERkSTNiYV9KeFQ1cWRRMEszbjl1RWVGMTJhM1hjSWRWMzFjNE13b3MxUTRpWGZ4VmNwTzgzeXc?oc=5",
+     "date": "2026-07-08T02:20:00+00:00",
+     "source": "新潟日報",
+     "snippet": "「選球眼」はＶＲで鍛えられる？新潟医療福祉大研究グループが能力測定、科学的に鍛えるトレーニングの未来&nbsp;&nbsp;新潟日報",
+     "summary": "新潟医療福祉大学の研究グループが、選球眼をVRで鍛える可能性を探っているにゃ。彼らは能力測定を行い、科学的なトレーニング方法を開発することを目指しているそうだにゃ。VRを活用することで、選球眼の向上が期待されているにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "ホンダ『UNI-ONE』、通信基盤でAR体験を進化…SORACOM Discovery 基調講演 - レスポンス（Response.jp）",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11cm1VNTlxUUxqaURvcDUyckdac3V4ekFCWVI2aEpKOW9NY3kzZ1NlQXM4d0RfM2dCa2hrLXE1Z3pUMkhWVm02czBhbGMxQjhpcFpZdXprWk5DR0dnemo4?oc=5",
+     "date": "2026-07-08T00:30:03+00:00",
+     "source": "レスポンス（Response.jp）",
+     "snippet": "ホンダ『UNI-ONE』、通信基盤でAR体験を進化…SORACOM Discovery 基調講演&nbsp;&nbsp;レスポンス（Response.jp）",
+     "summary": "ホンダの『UNI-ONE』が、通信基盤を活用してAR体験を進化させることを発表したにゃ。この内容はSORACOM Discoveryの基調講演で紹介され、AR技術を通じて新しい体験を提供することが期待されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -270,34 +297,7 @@
      "date": "2026-07-07T15:22:18+00:00",
      "source": "mbp-japan.com",
      "snippet": "完成後の住まいを工事前に体感！VRリフォーム体験会開催｜野中幹広&nbsp;&nbsp;mbp-japan.com",
-     "summary": "VRリフォーム体験会が開催され、参加者は工事前に完成後の住まいを体感できる機会を得ました。このイベントでは、VR技術を活用して、実際のリフォームプランを仮想空間で体験することができ、参加者は自分の理想の住まいを視覚化することが可能です。これにより、リフォームの選択肢をより具体的に理解できるメリットがあります。"
-    },
-    {
-     "type": "news",
-     "title": "Amazonプライムセールであこがれの最上位ARグラス「XREAL One Pro」をお得に購入だ - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93aWVoenBQSUU2dG5vSlh6OU41SnQ2SXN4ZlhQQXBiU1Q4dFMycjN1bnU5ZjlpZWZiU3U2bDRnaEE5aGhvQnZDRzhuWTA0endYSk5WaFJyTnQ4QnhlMmZpeGt1WmE3N29ua0JESGx6cGV6Tzg?oc=5",
-     "date": "2026-07-07T15:12:03+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "Amazonプライムセールであこがれの最上位ARグラス「XREAL One Pro」をお得に購入だ&nbsp;&nbsp;ニコニコニュース",
-     "summary": "Amazonプライムセールでは、最上位のARグラス「XREAL One Pro」をお得に購入できるチャンスがあります。この製品は、拡張現実（AR）技術を活用し、ユーザーに新しい体験を提供することを目的としています。セール期間中に特別価格での販売が行われるため、AR技術に興味がある方にとっては見逃せない機会となっています。"
-    },
-    {
-     "type": "news",
-     "title": "【体験レポート】横浜でスマホを使ったARイベント開催中♪現実世界にウルトラマンや怪獣たちが現れる！（わっき） - エキスパート - Yahoo!ニュース",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSUlmQ2hib25DOWc3TFpjU0wzd2NPRHdJZHRWZXduRUp3MGpuVTN3clRyTTVCeDZEU2RXNy0wTkl5ZndqMFNveEVfYklGeHJkbXhESlptRVB5d1Y0WGlFN2I3ZmhLdmRtY2xUTjZ1QkdpV1FwNHJYdEcyRnc1TE9CTHV6R2xQZ2Z4?oc=5",
-     "date": "2026-07-07T12:19:26+00:00",
-     "source": "Yahoo!ニュース",
-     "snippet": "【体験レポート】横浜でスマホを使ったARイベント開催中♪現実世界にウルトラマンや怪獣たちが現れる！（わっき） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "横浜で開催中のARイベントでは、スマートフォンを使って現実世界にウルトラマンや怪獣が現れる体験ができます。このイベントは、参加者がAR技術を通じて新しい形のエンターテインメントを楽しむことを目的としており、家族連れや特撮ファンに人気を博しています。実際の風景とデジタルキャラクターが融合することで、ユニークな体験が提供されています。"
-    },
-    {
-     "type": "news",
-     "title": "福井の没入体験できるバスが乗車10万人を突破 恐竜博物館行きで人気 - Mogura VR",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10cXgxbXFSMnhXUUVBb0ZFN3g4S0NTZ1FvZEtLSThSTUtBRkx1WFVlRXcyUElvQUxMMWZONnV6SmNESGx0WlI5YTlKdG5SbndONXNhSzBORi1POXdpQzh4NG5DODRHV0Q5UGxORTNBWHpsM0dHa20w?oc=5",
-     "date": "2026-07-07T10:41:10+00:00",
-     "source": "Mogura VR",
-     "snippet": "福井の没入体験できるバスが乗車10万人を突破 恐竜博物館行きで人気&nbsp;&nbsp;Mogura VR",
-     "summary": "福井県では、没入体験ができるバスが人気を集め、乗車人数が10万人を突破しました。このバスは恐竜博物館行きで、乗客は恐竜の世界を体験することができます。特に子供たちにとっては教育的な要素も含まれており、楽しみながら学ぶことができるため、観光地としての魅力を高めています。"
+     "summary": "VRリフォーム体験会が開催され、工事前に完成後の住まいを体感できる機会が提供されるにゃ。参加者はVR技術を使って、実際のリフォーム後の住まいを仮想的に体験することができるそうだにゃん。これにより、リフォームのイメージを具体化する手助けがされるにゃ。"
     }
    ]
   }
