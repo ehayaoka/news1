@@ -1,10 +1,37 @@
 {
- "updated": "2026-07-10T23:43:27.747240+00:00",
+ "updated": "2026-07-11T07:01:48.727242+00:00",
  "categories": [
   {
    "id": "ai_media",
    "title": "🤖 AI×メディア研究（ニュース・論文・行政）",
    "items": [
+    {
+     "type": "gov",
+     "title": "Brighture | 海外有望企業情報 - J-Bridge：連携・協業のためのビジネスプラットフォーム - jetro.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jVUZlRmh5MVhMNzc3REtfd3ZKWEhmT09sWnRXVjZYU3NnYWJ3d2dxcV82YnlYY3BRZ1V4Vm10ZHpNMFNXZmUyRG43ZDdBRExzZEhaNk4xRVdrOXFqMzBBeVRTWFNfNzhqekdYSHlMdw?oc=5",
+     "date": "2026-07-11T02:03:06+00:00",
+     "source": "jetro.go.jp",
+     "snippet": "Brighture | 海外有望企業情報 - J-Bridge：連携・協業のためのビジネスプラットフォーム&nbsp;&nbsp;jetro.go.jp",
+     "summary": "Brightureは、海外の有望企業情報を提供するプラットフォームで、J-Bridgeを通じて連携や協業の機会を創出することを目指しているにゃ。企業同士のネットワークを強化し、ビジネスチャンスを広げるための情報を発信しているんだにゃ。"
+    },
+    {
+     "type": "gov",
+     "title": "PaSensAI Veritasngea Labs | 海外有望企業情報 - J-Bridge：連携・協業のためのビジネスプラットフォーム - jetro.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PZUlNX2t2ZkFVUFBuaTNxMUhHWE5WQzQ4RGd0VE5CQzBtTVFCYUNMQW10aTZwWmw2elpuX3h6dE1CQjdfTVIybVEzeUNySDdKY1oyLXBhTXAzR256TUhwTEdWUUdZVlBwdVF2cDhyem5kMlVBT2c?oc=5",
+     "date": "2026-07-11T02:03:06+00:00",
+     "source": "jetro.go.jp",
+     "snippet": "PaSensAI Veritasngea Labs | 海外有望企業情報 - J-Bridge：連携・協業のためのビジネスプラットフォーム&nbsp;&nbsp;jetro.go.jp",
+     "summary": "PaSensAI Veritasngea Labsは、海外の有望企業情報を提供するプラットフォームで、J-Bridgeを通じてビジネスの連携や協業を促進することを目的としているにゃ。新しい技術やサービスの情報を集め、企業の成長をサポートするんだにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "Imperial College London | 海外有望企業情報 - J-Bridge：連携・協業のためのビジネスプラットフォーム - jetro.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BR0RwVC1xamZzcTlMMGdVekF0SmNHTzM4Q0d2Z25McmR3YVJRYzJuZHhNeXRxVmtJWFBaSHV3WUkzTTgwSTUzZGxwLXk2dGNWdFJMWXowYkZEY0RpTERTYXpJbDl5SmNUcHVjMHBR?oc=5",
+     "date": "2026-07-11T02:01:03+00:00",
+     "source": "jetro.go.jp",
+     "snippet": "Imperial College London | 海外有望企業情報 - J-Bridge：連携・協業のためのビジネスプラットフォーム&nbsp;&nbsp;jetro.go.jp",
+     "summary": "Imperial College Londonは、海外の有望企業情報を提供するプラットフォームで、J-Bridgeを通じて連携や協業の機会を提供しているにゃ。教育機関としての知見を活かし、ビジネス界とのつながりを強化することを目指しているんだにゃ。"
+    },
     {
      "type": "news",
      "title": "Getty Images、個人・小規模事業者向けサブスクを発表 AI生成時代に実写素材の利用拡大 - media-innovation.jp",
@@ -12,7 +39,7 @@
      "date": "2026-07-10T09:31:43+00:00",
      "source": "media-innovation.jp",
      "snippet": "Getty Images、個人・小規模事業者向けサブスクを発表 AI生成時代に実写素材の利用拡大&nbsp;&nbsp;media-innovation.jp",
-     "summary": "Getty Imagesが個人や小規模事業者向けのサブスクリプションサービスを発表したにゃ。AI生成が進む中、実写素材の利用が拡大することを目指しているそうだにゃん。これにより、より多くのクリエイターが高品質な画像を手軽に利用できるようになるだろうにゃ。"
+     "summary": "Getty Imagesは、個人や小規模事業者向けにサブスクリプションサービスを発表したにゃ。AI生成時代において、実写素材の利用を拡大し、より多くのクリエイターが高品質な画像を手軽に利用できるようにすることを目指しているんだにゃん。"
     },
     {
      "type": "news",
@@ -21,34 +48,25 @@
      "date": "2026-07-10T09:05:37+00:00",
      "source": "PR TIMES",
      "snippet": "生成AIの回答はSNSをどれくらい引用しているのか？Optyino.aiがAI回答66,095件を分析、SNS引用率34.6%も参照メディアはAIモデルで最大12.7倍の差&nbsp;&nbsp;PR TIMES",
-     "summary": "Optyino.aiの分析によると、生成AIの回答の34.6%がSNSを引用していることが分かったにゃ。さらに、参照メディアの影響はAIモデルによって最大12.7倍の差があるそうだにゃん。この結果は、生成AIの情報源の多様性を示しているにゃ。"
+     "summary": "Optyino.aiが行った分析によると、生成AIの回答にはSNSが34.6%引用されていることがわかったにゃ。参照メディアの間で最大12.7倍の差があることも示されており、AIモデルの信頼性や情報源の多様性が重要な課題となっているんだにゃん。"
     },
     {
-     "type": "gov",
-     "title": "小野田大臣記者会見（令和8年7月10日） - 政府広報オンライン",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYVU4OUtyYTJTZm9vRHE0cXZxZFA4LWgzeTdvWW1tWmY2dUdMQkFVOW1xQUlNck5zRzBrQWp0TkpSTVRFOURLNUFOODRqbkFaQzVGU0FDaE45QzNFYWZwaFlFb1NpaUZFOXBmMFRzTFBKb3doRVNBaEktbTRYaWxJcXhrZ0RuQmpOVUxQSTRIcTJkbFE?oc=5",
-     "date": "2026-07-10T08:44:01+00:00",
-     "source": "政府広報オンライン",
-     "snippet": "小野田大臣記者会見（令和8年7月10日）&nbsp;&nbsp;政府広報オンライン",
-     "summary": "小野田大臣の記者会見が令和8年7月10日に行われたにゃ。詳細な内容は記載されていないが、政府広報オンラインでの発表だにゃん。記者会見では、重要な政策や情報が発表されることが期待されるにゃ。"
+     "type": "news",
+     "title": "生成AI時代の報道の信頼性を守る、映像・画像の「真贋判定技術」開発へ ロジック・アンド・デザインが日本テレビとの共同プロジェクトを発足 - 新Screens",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5veE5ic3RzQTZqQWs5UFduYjNfdWpfOGYzb01xMXpFMFFlWUNIaUNxNXNTVmZxcGdmWGF2TGdBT2xVN0xYZlIwRnR5bnU4RzJieGfSAVdBVV95cUxOSlhiZ1BLQzF6Z0lJMGpGQUFyYm5fY0gtM3YzLW1aMWZEWnhOeHJ6VWlZaXNyNTdxYW5uZG84bk93VGlobU5icURWb3NLWU1Ba2UzSVJYTzg?oc=5",
+     "date": "2026-07-10T07:00:00+00:00",
+     "source": "新Screens",
+     "snippet": "生成AI時代の報道の信頼性を守る、映像・画像の「真贋判定技術」開発へ ロジック・アンド・デザインが日本テレビとの共同プロジェクトを発足&nbsp;&nbsp;新Screens",
+     "summary": "ロジック・アンド・デザインは、日本テレビと共同で生成AI時代の報道の信頼性を守るための「真贋判定技術」を開発するプロジェクトを発足させたにゃ。この技術により、映像や画像の真偽を判断し、誤報リスクを軽減することを目指しているんだにゃ。"
     },
     {
-     "type": "gov",
-     "title": "極右「国民連合」ルペン氏、2度目の有罪判決も、2027年大統領選立候補を表明(フランス) | ビジネス短信 - jetro.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yVVlHSDlGUTVNRHJYSjNnWnNGLURmbVNCaWxqX2gzMWRUS3g4TWZBTGU0bXNNSUkxaWVXSkt4RUg4OXhLcDQ5UTA2YjZPMUVSLTFudUdqZ09od2l6Y3JWbmFPQ3NheWk5RHNwbFFn?oc=5",
-     "date": "2026-07-10T07:57:28+00:00",
-     "source": "jetro.go.jp",
-     "snippet": "極右「国民連合」ルペン氏、2度目の有罪判決も、2027年大統領選立候補を表明(フランス) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
-     "summary": "フランスの極右政党「国民連合」のルペン氏が、2度目の有罪判決を受けたにもかかわらず、2027年の大統領選に立候補する意向を表明したにゃ。政治的な影響がどうなるか注目されるだろうにゃん。"
-    },
-    {
-     "type": "gov",
-     "title": "カナダ、次期潜水艦の調達にドイツ企業を選定、NATOとの相互運用性を重視 - jetro.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkUFRxNDNvR2kzTkIyVFU0TEluRU5uQmFUZ1QzNjhYUVNkWmNNamRCWjdXZHhCSHpVTG5abEIxWllYM2NKUnlONklncE5IR1ZpODVFd0JyOUEwdXFuSTBuQU4yZm1LMlNYUzYzWkZR?oc=5",
-     "date": "2026-07-10T07:36:40+00:00",
-     "source": "jetro.go.jp",
-     "snippet": "カナダ、次期潜水艦の調達にドイツ企業を選定、NATOとの相互運用性を重視&nbsp;&nbsp;jetro.go.jp",
-     "summary": "カナダが次期潜水艦の調達にドイツ企業を選定したにゃ。NATOとの相互運用性を重視し、国防力の強化を図る方針だそうだにゃん。この選定は、国際的な安全保障の観点からも重要な意味を持つにゃ。"
+     "type": "news",
+     "title": "経営者の『7月10日問題』 ～「ChatGPT」はどこまで士業に迫れるか【生成AIストリーム】 - 窓の杜",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45ZjdyMUZhZi11VEJtc3lRRGNmY2pTWEtBQVpxWnBaNFJDdkp0ZDJ1U09jNEFiWHJWNFhQNXZfMWhoa1F2UFhuUDhzTjdqd1M0V2MzektQY1F2N2JISTFFNEpHcTZUVl9xdHhGY2h3UHIwTVJDd040?oc=5",
+     "date": "2026-07-10T06:38:00+00:00",
+     "source": "窓の杜",
+     "snippet": "経営者の『7月10日問題』 ～「ChatGPT」はどこまで士業に迫れるか【生成AIストリーム】&nbsp;&nbsp;窓の杜",
+     "summary": "「ChatGPT」が士業にどこまで迫れるかを考察する『7月10日問題』について、経営者の視点からの分析が行われているにゃ。生成AIの活用が進む中で、士業の役割や信頼性についての議論が深まっているんだにゃん。"
     },
     {
      "type": "news",
@@ -57,7 +75,7 @@
      "date": "2026-07-10T05:04:09+00:00",
      "source": "MEDIAMIXI",
      "snippet": "日本テレビ、生成AI映像・画像の「真贋判定技術」開発へ ロジック・アンド・デザインと共同プロジェクト発足&nbsp;&nbsp;MEDIAMIXI",
-     "summary": "日本テレビが生成AIによる映像・画像の「真贋判定技術」を開発するプロジェクトを発足したにゃ。ロジック・アンド・デザインと共同で進めるこの技術は、フェイクニュースのリスクに対応することを目指しているそうだにゃん。"
+     "summary": "日本テレビは、ロジック・アンド・デザインと共同で生成AI映像・画像の「真贋判定技術」を開発するプロジェクトを開始したにゃ。この技術は、フェイクニュースや誤報のリスクを軽減し、報道の信頼性を向上させることを目的としているんだにゃん。"
     },
     {
      "type": "news",
@@ -66,7 +84,7 @@
      "date": "2026-07-10T01:00:00+00:00",
      "source": "民放online",
      "snippet": "記者の生成AI活用術とは 報道の「7サイクル」で使いこなす ニュースの価値判断は人の手で&nbsp;&nbsp;民放online",
-     "summary": "記者が生成AIを活用する方法について、報道の「7サイクル」を通じて使いこなすことが提案されているにゃ。ニュースの価値判断は人間の手で行うべきだという考え方が強調されているそうだにゃん。"
+     "summary": "記者が生成AIを活用する方法について、報道の「7サイクル」に沿った使い方が紹介されているにゃ。ニュースの価値判断は人間の手で行うべきであり、AIはそのサポート役としての役割を果たすことが期待されているんだにゃん。"
     },
     {
      "type": "news",
@@ -75,25 +93,7 @@
      "date": "2026-07-09T12:03:02+00:00",
      "source": "ニコニコニュース",
      "snippet": "ニュース番組のフェイク画像・映像の誤報リスクに対応 日テレ「真贋判定技術」共同開発へプロジェクト発足&nbsp;&nbsp;ニコニコニュース",
-     "summary": "日テレがニュース番組におけるフェイク画像・映像の誤報リスクに対応するため、「真贋判定技術」の共同開発プロジェクトを発足したにゃ。これにより、視聴者に正確な情報を提供することを目指しているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "Meta、最新のメディア生成AIモデル「Muse Image」をリリース エージェントとして各種ツールを利用し画像を生成する - 株式会社インプレス",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BZzBONDBLNDFhRlRZX2YyV0JJb0otYk10MmVpWURfcFNyNWlVZnNqSnVTRndRcDJtS0xNZl9xbHRoalpiaGlWTjVvVnpubGdUVkx5Q18xVUs3dmdMeEVlbzlPNA?oc=5",
-     "date": "2026-07-09T03:24:44+00:00",
-     "source": "株式会社インプレス",
-     "snippet": "Meta、最新のメディア生成AIモデル「Muse Image」をリリース エージェントとして各種ツールを利用し画像を生成する&nbsp;&nbsp;株式会社インプレス",
-     "summary": "Metaが最新のメディア生成AIモデル「Muse Image」をリリースしたにゃ。このモデルはエージェントとして各種ツールを利用し、画像を生成する機能を持っているそうだにゃん。新たなクリエイティブな可能性が広がるだろうにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "日本テレビ、生成AIの「真贋判定技術」の開発に着手 フェイク画像が増える中… プロジェクト発足 27年内の実用化目指す - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkd01aazlUNzFzdmlWcWxuTjY4U2xSMlBKVGtDdklOY0lzd0RxM2RiNWhkUS1kaTliT3BROUxpS2wzN2RYQU04QkM4RC1MN0dqYWVLZw?oc=5",
-     "date": "2026-07-09T03:15:44+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "日本テレビ、生成AIの「真贋判定技術」の開発に着手 フェイク画像が増える中… プロジェクト発足 27年内の実用化目指す&nbsp;&nbsp;ニコニコニュース",
-     "summary": "日本テレビが生成AIの「真贋判定技術」の開発に着手したにゃ。フェイク画像が増加する中、2027年内の実用化を目指しているそうだにゃん。この技術は、情報の信頼性を高めるために重要な役割を果たすだろうにゃ。"
+     "summary": "日本テレビは、ニュース番組におけるフェイク画像や映像の誤報リスクに対応するため、「真贋判定技術」の共同開発プロジェクトを発足させたにゃ。この技術により、視聴者に正確な情報を提供することを目指しているんだにゃん。"
     }
    ]
   },
@@ -108,7 +108,7 @@
      "date": "2026-07-10T11:38:13+00:00",
      "source": "Yahoo!ニュース",
      "snippet": "「子どもたちがここで生活したいと思えるまちづくりを」築51年の空き家を宿泊施設に再生 加速する民間主導の地域活性化 そのメリットは?（静岡放送（SBS））&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "築51年の空き家を宿泊施設に再生する取り組みが進んでいるにゃ。このプロジェクトは、地域活性化を目指して民間主導で行われており、子どもたちがここで生活したいと思えるまちづくりを目指しているそうだにゃ。地域の魅力を引き出し、住民の生活環境を改善することが期待されているにゃん。"
+     "summary": "築51年の空き家を宿泊施設に再生する取り組みが進んでいるにゃ。このプロジェクトは、子どもたちが住みたいと思えるまちづくりを目指しているそうだにゃ。民間主導で地域活性化が加速しており、地域の魅力を引き出すことが期待されているにゃん。空き家の再利用は、地域の経済やコミュニティの活性化にも寄与する可能性があるだにゃ。"
     },
     {
      "type": "gov",
@@ -117,7 +117,7 @@
      "date": "2026-07-10T10:33:47+00:00",
      "source": "政府広報オンライン",
      "snippet": "著作権者が分からない作品、使っても大丈夫？許可が取れないときの解決策は？&nbsp;&nbsp;政府広報オンライン",
-     "summary": "著作権者が不明な作品を使用する際の注意点について解説しているにゃ。許可が取れない場合、使用に関してリスクが伴うため、慎重に判断する必要があるそうだにゃ。具体的な解決策やアプローチについても提案されているにゃん。"
+     "summary": "著作権者が不明な作品を使用する際の注意点について解説しているにゃ。許可が取れない場合、作品の使用が合法かどうかは難しい問題だにゃ。政府広報オンラインでは、著作権に関する解決策や具体的な対応方法を提示しているそうだにゃん。著作権を尊重しつつ、適切な利用を考えることが重要だにゃ。"
     },
     {
      "type": "news",
@@ -126,7 +126,7 @@
      "date": "2026-07-10T02:15:15+00:00",
      "source": "ニコニコニュース",
      "snippet": "7/30（木）セミナー開催 地域おこし協力隊 集まる募集、集まらない募集～隊員希望者に選ばれる自治体になるには&nbsp;&nbsp;ニコニコニュース",
-     "summary": "地域おこし協力隊の隊員希望者を集めるためのセミナーが7月30日に開催されるにゃ。自治体が選ばれるためには、魅力的な募集を行うことが重要だとされているにゃん。地域活性化に向けた取り組みが期待されているにゃ。"
+     "summary": "地域おこし協力隊のセミナーが7月30日に開催されるにゃ。このセミナーでは、隊員希望者に選ばれる自治体になるためのポイントが議論されるそうだにゃ。地域の活性化を目指すためには、魅力的な募集が必要だにゃん。参加者には、成功事例や具体的な戦略が共有される予定だにゃ。"
     },
     {
      "type": "news",
@@ -135,7 +135,7 @@
      "date": "2026-07-10T02:00:02+00:00",
      "source": "PR TIMES",
      "snippet": "『GLOCAL MISSION Times』を『地方創生ジャーナル』へリニューアル。第1弾として、北海道の大手小売事業者や竹富島の大手宿泊事業者に迫る深掘りインタビューを公開&nbsp;&nbsp;PR TIMES",
-     "summary": "『GLOCAL MISSION Times』が『地方創生ジャーナル』にリニューアルされたにゃ。第1弾として、北海道の大手小売事業者や竹富島の宿泊事業者への深掘りインタビューが公開されるそうだにゃ。地域のビジネスの実態に迫る内容が注目されているにゃん。"
+     "summary": "『GLOCAL MISSION Times』が『地方創生ジャーナル』にリニューアルされたにゃ。第1弾では、北海道の大手小売事業者や竹富島の宿泊事業者に関する深掘りインタビューが公開されるそうだにゃ。この新しいジャーナルは、地方創生に関する情報をより深く掘り下げることを目指しているだにゃん。"
     },
     {
      "type": "news",
@@ -144,7 +144,7 @@
      "date": "2026-07-10T02:00:00+00:00",
      "source": "産経ニュース",
      "snippet": "長野、新潟、福島ローカル線またぐ異例の直通列車 有志の熱意で特別運行「地域活性化に」&nbsp;&nbsp;産経ニュース",
-     "summary": "長野、新潟、福島を結ぶ異例の直通列車が、有志の熱意により特別運行されることになったにゃ。この取り組みは地域活性化を目的としており、地域間の交流を促進することが期待されているそうだにゃん。"
+     "summary": "長野、新潟、福島を結ぶ異例の直通列車が、有志の熱意で特別運行されることになったにゃ。この列車は地域活性化を目的としており、観光客を呼び込むことが期待されているそうだにゃん。地域の連携を強化し、交通の便を向上させることで、地域の魅力を発信する試みだにゃ。"
     }
    ]
   },
@@ -159,7 +159,7 @@
      "date": "2026-07-10T22:06:28+00:00",
      "source": "NHK出版デジタルマガジン",
      "snippet": "今、「他者と生きるヒント」になる名著3選——NHK「100分de名著」シリーズ【NHK100分de名著キャンペーン】&nbsp;&nbsp;NHK出版デジタルマガジン",
-     "summary": "今、他者と生きるヒントになる名著として、NHK「100分de名著」シリーズから3冊が紹介されているにゃ。これらの書籍は、他者との関係を深めるための知恵や考え方を提供してくれるそうだにゃ。具体的なタイトルや内容は記載されていないが、読者にとって有益な情報が詰まっていることが期待されるにゃん。"
+     "summary": "今、「他者と生きるヒント」になる名著として、NHK「100分de名著」シリーズから3冊が紹介されているにゃ。これらの本は、他者との関係を深めるための知恵や洞察を提供してくれるそうだにゃん。具体的なタイトルや内容は記載されていないけれど、読書を通じて新たな視点を得ることができるにゃ。"
     },
     {
      "type": "news",
@@ -168,7 +168,7 @@
      "date": "2026-07-10T21:06:30+00:00",
      "source": "ｄメニューニュース",
      "snippet": "小中学生つなぐアプリを運営…『13歳起業家』が目指す好きを通じてつながれる場所 きっかけは“1つのニュース”&nbsp;&nbsp;ｄメニューニュース",
-     "summary": "13歳の起業家が運営するアプリが、小中学生同士をつなげることを目指しているにゃ。このアプリは、子どもたちが「好き」を通じて交流できる場所を提供することを目的としているそうだにゃ。起業のきっかけは、あるニュースだったとのことだが、詳細は不明だにゃん。"
+     "summary": "13歳の起業家が、小中学生をつなぐアプリを運営しているにゃ。このアプリは、好きなことを通じて子どもたちがつながれる場所を目指しているそうだにゃ。きっかけは1つのニュースだったとのことで、若い世代の創造力やコミュニティ形成に寄与することを期待されているにゃん。"
     },
     {
      "type": "news",
@@ -177,7 +177,7 @@
      "date": "2026-07-10T10:15:00+00:00",
      "source": "ｄメニューニュース",
      "snippet": "データ活用で地域活性化を 札幌市、NTT東子会社と協定&nbsp;&nbsp;ｄメニューニュース",
-     "summary": "札幌市がNTT東の子会社と協定を結び、データ活用による地域活性化を目指すことになったにゃ。この取り組みは、地域の課題解決や経済の活性化に寄与することが期待されているそうだにゃ。具体的な施策やデータの活用方法については、今後の展開が注目されるにゃん。"
+     "summary": "札幌市がNTT東の子会社と協定を結び、データ活用による地域活性化を目指す取り組みを始めたにゃ。この協定により、地域の課題解決や住民サービスの向上が期待されているそうだにゃ。データを活用することで、より良い地域づくりが進むことを願っているにゃん。"
     },
     {
      "type": "news",
@@ -186,7 +186,7 @@
      "date": "2026-07-10T09:06:00+00:00",
      "source": "smart-flash.jp",
      "snippet": "NHK松山放送局アナ、“万引きの疑いで聴取” の衝撃…続発する局員の “醜聞” に強まる不信感&nbsp;&nbsp;smart-flash.jp",
-     "summary": "NHK松山放送局のアナウンサーが万引きの疑いで聴取を受けたことが報じられ、局員の醜聞が続いていることにより、視聴者の不信感が強まっているにゃ。この事件は、NHKにとって大きな問題となっており、信頼回復が求められる状況だにゃん。"
+     "summary": "NHK松山放送局のアナウンサーが万引きの疑いで聴取を受けたことが報じられ、局員の醜聞が続発しているにゃ。この事件は視聴者や関係者の間に不信感を生じさせているそうだにゃん。信頼回復に向けた対応が求められる状況だにゃ。"
     },
     {
      "type": "news",
@@ -195,7 +195,7 @@
      "date": "2026-07-10T07:34:25+00:00",
      "source": "47NEWS",
      "snippet": "リコージャパン 奈良市で生成AI・DX新技術展示会 入門セミナーも実施&nbsp;&nbsp;47NEWS",
-     "summary": "リコージャパンが奈良市で生成AIやDXに関する新技術の展示会を開催し、入門セミナーも実施することが発表されたにゃ。このイベントは、最新技術に関心のある人々にとって貴重な学びの場となることが期待されているそうだにゃん。"
+     "summary": "リコージャパンが奈良市で生成AIとDXに関する新技術の展示会を開催し、入門セミナーも実施するにゃ。このイベントは、最新の技術を学ぶ機会を提供し、地域の企業や個人にとって有益な情報を得る場となることを目指しているそうだにゃん。"
     }
    ]
   },
@@ -205,48 +205,48 @@
    "items": [
     {
      "type": "news",
+     "title": "特別展「いきもの超ワールド展 国立科学博物館×ダーウィンが来た！」開幕レポート。音声ガイドは相葉雅紀 - 美術手帖",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FNXZ3TnJOSlJpY3U5RnFjaUxYZVJkQWhiWVhMNjNLeXZWSXhRSWdIMHdtWHhLcE95UWNGVFdFMmw3dVI2elAtN2hhNzU0eGU0UU5hMDhBRFFhbzA4M21lMw?oc=5",
+     "date": "2026-07-11T06:12:07+00:00",
+     "source": "美術手帖",
+     "snippet": "特別展「いきもの超ワールド展 国立科学博物館×ダーウィンが来た！」開幕レポート。音声ガイドは相葉雅紀&nbsp;&nbsp;美術手帖",
+     "summary": "特別展「いきもの超ワールド展 国立科学博物館×ダーウィンが来た！」が開幕したにゃ。音声ガイドは相葉雅紀が担当しているそうだにゃ。展覧会では、生命の多様性や進化についての展示が行われ、来場者に新たな発見を促す内容になっているにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "「生命の不思議を探る」：国立科学博物館で新展覧会開催 - arabnews.jp",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBWXVaYWE5Vm9nNE5JWC1nVEszc0FKa3RyRlV1NGt3aUxSOEsxR3hwSnhuVWxfRDZTeVc2ZVo5U3IyTlREVDhzV09kTl9wdXNPVDNYUFZYekloZnZXVGgwbUd3WTlLbHM?oc=5",
+     "date": "2026-07-11T02:08:26+00:00",
+     "source": "arabnews.jp",
+     "snippet": "「生命の不思議を探る」：国立科学博物館で新展覧会開催&nbsp;&nbsp;arabnews.jp",
+     "summary": "国立科学博物館で新展覧会「生命の不思議を探る」が開催されたにゃ。この展覧会では、生命の起源や進化、さまざまな生物の特性について探求する内容が展開されているそうだにゃ。来場者は、生命の神秘に触れる貴重な機会を得られるにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "【東北24研究会】②２日目は仙台市科学館を視察。 - 選挙ドットコム",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBySUpzc3VYcTYwbFVDb0tzelJYdW4xN25Wb1Z4cnZSTHdYMHFlb0xJNk9RdktBU1ZMcGc3YUlFZDVNWWxfZjBWUzlpcWRQUTE5eUh1a0dZYnVTX0ZrYVE?oc=5",
+     "date": "2026-07-11T02:02:15+00:00",
+     "source": "選挙ドットコム",
+     "snippet": "【東北24研究会】②２日目は仙台市科学館を視察。&nbsp;&nbsp;選挙ドットコム",
+     "summary": "東北24研究会の2日目に、仙台市科学館を視察したにゃ。視察では、科学館の展示内容や教育プログラムについての情報を得ることが目的だったそうだにゃ。参加者は、地域の科学教育の重要性を再確認したにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yU1d6MTZqYnQwUzVsSW13TDQ5WXZyd3dnMTFGbmZWVDhhV1dYSDQtUWtOSE5Uc09hbmQxRmJTd1UzRDJWVENWd1luWXktWnJjZy1WSlE3YmxLVlpJUnBkWXZ4NXNPcnh1dFE?oc=5",
+     "date": "2026-07-11T01:51:28+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任&nbsp;&nbsp;ウォーカープラス",
+     "summary": "香川照之が国立科学博物館の「昆虫」展のサポーターに就任したにゃ。彼は昆虫の魅力を広めるために活動する予定で、展覧会の成功を支援するそうだにゃん。昆虫の多様性や生態についての理解を深める機会になるにゃ。"
+    },
+    {
+     "type": "news",
      "title": "＜画像2 / 5＞自宅が国立科学博物館に大変身！3Dビュー&VR映像で常設展示を無料公開 - ウォーカープラス",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZEI5eEVJUF9FTV9lQ09CejYtcHFsb1NwMmpqdjIxLWZSSWkzSmkwUWUtY2dvSFl1N1VqWW4wTkFyWGY5RU9BY2ZkN2lnZFh4azcydmljWHNVR3NVV3BCZDFJS252UFJLLWVmbzlKMGExdG0xNkJhV2JhQkpxWWc?oc=5",
      "date": "2026-07-10T12:55:56+00:00",
      "source": "ウォーカープラス",
      "snippet": "＜画像2 / 5＞自宅が国立科学博物館に大変身！3Dビュー&amp;VR映像で常設展示を無料公開&nbsp;&nbsp;ウォーカープラス",
-     "summary": "自宅が国立科学博物館に大変身するプロジェクトが始まったにゃ。3DビューとVR映像を使って、常設展示が無料で公開されるそうだにゃ。自宅にいながら博物館の展示を楽しめる新しい試みで、科学に興味がある人には嬉しいニュースだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "【開幕】特別展「いきもの超ワールド展 国立科学博物館×ダーウィンが来た！」国立科学博物館で10月12日まで 豊富な標本とNHKならではの映像に刮目 夏休みのお子さんにぴったりです - 美術展ナビ",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCRVo3RHBCZS1DakU0a1d4ZG8tTG5BSFpHLXBMeFZwZXc3WnI2WHJjdEJhTk5GdmZpR1Q2cVFRSVhESDhwanY1Z0gyNnpIUmpFSG1zVUlHUVB4OXBBOG8wY0ZhQjNVUWhT?oc=5",
-     "date": "2026-07-10T11:27:22+00:00",
-     "source": "美術展ナビ",
-     "snippet": "【開幕】特別展「いきもの超ワールド展 国立科学博物館×ダーウィンが来た！」国立科学博物館で10月12日まで 豊富な標本とNHKならではの映像に刮目 夏休みのお子さんにぴったりです&nbsp;&nbsp;美術展ナビ",
-     "summary": "特別展「いきもの超ワールド展」が国立科学博物館で開催中だにゃ。展示は10月12日までで、豊富な標本やNHK制作の映像が楽しめるにゃ。夏休みのお子さんにぴったりの内容で、家族で訪れるのに良い機会だと思うにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "【注目】恐竜好き親子におすすめ！大阪市立自然史博物館「大絶滅展」【大阪市都島区】川ばたひろこ - 選挙ドットコム",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95UnhUZDdvWk43ZWFuWUZJa1ZBTE1KMXhoaGtmRjBHY3JQazBBVHMtMjV0blNxRmRTeHJlaGZNWXdXZTBocHlvTjNLMTNTREhJLVl1NHFuaENMZTZRYXRv?oc=5",
-     "date": "2026-07-10T09:59:00+00:00",
-     "source": "選挙ドットコム",
-     "snippet": "【注目】恐竜好き親子におすすめ！大阪市立自然史博物館「大絶滅展」【大阪市都島区】川ばたひろこ&nbsp;&nbsp;選挙ドットコム",
-     "summary": "大阪市立自然史博物館で「大絶滅展」が開催されているにゃ。恐竜好きの親子におすすめの展示で、さまざまな恐竜の情報が得られるそうだにゃ。恐竜の歴史や絶滅の原因について学べる貴重な機会だと思うにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "【県立自然科学館】夏の特別展『光と影のマジックワールド』 - pref.niigata.lg.jp",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03SjN2OVZPZDVaVEoyU1c2Q0xsSGloUWNDR0RJV1Foajc5OW11QlFVa2F4QUQ4dEl2d0VQSGhsWHptaUxobG1SVUFuUE91UllDbWRUWFVOWkR6YTJqeS15RHVOT01ZU3E2LVZRTHVxMlNGZE9j?oc=5",
-     "date": "2026-07-10T06:12:36+00:00",
-     "source": "pref.niigata.lg.jp",
-     "snippet": "【県立自然科学館】夏の特別展『光と影のマジックワールド』&nbsp;&nbsp;pref.niigata.lg.jp",
-     "summary": "県立自然科学館で夏の特別展『光と影のマジックワールド』が行われているにゃ。光と影をテーマにした展示で、視覚の不思議を体験できる内容だそうだにゃ。家族連れや子供たちに楽しんでもらえるイベントだと思うにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "ディスカバリーパーク焼津天文科学館 夏の特別展「科学のお化け屋敷Ⅲ」 - at-s.com",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KMlJ1RHRpMnZ0a3RlS0Y5anR6X0gtNnFYNERmek1NOWhWTENYSDlOTm5odnZ6ZkNyd0dCMThGU0dxUWttSEduSVN5ZzZaSXM0aHhTaw?oc=5",
-     "date": "2026-07-10T06:00:46+00:00",
-     "source": "at-s.com",
-     "snippet": "ディスカバリーパーク焼津天文科学館 夏の特別展「科学のお化け屋敷Ⅲ」&nbsp;&nbsp;at-s.com",
-     "summary": "ディスカバリーパーク焼津天文科学館で夏の特別展「科学のお化け屋敷Ⅲ」が開催されているにゃ。科学をテーマにしたお化け屋敷で、楽しみながら学べる内容になっているそうだにゃ。子供たちにとって、科学に親しむ良い機会だと思うにゃん。"
+     "summary": "自宅が国立科学博物館に大変身したにゃ！3DビューとVR映像を使って、常設展示が無料公開されているそうだにゃ。これにより、自宅にいながら博物館の展示を楽しむことができるにゃん。新しい形の学びの場として注目されているにゃ。"
     }
    ]
   },
@@ -256,48 +256,48 @@
    "items": [
     {
      "type": "news",
+     "title": "大分県別府市の「城島高原パーク」に大型VR体験施設「VRサバスポINFINITY」が登場！ - Mogura VR",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa2pfTDlwSDhHTHA2ZV92NVBHV3hESDZKUzlEOHpXRWlEdm14Vm4xSWNhMWlwdDFiZWUyZ2Y0OUJGbV9KQmNxWm5BSnlJd2RubVIyZlQwQi1VdUZtZTRlWmlJaTZ3VHREY1NKbVl6eFF3NktsNVl2X2cyZFB2dmFwSDhn?oc=5",
+     "date": "2026-07-11T05:03:45+00:00",
+     "source": "Mogura VR",
+     "snippet": "大分県別府市の「城島高原パーク」に大型VR体験施設「VRサバスポINFINITY」が登場！&nbsp;&nbsp;Mogura VR",
+     "summary": "大分県別府市の「城島高原パーク」に、大型VR体験施設「VRサバスポINFINITY」がオープンしたにゃ。最新のVR技術を使った体験が楽しめる場所で、訪れる人々に新たなエンターテインメントを提供するそうだにゃん。多様なアトラクションが揃っており、家族連れや友人同士で楽しむのにぴったりだにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "日本XRセンターが新潟の阿賀野に上陸！ 遊園地サントピアワールドにVR体験施設が登場 - Mogura VR",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9heEo5cXotLU1oNDZhdW43VGdUV0pGUVlrd3AyNDdtX3I0Qlp5SGdkSHpWX0hqT3kxYXhSS2pHb0RtbFVBSnQzNkJZQW9SWDBTNm1rRVVxcXBRcV8xVXJsSy1IS2ZmSU1NTWZtQm9qMzBtZ2JXVkVsRDNn?oc=5",
+     "date": "2026-07-11T03:04:27+00:00",
+     "source": "Mogura VR",
+     "snippet": "日本XRセンターが新潟の阿賀野に上陸！ 遊園地サントピアワールドにVR体験施設が登場&nbsp;&nbsp;Mogura VR",
+     "summary": "新潟の阿賀野に、日本XRセンターが登場したにゃ！遊園地サントピアワールド内に新たなVR体験施設がオープンし、訪れる人々に新しい体験を提供するそうだにゃ。XR技術を活用したアトラクションが楽しめる場所で、家族や友人との楽しい時間を過ごせるにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "XR技術を活用した東京ジョイポリスの新施設「ジョイポリススポーツX」オープン！ - Mogura VR",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ER3E2MXMyeDlvSWVyRzg1MWRrNVVBRjZBNk5KOW9EMUphYXU3WklybzVQMHdlb0l1Ri04WHBYZ0NoeWxNQ3NUYzJMNzhQamxfSFM3RFhDWW5pNW4x?oc=5",
+     "date": "2026-07-11T03:04:27+00:00",
+     "source": "Mogura VR",
+     "snippet": "XR技術を活用した東京ジョイポリスの新施設「ジョイポリススポーツX」オープン！&nbsp;&nbsp;Mogura VR",
+     "summary": "東京ジョイポリスに新施設「ジョイポリススポーツX」がオープンしたにゃ！この施設ではXR技術を活用した新しいスポーツ体験が楽しめるそうだにゃ。訪れる人々は、リアルなスポーツ感覚を味わいながら、友達と競い合うことができるにゃん。新たなエンターテインメントの形が広がる予感だにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "災害体験AR・VR機材導入 浸水や火災、地震も 災害に備える 小山市（とちぎテレビ） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UOTZEZ21wUFBZOUNsdjZ2cnRNeTZyeVZGcWZJZkZpZXpRLU1WZEZMTmRoVHAzaWlHeEs3ZHhXMnIwNFFtVTQ4Si1nWVl6UGNqN20wWnkyVzlrVk9zREpPVG5idlpRXzNzRGFyR2lfeDdVaER2N2hrRmYydXBUUTA?oc=5",
+     "date": "2026-07-11T00:49:01+00:00",
+     "source": "Yahoo!ニュース",
+     "snippet": "災害体験AR・VR機材導入 浸水や火災、地震も 災害に備える 小山市（とちぎテレビ）&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "小山市では、災害体験のためにAR・VR機材を導入したにゃ。浸水や火災、地震などの災害に備えるための体験ができる施設で、地域の防災意識を高めることを目的としているそうだにゃん。実際の災害を模した体験を通じて、住民の安全意識が向上することが期待されているにゃ。"
+    },
+    {
+     "type": "news",
      "title": "ダイナモアミューズメント、那須ハイランドパークにて新規アトラクション「ウルトラセブンTHE ATTRACTION - ニコニコニュース",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMV2ZuU2ZvMmdHbnpYWURRYUtmQ3BxbVBVV2FzZXlYM2pFSkdEaVhUNzRNZnU4cFZ3R2tmRHJwYjFOZHY2Vkl3TjduZnRwZE1BXy1sMmNkS1ptMnQzWkNGeDNGVnpXd0ZZ?oc=5",
      "date": "2026-07-10T18:45:30+00:00",
      "source": "ニコニコニュース",
      "snippet": "ダイナモアミューズメント、那須ハイランドパークにて新規アトラクション「ウルトラセブンTHE ATTRACTION&nbsp;&nbsp;ニコニコニュース",
-     "summary": "ダイナモアミューズメントが那須ハイランドパークに新しいアトラクション「ウルトラセブンTHE ATTRACTION」を導入するにゃ。特撮ファンやアトラクション好きにはたまらない体験が待っているそうだにゃん。詳細はニコニコニュースで確認してみてほしいにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "ドラクエ40周年展の新情報公開！キャラクターボイスや巨大スライム体験、レストランも - いこーよニュース",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0ckk0dzhMdFdFMktHV2pWemcyTllOQlNTdzU3WUFoeFFKeXBIei16UTA3ekZyN1FRNGtqUXB6djhZdnJTQ3Z1UU5mbE4xZjFyTlE?oc=5",
-     "date": "2026-07-10T10:50:47+00:00",
-     "source": "いこーよニュース",
-     "snippet": "ドラクエ40周年展の新情報公開！キャラクターボイスや巨大スライム体験、レストランも&nbsp;&nbsp;いこーよニュース",
-     "summary": "ドラクエの40周年展に関する新情報が公開されたにゃ。キャラクターボイスの体験や巨大スライムとのふれあい、さらにレストランも登場するそうだにゃん。ファンには嬉しいイベントになりそうだにゃ。いこーよニュースで詳しくチェックしてみてね！"
-    },
-    {
-     "type": "news",
-     "title": "トヨタ×クラスターのXR体験「爆創クラブ」…世界最大AR/VRアワードのファイナリストに選出 - CAR CARE PLUS",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02X0J5VkQ0S0dxQmRYYkpmazgyeXhIa1NpaFVMODVTcVJZVUVrU2FMVm1wN2hYYzl3azVVY3JOY1hJZHhFcDlrVVJxdnMwRXZWdVdyRWEyOF9zSGVXdGFFSWxR?oc=5",
-     "date": "2026-07-10T08:30:02+00:00",
-     "source": "CAR CARE PLUS",
-     "snippet": "トヨタ×クラスターのXR体験「爆創クラブ」…世界最大AR/VRアワードのファイナリストに選出&nbsp;&nbsp;CAR CARE PLUS",
-     "summary": "トヨタとクラスターが共同で開発したXR体験「爆創クラブ」が、世界最大のAR/VRアワードのファイナリストに選ばれたにゃ。革新的な体験が評価された結果だにゃん。CAR CARE PLUSで詳細を確認してみてほしいにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "今年の夏は極限のVR体験へ。「VRサバスポINFINITY」と「呪死の来訪」がポルトヨーロッパに同時出展！ - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oVUFub05ydWdlYW1oRUU4LUd3NFZqTzVIUjFFdC1jay1WRDBfOVZWekd1R3A3UkFMa3ZBeW1RTkItNExvN3VlQXFMc1Jwa0RLLWMyeTBoWnc1WDBXWjRIX2tpWnNfM1hyU0E?oc=5",
-     "date": "2026-07-10T08:00:01+00:00",
-     "source": "PR TIMES",
-     "snippet": "今年の夏は極限のVR体験へ。「VRサバスポINFINITY」と「呪死の来訪」がポルトヨーロッパに同時出展！&nbsp;&nbsp;PR TIMES",
-     "summary": "今年の夏、ポルトヨーロッパで「VRサバスポINFINITY」と「呪死の来訪」が同時出展されるにゃ。極限のVR体験が楽しめるイベントになるそうだにゃん。PR TIMESでさらに詳しい情報をチェックしてみてね！"
-    },
-    {
-     "type": "news",
-     "title": "VR-gestützter Sprachunterricht an chinesischen Hochschulen: Das Beihang-Pimax-Projekt als Wegweiser einer globalen Bildungsrevolution - Xpert.Digital - Konrad Wolfenstein",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWTFqbjFWcEYzOFFwVFY1cXBESVZFLUpqeFZzMmExc25ydFpjdGkwNWhUa2I0bkZZTnl1dzFzVmszUVlER016VkI2MmRwcUs3QTJnWDhaRXVqWTVVWUdPOTBMM3RPaFlyZjhtT1pZbE81QjFjYmlLOGtCYXE5Qk81QWJ3TkZwMFY4VTNCSk5oTmRNdk9LMF9FV290UUIwVDVNTDhJN1BBUGYyTE1VOFHSAbYBQVVfeXFMTlNld3VzUWxJNERkZDRvOU53LUxuSjFoVEp3OWd4TVpMMnJJN0cyOWdDNEtrZDJmS21GQzhVZ3VadlM3SWt0ZXlsdnZQVHVGV0hYLVJMX1FOcE5pQnJ4YlA3YzhyU1p6UXY4OWJDVzRVQWZrWUJ1eGd4VDFkajc5WUJRWURMcHNRMjFTa25FS0VJNGNsQ3J4bEdmQ1dsMVlGdllfSmZEUXJBX3ExX0FackVSb3V4eHc?oc=5",
-     "date": "2026-07-10T07:55:49+00:00",
-     "source": "Xpert.Digital - Konrad Wolfenstein",
-     "snippet": "VR-gestützter Sprachunterricht an chinesischen Hochschulen: Das Beihang-Pimax-Projekt als Wegweiser einer globalen Bildungsrevolution&nbsp;&nbsp;Xpert.Digital - Konrad Wolfenstein",
-     "summary": "中国の大学でのVRを活用した語学教育について、Beihang-Pimaxプロジェクトがグローバルな教育革命の道しるべとして注目されているにゃ。VR技術が教育に与える影響が期待されているそうだにゃん。Xpert.Digitalで詳しい情報を見てみてね！"
+     "summary": "那須ハイランドパークに、ダイナモアミューズメントが新しいアトラクション「ウルトラセブンTHE ATTRACTION」を導入したにゃ！このアトラクションは、人気のウルトラセブンをテーマにしたもので、訪れる人々に新たな体験を提供するそうだにゃん。家族や友人と一緒に楽しむのにぴったりな場所だにゃ。"
     }
    ]
   }
