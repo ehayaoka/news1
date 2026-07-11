@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-11T07:01:48.727242+00:00",
+ "updated": "2026-07-11T23:38:29.630854+00:00",
  "categories": [
   {
    "id": "ai_media",
@@ -12,7 +12,7 @@
      "date": "2026-07-11T02:03:06+00:00",
      "source": "jetro.go.jp",
      "snippet": "Brighture | 海外有望企業情報 - J-Bridge：連携・協業のためのビジネスプラットフォーム&nbsp;&nbsp;jetro.go.jp",
-     "summary": "Brightureは、海外の有望企業情報を提供するプラットフォームで、J-Bridgeを通じて連携や協業の機会を創出することを目指しているにゃ。企業同士のネットワークを強化し、ビジネスチャンスを広げるための情報を発信しているんだにゃ。"
+     "summary": "Brightureは、海外の有望企業情報を提供するビジネスプラットフォーム「J-Bridge」の一部だにゃ。企業の連携や協業を促進するための情報が集約されているにゃ。詳細はjetro.go.jpで確認できるにゃん。"
     },
     {
      "type": "gov",
@@ -21,7 +21,7 @@
      "date": "2026-07-11T02:03:06+00:00",
      "source": "jetro.go.jp",
      "snippet": "PaSensAI Veritasngea Labs | 海外有望企業情報 - J-Bridge：連携・協業のためのビジネスプラットフォーム&nbsp;&nbsp;jetro.go.jp",
-     "summary": "PaSensAI Veritasngea Labsは、海外の有望企業情報を提供するプラットフォームで、J-Bridgeを通じてビジネスの連携や協業を促進することを目的としているにゃ。新しい技術やサービスの情報を集め、企業の成長をサポートするんだにゃん。"
+     "summary": "PaSensAI Veritasngea Labsも、J-Bridgeを通じて海外の有望企業情報を提供しているにゃ。連携や協業を目指す企業にとって、貴重な情報源となっているにゃん。出典はjetro.go.jpだにゃ。"
     },
     {
      "type": "gov",
@@ -30,7 +30,7 @@
      "date": "2026-07-11T02:01:03+00:00",
      "source": "jetro.go.jp",
      "snippet": "Imperial College London | 海外有望企業情報 - J-Bridge：連携・協業のためのビジネスプラットフォーム&nbsp;&nbsp;jetro.go.jp",
-     "summary": "Imperial College Londonは、海外の有望企業情報を提供するプラットフォームで、J-Bridgeを通じて連携や協業の機会を提供しているにゃ。教育機関としての知見を活かし、ビジネス界とのつながりを強化することを目指しているんだにゃ。"
+     "summary": "Imperial College Londonは、J-Bridgeの一環として海外有望企業情報を提供しているにゃ。ビジネスの連携や協業を支援するためのプラットフォームだにゃ。詳細はjetro.go.jpで確認できるにゃん。"
     },
     {
      "type": "news",
@@ -39,7 +39,7 @@
      "date": "2026-07-10T09:31:43+00:00",
      "source": "media-innovation.jp",
      "snippet": "Getty Images、個人・小規模事業者向けサブスクを発表 AI生成時代に実写素材の利用拡大&nbsp;&nbsp;media-innovation.jp",
-     "summary": "Getty Imagesは、個人や小規模事業者向けにサブスクリプションサービスを発表したにゃ。AI生成時代において、実写素材の利用を拡大し、より多くのクリエイターが高品質な画像を手軽に利用できるようにすることを目指しているんだにゃん。"
+     "summary": "Getty Imagesは、個人や小規模事業者向けのサブスクリプションサービスを発表したにゃ。AI生成の時代において、実写素材の利用を拡大する狙いがあるにゃん。出典はmedia-innovation.jpだにゃ。"
     },
     {
      "type": "news",
@@ -48,16 +48,7 @@
      "date": "2026-07-10T09:05:37+00:00",
      "source": "PR TIMES",
      "snippet": "生成AIの回答はSNSをどれくらい引用しているのか？Optyino.aiがAI回答66,095件を分析、SNS引用率34.6%も参照メディアはAIモデルで最大12.7倍の差&nbsp;&nbsp;PR TIMES",
-     "summary": "Optyino.aiが行った分析によると、生成AIの回答にはSNSが34.6%引用されていることがわかったにゃ。参照メディアの間で最大12.7倍の差があることも示されており、AIモデルの信頼性や情報源の多様性が重要な課題となっているんだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "生成AI時代の報道の信頼性を守る、映像・画像の「真贋判定技術」開発へ ロジック・アンド・デザインが日本テレビとの共同プロジェクトを発足 - 新Screens",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5veE5ic3RzQTZqQWs5UFduYjNfdWpfOGYzb01xMXpFMFFlWUNIaUNxNXNTVmZxcGdmWGF2TGdBT2xVN0xYZlIwRnR5bnU4RzJieGfSAVdBVV95cUxOSlhiZ1BLQzF6Z0lJMGpGQUFyYm5fY0gtM3YzLW1aMWZEWnhOeHJ6VWlZaXNyNTdxYW5uZG84bk93VGlobU5icURWb3NLWU1Ba2UzSVJYTzg?oc=5",
-     "date": "2026-07-10T07:00:00+00:00",
-     "source": "新Screens",
-     "snippet": "生成AI時代の報道の信頼性を守る、映像・画像の「真贋判定技術」開発へ ロジック・アンド・デザインが日本テレビとの共同プロジェクトを発足&nbsp;&nbsp;新Screens",
-     "summary": "ロジック・アンド・デザインは、日本テレビと共同で生成AI時代の報道の信頼性を守るための「真贋判定技術」を開発するプロジェクトを発足させたにゃ。この技術により、映像や画像の真偽を判断し、誤報リスクを軽減することを目指しているんだにゃ。"
+     "summary": "Optyino.aiの分析によると、生成AIの回答はSNSを34.6%引用していることがわかったにゃ。参照メディアの差はAIモデルによって最大12.7倍にもなるそうだにゃん。出典はPR TIMESだにゃ。"
     },
     {
      "type": "news",
@@ -66,7 +57,7 @@
      "date": "2026-07-10T06:38:00+00:00",
      "source": "窓の杜",
      "snippet": "経営者の『7月10日問題』 ～「ChatGPT」はどこまで士業に迫れるか【生成AIストリーム】&nbsp;&nbsp;窓の杜",
-     "summary": "「ChatGPT」が士業にどこまで迫れるかを考察する『7月10日問題』について、経営者の視点からの分析が行われているにゃ。生成AIの活用が進む中で、士業の役割や信頼性についての議論が深まっているんだにゃん。"
+     "summary": "「ChatGPT」が士業にどこまで迫れるかを考察する「7月10日問題」が提起されたにゃ。経営者にとって、AIの活用がどのように影響するかが焦点になっているにゃん。出典は窓の杜だにゃ。"
     },
     {
      "type": "news",
@@ -75,7 +66,7 @@
      "date": "2026-07-10T05:04:09+00:00",
      "source": "MEDIAMIXI",
      "snippet": "日本テレビ、生成AI映像・画像の「真贋判定技術」開発へ ロジック・アンド・デザインと共同プロジェクト発足&nbsp;&nbsp;MEDIAMIXI",
-     "summary": "日本テレビは、ロジック・アンド・デザインと共同で生成AI映像・画像の「真贋判定技術」を開発するプロジェクトを開始したにゃ。この技術は、フェイクニュースや誤報のリスクを軽減し、報道の信頼性を向上させることを目的としているんだにゃん。"
+     "summary": "日本テレビは、生成AIによる映像や画像の真贋判定技術を開発するプロジェクトを発足したにゃ。ロジック・アンド・デザインと共同で進められるにゃん。出典はMEDIAMIXIだにゃ。"
     },
     {
      "type": "news",
@@ -84,7 +75,7 @@
      "date": "2026-07-10T01:00:00+00:00",
      "source": "民放online",
      "snippet": "記者の生成AI活用術とは 報道の「7サイクル」で使いこなす ニュースの価値判断は人の手で&nbsp;&nbsp;民放online",
-     "summary": "記者が生成AIを活用する方法について、報道の「7サイクル」に沿った使い方が紹介されているにゃ。ニュースの価値判断は人間の手で行うべきであり、AIはそのサポート役としての役割を果たすことが期待されているんだにゃん。"
+     "summary": "記者が生成AIを活用する方法について、報道の「7サイクル」を通じて解説されているにゃ。ニュースの価値判断は依然として人間の手によるものだと強調されているにゃん。出典は民放onlineだにゃ。"
     },
     {
      "type": "news",
@@ -93,7 +84,16 @@
      "date": "2026-07-09T12:03:02+00:00",
      "source": "ニコニコニュース",
      "snippet": "ニュース番組のフェイク画像・映像の誤報リスクに対応 日テレ「真贋判定技術」共同開発へプロジェクト発足&nbsp;&nbsp;ニコニコニュース",
-     "summary": "日本テレビは、ニュース番組におけるフェイク画像や映像の誤報リスクに対応するため、「真贋判定技術」の共同開発プロジェクトを発足させたにゃ。この技術により、視聴者に正確な情報を提供することを目指しているんだにゃん。"
+     "summary": "日テレは、ニュース番組におけるフェイク画像や映像の誤報リスクに対応するため、真贋判定技術の共同開発プロジェクトを発足したにゃ。出典はニコニコニュースだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "Meta、最新のメディア生成AIモデル「Muse Image」をリリース エージェントとして各種ツールを利用し画像を生成する - 株式会社インプレス",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BZzBONDBLNDFhRlRZX2YyV0JJb0otYk10MmVpWURfcFNyNWlVZnNqSnVTRndRcDJtS0xNZl9xbHRoalpiaGlWTjVvVnpubGdUVkx5Q18xVUs3dmdMeEVlbzlPNA?oc=5",
+     "date": "2026-07-09T03:24:44+00:00",
+     "source": "株式会社インプレス",
+     "snippet": "Meta、最新のメディア生成AIモデル「Muse Image」をリリース エージェントとして各種ツールを利用し画像を生成する&nbsp;&nbsp;株式会社インプレス",
+     "summary": "Metaは、最新のメディア生成AIモデル「Muse Image」をリリースしたにゃ。このモデルはエージェントとして各種ツールを利用し、画像を生成する機能を持っているにゃん。出典は株式会社インプレスだにゃ。"
     }
    ]
   },
@@ -103,12 +103,21 @@
    "items": [
     {
      "type": "news",
+     "title": "＜ブラタモリ＞天下人の理想の“まちづくり”とは 信長の「安土」、秀吉・秀次の「近江八幡」で復習 それぞれの発想と狙い明らかに - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOd1hZWVJ3bU8wVDk0WkFBamUyV3VLYmpFQWJWR3pWN3RXdUw0eHBGYVpPQnhBVGpSb080dzY5MGR4WVU3dVY2dnFHZnFMdVlaSThUdDN2Mm9CbVBFRFp1eW14RndfUFowREJ2TDFMQlNSaElKR3M1dlo5ZEs3azA?oc=5",
+     "date": "2026-07-11T05:41:00+00:00",
+     "source": "Yahoo!ニュース",
+     "snippet": "＜ブラタモリ＞天下人の理想の“まちづくり”とは 信長の「安土」、秀吉・秀次の「近江八幡」で復習 それぞれの発想と狙い明らかに&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "「ブラタモリ」では、信長の「安土」と秀吉・秀次の「近江八幡」を通じて、天下人の理想のまちづくりについて探求するにゃ。各々の発想や狙いが明らかになり、歴史的背景を理解する手助けになる内容だにゃん。"
+    },
+    {
+     "type": "news",
      "title": "「子どもたちがここで生活したいと思えるまちづくりを」築51年の空き家を宿泊施設に再生 加速する民間主導の地域活性化 そのメリットは?（静岡放送（SBS）） - Yahoo!ニュース",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15OU43b2dVM00xdjJFOHFrcE02YjhBNFpraHlrdTJVTlNiQTE5S0RRSWRVV1lfZXNxejhaT3JUdXpzQlR3STVZUXIzS1I3TE1CMlBjUUVEYWEwcHFvMUNiRzgxQVZCUERSVzFZWWw4UVZZRWR4T0dCN1BGR2NtWXM?oc=5",
      "date": "2026-07-10T11:38:13+00:00",
      "source": "Yahoo!ニュース",
      "snippet": "「子どもたちがここで生活したいと思えるまちづくりを」築51年の空き家を宿泊施設に再生 加速する民間主導の地域活性化 そのメリットは?（静岡放送（SBS））&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "築51年の空き家を宿泊施設に再生する取り組みが進んでいるにゃ。このプロジェクトは、子どもたちが住みたいと思えるまちづくりを目指しているそうだにゃ。民間主導で地域活性化が加速しており、地域の魅力を引き出すことが期待されているにゃん。空き家の再利用は、地域の経済やコミュニティの活性化にも寄与する可能性があるだにゃ。"
+     "summary": "静岡では、築51年の空き家を宿泊施設に再生し、子どもたちが住みたいと思えるまちづくりを目指す取り組みが進行中だにゃ。民間主導の地域活性化が加速しており、そのメリットについても考察されているにゃん。"
     },
     {
      "type": "gov",
@@ -117,7 +126,7 @@
      "date": "2026-07-10T10:33:47+00:00",
      "source": "政府広報オンライン",
      "snippet": "著作権者が分からない作品、使っても大丈夫？許可が取れないときの解決策は？&nbsp;&nbsp;政府広報オンライン",
-     "summary": "著作権者が不明な作品を使用する際の注意点について解説しているにゃ。許可が取れない場合、作品の使用が合法かどうかは難しい問題だにゃ。政府広報オンラインでは、著作権に関する解決策や具体的な対応方法を提示しているそうだにゃん。著作権を尊重しつつ、適切な利用を考えることが重要だにゃ。"
+     "summary": "著作権者が不明な作品を使用する際の注意点について解説しているにゃ。許可が取れない場合の解決策も提示されており、著作権の理解を深めるための情報が提供されているだにゃ。"
     },
     {
      "type": "news",
@@ -126,25 +135,16 @@
      "date": "2026-07-10T02:15:15+00:00",
      "source": "ニコニコニュース",
      "snippet": "7/30（木）セミナー開催 地域おこし協力隊 集まる募集、集まらない募集～隊員希望者に選ばれる自治体になるには&nbsp;&nbsp;ニコニコニュース",
-     "summary": "地域おこし協力隊のセミナーが7月30日に開催されるにゃ。このセミナーでは、隊員希望者に選ばれる自治体になるためのポイントが議論されるそうだにゃ。地域の活性化を目指すためには、魅力的な募集が必要だにゃん。参加者には、成功事例や具体的な戦略が共有される予定だにゃ。"
+     "summary": "地域おこし協力隊に関するセミナーが開催されるにゃ。隊員希望者に選ばれる自治体になるためのポイントが議論され、地域活性化に向けた取り組みが紹介される予定だにゃん。"
     },
     {
      "type": "news",
-     "title": "『GLOCAL MISSION Times』を『地方創生ジャーナル』へリニューアル。第1弾として、北海道の大手小売事業者や竹富島の大手宿泊事業者に迫る深掘りインタビューを公開 - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfTWFkRzRmWVMwN0xrb25wcFE0OExaV0NZcWFZYWNvdGItTDh4UW5lZUhoS3JFUlBVTF9VcWY1bTJkWERMTWlIXzRweF82aFhCSENSeFpXeDMyYVoySWRHaVZxTTZxdV9YYVE?oc=5",
-     "date": "2026-07-10T02:00:02+00:00",
-     "source": "PR TIMES",
-     "snippet": "『GLOCAL MISSION Times』を『地方創生ジャーナル』へリニューアル。第1弾として、北海道の大手小売事業者や竹富島の大手宿泊事業者に迫る深掘りインタビューを公開&nbsp;&nbsp;PR TIMES",
-     "summary": "『GLOCAL MISSION Times』が『地方創生ジャーナル』にリニューアルされたにゃ。第1弾では、北海道の大手小売事業者や竹富島の宿泊事業者に関する深掘りインタビューが公開されるそうだにゃ。この新しいジャーナルは、地方創生に関する情報をより深く掘り下げることを目指しているだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "長野、新潟、福島ローカル線またぐ異例の直通列車 有志の熱意で特別運行「地域活性化に」 - 産経ニュース",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yY1plRGEySVpPSzhZaWdERExjQmp2OGZueFpTM0NWQ1A3eGJkd240XzljSEZpclloUXhENHVick9Ea2toZ09OcXFsNjVDdzZoMVN1RUZzVXZERnRNVm1Bc0poTUhTNG9ka3VPZnlFbWFWNEg2MlE?oc=5",
-     "date": "2026-07-10T02:00:00+00:00",
-     "source": "産経ニュース",
-     "snippet": "長野、新潟、福島ローカル線またぐ異例の直通列車 有志の熱意で特別運行「地域活性化に」&nbsp;&nbsp;産経ニュース",
-     "summary": "長野、新潟、福島を結ぶ異例の直通列車が、有志の熱意で特別運行されることになったにゃ。この列車は地域活性化を目的としており、観光客を呼び込むことが期待されているそうだにゃん。地域の連携を強化し、交通の便を向上させることで、地域の魅力を発信する試みだにゃ。"
+     "title": "＜ブラタモリ＞天下人、織田・豊臣・徳川の理想のまちづくりに3週連続で迫る タモリ「家康はすごいです」 - ｄメニューニュース",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2E3M2s2NXU4MGdnM2t3aDkxb3dGOW1JYVdkTjVQd3lpSTdfVDZjYXZUWHRaeVhlTTdMZVp6R3JsUEItU3B5dEdxeVNFTDhfaE1CNzRIMW9ZNUNscXpKWTF1U3JmY2J1LTZMSzhIRzVxVEtfb0Q5OEpnaXRBOVZqT2lHQdIBgwFBVV95cUxNT2E3M2s2NXU4MGdnM2t3aDkxb3dGOW1JYVdkTjVQd3lpSTdfVDZjYXZUWHRaeVhlTTdMZVp6R3JsUEItU3B5dEdxeVNFTDhfaE1CNzRIMW9ZNUNscXpKWTF1U3JmY2J1LTZMSzhIRzVxVEtfb0Q5OEpnaXRBOVZqT2lHQQ?oc=5",
+     "date": "2026-07-10T02:14:00+00:00",
+     "source": "ｄメニューニュース",
+     "snippet": "＜ブラタモリ＞天下人、織田・豊臣・徳川の理想のまちづくりに3週連続で迫る タモリ「家康はすごいです」&nbsp;&nbsp;ｄメニューニュース",
+     "summary": "「ブラタモリ」では、織田・豊臣・徳川の理想のまちづくりに迫る特集が3週連続で放送されるにゃ。タモリが家康の偉大さを称賛し、歴史的な視点からのまちづくりの重要性が強調される内容だにゃん。"
     }
    ]
   },
@@ -154,12 +154,21 @@
    "items": [
     {
      "type": "news",
+     "title": "偏向報道の上映スケジュール・映画情報 - 映画の時間",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOd2hBSGpwYTA5RGlIWTM5UUhQeENsVFltLXlJZVhBcE1kRUJlZHNUdzAtYmlFczlRT1F1Y0xTR2pFOWhuZ1FCV1pTdWZER01wM3c?oc=5",
+     "date": "2026-07-11T11:39:39+00:00",
+     "source": "映画の時間",
+     "snippet": "偏向報道の上映スケジュール・映画情報&nbsp;&nbsp;映画の時間",
+     "summary": "映画「偏向報道」の上映スケジュールや映画情報が紹介されているにゃ。詳細は「映画の時間」で確認できるそうだにゃん。"
+    },
+    {
+     "type": "news",
      "title": "今、「他者と生きるヒント」になる名著3選——NHK「100分de名著」シリーズ【NHK100分de名著キャンペーン】 - NHK出版デジタルマガジン",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxVUpKeklvSGw2eWFEUWtKZURJUllFLXU3a3hhTVM2QWU1cHZqU0xpZWd3N2MzRVNLUjVGT01CRFJ4a2ljRy1Ec1lPWXZfLXdpYVE?oc=5",
      "date": "2026-07-10T22:06:28+00:00",
      "source": "NHK出版デジタルマガジン",
      "snippet": "今、「他者と生きるヒント」になる名著3選——NHK「100分de名著」シリーズ【NHK100分de名著キャンペーン】&nbsp;&nbsp;NHK出版デジタルマガジン",
-     "summary": "今、「他者と生きるヒント」になる名著として、NHK「100分de名著」シリーズから3冊が紹介されているにゃ。これらの本は、他者との関係を深めるための知恵や洞察を提供してくれるそうだにゃん。具体的なタイトルや内容は記載されていないけれど、読書を通じて新たな視点を得ることができるにゃ。"
+     "summary": "NHK「100分de名著」シリーズから、他者と生きるためのヒントになる名著3選が紹介されているにゃ。これらの書籍は、現代社会での人間関係を深める手助けになるそうだにゃん。"
     },
     {
      "type": "news",
@@ -168,7 +177,7 @@
      "date": "2026-07-10T21:06:30+00:00",
      "source": "ｄメニューニュース",
      "snippet": "小中学生つなぐアプリを運営…『13歳起業家』が目指す好きを通じてつながれる場所 きっかけは“1つのニュース”&nbsp;&nbsp;ｄメニューニュース",
-     "summary": "13歳の起業家が、小中学生をつなぐアプリを運営しているにゃ。このアプリは、好きなことを通じて子どもたちがつながれる場所を目指しているそうだにゃ。きっかけは1つのニュースだったとのことで、若い世代の創造力やコミュニティ形成に寄与することを期待されているにゃん。"
+     "summary": "13歳の起業家が、小中学生をつなぐアプリを運営しているにゃ。このアプリは、好きを通じてつながれる場所を提供し、きっかけは「1つのニュース」だったそうだにゃん。"
     },
     {
      "type": "news",
@@ -177,25 +186,16 @@
      "date": "2026-07-10T10:15:00+00:00",
      "source": "ｄメニューニュース",
      "snippet": "データ活用で地域活性化を 札幌市、NTT東子会社と協定&nbsp;&nbsp;ｄメニューニュース",
-     "summary": "札幌市がNTT東の子会社と協定を結び、データ活用による地域活性化を目指す取り組みを始めたにゃ。この協定により、地域の課題解決や住民サービスの向上が期待されているそうだにゃ。データを活用することで、より良い地域づくりが進むことを願っているにゃん。"
+     "summary": "札幌市がNTT東の子会社と協定を結び、データを活用して地域活性化を目指す取り組みを始めたにゃ。地域の発展に向けた新たなステップだそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "NHK松山放送局アナ、“万引きの疑いで聴取” の衝撃…続発する局員の “醜聞” に強まる不信感 - smart-flash.jp",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14Z29GVk1IdmNGTXRIM2FfWWVtSHd6NHZiaW1Hak0yQk42clhmeWU1QTQwLW4tQ095UkpwZWR1NEl3NDB0OWJlUmc2Zm0zbVBuUGZQNFNZN3JTX2lyTmFGbUVfbTRVZzZYQUxaR2xmWGM?oc=5",
-     "date": "2026-07-10T09:06:00+00:00",
-     "source": "smart-flash.jp",
-     "snippet": "NHK松山放送局アナ、“万引きの疑いで聴取” の衝撃…続発する局員の “醜聞” に強まる不信感&nbsp;&nbsp;smart-flash.jp",
-     "summary": "NHK松山放送局のアナウンサーが万引きの疑いで聴取を受けたことが報じられ、局員の醜聞が続発しているにゃ。この事件は視聴者や関係者の間に不信感を生じさせているそうだにゃん。信頼回復に向けた対応が求められる状況だにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "リコージャパン 奈良市で生成AI・DX新技術展示会 入門セミナーも実施 - 47NEWS",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XR3NTNWlicGZvclQ5UDFzd1djZGFtcjV3Y3pycGJfU3Q4T21fZWo1Z1pySUN6cTlxMHZQZ3pHSE5kODd0U2ZfU3Vyaw?oc=5",
-     "date": "2026-07-10T07:34:25+00:00",
-     "source": "47NEWS",
-     "snippet": "リコージャパン 奈良市で生成AI・DX新技術展示会 入門セミナーも実施&nbsp;&nbsp;47NEWS",
-     "summary": "リコージャパンが奈良市で生成AIとDXに関する新技術の展示会を開催し、入門セミナーも実施するにゃ。このイベントは、最新の技術を学ぶ機会を提供し、地域の企業や個人にとって有益な情報を得る場となることを目指しているそうだにゃん。"
+     "title": "産経新聞社、YouTube新番組「産経ザファクト」を開始 Z世代の「ファクトシーカー」が専門記者に切り込む構成 1枚目の写真・画像 - media-innovation.jp",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yRFc2Q3k0djF1UnRieVR6cmYxbXFkT2RkanVEU1ZRcTRZYXhlYjhKeHZjTW1KNTliTzBCWkVXWTNJTTJLeUgtOXllRVFYeWNScUNnTFhfUEpCUmhwWWJ4UzQxTVdZRzNsdkNGSThiX2Y3aFpzWUFz?oc=5",
+     "date": "2026-07-10T09:18:00+00:00",
+     "source": "media-innovation.jp",
+     "snippet": "産経新聞社、YouTube新番組「産経ザファクト」を開始 Z世代の「ファクトシーカー」が専門記者に切り込む構成 1枚目の写真・画像&nbsp;&nbsp;media-innovation.jp",
+     "summary": "産経新聞社がYouTubeで新番組「産経ザファクト」を開始したにゃ。この番組では、Z世代の「ファクトシーカー」が専門記者に切り込む構成になっているそうだにゃん。"
     }
    ]
   },
@@ -205,21 +205,30 @@
    "items": [
     {
      "type": "news",
-     "title": "特別展「いきもの超ワールド展 国立科学博物館×ダーウィンが来た！」開幕レポート。音声ガイドは相葉雅紀 - 美術手帖",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FNXZ3TnJOSlJpY3U5RnFjaUxYZVJkQWhiWVhMNjNLeXZWSXhRSWdIMHdtWHhLcE95UWNGVFdFMmw3dVI2elAtN2hhNzU0eGU0UU5hMDhBRFFhbzA4M21lMw?oc=5",
-     "date": "2026-07-11T06:12:07+00:00",
-     "source": "美術手帖",
-     "snippet": "特別展「いきもの超ワールド展 国立科学博物館×ダーウィンが来た！」開幕レポート。音声ガイドは相葉雅紀&nbsp;&nbsp;美術手帖",
-     "summary": "特別展「いきもの超ワールド展 国立科学博物館×ダーウィンが来た！」が開幕したにゃ。音声ガイドは相葉雅紀が担当しているそうだにゃ。展覧会では、生命の多様性や進化についての展示が行われ、来場者に新たな発見を促す内容になっているにゃん。"
+     "title": "リポート｜相葉雅紀“新種を発見しちゃったかもしれない説が！”新種発見なるか！？ — 第一線での生存戦略は“ヘラヘラ過ごす、とにかく笑って” - SAPIENS TODAY｜サピエンストゥデイ",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43Z1pfVm1NMlBBbzdKNzdfNnYxSU9PbnBlbGktWVJ2YXVvRVFDaFZ5R0JUS3BQZHo0dFU3YUhrb0NTSVNpZFkzWmlhZ3FQV283dmpmbnZBZnA?oc=5",
+     "date": "2026-07-11T23:00:24+00:00",
+     "source": "SAPIENS TODAY｜サピエンストゥデイ",
+     "snippet": "リポート｜相葉雅紀“新種を発見しちゃったかもしれない説が！”新種発見なるか！？ — 第一線での生存戦略は“ヘラヘラ過ごす、とにかく笑って”&nbsp;&nbsp;SAPIENS TODAY｜サピエンストゥデイ",
+     "summary": "相葉雅紀さんが新種の発見に関する説を提唱した記事だにゃ。彼は第一線での生存戦略として「ヘラヘラ過ごす、とにかく笑って」を挙げており、ユーモアを大切にしているそうだにゃん。新種発見の可能性についての詳細は不明だけど、彼の楽観的な姿勢が印象的だにゃ。"
     },
     {
      "type": "news",
-     "title": "「生命の不思議を探る」：国立科学博物館で新展覧会開催 - arabnews.jp",
+     "title": "＜画像2 / 17＞伝説の巨大ダイオウイカのすむ深い海の世界を体験 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZRXduYXVFUmdVVDNiN2tXT0U0NFZhNloycE13TmJ6YlRGcU5zdUlFWHptQVVCa3k4MWtVUHlmbkpnczZScldYTHZmZXdoNi05ZUxoeWhQVlZ1S2t1QXotTVlzUF8zYTNq?oc=5",
+     "date": "2026-07-11T15:17:23+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "＜画像2 / 17＞伝説の巨大ダイオウイカのすむ深い海の世界を体験&nbsp;&nbsp;ウォーカープラス",
+     "summary": "伝説の巨大ダイオウイカが生息する深海の世界を体験できるイベントが紹介されている記事だにゃ。深海の神秘的な生物たちを間近で観察できる機会が提供されており、参加者はその魅力を感じることができるそうだにゃん。詳細な情報は画像からも伺えるにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "「いきもの超ワールド展」：国立科学博物館で新展覧会開催 - arabnews.jp",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBWXVaYWE5Vm9nNE5JWC1nVEszc0FKa3RyRlV1NGt3aUxSOEsxR3hwSnhuVWxfRDZTeVc2ZVo5U3IyTlREVDhzV09kTl9wdXNPVDNYUFZYekloZnZXVGgwbUd3WTlLbHM?oc=5",
-     "date": "2026-07-11T02:08:26+00:00",
+     "date": "2026-07-11T04:07:19+00:00",
      "source": "arabnews.jp",
-     "snippet": "「生命の不思議を探る」：国立科学博物館で新展覧会開催&nbsp;&nbsp;arabnews.jp",
-     "summary": "国立科学博物館で新展覧会「生命の不思議を探る」が開催されたにゃ。この展覧会では、生命の起源や進化、さまざまな生物の特性について探求する内容が展開されているそうだにゃ。来場者は、生命の神秘に触れる貴重な機会を得られるにゃん。"
+     "snippet": "「いきもの超ワールド展」：国立科学博物館で新展覧会開催&nbsp;&nbsp;arabnews.jp",
+     "summary": "国立科学博物館で「いきもの超ワールド展」が開催されることが発表された記事だにゃ。この展覧会では、さまざまな生物の多様性や生態系について学ぶことができるようだにゃん。科学と自然の魅力を体験できる貴重な機会だと思うにゃ。"
     },
     {
      "type": "news",
@@ -228,7 +237,7 @@
      "date": "2026-07-11T02:02:15+00:00",
      "source": "選挙ドットコム",
      "snippet": "【東北24研究会】②２日目は仙台市科学館を視察。&nbsp;&nbsp;選挙ドットコム",
-     "summary": "東北24研究会の2日目に、仙台市科学館を視察したにゃ。視察では、科学館の展示内容や教育プログラムについての情報を得ることが目的だったそうだにゃ。参加者は、地域の科学教育の重要性を再確認したにゃん。"
+     "summary": "東北24研究会の2日目に仙台市科学館を視察したことが報告されている記事だにゃ。視察の目的や具体的な内容については記載がないけれど、科学館の施設や展示についての理解を深めるための活動の一環だと思われるにゃん。"
     },
     {
      "type": "news",
@@ -237,16 +246,7 @@
      "date": "2026-07-11T01:51:28+00:00",
      "source": "ウォーカープラス",
      "snippet": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任&nbsp;&nbsp;ウォーカープラス",
-     "summary": "香川照之が国立科学博物館の「昆虫」展のサポーターに就任したにゃ。彼は昆虫の魅力を広めるために活動する予定で、展覧会の成功を支援するそうだにゃん。昆虫の多様性や生態についての理解を深める機会になるにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "＜画像2 / 5＞自宅が国立科学博物館に大変身！3Dビュー&VR映像で常設展示を無料公開 - ウォーカープラス",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZEI5eEVJUF9FTV9lQ09CejYtcHFsb1NwMmpqdjIxLWZSSWkzSmkwUWUtY2dvSFl1N1VqWW4wTkFyWGY5RU9BY2ZkN2lnZFh4azcydmljWHNVR3NVV3BCZDFJS252UFJLLWVmbzlKMGExdG0xNkJhV2JhQkpxWWc?oc=5",
-     "date": "2026-07-10T12:55:56+00:00",
-     "source": "ウォーカープラス",
-     "snippet": "＜画像2 / 5＞自宅が国立科学博物館に大変身！3Dビュー&amp;VR映像で常設展示を無料公開&nbsp;&nbsp;ウォーカープラス",
-     "summary": "自宅が国立科学博物館に大変身したにゃ！3DビューとVR映像を使って、常設展示が無料公開されているそうだにゃ。これにより、自宅にいながら博物館の展示を楽しむことができるにゃん。新しい形の学びの場として注目されているにゃ。"
+     "summary": "香川照之さんが国立科学博物館の「昆虫」展のサポーターに就任したことが伝えられている記事だにゃ。彼の参加により、昆虫の魅力や重要性が広く伝わることが期待されているそうだにゃん。昆虫展の内容についても注目が集まるにゃ。"
     }
    ]
   },
@@ -256,48 +256,48 @@
    "items": [
     {
      "type": "news",
+     "title": "今のソニーが本気で取り組んでいるのは“体験価値の創出”「Creative Solution Showcase 2026」ロケーションエンタテインメント展示レポ - Mogura VR",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53XzZpWmVDR1RYbzhEVk0zT0cyLWFGSDJpc1NHeDgwWHVEOW5qU2VCeG5BRHY5Q21lMF82bGlBRkdpZmQ2ZWwzX1p4bjJQYmlkZ3l4X1Z2ZHdoV2NrYzh5dS1YcjY1N2o5bS1ta2RKVGV3UQ?oc=5",
+     "date": "2026-07-11T07:35:49+00:00",
+     "source": "Mogura VR",
+     "snippet": "今のソニーが本気で取り組んでいるのは“体験価値の創出”「Creative Solution Showcase 2026」ロケーションエンタテインメント展示レポ&nbsp;&nbsp;Mogura VR",
+     "summary": "ソニーは「Creative Solution Showcase 2026」で、体験価値の創出に本気で取り組んでいることを示した展示を行ったにゃ。新たなロケーションエンタテインメントのアイデアや技術が紹介され、来場者に新しい体験を提供することを目指しているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "平等寺「夏祭り 観音様縁日」 - レッツエンジョイ東京",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40RERSaFlnN2kwM2VwQlRoTTJTdGRIRkxuaGU2dXhJejRZWTZ3bVljaEdsd1dDZEZqckFpMDhyTEN5QXc2dms1QTVDcWhET3hFWmc?oc=5",
+     "date": "2026-07-11T07:23:11+00:00",
+     "source": "レッツエンジョイ東京",
+     "snippet": "平等寺「夏祭り 観音様縁日」&nbsp;&nbsp;レッツエンジョイ東京",
+     "summary": "平等寺で「夏祭り 観音様縁日」が開催されるにゃ。地域の人々が集まり、楽しむイベントとなっているそうだにゃ。詳細はレッツエンジョイ東京で確認できるにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "Meta Quest 3Sが8,910円OFF。「VRって面白い」を最短で体験するなら狙おう - Gizmodo",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQejZHUm9iTWYzTzg1bnJtdU1qNkdkaTVWYlo4Vk9jdUhCeVBSRm5pdDNNc3B5a1hpajdEX3lVeWVkRE82M0YxZjNLNFFXZXVMVWN4TFp0UUNlT3NEQ3RBeDBxNnU1RXdISW1QbnhDVQ?oc=5",
+     "date": "2026-07-11T06:55:00+00:00",
+     "source": "Gizmodo",
+     "snippet": "Meta Quest 3Sが8,910円OFF。「VRって面白い」を最短で体験するなら狙おう&nbsp;&nbsp;Gizmodo",
+     "summary": "Meta Quest 3Sが8,910円の割引で販売中だにゃ。VR体験を手軽に楽しむチャンスで、特に「VRって面白い」を体験したい人にはおすすめだにゃん。Gizmodoで詳細をチェックしてみてにゃ。"
+    },
+    {
+     "type": "news",
      "title": "大分県別府市の「城島高原パーク」に大型VR体験施設「VRサバスポINFINITY」が登場！ - Mogura VR",
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa2pfTDlwSDhHTHA2ZV92NVBHV3hESDZKUzlEOHpXRWlEdm14Vm4xSWNhMWlwdDFiZWUyZ2Y0OUJGbV9KQmNxWm5BSnlJd2RubVIyZlQwQi1VdUZtZTRlWmlJaTZ3VHREY1NKbVl6eFF3NktsNVl2X2cyZFB2dmFwSDhn?oc=5",
-     "date": "2026-07-11T05:03:45+00:00",
+     "date": "2026-07-11T05:10:47+00:00",
      "source": "Mogura VR",
      "snippet": "大分県別府市の「城島高原パーク」に大型VR体験施設「VRサバスポINFINITY」が登場！&nbsp;&nbsp;Mogura VR",
-     "summary": "大分県別府市の「城島高原パーク」に、大型VR体験施設「VRサバスポINFINITY」がオープンしたにゃ。最新のVR技術を使った体験が楽しめる場所で、訪れる人々に新たなエンターテインメントを提供するそうだにゃん。多様なアトラクションが揃っており、家族連れや友人同士で楽しむのにぴったりだにゃ。"
+     "summary": "大分県別府市の城島高原パークに大型VR体験施設「VRサバスポINFINITY」がオープンしたにゃ。新しいアトラクションとして、訪れる人々に新たな体験を提供することを目指しているそうだにゃん。"
     },
     {
      "type": "news",
      "title": "日本XRセンターが新潟の阿賀野に上陸！ 遊園地サントピアワールドにVR体験施設が登場 - Mogura VR",
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9heEo5cXotLU1oNDZhdW43VGdUV0pGUVlrd3AyNDdtX3I0Qlp5SGdkSHpWX0hqT3kxYXhSS2pHb0RtbFVBSnQzNkJZQW9SWDBTNm1rRVVxcXBRcV8xVXJsSy1IS2ZmSU1NTWZtQm9qMzBtZ2JXVkVsRDNn?oc=5",
-     "date": "2026-07-11T03:04:27+00:00",
+     "date": "2026-07-11T03:05:46+00:00",
      "source": "Mogura VR",
      "snippet": "日本XRセンターが新潟の阿賀野に上陸！ 遊園地サントピアワールドにVR体験施設が登場&nbsp;&nbsp;Mogura VR",
-     "summary": "新潟の阿賀野に、日本XRセンターが登場したにゃ！遊園地サントピアワールド内に新たなVR体験施設がオープンし、訪れる人々に新しい体験を提供するそうだにゃ。XR技術を活用したアトラクションが楽しめる場所で、家族や友人との楽しい時間を過ごせるにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "XR技術を活用した東京ジョイポリスの新施設「ジョイポリススポーツX」オープン！ - Mogura VR",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ER3E2MXMyeDlvSWVyRzg1MWRrNVVBRjZBNk5KOW9EMUphYXU3WklybzVQMHdlb0l1Ri04WHBYZ0NoeWxNQ3NUYzJMNzhQamxfSFM3RFhDWW5pNW4x?oc=5",
-     "date": "2026-07-11T03:04:27+00:00",
-     "source": "Mogura VR",
-     "snippet": "XR技術を活用した東京ジョイポリスの新施設「ジョイポリススポーツX」オープン！&nbsp;&nbsp;Mogura VR",
-     "summary": "東京ジョイポリスに新施設「ジョイポリススポーツX」がオープンしたにゃ！この施設ではXR技術を活用した新しいスポーツ体験が楽しめるそうだにゃ。訪れる人々は、リアルなスポーツ感覚を味わいながら、友達と競い合うことができるにゃん。新たなエンターテインメントの形が広がる予感だにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "災害体験AR・VR機材導入 浸水や火災、地震も 災害に備える 小山市（とちぎテレビ） - Yahoo!ニュース",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UOTZEZ21wUFBZOUNsdjZ2cnRNeTZyeVZGcWZJZkZpZXpRLU1WZEZMTmRoVHAzaWlHeEs3ZHhXMnIwNFFtVTQ4Si1nWVl6UGNqN20wWnkyVzlrVk9zREpPVG5idlpRXzNzRGFyR2lfeDdVaER2N2hrRmYydXBUUTA?oc=5",
-     "date": "2026-07-11T00:49:01+00:00",
-     "source": "Yahoo!ニュース",
-     "snippet": "災害体験AR・VR機材導入 浸水や火災、地震も 災害に備える 小山市（とちぎテレビ）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "小山市では、災害体験のためにAR・VR機材を導入したにゃ。浸水や火災、地震などの災害に備えるための体験ができる施設で、地域の防災意識を高めることを目的としているそうだにゃん。実際の災害を模した体験を通じて、住民の安全意識が向上することが期待されているにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "ダイナモアミューズメント、那須ハイランドパークにて新規アトラクション「ウルトラセブンTHE ATTRACTION - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMV2ZuU2ZvMmdHbnpYWURRYUtmQ3BxbVBVV2FzZXlYM2pFSkdEaVhUNzRNZnU4cFZ3R2tmRHJwYjFOZHY2Vkl3TjduZnRwZE1BXy1sMmNkS1ptMnQzWkNGeDNGVnpXd0ZZ?oc=5",
-     "date": "2026-07-10T18:45:30+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "ダイナモアミューズメント、那須ハイランドパークにて新規アトラクション「ウルトラセブンTHE ATTRACTION&nbsp;&nbsp;ニコニコニュース",
-     "summary": "那須ハイランドパークに、ダイナモアミューズメントが新しいアトラクション「ウルトラセブンTHE ATTRACTION」を導入したにゃ！このアトラクションは、人気のウルトラセブンをテーマにしたもので、訪れる人々に新たな体験を提供するそうだにゃん。家族や友人と一緒に楽しむのにぴったりな場所だにゃ。"
+     "summary": "日本XRセンターが新潟の阿賀野に登場したにゃ。遊園地サントピアワールド内にVR体験施設が新設され、訪れる人々に新しい楽しみを提供することを目指しているそうだにゃん。"
     }
    ]
   }
