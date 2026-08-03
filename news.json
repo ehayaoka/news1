@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T07:42:14.328434+00:00",
+ "updated": "2026-08-03T00:12:49.005918+00:00",
  "categories": [
   {
    "id": "ai_media",
@@ -12,7 +12,7 @@
      "date": "2026-08-02T04:00:03+00:00",
      "source": "media-innovation.jp",
      "snippet": "電通デジタル、AI時代の「次世代オウンドメディア戦略・構築支援」を開始&nbsp;&nbsp;media-innovation.jp",
-     "summary": "電通デジタルは、AI時代に対応した「次世代オウンドメディア戦略・構築支援」を開始したにゃ。企業が自社メディアを効果的に運営するための支援を行い、AI技術を活用してコンテンツ制作やマーケティングを強化することを目指しているそうだにゃん。"
+     "summary": "電通デジタルがAI時代に対応した「次世代オウンドメディア戦略・構築支援」を開始したにゃ。企業が自社メディアを効果的に運営するための支援を行い、AI技術を活用してコンテンツの最適化やユーザーエンゲージメントの向上を目指すそうだにゃん。"
     },
     {
      "type": "news",
@@ -21,7 +21,7 @@
      "date": "2026-08-01T04:14:08+00:00",
      "source": "TVer",
      "snippet": "米テック決算生成AI投資の現在地/日銀植田総裁何語る？&nbsp;&nbsp;TVer",
-     "summary": "米国のテクノロジー企業の決算が生成AIへの投資状況を示しているにゃ。日銀の植田総裁が何を語るのかも注目されており、経済や金融政策への影響が懸念されているそうだにゃ。"
+     "summary": "米国のテクノロジー企業の決算が生成AIへの投資状況を示しているにゃ。日銀の植田総裁がこの投資について何を語るのかも注目されているそうだにゃ。AI技術の進展が企業の業績に与える影響について、今後の動向が気になるにゃん。"
     },
     {
      "type": "news",
@@ -30,7 +30,7 @@
      "date": "2026-08-01T01:00:26+00:00",
      "source": "朝日新聞",
      "snippet": "【3農家限定】農家がAIで現場課題を解決する時代へ。農業AI通信、第2期メディアアンバサダー募集開始&nbsp;&nbsp;朝日新聞",
-     "summary": "農業AI通信は、農家がAIを活用して現場の課題を解決するための第2期メディアアンバサダーを募集しているにゃ。農業のデジタル化が進む中、AI技術を導入することで効率的な農業経営を目指す取り組みだそうだにゃん。"
+     "summary": "農業AI通信が農家向けにAIを活用した現場課題解決のためのメディアアンバサダーを募集開始したにゃ。AI技術を使って農業の効率化や問題解決を図る時代が到来していることを示しているそうだにゃん。"
     },
     {
      "type": "gov",
@@ -39,7 +39,7 @@
      "date": "2026-07-31T10:32:15+00:00",
      "source": "mof.go.jp",
      "snippet": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年7月31日(金曜日))&nbsp;&nbsp;mof.go.jp",
-     "summary": "片山財務大臣は、内閣府特命担当大臣としての閣議後記者会見を行ったにゃ。具体的な内容は記載されていないが、財政や経済政策に関する重要な情報が発表された可能性があるそうだにゃん。"
+     "summary": "片山財務大臣が閣議後の記者会見で、政府の財政政策や経済状況についての見解を述べたにゃ。具体的な内容は記者会見の概要に記載されているが、詳細は不明だにゃん。"
     },
     {
      "type": "news",
@@ -48,7 +48,7 @@
      "date": "2026-07-31T10:02:00+00:00",
      "source": "窓の杜",
      "snippet": "災害時にAIができること ――令和8年熊本地震と『期間限定アプリ』開発【生成AIストリーム】&nbsp;&nbsp;窓の杜",
-     "summary": "令和8年の熊本地震に関連して、災害時にAIが果たす役割についての研究が進められているにゃ。特に、期間限定アプリの開発が行われ、災害時の情報提供や支援に役立つことが期待されているそうだにゃん。"
+     "summary": "令和8年熊本地震を受けて、災害時にAIが果たす役割について考察されているにゃ。特に、期間限定アプリの開発が進められており、AI技術が災害対応にどのように貢献できるかが焦点となっているそうだにゃん。"
     },
     {
      "type": "gov",
@@ -57,25 +57,34 @@
      "date": "2026-07-31T08:10:19+00:00",
      "source": "mext.go.jp",
      "snippet": "先端研究基盤刷新事業(EPOCH) 採択大学一覧①&nbsp;&nbsp;mext.go.jp",
-     "summary": "先端研究基盤刷新事業(EPOCH)に採択された大学の一覧が発表されたにゃ。これにより、各大学が先端的な研究基盤を整備し、研究の質を向上させることが期待されているそうだにゃん。"
+     "summary": "先端研究基盤刷新事業(EPOCH)に採択された大学の一覧が発表されたにゃ。これにより、研究環境の向上や新たな研究の推進が期待されているそうだにゃん。"
     },
     {
      "type": "gov",
-     "title": "メキシコのエブラル経済相、鉄鋼・アルミの米国232条追加関税50％を10％に引き下げるよう交渉(米国、メキシコ) | ビジネス短信 - jetro.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ySmhRRkpvcmp4a3FVWUlRVm01aTBzS24tRW04bHpQNWpXcXoyRXVfVmQxSHhxV1dVenlmREx3b0VaUUxoaEViUTNuWlFNUzhhVmE1aEZIemxrWFktaTh0Z2s4QzZTSnZmOUM3dVFn?oc=5",
-     "date": "2026-07-31T07:46:05+00:00",
+     "title": "対カナダ338条関税に北米の労働組合が懸念を表明、米・カナダの貿易交渉は継続(カナダ、米国) | ビジネス短信 - jetro.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QLVBRMUJFcXZISEdBQzhNRTVEM0N1RjNONl9XZUkzU0FLWDlBQ09zZVBScUlLYmtNbWFaYlRDdjU2RGczLWxQQjcwZU53NXZSd1pVeElndlM2TkRmVTVHenZjN3NKU1ctOW5YcTF3?oc=5",
+     "date": "2026-07-31T07:36:02+00:00",
      "source": "jetro.go.jp",
-     "snippet": "メキシコのエブラル経済相、鉄鋼・アルミの米国232条追加関税50％を10％に引き下げるよう交渉(米国、メキシコ) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
-     "summary": "メキシコのエブラル経済相は、米国の鉄鋼・アルミに対する232条追加関税を50％から10％に引き下げるよう交渉しているにゃ。この交渉は、貿易関係の改善を目指す重要な一歩となる可能性があるそうだにゃん。"
+     "snippet": "対カナダ338条関税に北米の労働組合が懸念を表明、米・カナダの貿易交渉は継続(カナダ、米国) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
+     "summary": "カナダ338条関税に対して北米の労働組合が懸念を表明したにゃ。米国とカナダの貿易交渉は継続中で、関税問題が双方の関係に影響を与える可能性があるそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "Hootsuite、AI ネイティブなソーシャルメディア運用基盤 「Hootsuite Social OS」を国内提供開始 - PR TIMES",
+     "title": "音楽生成AIの無料おすすめサイト12選！AIで音楽を自動生成する方法や注意点も - SHIFT AI",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE13OTlpN2o0Ull1dzZnS1BTTVBSMnAzc0s4cENxNlhwT2VNQ2pIcU5IdDAyb19yd29kN0RucWVBaEhXMUNDZmRJOEZR?oc=5",
+     "date": "2026-07-31T07:00:00+00:00",
+     "source": "SHIFT AI",
+     "snippet": "音楽生成AIの無料おすすめサイト12選！AIで音楽を自動生成する方法や注意点も&nbsp;&nbsp;SHIFT AI",
+     "summary": "音楽生成AIを活用した無料サイト12選が紹介されているにゃ。AIを使って音楽を自動生成する方法や注意点も解説されており、音楽制作の新たな可能性が広がっているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "Hootsuite、AI ネイティブなソーシャルメディア運用基盤 「Hootsuite Social OS」を国内提供開始 - prtimes.jp",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FSDhmeVY4RkY3SjRVX2xiNE5rSTV6Wl9mazZIaWJXMzlBV1d5RWtEUW1UZ0hHOVpZaW9XTkRjRlpoUDVaSXNNbzR4WFVjOHhkYzFPVjhVQUFLbVZ1aWpxTHUtQlNISU1YbVE?oc=5",
      "date": "2026-07-31T04:00:02+00:00",
-     "source": "PR TIMES",
-     "snippet": "Hootsuite、AI ネイティブなソーシャルメディア運用基盤 「Hootsuite Social OS」を国内提供開始&nbsp;&nbsp;PR TIMES",
-     "summary": "Hootsuiteは、AIを活用したソーシャルメディア運用基盤「Hootsuite Social OS」を日本国内で提供開始したにゃ。このプラットフォームは、企業が効率的にソーシャルメディアを運用できるよう支援することを目的としているそうだにゃん。"
+     "source": "prtimes.jp",
+     "snippet": "Hootsuite、AI ネイティブなソーシャルメディア運用基盤 「Hootsuite Social OS」を国内提供開始&nbsp;&nbsp;prtimes.jp",
+     "summary": "HootsuiteがAIネイティブなソーシャルメディア運用基盤「Hootsuite Social OS」を国内で提供開始したにゃ。これにより、企業はAIを活用した効率的なソーシャルメディア運営が可能になるそうだにゃん。"
     },
     {
      "type": "news",
@@ -84,16 +93,7 @@
      "date": "2026-07-31T01:30:42+00:00",
      "source": "日本ネット経済新聞",
      "snippet": "ZETA、古谷宗章氏がCMOに就任 リテールメディア広告・エージェンティックコマース事業のキーパーソンとして参画&nbsp;&nbsp;日本ネット経済新聞",
-     "summary": "ZETAは、古谷宗章氏をCMOに迎え、リテールメディア広告やエージェンティックコマース事業の推進を図るにゃ。古谷氏の経験を活かし、事業の発展を目指す取り組みが期待されているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "放送メディア通信委員会、地域放送のAI制作支援で8社8作品を選定 - 디지털투데이",
-     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNS1FBMkhjUHBwV1ZaYWhjUDJpU1VRaFNIS05haHFBNEQtTU1hNEIzSHR2OFhKRXNXdmtQcm83YzN5SlhTX25CRzFkUEY0S0lxN3pGR3NWc2FjblUyTmswaHIwb1FWdF93U3RJeFZHSkMtTDlvQjYtZ29tYXNFTlpBajdDWW8wOXUtRmZLNHVuajNFQkdXRzIzVGZBS0pBVmNaaW9oUUt2dWtYbVVCNkM0M2lWR3pKUjFvVEpCQVpsLU5nc19IS2tUaER6b3FpQUl5eVNCY2p1bWpseGg2MHptTEhJWGRHZzlUNS1iNFl3?oc=5",
-     "date": "2026-07-31T01:14:36+00:00",
-     "source": "디지털투데이",
-     "snippet": "放送メディア通信委員会、地域放送のAI制作支援で8社8作品を選定&nbsp;&nbsp;디지털투데이",
-     "summary": "放送メディア通信委員会は、地域放送のAI制作支援として8社8作品を選定したにゃ。この取り組みは、地域の特色を活かしたコンテンツ制作を促進し、地域放送の活性化を目指すものだそうだにゃん。"
+     "summary": "ZETAが古谷宗章氏をCMOに迎え、リテールメディア広告やエージェンティックコマース事業のキーパーソンとして参画することが発表されたにゃ。新たな戦略が期待されているそうだにゃん。"
     }
    ]
   },
@@ -103,12 +103,12 @@
    "items": [
     {
      "type": "news",
-     "title": "ゴミ屋敷・汚部屋片付けの「オカタシ！」運営、株式会社ウルタロウが「埼玉を代表する企業100選（2026-2027）」に選出 - イザ！",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iRlJQUTNGWjZiZGo0WDFaYlR3NVg0bVNZZTdFVDl0QURwalQ0YlRhdDVXODZxQjlOYmZRZHpTYU8xNjM0UVBMMngwa2xrX01rRVgydjhrMlBGbjlEay1NajR3VEdvSUI1WmdxNzltRjNmbWxGQXl5ejR3?oc=5",
-     "date": "2026-07-31T22:00:00+00:00",
-     "source": "イザ！",
-     "snippet": "ゴミ屋敷・汚部屋片付けの「オカタシ！」運営、株式会社ウルタロウが「埼玉を代表する企業100選（2026-2027）」に選出&nbsp;&nbsp;イザ！",
-     "summary": "ゴミ屋敷や汚部屋の片付けサービス「オカタシ！」を運営する株式会社ウルタロウが、埼玉を代表する企業100選（2026-2027）に選ばれたにゃ。これは同社の取り組みや地域貢献が評価された結果だにゃん。今後もさらなるサービス向上を目指して頑張ってほしいにゃ！"
+     "title": "ゴミ屋敷・汚部屋片付けの「オカタシ！」運営、株式会社ウルタロウが「埼玉を代表する企業100選（2026-2027）」に選出 - prtimes.jp",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10WTlZMFlIdGdxU1M3MmctRnRYNDRPbUJISHVSX1BRSGxDejAtZWlDQ1ZrdUhIdTl4UWNZOVhhNHBRc2JMcnJZcVFvWmpteGMwYXBtd0Q2R0NrMjFSYW5HLXN1WFdwWWpNdEE?oc=5",
+     "date": "2026-07-31T22:00:01+00:00",
+     "source": "prtimes.jp",
+     "snippet": "ゴミ屋敷・汚部屋片付けの「オカタシ！」運営、株式会社ウルタロウが「埼玉を代表する企業100選（2026-2027）」に選出&nbsp;&nbsp;prtimes.jp",
+     "summary": "ゴミ屋敷や汚部屋の片付けサービス「オカタシ！」を運営する株式会社ウルタロウが、2026-2027年度の「埼玉を代表する企業100選」に選ばれたにゃ。これは、地域に貢献する企業としての評価を受けた結果だにゃん。ウルタロウは、清掃業界での取り組みを通じて、地域の環境改善に寄与しているそうだにゃ。"
     },
     {
      "type": "gov",
@@ -117,7 +117,7 @@
      "date": "2026-07-31T14:22:49+00:00",
      "source": "復興庁",
      "snippet": "牧野復興大臣記者会見録［令和８年７月31日］&nbsp;&nbsp;復興庁",
-     "summary": "牧野復興大臣が令和8年7月31日に行った記者会見の内容が公開されたにゃ。会見では復興に関する重要な情報や進捗状況が説明されたと思われるにゃん。具体的な内容は記者会見録を参照してほしいにゃ。"
+     "summary": "牧野復興大臣が令和8年7月31日に記者会見を行ったにゃ。会見では復興に関する重要な情報や進捗状況が報告されたと思われるが、具体的な内容は記載されていないにゃん。復興庁の公式な発表として、今後の取り組みや方針についての詳細が期待されるだにゃ。"
     },
     {
      "type": "news",
@@ -126,7 +126,7 @@
      "date": "2026-07-31T08:18:16+00:00",
      "source": "ニコニコニュース",
      "snippet": "大阪市商店会総連盟とAirbnb Japanによる「Osaka Morning ～商店街で朝食を～」が『PR&nbsp;&nbsp;ニコニコニュース",
-     "summary": "大阪市商店会総連盟とAirbnb Japanが共同で「Osaka Morning ～商店街で朝食を～」を開催することが発表されたにゃ。地域の商店街を活性化し、観光客に朝食を提供する取り組みだにゃん。地域経済の振興に寄与することが期待されるにゃ。"
+     "summary": "大阪市商店会総連盟とAirbnb Japanが共同で「Osaka Morning ～商店街で朝食を～」というプロジェクトを実施することが発表されたにゃ。これは地域の商店街を活性化させる取り組みで、観光客や地元の人々に朝食を提供するイベントだそうだにゃん。商店街の魅力を再発見する機会になるだろうにゃ。"
     },
     {
      "type": "news",
@@ -135,16 +135,16 @@
      "date": "2026-07-31T07:30:00+00:00",
      "source": "アットプレス",
      "snippet": "エアトリは各種プロモーションにより更なる認知拡大・ブランディング強化へ&nbsp;&nbsp;アットプレス",
-     "summary": "エアトリは様々なプロモーションを通じて、ブランドの認知度をさらに拡大し、強化を図る方針を示したにゃ。これにより、より多くの顧客にアプローチし、サービスの向上を目指すそうだにゃん。"
+     "summary": "エアトリが各種プロモーションを通じて、ブランドの認知拡大と強化を目指しているにゃ。具体的な施策やキャンペーンの内容は示されていないが、エアトリは市場での競争力を高めるために積極的なアプローチを行っているそうだにゃん。今後の展開が注目されるだにゃ。"
     },
     {
      "type": "news",
-     "title": "【鹿児島県いちき串木野市】ローカルチャレンジ塾2026が開講しました！ - 千葉テレビ放送",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2dGo4QjA5dDc1NUROaUR0MkhtZVhMRUY4aEZBZTZMYnlRRm42TU03ODhXc0w1UzJKSDVfS3FhQU1fTTBwZm9OYlUtZXBzRkwzYzlvR0R3enBMeV9kcmpN?oc=5",
-     "date": "2026-07-31T06:52:24+00:00",
-     "source": "千葉テレビ放送",
-     "snippet": "【鹿児島県いちき串木野市】ローカルチャレンジ塾2026が開講しました！&nbsp;&nbsp;千葉テレビ放送",
-     "summary": "鹿児島県いちき串木野市で「ローカルチャレンジ塾2026」が開講されたにゃ。この塾は地域の課題解決や新たなビジネス創出を目的としているそうだにゃん。地域の活性化に向けた取り組みとして注目されているにゃ。"
+     "title": "SASHI合同会社 ／SASHIが大阪市を代表する企業100選に選出 - pr-free.jp",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDZzFHSk9pWE1yd2JKUG1jeFVieDd6T2xxY1NzQUlHeExQSVBOaEhxcVRmeS1WMjBlY2l5OU9iSml3RjlvaEE?oc=5",
+     "date": "2026-07-31T06:08:40+00:00",
+     "source": "pr-free.jp",
+     "snippet": "SASHI合同会社 ／SASHIが大阪市を代表する企業100選に選出&nbsp;&nbsp;pr-free.jp",
+     "summary": "SASHI合同会社が、大阪市を代表する企業100選に選出されたにゃ。これは、地域経済への貢献や企業の成長が評価された結果だと思われるにゃん。SASHIは今後も地域に根ざした活動を続け、さらなる発展を目指すだろうにゃ。"
     }
    ]
   },
@@ -154,12 +154,21 @@
    "items": [
     {
      "type": "news",
+     "title": "「新事業進出・ものづくり 商業サービス補助金」ニュース8月特集号②｜光廣昌史 - mbp-japan.com",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IMkhSRUZPZk5hbE9Na2VmbFFuXzNPaHlnY3luaWJDX090MWlmdEtXZFBkeUJXbXpLalFjUDl3V1FJbklmTVU5M09FblhMMHNMVTJJQ2RKajk1R2tOcTF5SXdZdWQ5SzA?oc=5",
+     "date": "2026-08-02T23:31:24+00:00",
+     "source": "mbp-japan.com",
+     "snippet": "「新事業進出・ものづくり 商業サービス補助金」ニュース8月特集号②｜光廣昌史&nbsp;&nbsp;mbp-japan.com",
+     "summary": "「新事業進出・ものづくり 商業サービス補助金」は、企業が新たな事業に進出する際の支援を目的とした補助金制度だにゃ。特にものづくりに関連する商業サービスを対象としており、企業の成長を促進するための重要な施策となっているにゃ。詳細は光廣昌史の記事を参照してほしいにゃん。"
+    },
+    {
+     "type": "news",
      "title": "TechSuite株式会社のAIスカウト代行サービス「AIスカウトくん」、「DX総合EXPO 2026 夏 東京」に出展 - 朝日新聞",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5heC1FMThZQ1FuazRkMVZScUtJRlBlVTRuZkowbkw0ZGo2Wi1URTh6WHM3NXdRTGZEYTluUmlPVFNnMGJmT3VOQ29NZVNxZkl5MTNrbXVSY2VkdkE?oc=5",
      "date": "2026-08-01T21:22:24+00:00",
      "source": "朝日新聞",
      "snippet": "TechSuite株式会社のAIスカウト代行サービス「AIスカウトくん」、「DX総合EXPO 2026 夏 東京」に出展&nbsp;&nbsp;朝日新聞",
-     "summary": "TechSuite株式会社が提供するAIスカウト代行サービス「AIスカウトくん」が、2026年夏に東京で開催される「DX総合EXPO」に出展することが発表されたにゃ。これは、企業の人材採用を効率化するためのサービスで、AIを活用したスカウト機能が特徴だにゃん。"
+     "summary": "TechSuite株式会社は、AIスカウト代行サービス「AIスカウトくん」を「DX総合EXPO 2026 夏 東京」に出展することを発表したにゃ。このサービスは、企業の人材採用を効率化するためのもので、AI技術を活用しているにゃん。今後の展開が楽しみだにゃ。"
     },
     {
      "type": "news",
@@ -168,7 +177,7 @@
      "date": "2026-08-01T05:48:27+00:00",
      "source": "NHKニュース",
      "snippet": "FIFAが子会社設立計画を撤回 UEFAなどの反発受け | NHKニュース | サッカー、サッカー（ヨーロッパ）&nbsp;&nbsp;NHKニュース",
-     "summary": "FIFAが子会社設立計画を撤回したにゃ。これはUEFAなどからの強い反発を受けた結果で、サッカー界の組織運営に影響を与える重要な決定だにゃ。FIFAは今後の方針について再検討を行う必要があるだにゃん。"
+     "summary": "FIFAは、子会社設立計画を撤回したにゃ。この決定は、UEFAなどからの強い反発を受けた結果だにゃ。FIFAの方針変更は、サッカー界における権力構造やビジネスモデルに影響を与える可能性があるにゃん。今後の動向に注目だにゃ。"
     },
     {
      "type": "news",
@@ -177,25 +186,16 @@
      "date": "2026-08-01T03:30:00+00:00",
      "source": "47NEWS",
      "snippet": "スタートアップと県内企業 協業を支援 岡山県が新規事業、参加企業募る&nbsp;&nbsp;47NEWS",
-     "summary": "岡山県がスタートアップと県内企業の協業を支援する新規事業を開始し、参加企業を募っているにゃ。この取り組みは、地域の経済活性化を目指しており、スタートアップのアイデアを活かす機会を提供することを目的としているそうだにゃん。"
+     "summary": "岡山県は、スタートアップ企業と県内企業の協業を支援する新規事業を立ち上げ、参加企業を募ることを発表したにゃ。この取り組みは、地域経済の活性化を目指しており、スタートアップと既存企業の連携を促進することが期待されているにゃん。"
     },
     {
      "type": "news",
-     "title": "ＦＩＦＡ、子会社設立計画を撤回 - chichibu.keizai.biz",
+     "title": "ＦＩＦＡ、子会社設立計画を撤回 - 秩父経済新聞",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rTC1Gd1MyYkVuWXRQQ1JTc2Q5aU83T2w5Z3BMY0MwVnpFakFWR3VFazFmSm13M1ItS19admlmc29KQWZJcmRQYXlYc1JCMGZ2alVXLTl3?oc=5",
      "date": "2026-08-01T03:00:09+00:00",
-     "source": "chichibu.keizai.biz",
-     "snippet": "ＦＩＦＡ、子会社設立計画を撤回&nbsp;&nbsp;chichibu.keizai.biz",
-     "summary": "FIFAが子会社設立計画を撤回したとの報道があったにゃ。これは、サッカー界の他の組織からの反発を受けたもので、FIFAの今後の戦略に影響を与える可能性があるだにゃん。詳細な理由についてはまだ明らかにされていないにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "Monozukuri Innovation Meet Up in Kyoto ～製造業オープンイノベーション2.0、スタートアップの社会実装を加速する新モデル～ - 朝日新聞",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYUFR1Qmd5Q0w1TUdHSU44Nkg1LVBkMWtVZmo2RWJWVGlZLVVqYTBVT3dfaU10VGoyWmxJMWpRbHJJRnU1SWRzdE5sR0pQZUxOcDBfUWUydzVMU3c?oc=5",
-     "date": "2026-08-01T00:23:18+00:00",
-     "source": "朝日新聞",
-     "snippet": "Monozukuri Innovation Meet Up in Kyoto ～製造業オープンイノベーション2.0、スタートアップの社会実装を加速する新モデル～&nbsp;&nbsp;朝日新聞",
-     "summary": "京都で開催される「Monozukuri Innovation Meet Up」では、製造業のオープンイノベーション2.0をテーマに、スタートアップの社会実装を加速する新しいモデルが提案されるにゃ。このイベントは、製造業の革新を促進することを目指しているそうだにゃん。"
+     "source": "秩父経済新聞",
+     "snippet": "ＦＩＦＡ、子会社設立計画を撤回&nbsp;&nbsp;秩父経済新聞",
+     "summary": "FIFAは、子会社設立計画を撤回したことを発表したにゃ。この決定は、サッカー界の主要団体からの反発を受けたもので、FIFAの戦略に影響を与える可能性があるにゃん。今後の展開に注目が集まるだにゃ。"
     }
    ]
   },
@@ -207,28 +207,28 @@
      "type": "news",
      "title": "夏休みSP 特別展「いきもの超ワールド展」 @国立科学博物館リポート! 10時台 - NHK",
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BMTIzTzJVOFB6eVJwSnBnRHFFUkhYaGhWbm5qN2RCSk44bzEwR2Y1UXJQUXdnbVdTUXktSjhoUm4zQ01RUmxjRlM2TExpd1pRY2JqSHRDbHFOZkJZUzNacUticEdHd2N4cFE0TUN6Xy00V2M?oc=5",
-     "date": "2026-08-02T02:53:14+00:00",
+     "date": "2026-08-02T16:19:35+00:00",
      "source": "NHK",
      "snippet": "夏休みSP 特別展「いきもの超ワールド展」 @国立科学博物館リポート! 10時台&nbsp;&nbsp;NHK",
-     "summary": "夏休み特別展「いきもの超ワールド展」が国立科学博物館で開催されているにゃ。多様な生物の世界を体験できる展示があり、訪れる人々に新しい発見を提供しているそうだにゃん。特に子どもたちにとって、楽しく学べる機会になっているにゃ。"
+     "summary": "夏休み特別展「いきもの超ワールド展」が国立科学博物館で開催されているにゃ。多様な生き物たちの展示があり、訪れる人々に自然の素晴らしさを伝えているそうだにゃん。特に子どもたちに人気のある展示も多く、楽しい学びの場となっているにゃ。"
     },
     {
      "type": "news",
      "title": "「知りたい！」 が生まれる場所の入口をアップデート - クラウドファンディング - READYFOR",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SYklGQnZzalBzUWdBYks0NnRHOGpFbWpKQllPcHo1ZzlsRU91LXdmUGw0Z3U5SGphRWtVVTM4UUR5SWMxcUhqNVJYMA?oc=5",
-     "date": "2026-08-02T02:02:20+00:00",
+     "date": "2026-08-02T08:02:20+00:00",
      "source": "クラウドファンディング - READYFOR",
      "snippet": "「知りたい！」 が生まれる場所の入口をアップデート&nbsp;&nbsp;クラウドファンディング - READYFOR",
-     "summary": "クラウドファンディングサービス「READYFOR」が、「知りたい！」が生まれる場所の入口をアップデートするプロジェクトを発表したにゃ。この取り組みは、情報を得るための新しい方法や場所を提供し、知識を広げることを目指しているそうだにゃん。"
+     "summary": "クラウドファンディングプラットフォーム「READYFOR」が、知識を得るための新しい入口をアップデートする取り組みを発表したにゃ。これにより、より多くの人々が学びたいことにアクセスできるようになることを目指しているそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "ササと人の暮らしの関わりは？奥深い“豆知識”紹介、長岡市科学博物館で9月6日まで展示会 - 新潟日報",
+     "title": "ササと人の暮らしの関わりは？奥深い“豆知識”紹介、長岡市科学博物館で9月6日まで展示会 - niigata-nippo.co.jp",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HaWo5OEZITTYzMVNfRjY2R2xIMjNyLXZZUldiekx1R1RDcm9VTWpsNThPRnAzZFhpekZlQjZMMzRWWHFSWm5xRW12VkVCa1kzb29Qdk1RZVJ0eXlRc0E?oc=5",
      "date": "2026-08-01T06:30:00+00:00",
-     "source": "新潟日報",
-     "snippet": "ササと人の暮らしの関わりは？奥深い“豆知識”紹介、長岡市科学博物館で9月6日まで展示会&nbsp;&nbsp;新潟日報",
-     "summary": "長岡市科学博物館で、ササと人の暮らしの関わりについての展示会が開催されているにゃ。展示では、ササに関する奥深い豆知識が紹介されており、9月6日まで見ることができるそうだにゃん。訪れることで、ササの重要性を再認識できるかもしれないにゃ。"
+     "source": "niigata-nippo.co.jp",
+     "snippet": "ササと人の暮らしの関わりは？奥深い“豆知識”紹介、長岡市科学博物館で9月6日まで展示会&nbsp;&nbsp;niigata-nippo.co.jp",
+     "summary": "長岡市科学博物館で、ササと人の暮らしの関わりについての展示会が開催されているにゃ。展示では、ササの利用法やその文化的な意義についての豆知識が紹介されており、9月6日まで見ることができるそうだにゃん。"
     },
     {
      "type": "news",
@@ -237,7 +237,7 @@
      "date": "2026-08-01T03:15:56+00:00",
      "source": "jocr.jp",
      "snippet": "巨大地震にどう備える？ 南海トラフ地震の記録、発生の解説も 大阪市立科学館で企画展「地震の科学」&nbsp;&nbsp;jocr.jp",
-     "summary": "大阪市立科学館で「地震の科学」という企画展が行われているにゃ。南海トラフ地震の記録や発生のメカニズムについて解説されており、巨大地震に備えるための知識を得ることができるそうだにゃん。地震への理解を深める良い機会だにゃ。"
+     "summary": "大阪市立科学館で「地震の科学」という企画展が行われているにゃ。南海トラフ地震に関する記録や発生のメカニズムについての解説があり、巨大地震に備えるための知識を深めることができる展示となっているそうだにゃん。"
     },
     {
      "type": "news",
@@ -246,7 +246,7 @@
      "date": "2026-07-31T22:58:49+00:00",
      "source": "天神経済新聞",
      "snippet": "福岡市科学館で「大ピンチ展！」 九州初、福岡オリジナル展示も&nbsp;&nbsp;天神経済新聞",
-     "summary": "福岡市科学館で「大ピンチ展！」が開催されているにゃ。これは九州初の展示で、福岡オリジナルの内容も含まれているそうだにゃん。来場者は、様々な危機に対する理解を深めることができる展示を楽しめるにゃ。"
+     "summary": "福岡市科学館で「大ピンチ展！」が開催されているにゃ。九州初の展示で、福岡オリジナルの内容も含まれているそうだにゃ。訪れる人々に科学の楽しさを伝えることを目的としている展示になっているにゃん。"
     }
    ]
   },
@@ -256,12 +256,39 @@
    "items": [
     {
      "type": "news",
+     "title": "未来の火星旅行を体験できる次世代型VR体験「THE SUNSET OF MARS」（ザ・サンセットオブマーズ ）みなとみらいに8/8(土)”開港” - welcome.city.yokohama.jp",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RQlZaU2RVVERDTUVnd2JOdGJndERCcFhrV2t3T0pnejNNdG1qMzlUd0RJdmpNeEl0a0drV0s1eXhLS2I2WXZORG5uaHNDalp5S3Q2S3d4akpMNGJmam1WX1RyYUZMaGVzcUdKR0NiR1pfTktmNi1FMw?oc=5",
+     "date": "2026-08-02T14:49:45+00:00",
+     "source": "welcome.city.yokohama.jp",
+     "snippet": "未来の火星旅行を体験できる次世代型VR体験「THE SUNSET OF MARS」（ザ・サンセットオブマーズ ）みなとみらいに8/8(土)”開港”&nbsp;&nbsp;welcome.city.yokohama.jp",
+     "summary": "未来の火星旅行を体験できる次世代型VR体験「THE SUNSET OF MARS」が、みなとみらいで8月8日（土）に開港するにゃ。このVR体験では、参加者が火星の風景を楽しみながら、未来の宇宙旅行を疑似体験できるそうだにゃ。新しい技術を使ったこの体験は、宇宙への興味を引き出すことが期待されているにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "【原宿】ドラゴンクエスト 40 周年記念展『ドラゴンクエスト the DIVE -まだ見ぬ冒険の舞台へ-』が原宿ハラカドに登場！ VR体験からコラボグルメ、限定グッズまで親子で楽しめる注目イベント（HugKum） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43NjlDdXlmSUFBSG1lemNZOUk4aUJGM2RVMlMtTnhkekg3TDdicTNkZTg1c25BSzFOLV9VQzB6Y05TR1ZIX3duV2JDRVl6Q01NeDBibWFiQnNQdDRHLVVEeVUzZUlYamNjREZVTmg2RkFmOTNJdzZLN2NNUVAwM1U?oc=5",
+     "date": "2026-08-02T03:30:03+00:00",
+     "source": "Yahoo!ニュース",
+     "snippet": "【原宿】ドラゴンクエスト 40 周年記念展『ドラゴンクエスト the DIVE -まだ見ぬ冒険の舞台へ-』が原宿ハラカドに登場！ VR体験からコラボグルメ、限定グッズまで親子で楽しめる注目イベント（HugKum）&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "原宿で開催されるドラゴンクエスト40周年記念展『ドラゴンクエスト the DIVE -まだ見ぬ冒険の舞台へ-』では、VR体験やコラボグルメ、限定グッズが楽しめるにゃ。親子で参加できるこの注目のイベントは、ファンにとって特別な体験になること間違いなしだにゃん。詳細はYahoo!ニュースで確認してほしいにゃ。"
+    },
+    {
+     "type": "news",
      "title": "Half-Life: Alyx - games.gg",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZbWR2bElZTkxpM2R1VmZYVXp1UG9PaG90eU9XS3Q3QzBJUHNfTzh1VHE5SlVlTWg4djV4SXpKdWRjdkVKOXgyWThLcw?oc=5",
      "date": "2026-08-01T21:51:21+00:00",
      "source": "games.gg",
      "snippet": "Half-Life: Alyx&nbsp;&nbsp;games.gg",
-     "summary": "「Half-Life: Alyx」は、人気ゲームシリーズ「Half-Life」のVR専用タイトルだにゃ。プレイヤーは、没入感のある世界で様々なパズルや敵と戦いながら、ストーリーを進めていくにゃ。ゲームのグラフィックやインタラクションの質が高く、VRの可能性を広げる作品として評価されているそうだにゃん。"
+     "summary": "Half-Life: Alyxは、人気ゲームシリーズの新作で、VR専用に開発された作品だにゃ。プレイヤーは、没入感のある環境で物語を体験し、様々なパズルや敵との戦闘を楽しむことができるにゃん。ゲームのクオリティは高く、VRゲームの新たなスタンダードを打ち立てたと言われているそうだにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "大丸札幌店で宇宙体験ワークショップ VRで無重力を体感（みんなの経済新聞ネットワーク） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OalgyendVUFl1MEV6TVp2M0VDUEs0UDFwY0lpT0t5Z01sYWpwWXNvMFZOc2RpZFRjNUZtZFV5eFBCVGtybVE4YmR4bUFPRThhWnBaWjNZWmFfV2stYlBCeTltOGQ2dklHamZTUVBQdEdtNmVVcjhLaGJfWjRoYmc?oc=5",
+     "date": "2026-08-01T13:55:00+00:00",
+     "source": "Yahoo!ニュース",
+     "snippet": "大丸札幌店で宇宙体験ワークショップ VRで無重力を体感（みんなの経済新聞ネットワーク）&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "大丸札幌店では、宇宙体験ワークショップが開催され、参加者はVRを通じて無重力を体感できるにゃ。この体験は、宇宙に興味がある人々にとって貴重な機会で、リアルな宇宙環境を感じることができるそうだにゃん。詳細はYahoo!ニュースで確認してほしいにゃ。"
     },
     {
      "type": "news",
@@ -270,34 +297,7 @@
      "date": "2026-07-31T21:29:56+00:00",
      "source": "湘南人",
      "snippet": "【小田原市】ミナカ小田原でVRお化け屋敷「呪いのVR 人体研究施設 ～独房からの脱出～」が8月の土日に開催！ 8月1日～8月29日&nbsp;&nbsp;湘南人",
-     "summary": "小田原市のミナカ小田原で、VRお化け屋敷「呪いのVR 人体研究施設 ～独房からの脱出～」が8月の土日に開催されるにゃ。期間は8月1日から29日までで、参加者は恐怖体験をしながら脱出を目指すことができるそうだにゃん。家族や友人と一緒に楽しめるイベントだにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "電気の仕組み理解 女川原発 ＶＲ体験、見学も 親子ｄｅ学ぼうバスツアー - iwanichi.co.jp",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KNEFnYm1XQ0RrdWJjeUNUX01iQlRTcUMza0xRZS1lNm1OZ3pPeG9NeXlmN3BIWGM0VUZEUDRjQUJyQl92bG9jbmxyakFBY2l2ZUU0Q0JBWUxjbFU?oc=5",
-     "date": "2026-07-31T20:01:29+00:00",
-     "source": "iwanichi.co.jp",
-     "snippet": "電気の仕組み理解 女川原発 ＶＲ体験、見学も 親子ｄｅ学ぼうバスツアー&nbsp;&nbsp;iwanichi.co.jp",
-     "summary": "女川原発では、親子向けのバスツアーが開催され、電気の仕組みを学ぶためのVR体験や見学が行われるにゃ。参加者は、原発の仕組みを理解しながら、実際の施設を見学することができるそうだにゃん。教育的な要素が強いイベントだにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "位置ベースのVR市場規模、株式、成長の20企業 - Spherical Insights",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONzVxamM5MHRiT2pFNGlXa05fQU0zWG9XVE1yM3l5UU9oa1BJVUlINWd2S05iM0tjVEZfak40YmlCdWpQQjBaWXI1c3dFOFZfbE1Jakt3YVpSMHdjMGE5d1lTT0o2eUo5UVhGb0NBUVBqZlZCTDd5aVdpN1AwMHR2eFZQaUlGQ1JhampsLTNjSTZoazRNRlhMam50SmdIaUFwbVljQksxYlFhaGQycmJJOE53X0YxakVSa05RbTJXVGVQWGwxRmthOW54RW1jQ2oycWFKcjduOGZxQnZwb1ZZNVk5VnVMem9TNEtV?oc=5",
-     "date": "2026-07-31T19:18:02+00:00",
-     "source": "Spherical Insights",
-     "snippet": "位置ベースのVR市場規模、株式、成長の20企業&nbsp;&nbsp;Spherical Insights",
-     "summary": "位置ベースのVR市場について、成長を続ける20企業の株式や市場規模が紹介されているにゃ。位置情報を活用したVR体験が注目されており、今後の市場の発展が期待されるそうだにゃん。新たなビジネスチャンスが広がる分野だにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "『VRChat』が東京ゲームショウ2026に初出展。体験コーナーのほか、ストリーマー・クリエイターが登壇するステージ企 - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fSGlCTm9wcXhtRDRDNG50NHdXNkdzTXpldDFNVkFhZU1PZHdrS1M2Z2FuekM1SkpVajF4dklxYmhhN3FMbGI1NkV4dW5yWGdXcENPdA?oc=5",
-     "date": "2026-07-31T12:09:23+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "『VRChat』が東京ゲームショウ2026に初出展。体験コーナーのほか、ストリーマー・クリエイターが登壇するステージ企&nbsp;&nbsp;ニコニコニュース",
-     "summary": "『VRChat』が東京ゲームショウ2026に初出展することが発表されたにゃ。体験コーナーや、ストリーマー・クリエイターによるステージ企画が予定されており、参加者は新たなVR体験を楽しむことができるそうだにゃん。盛り上がりが期待されるイベントだにゃ。"
+     "summary": "小田原市のミナカ小田原で、VRお化け屋敷「呪いのVR 人体研究施設 ～独房からの脱出～」が8月の土日に開催されるにゃ。参加者は、恐怖体験をしながら脱出を目指すことができるそうだにゃ。このイベントは、8月1日から29日まで行われるにゃん。興味がある人はぜひ参加してみてほしいにゃ。"
     }
    ]
   }
