@@ -1,37 +1,10 @@
 {
- "updated": "2026-08-05T21:53:02.986961+00:00",
+ "updated": "2026-08-05T23:40:43.399755+00:00",
  "categories": [
   {
    "id": "ai_media",
    "title": "🤖 AI×メディア研究（ニュース・論文・行政）",
    "items": [
-    {
-     "type": "gov",
-     "title": "APECデジタルAI大臣会合、成都市で「成都声明」を採択(中国) | ビジネス短信 - jetro.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94TUFQT202WExFaDEwQUFreTh6dGEwbTF0Z2hBWUpJOGlsaDZtd1RMekZObVhVcEFsUnpoX2VBZkk0VGtkNFN2RDJYdjN4N056aVpGb1lYQ2dMTEowelZsaXJpR3J4Y3poTWdGZUh3?oc=5",
-     "date": "2026-08-05T15:10:03+00:00",
-     "source": "jetro.go.jp",
-     "snippet": "APECデジタルAI大臣会合、成都市で「成都声明」を採択(中国) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
-     "summary": "APECデジタルAI大臣会合が中国の成都市で開催され、「成都声明」が採択されたにゃ。この声明では、デジタル技術の発展とAIの活用に関する協力を強化することが確認されたそうだにゃん。各国は、持続可能な経済成長を促進し、デジタルエコノミーの発展を目指すことを約束したにゃ。"
-    },
-    {
-     "type": "gov",
-     "title": "「出入国管理に関する国務院規定」が9月15日から施行、外国人の出入国管理の規定を具体化(中国) | ビジネス短信 - jetro.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QMVhqRk9fNFNqR3FFODJqLXI1bWJQQVFYdmotVTNlQldWUjM3aUhRVmZ0MzBSb05ZR3U1dmN2eVhyZWt4YkpLRThfWE10emxPUjBFWm53dWxmQ3E3MzlnUFE3NUJPWkRVVk54aUxR?oc=5",
-     "date": "2026-08-05T15:10:03+00:00",
-     "source": "jetro.go.jp",
-     "snippet": "「出入国管理に関する国務院規定」が9月15日から施行、外国人の出入国管理の規定を具体化(中国) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
-     "summary": "中国の国務院は「出入国管理に関する国務院規定」を9月15日から施行したにゃ。この規定は外国人の出入国管理を具体化し、手続きの明確化や効率化を図ることを目的としているそうだにゃん。これにより、外国人の出入国がよりスムーズになることが期待されているにゃ。"
-    },
-    {
-     "type": "gov",
-     "title": "中国、再生可能エネルギー分野の5カ年規画を発表、2030年に風力・太陽光発電設備容量28億kW以上へ(中国) | ビジネス短信 - jetro.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sY2xzM0lnMjh2d0lETV9jSFpnT0RxWkVMZHVTMkZEMTBUWF85bUFLbERRSExfSFM3WXk4TGlLY3hDTmpyNklTdUx5Njd0bklnQmZXVDYzd1EwNU9kRlIzSjV5OVdkTUd0THRTWXVB?oc=5",
-     "date": "2026-08-05T15:10:03+00:00",
-     "source": "jetro.go.jp",
-     "snippet": "中国、再生可能エネルギー分野の5カ年規画を発表、2030年に風力・太陽光発電設備容量28億kW以上へ(中国) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
-     "summary": "中国は再生可能エネルギー分野の5カ年計画を発表したにゃ。2030年までに風力と太陽光発電の設備容量を28億kW以上にする目標を掲げているそうだにゃん。この計画は、環境保護と持続可能なエネルギーの推進を目指すもので、国際的なエネルギー転換にも寄与することが期待されているにゃ。"
-    },
     {
      "type": "news",
      "title": "3展同時開催！ナノオプト・メディア「DXシステム開発 Expo」「ものづくりDX Expo」「AI Innovation Tokyo」 - Dtimes",
@@ -39,7 +12,7 @@
      "date": "2026-08-05T12:34:46+00:00",
      "source": "Dtimes",
      "snippet": "3展同時開催！ナノオプト・メディア「DXシステム開発 Expo」「ものづくりDX Expo」「AI Innovation Tokyo」&nbsp;&nbsp;Dtimes",
-     "summary": "ナノオプト・メディアが「DXシステム開発 Expo」「ものづくりDX Expo」「AI Innovation Tokyo」を同時開催するにゃ。これらの展示会は、デジタルトランスフォーメーションやAI技術の最新動向を紹介し、業界の発展を促進することを目的としているそうだにゃん。開催は東京浜松町で行われるにゃ。"
+     "summary": "ナノオプト・メディアが「DXシステム開発 Expo」「ものづくりDX Expo」「AI Innovation Tokyo」の3つの展示会を同時開催するにゃ。開催場所は東京浜松町で、最新のデジタルトランスフォーメーションやAI技術に関する情報が集まるイベントになるそうだにゃん。"
     },
     {
      "type": "news",
@@ -48,7 +21,7 @@
      "date": "2026-08-05T10:27:30+00:00",
      "source": "AIsmiley",
      "snippet": "KDDI、出版・専門メディアと連携した対話型AIサービス「Buffmee」提供開始&nbsp;&nbsp;AIsmiley",
-     "summary": "KDDIが出版・専門メディアと連携して、対話型AIサービス「Buffmee」を提供開始したにゃ。このサービスは、ユーザーとの対話を通じて情報を提供し、より良いコミュニケーションを実現することを目指しているそうだにゃん。AI技術を活用した新たなサービス展開に期待が高まるにゃ。"
+     "summary": "KDDIが出版や専門メディアと連携して、対話型AIサービス「Buffmee」を提供開始したにゃ。このサービスは、ユーザーとの対話を通じて情報提供を行い、専門的な知識を活用することを目的としているそうだにゃん。"
     },
     {
      "type": "news",
@@ -57,16 +30,16 @@
      "date": "2026-08-05T05:00:00+00:00",
      "source": "ドリームニュース",
      "snippet": "【新刊】生成AI・AIエージェント時代の店舗DXを\"物語\"で学べる実践書がAmazonで予約開始！日本の小売の9割を支える実店舗の未来を描く&nbsp;&nbsp;ドリームニュース",
-     "summary": "新刊として、生成AI・AIエージェント時代の店舗DXを物語形式で学べる実践書がAmazonで予約開始されたにゃ。この書籍は、日本の小売業の未来を描き、実店舗のデジタル化に役立つ内容が盛り込まれているそうだにゃん。小売業界の変革に向けた重要な一歩となるにゃ。"
+     "summary": "新刊がAmazonで予約開始されたにゃ。内容は生成AIやAIエージェント時代の店舗DXを物語形式で学べる実践書で、日本の小売業の未来を描いているそうだにゃ。実店舗の重要性を強調し、9割を支える実店舗の未来を探る内容だにゃん。"
     },
     {
      "type": "news",
      "title": "ナノオプト・メディア、「DXシステム開発 Expo」「ものづくりDX Expo」 「AI Innovation Tokyo」を9月に東京浜松町にて3展同時開催 - Newscast.jp",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5DSEtOWEJoQ1hSZnpPTGNLa0M2bWwtTC1RaENkV1R2QnhXYWZUWVFwd1dWV0M4V1lrWnpVWlVJeko1NXQxcTBGWjN0ZHc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ldWZmWHhFakxTVGw3YWJoXy1Nbmh0dkxNbnBOQWpNX3M5dnBmQ0lNcDR2RS1RTWtzTjJLbU5HaUtnTUU0bXQ4?oc=5",
      "date": "2026-08-05T03:00:00+00:00",
      "source": "Newscast.jp",
      "snippet": "ナノオプト・メディア、「DXシステム開発 Expo」「ものづくりDX Expo」 「AI Innovation Tokyo」を9月に東京浜松町にて3展同時開催&nbsp;&nbsp;Newscast.jp",
-     "summary": "ナノオプト・メディアが「DXシステム開発 Expo」「ものづくりDX Expo」「AI Innovation Tokyo」を9月に東京浜松町で同時開催するにゃ。これらの展示会では、最新のデジタル技術やAIの活用事例が紹介され、業界の発展を促進することを目指しているそうだにゃん。"
+     "summary": "ナノオプト・メディアが「DXシステム開発 Expo」「ものづくりDX Expo」「AI Innovation Tokyo」を9月に東京浜松町で同時開催するにゃ。これらの展示会では、最新のDXやAI技術に関する情報が発信される予定だそうだにゃん。"
     },
     {
      "type": "news",
@@ -75,7 +48,7 @@
      "date": "2026-08-04T15:10:00+00:00",
      "source": "時事ドットコム",
      "snippet": "東大松尾研発パンハウス、生成AI活用の実践知を発信するオウンドメディア『パンハウス インサイト』を開設 ― 導入支援300社以上の現場ノウハウを無料公開&nbsp;&nbsp;時事ドットコム",
-     "summary": "東京大学松尾研究室が発信するオウンドメディア『パンハウス インサイト』が開設されたにゃ。このメディアでは、生成AIの活用に関する実践知が無料で公開され、300社以上の導入支援のノウハウが共有されるそうだにゃん。AI技術の実践的な情報源として注目されているにゃ。"
+     "summary": "東京大学松尾研が発信するオウンドメディア『パンハウス インサイト』が開設されたにゃ。このメディアでは、生成AI活用の実践知が無料で公開され、300社以上の導入支援の現場ノウハウが共有されるそうだにゃん。"
     },
     {
      "type": "news",
@@ -84,7 +57,7 @@
      "date": "2026-08-04T13:33:35+00:00",
      "source": "ニコニコニュース",
      "snippet": "AIショートドラマがテレビで放送されることの意味は？―中国メディア&nbsp;&nbsp;ニコニコニュース",
-     "summary": "中国メディアがAIショートドラマのテレビ放送について考察しているにゃ。AIが制作したコンテンツがテレビで放送されることは、視聴者に新たな体験を提供し、エンターテインメントの未来を変える可能性があると指摘されているそうだにゃん。AI技術の進化がもたらす影響に注目が集まっているにゃ。"
+     "summary": "中国メディアがAIショートドラマのテレビ放送の意義について考察しているにゃ。AIが制作したコンテンツがテレビで放送されることで、視聴者の反応や文化的影響がどのように変わるかが注目されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -93,7 +66,34 @@
      "date": "2026-08-04T08:45:17+00:00",
      "source": "ニュースメディアVOIX",
      "snippet": "パンハウスが提供する生成AI活用の実践知を無料公開するオウンドメディア『パンハウス インサイト』の開設&nbsp;&nbsp;ニュースメディアVOIX",
-     "summary": "パンハウスが提供する生成AI活用の実践知を無料公開するオウンドメディア『パンハウス インサイト』が開設されたにゃ。このメディアでは、実践的なノウハウが共有され、AI導入を考える企業にとって貴重な情報源となるそうだにゃん。多くの企業がこの知識を活用することが期待されているにゃ。"
+     "summary": "パンハウスが生成AI活用の実践知を無料で公開するオウンドメディア『パンハウス インサイト』を開設したにゃ。このメディアでは、実践的な知識が提供され、企業のAI導入を支援する内容が含まれているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "株式会社オルセルが提供する不動産業界向けAI活用メディア「不動産のチカラ」の魅力 - ニュースメディアVOIX",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zaUlyQ21ubTJ4YUREVzVpaXd1U3J5TUVIejhIS3dqaUZSREliZV9KbU1LbkZ0NDJfa29DdW0wenpBcGFqV1lCLUdhQ000c3NvTGVhYVg3TF9fVDR4R0ZJVC1nZldBc0N4?oc=5",
+     "date": "2026-08-04T08:13:38+00:00",
+     "source": "ニュースメディアVOIX",
+     "snippet": "株式会社オルセルが提供する不動産業界向けAI活用メディア「不動産のチカラ」の魅力&nbsp;&nbsp;ニュースメディアVOIX",
+     "summary": "株式会社オルセルが提供する不動産業界向けAI活用メディア「不動産のチカラ」の魅力について紹介されているにゃ。このメディアは、不動産業界におけるAIの活用方法や最新情報を提供し、業界の発展に寄与することを目指しているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "AIが「最初の相談相手」になる時代 広告メディアは意思決定支援の場へ - 宣伝会議",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1cnRyaGVUbVJqSnVsSkFHUGg4ZVRLR2RJRE9BTzVERlZZMExWcVp5MDE0OHJaYmZCY25EZjVnWXRSZllCWUtHeWZGUmduMlFVZmxFbTMyS0FoYVFZdUU3dFRnSFFWZW9VUDFlRTJuQlZPSXhwNGxN?oc=5",
+     "date": "2026-08-04T03:37:09+00:00",
+     "source": "宣伝会議",
+     "snippet": "AIが「最初の相談相手」になる時代 広告メディアは意思決定支援の場へ&nbsp;&nbsp;宣伝会議",
+     "summary": "AIが「最初の相談相手」となる時代が到来しているにゃ。広告メディアは、意思決定支援の場としての役割を果たすことが求められているそうだにゃん。AIの活用により、より良い意思決定が可能になることが期待されているにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "EU AI法第50条が8月2日に適用開始、AI生成コンテンツへの透明性義務をメディア企業はどう受け止めるべきか - media-innovation.jp",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uS3JsenJTSWR6UlFucmhvdDc5Ukk2cjJTZWIxRWFiQXdDVU4wS1NIVUlqV1hOdFdqb3hsY1VxWTUyUF9RakZxZmZLeTZmc0VRUHFhS3hPTG1qQXR1VzlNdl9oWWVXeDRNOUE?oc=5",
+     "date": "2026-08-03T22:00:03+00:00",
+     "source": "media-innovation.jp",
+     "snippet": "EU AI法第50条が8月2日に適用開始、AI生成コンテンツへの透明性義務をメディア企業はどう受け止めるべきか&nbsp;&nbsp;media-innovation.jp",
+     "summary": "EUのAI法第50条が8月2日に適用開始されたにゃ。この法律により、AI生成コンテンツに対する透明性義務がメディア企業に課せられることになり、企業はその対応をどう進めるべきかが問われているそうだにゃん。"
     }
    ]
   },
@@ -103,21 +103,21 @@
    "items": [
     {
      "type": "news",
-     "title": "地域に眠る価値を、次の世代へつなぐ地域創生を。 ‐起業家支援事業（IB）アシスタント‐ - 株式会社メディアドゥ",
+     "title": "地域に眠る価値を、次の世代へつなぐ地域創生を。 ‐起業家支援事業（IB）アシスタント‐ - mediado.jp",
      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQZ2ZtcWFJbEhyRFctaTNqTG9FUVV4ZHBfQ0NRaVFNcWhhbE9kQzlWOXdxeEYzekR3dC1IbXI1TE1KRFNoMnJvUTRDQzRNR1JjSGVKZVZzd25aeGgxQTZva2swXzNaRF9uVGRfd2IyTDhYSWE1bmFkdlBBR3pDV21lS1Juc1ZwVmxkS3hEZ2ptX2tVWERkb3hBZExyb1lYTFg1TnB3dDZTMnVPZUo3YkNvakJSWENULXlJNTNxN081Z0dNU2lDQ0tkOTFlemhnU1huVXBfN2hET194b18wWHJ6OW83LUpGUlFDWWRsMUxmSTR4VkhLdmd3TFdfOERhSXlleGhnWWlZcUFuYXRoWDFjSHFkTmxtQkFQak93LXNGRnNyamU5TzRJaHowcHpMQ01FNkxBSXd0TXZCNU1MWWdqMkhBTzFOdkNMd3U2dkdSQURNbk1Y?oc=5",
      "date": "2026-08-05T19:44:29+00:00",
-     "source": "株式会社メディアドゥ",
-     "snippet": "地域に眠る価値を、次の世代へつなぐ地域創生を。 ‐起業家支援事業（IB）アシスタント‐&nbsp;&nbsp;株式会社メディアドゥ",
-     "summary": "株式会社メディアドゥは、地域に眠る価値を次の世代へつなぐ地域創生を目指す起業家支援事業（IBアシスタント）を展開しているにゃ。地域の資源を活用し、持続可能な発展を促進する取り組みを行っているそうだにゃん。"
+     "source": "mediado.jp",
+     "snippet": "地域に眠る価値を、次の世代へつなぐ地域創生を。 ‐起業家支援事業（IB）アシスタント‐&nbsp;&nbsp;mediado.jp",
+     "summary": "地域に眠る価値を次の世代へつなぐための地域創生に関する記事だにゃ。起業家支援事業（IB）アシスタントが地域の資源を活用し、持続可能な発展を目指す取り組みについて紹介しているにゃ。地域の特性を活かしたビジネスモデルの構築が重要だとされているにゃん。"
     },
     {
      "type": "gov",
-     "title": "地創塾 - 地域未来戦略本部事務局 - chisou.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nTl92N0lEYkJTbFdzOWFNWUVuMFpiTlhpeW1HVnR1b3paTTc1MXpqWWYyY3R1OWk0NXJIR2JqVWZadkRVUXU2NlRNeEpRZkNaSHZJRlNGM3pXdG12MUMwTzQ3NUFBZldkLUZwNWp6RWRic05jWEtvZDV5UWpSWVk?oc=5",
-     "date": "2026-08-04T18:19:35+00:00",
-     "source": "chisou.go.jp",
-     "snippet": "地創塾 - 地域未来戦略本部事務局&nbsp;&nbsp;chisou.go.jp",
-     "summary": "地創塾は地域未来戦略本部事務局が運営するプログラムで、地域の未来を考えるための学びの場を提供しているにゃ。地域の課題解決や活性化に向けた知識やスキルを学ぶことができるそうだにゃん。"
+     "title": "食の社会インフラとしての卸売業の機能と存在価値 - jstage.jst.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MajZwLXdfQTFic1Zydlo0Y2N3b1V6MnVSaHozaU8wN1ByRVl6b3ozMXBucXk5cVRBMmhJamNjQ3ZScGFIbmtIRzhJdFJZczFEYUNOZmR4UWlZbjE3LUJrUjMwajExbm5rNzRtLVo4U19SbWt0YUNPU1BpNA?oc=5",
+     "date": "2026-08-05T11:32:29+00:00",
+     "source": "jstage.jst.go.jp",
+     "snippet": "食の社会インフラとしての卸売業の機能と存在価値&nbsp;&nbsp;jstage.jst.go.jp",
+     "summary": "卸売業の機能と存在価値についての研究が紹介されている記事だにゃ。食の社会インフラとしての役割が強調され、流通の効率化や地域経済への貢献が述べられているにゃ。卸売業が持つ多様な機能が、食の安定供給にどれほど重要かを考察しているそうだにゃん。"
     },
     {
      "type": "news",
@@ -126,7 +126,7 @@
      "date": "2026-08-04T10:10:22+00:00",
      "source": "PR TIMES",
      "snippet": "奈良テレビ放送株式会社との協業開始のお知らせ&nbsp;&nbsp;PR TIMES",
-     "summary": "奈良テレビ放送株式会社との協業が始まったことが発表されたにゃ。具体的な内容は明示されていないが、両社の連携によって新たな展開が期待されるそうだにゃん。"
+     "summary": "奈良テレビ放送株式会社との協業開始のお知らせだにゃ。具体的な内容は記載されていないが、両社の連携によって新たな取り組みが期待されるにゃ。地域メディアとの協力がどのような影響をもたらすか、注目されるにゃん。"
     },
     {
      "type": "news",
@@ -135,7 +135,7 @@
      "date": "2026-08-04T01:46:00+00:00",
      "source": "時事ドットコム",
      "snippet": "株式会社BitoB、「長野を代表する企業100選」に選出&nbsp;&nbsp;時事ドットコム",
-     "summary": "株式会社BitoBが「長野を代表する企業100選」に選出されたにゃ。これは同社の地域貢献やビジネスの成果が評価された結果で、今後のさらなる発展が期待されるそうだにゃん。"
+     "summary": "株式会社BitoBが「長野を代表する企業100選」に選ばれたというニュースだにゃ。これは同社の業績や地域貢献が評価された結果だにゃ。選出されたことにより、さらなる成長と地域への貢献が期待されるにゃん。"
     },
     {
      "type": "news",
@@ -144,7 +144,7 @@
      "date": "2026-08-03T13:52:22+00:00",
      "source": "千葉テレビ放送",
      "snippet": "【8月19日（水）申込〆切】地域交流ワーケーション体験ツアー（奥多摩町）&nbsp;&nbsp;千葉テレビ放送",
-     "summary": "奥多摩町で地域交流ワーケーション体験ツアーが開催されるにゃ。参加申し込みの締切は8月19日（水）で、地域の魅力を体験しながら働く機会を提供するイベントだそうだにゃん。"
+     "summary": "奥多摩町での地域交流ワーケーション体験ツアーの申込締切が8月19日（水）に設定されている記事だにゃ。地域の魅力を体験しながら働く機会を提供するこのツアーは、参加者にとって貴重な体験になるだろうにゃん。"
     }
    ]
   },
@@ -159,7 +159,7 @@
      "date": "2026-08-05T11:40:00+00:00",
      "source": "ｄメニューニュース",
      "snippet": "アコム＜8572＞、マイクロファイナンスのカンボジアPrasethpheap Financeを子会社化&nbsp;&nbsp;ｄメニューニュース",
-     "summary": "アコムは、カンボジアのマイクロファイナンス企業Prasethpheap Financeを子会社化したにゃ。この動きは、アコムの国際展開を強化する一環として位置づけられているそうだにゃん。"
+     "summary": "アコムは、カンボジアのマイクロファイナンス企業Prasethpheap Financeを子会社化したにゃ。これにより、アコムは海外市場への進出を強化し、マイクロファイナンス事業の拡大を目指すそうだにゃん。"
     },
     {
      "type": "news",
@@ -168,7 +168,7 @@
      "date": "2026-08-05T11:40:00+00:00",
      "source": "ｄメニューニュース",
      "snippet": "セイワホールディングス＜523A＞、表面処理・表面加工業の大栄パーカーを子会社化&nbsp;&nbsp;ｄメニューニュース",
-     "summary": "セイワホールディングスは、表面処理・表面加工業を手掛ける大栄パーカーを子会社化したにゃ。この買収により、セイワホールディングスは事業の多角化を図る狙いがあるそうだにゃん。"
+     "summary": "セイワホールディングスは、表面処理・表面加工業を手掛ける大栄パーカーを子会社化したにゃ。これにより、セイワホールディングスは事業の多角化を進め、競争力を高める狙いがあるそうだにゃん。"
     },
     {
      "type": "news",
@@ -177,7 +177,7 @@
      "date": "2026-08-05T11:40:00+00:00",
      "source": "ｄメニューニュース",
      "snippet": "クオールホールディングス＜3034＞、愛知県で調剤薬局3店舗を運営するMH2を子会社化&nbsp;&nbsp;ｄメニューニュース",
-     "summary": "クオールホールディングスは、愛知県で調剤薬局を3店舗運営するMH2を子会社化したにゃ。これにより、クオールホールディングスは地域でのサービス拡充を目指しているそうだにゃん。"
+     "summary": "クオールホールディングスは、愛知県で調剤薬局を運営するMH2を子会社化したにゃ。この買収により、クオールホールディングスは地域でのサービス提供を強化し、調剤薬局事業の拡大を図るそうだにゃん。"
     },
     {
      "type": "news",
@@ -186,7 +186,7 @@
      "date": "2026-08-05T09:07:00+00:00",
      "source": "Excite エキサイト",
      "snippet": "植物工場、東京に研究拠点 米スタートアップが開所式&nbsp;&nbsp;Excite エキサイト",
-     "summary": "米国のスタートアップが東京に植物工場の研究拠点を開所したにゃ。これにより、持続可能な農業技術の開発が進むことが期待されているそうだにゃん。"
+     "summary": "米スタートアップが東京に植物工場の研究拠点を開設したにゃ。これにより、持続可能な農業技術の開発や新たなビジネスモデルの創出が期待されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -195,7 +195,7 @@
      "date": "2026-08-05T09:07:00+00:00",
      "source": "福島民友新聞社",
      "snippet": "植物工場、東京に研究拠点 米スタートアップが開所式:経済&nbsp;&nbsp;福島民友新聞社",
-     "summary": "米スタートアップが東京に植物工場の研究拠点を開所したにゃ。この拠点では、先進的な農業技術の研究が行われる予定で、持続可能な食料生産に寄与することが期待されているそうだにゃん。"
+     "summary": "米スタートアップが東京に植物工場の研究拠点を設立したにゃ。これにより、都市部での農業の可能性を探り、効率的な食料生産の方法を研究することが目的だそうだにゃん。"
     }
    ]
   },
@@ -205,12 +205,12 @@
    "items": [
     {
      "type": "news",
-     "title": "相葉雅紀、800万年前のナマケモノに興味津々！ 特別展『いきもの超ワールド展 国立科学博物館×ダーウィンが来た！』開催中 - Yahoo!ニュース",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMcjJzVG83Q3Y3cW9LbmROTDhObXR3VmRJRUJLSHFUZGo1NGlYQll0NE9hZkFNTmpzcFlYX2M0QTNZWFdyZmVwaG4yczlxTG1uNjNQSVQ4VnZMMVNMS29rdXFQcmhlWEhidEhYNUdTcXpJTno5Y21lVjhlYWtqbEE?oc=5",
-     "date": "2026-08-05T08:02:33+00:00",
-     "source": "Yahoo!ニュース",
-     "snippet": "相葉雅紀、800万年前のナマケモノに興味津々！ 特別展『いきもの超ワールド展 国立科学博物館×ダーウィンが来た！』開催中&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "相葉雅紀が800万年前のナマケモノに興味を持っているにゃ！特別展『いきもの超ワールド展 国立科学博物館×ダーウィンが来た！』が開催中で、さまざまな生物の進化や特徴を楽しめる展示が行われているそうだにゃん。相葉さんの興味がどのように展開されるのか、来場者も楽しみにしているにゃ。"
+     "title": "相葉雅紀、800万年前のナマケモノに興味津々！ 特別展『いきもの超ワールド展 国立科学博物館×ダーウィンが来た！』開催中 - lp.p.pia.jp",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jOXB1WU5nNndkblJJaE9FbTNLX0I0RjlTeTFTNjMyUkFWNFphenl3ekxwS3FlbWV4aFc5b1psYWRRRmZkTThTUGVZZERiTk50Z2tySERTX2F3dnFrSmV3?oc=5",
+     "date": "2026-08-05T08:00:00+00:00",
+     "source": "lp.p.pia.jp",
+     "snippet": "相葉雅紀、800万年前のナマケモノに興味津々！ 特別展『いきもの超ワールド展 国立科学博物館×ダーウィンが来た！』開催中&nbsp;&nbsp;lp.p.pia.jp",
+     "summary": "相葉雅紀が800万年前のナマケモノに興味を持っているにゃ！特別展『いきもの超ワールド展 国立科学博物館×ダーウィンが来た！』が開催中で、さまざまな生物の歴史や進化について学べる機会だにゃ。相葉さんの興味が展示をさらに盛り上げているそうだにゃん。"
     },
     {
      "type": "news",
@@ -219,7 +219,7 @@
      "date": "2026-08-04T23:00:00+00:00",
      "source": "講談社コクリコ",
      "snippet": "【いきもの超ワールド展】国立科学博物館×ダーウィンが来た！の見どころを図鑑執筆者が徹底解説&nbsp;&nbsp;講談社コクリコ",
-     "summary": "特別展『いきもの超ワールド展』では、国立科学博物館と『ダーウィンが来た！』がコラボしているにゃ。図鑑執筆者が見どころを解説しており、展示されている生物の進化や生態について深く学べる内容になっているそうだにゃ。多様な生物に触れられる貴重な機会だにゃん。"
+     "summary": "特別展『いきもの超ワールド展』では、国立科学博物館と『ダーウィンが来た！』がコラボしているにゃ。図鑑執筆者が見どころを解説していて、展示内容が充実しているそうだにゃ。生物の多様性や進化の過程を楽しみながら学べる展示になっているにゃん。"
     },
     {
      "type": "news",
@@ -228,7 +228,7 @@
      "date": "2026-08-03T23:00:04+00:00",
      "source": "NHK",
      "snippet": "夏休みSP 特別展「いきもの超ワールド展」 @国立科学博物館リポート! 10時台&nbsp;&nbsp;NHK",
-     "summary": "夏休み特別展『いきもの超ワールド展』が国立科学博物館で開催中だにゃ。NHKがリポートしており、展示内容や来場者の反応などが紹介されているにゃ。家族連れや子どもたちにとって、楽しく学びながら過ごせる場所になっているそうだにゃん。"
+     "summary": "夏休み特別展『いきもの超ワールド展』が国立科学博物館で開催中だにゃ！NHKがリポートしていて、展示の魅力や内容が紹介されているにゃ。家族連れや子供たちにとって、楽しく学べる貴重な体験になっているそうだにゃん。"
     },
     {
      "type": "news",
@@ -237,7 +237,7 @@
      "date": "2026-08-03T20:06:36+00:00",
      "source": "伊豆下田経済新聞",
      "snippet": "ワニの特徴について解説する国立科学博物館動物研究部の吉川夏彦さん&nbsp;&nbsp;伊豆下田経済新聞",
-     "summary": "国立科学博物館の動物研究部の吉川夏彦さんが、ワニの特徴について解説しているにゃ。ワニの生態や進化についての知識を深めることができる内容で、来館者にとって興味深い情報が得られるそうだにゃん。ワニの魅力を知る良い機会だにゃ。"
+     "summary": "国立科学博物館の動物研究部の吉川夏彦さんが、ワニの特徴について解説しているにゃ。ワニの生態や進化についての知識が深まる内容で、興味深い情報が得られるそうだにゃ。ワニについての理解が深まる良い機会だにゃん。"
     },
     {
      "type": "news",
@@ -246,7 +246,7 @@
      "date": "2026-08-03T20:00:00+00:00",
      "source": "下野新聞社",
      "snippet": "展示物 学校で活用を 教員向けに県科学館｜朝刊・夕刊ニュース｜下野新聞デジタル&nbsp;&nbsp;下野新聞社",
-     "summary": "県科学館では、展示物を学校で活用するための教員向けの取り組みが行われているにゃ。教育現場での活用方法や展示の意義について紹介されており、教員たちが生徒に科学の楽しさを伝える手助けをすることを目指しているそうだにゃん。"
+     "summary": "県科学館が展示物を学校で活用するため、教員向けの取り組みを行っているにゃ。教育現場での活用方法を提案し、子供たちに科学の楽しさを伝えることを目指しているそうだにゃ。科学教育の充実に貢献する取り組みだにゃん。"
     }
    ]
   },
@@ -256,48 +256,48 @@
    "items": [
     {
      "type": "news",
+     "title": "〈つなぐ 戦後81年〉広島の高校生 描いた原爆 袖ケ浦で展示「平和の大切さ伝える」 VR体験はきょうまで - 東京新聞デジタル",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5X3RYZTdKTFdVN2ctOVpTZ3N6LUxHdlh5b25hYzdJbmtUdkZXVFRzX3Q2RVVhTWxwY1ZvX1Fxb2ZCNDIyZm5MV1JSUTN2MFplZDRJ?oc=5",
+     "date": "2026-08-05T22:36:56+00:00",
+     "source": "東京新聞デジタル",
+     "snippet": "〈つなぐ 戦後81年〉広島の高校生 描いた原爆 袖ケ浦で展示「平和の大切さ伝える」 VR体験はきょうまで&nbsp;&nbsp;東京新聞デジタル",
+     "summary": "広島の高校生が描いた原爆をテーマにした作品が袖ケ浦で展示されているにゃ。展示の目的は平和の大切さを伝えることで、VR体験も行われているそうだにゃん。このイベントは戦後81年を迎える中で、若い世代が歴史を学び、平和の重要性を感じる機会となっているにゃ。VR体験は本日まで行われているので、興味のある方はぜひ訪れてみてほしいにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "【大阪市西淀川区】ものづくりやVR体験、ヒーローショーも！8月8日、『大阪府立淀商業高等学校』で『チャレンジキャンプ2026』が開催されます！ - 号外NET 大阪市",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EMFRxRnZwODBhT0o0OXZHWnZPSTYxQVBsNVVTZWQwNDlfSXpBckxjaUtVVmZ6M0U4MjJWeXRPNFM0V24xOEViSUVIM2MwY0lMWG9wN2pwblFLaHJKbmRzV3JQLWpCdGQyUTZvQU4xSHdVTlVIREpr?oc=5",
+     "date": "2026-08-05T22:13:32+00:00",
+     "source": "号外NET 大阪市",
+     "snippet": "【大阪市西淀川区】ものづくりやVR体験、ヒーローショーも！8月8日、『大阪府立淀商業高等学校』で『チャレンジキャンプ2026』が開催されます！&nbsp;&nbsp;号外NET 大阪市",
+     "summary": "大阪市西淀川区で8月8日に『チャレンジキャンプ2026』が開催されるにゃ。場所は大阪府立淀商業高等学校で、ものづくりやVR体験、ヒーローショーなど多彩なプログラムが用意されているそうだにゃ。参加者は楽しみながら学ぶことができる機会だにゃん。地域の活性化にもつながるイベントなので、興味がある方はぜひ参加してみてほしいにゃ。"
+    },
+    {
+     "type": "news",
      "title": "没入型VRシアター「Storydive Theater WAHHHP」本日8月5日、『永遠なるガウディ』新宿にグランドオープン - CLASSY.[クラッシィ]",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KZ1BHZmFlQVd1NzlpV2tqRWp5Q0lCeXVtVnFSNzdLWExHUDJKX3lWVjQtWXFVa09UdGx4c2UzZWFHNGlZZzNDOTdXS1BKVHVHbHNDTlEzNA?oc=5",
      "date": "2026-08-05T18:54:06+00:00",
      "source": "CLASSY.[クラッシィ]",
      "snippet": "没入型VRシアター「Storydive Theater WAHHHP」本日8月5日、『永遠なるガウディ』新宿にグランドオープン&nbsp;&nbsp;CLASSY.[クラッシィ]",
-     "summary": "没入型VRシアター「Storydive Theater WAHHHP」が8月5日に新宿でグランドオープンしたにゃ。新しい体験として『永遠なるガウディ』が上映されるそうだにゃん。観客はVR技術を通じて、ガウディの建築をより深く体感できるにゃ。これにより、芸術とテクノロジーの融合が楽しめる場所となるだろうにゃ。"
+     "summary": "新宿に没入型VRシアター「Storydive Theater WAHHHP」が8月5日にグランドオープンしたにゃ。初の作品は『永遠なるガウディ』で、観客はガウディの世界に没入できる体験ができるそうだにゃん。このシアターは新しい形のエンターテインメントを提供することを目指しているにゃ。興味のある方はぜひ訪れてみてほしいにゃ。"
     },
     {
      "type": "news",
-     "title": "「初音ミク 夜空プログラム 2026」AR音楽花火やMR体験など追加企画公開、8月5日からチケット販売開始 - appbank.net",
+     "title": "「初音ミク 夜空プログラム 2026」AR音楽花火やMR体験など追加企画公開、8月5日からチケット販売開始 - AppBank",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGTVQ1Z1RTT0tUSm5qQ1EzQWJEUmNsY0gzQXpvbVg0VHYwaTE4bDhwNzZoR2dpdVJpLXIzcG54R2dHeTNpTXN0TDBPZDNxaFBpLUlmMGZLRmhndFp3WWhuVWtONkV2ZFcwT3c?oc=5",
      "date": "2026-08-05T10:53:24+00:00",
-     "source": "appbank.net",
-     "snippet": "「初音ミク 夜空プログラム 2026」AR音楽花火やMR体験など追加企画公開、8月5日からチケット販売開始&nbsp;&nbsp;appbank.net",
-     "summary": "「初音ミク 夜空プログラム 2026」が新たにAR音楽花火やMR体験を追加し、8月5日からチケット販売を開始したにゃ。これにより、参加者は音楽と視覚の融合を楽しむことができるそうだにゃん。未来のエンターテインメントを体験できる機会が増えて、ファンにとっては嬉しいニュースだにゃ。"
+     "source": "AppBank",
+     "snippet": "「初音ミク 夜空プログラム 2026」AR音楽花火やMR体験など追加企画公開、8月5日からチケット販売開始&nbsp;&nbsp;AppBank",
+     "summary": "「初音ミク 夜空プログラム 2026」が8月5日からチケット販売を開始したにゃ。このプログラムではAR音楽花火やMR体験などの追加企画が公開されているそうだにゃん。初音ミクのファンにはたまらないイベントになること間違いなしだにゃ。チケットは早めに手に入れて、特別な体験を楽しんでほしいにゃ。"
     },
     {
      "type": "news",
-     "title": "株式会社旅行新聞新社 - ryoko-net.co.jp",
+     "title": "株式会社旅行新聞新社 - 株式会社旅行新聞新社",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCX205cmVEVkhKM1lYWWF2eGI3UVNTZTFxYVZhdlVEclVOZHpGak9BMmp3clE0c2hyYlNZNktiOEF5X25MbkxDNERGSzZZZjRQb0RHbzRZOUltVl9oYXVIaHZXMVZXZzVs?oc=5",
      "date": "2026-08-05T09:59:16+00:00",
-     "source": "ryoko-net.co.jp",
-     "snippet": "株式会社旅行新聞新社&nbsp;&nbsp;ryoko-net.co.jp",
-     "summary": "株式会社旅行新聞新社に関する情報は特に記載されていないにゃ。詳細は不明だが、旅行関連のニュースを扱っている会社のようだにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "【体験レポート】新宿駅近からサグラダ・ファミリアへ！VRで体感するガウディ建築（わっき） - エキスパート - Yahoo!ニュース",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalFKNWJMXzhkLVhSeUNUTkZpNGhyVVJkTnBzV0M5cWNBT0NFSHpwX282M3dOcUFUTmpWZVVmb2F0OTJqUE5sOGpIWVVweUNOWnNybGFHZGxoMEZteW9WR0F0U0Y1Q1BaS2dZRXAxN3FST3ZnbEhEZ0Z0a2Y5X3hkUlEzZWM4R3R0?oc=5",
-     "date": "2026-08-05T09:13:40+00:00",
-     "source": "Yahoo!ニュース",
-     "snippet": "【体験レポート】新宿駅近からサグラダ・ファミリアへ！VRで体感するガウディ建築（わっき） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "新宿駅近くからサグラダ・ファミリアをVRで体感するレポートが掲載されたにゃ。ガウディの建築をVRで楽しむことで、実際に訪れたかのような感覚を味わえるそうだにゃん。新しい技術を使った体験が、観光の形を変える可能性があるにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "画像・写真 | BALLISTIK BOYZ、主演作を試写して反省「振り付けそろってないなと」 “小っ恥ずかしい”演技には照れ笑い 2枚目 - オリコンニュース",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5udm1zV2MzNUdOaUloM29BeDBibzN0TWJLNms4YlJLLVlYTHAwQ19PYW9tblhPNGx6cUQySHE5QkpGUzJpNUNOcmU1bHpzTnVaWEVBQ2JBdVNwdw?oc=5",
-     "date": "2026-08-05T08:39:14+00:00",
-     "source": "オリコンニュース",
-     "snippet": "画像・写真 | BALLISTIK BOYZ、主演作を試写して反省「振り付けそろってないなと」 “小っ恥ずかしい”演技には照れ笑い 2枚目&nbsp;&nbsp;オリコンニュース",
-     "summary": "BALLISTIK BOYZが主演作を試写し、振り付けについて反省したとのことだにゃ。演技に対しては「小っ恥ずかしい」と照れ笑いを見せたそうだにゃん。彼らの成長を感じさせるエピソードだにゃ。"
+     "source": "株式会社旅行新聞新社",
+     "snippet": "株式会社旅行新聞新社&nbsp;&nbsp;株式会社旅行新聞新社",
+     "summary": "株式会社旅行新聞新社に関する情報は特に記載されていないにゃ。詳細は不明だが、旅行に関連する情報を提供している会社だと思われるにゃ。旅行に興味がある方は、今後の情報に注目してみてほしいにゃん。"
     }
    ]
   }
