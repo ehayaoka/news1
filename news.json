@@ -1,10 +1,37 @@
 {
- "updated": "2026-08-07T00:57:44.800562+00:00",
+ "updated": "2026-08-07T01:38:03.513793+00:00",
  "categories": [
   {
    "id": "ai_media",
    "title": "🤖 AI×メディア研究（ニュース・論文・行政）",
    "items": [
+    {
+     "type": "gov",
+     "title": "上海市で世界AI大会開催、AI計算インフラやフィジカルAI関連企業が多数出展(中国) | ビジネス短信 - jetro.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Gd2E3LXA4UkRBbVg3VURVN3dzT2tITUFnaktGMVZTUUU5Q0VRV2FWOHNiWVpWVkgyS3o5UEMzZk0tUlRHaktUN3pJNEM0OGhTbFczSWFHbE43eTZua05ZU240N1EwdEtpZHpsc1NB?oc=5",
+     "date": "2026-08-07T00:59:05+00:00",
+     "source": "jetro.go.jp",
+     "snippet": "上海市で世界AI大会開催、AI計算インフラやフィジカルAI関連企業が多数出展(中国) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
+     "summary": "上海市で開催された世界AI大会では、AI計算インフラやフィジカルAI関連企業が多数出展したにゃ。最新の技術やサービスが紹介され、参加者はAIの未来についての議論を交わしたそうだにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "高リスクが常態化する時代に、踏みとどまる自由貿易体制 | 特集 - 地域・分析レポート - 海外ビジネス情報 - jetro.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2T295blQxRHNFdWV1NVF6d3duMHFMd2dUbXZRVjh2YnNsdkp1U2RjNDdOUnZRU3lzaWpWdnV0WjVCbWtXZjRRZG9tNG5tOTdpXzlUQkgtaGJubnRsQWxsSWNZOVJidVpRY0E?oc=5",
+     "date": "2026-08-07T00:53:35+00:00",
+     "source": "jetro.go.jp",
+     "snippet": "高リスクが常態化する時代に、踏みとどまる自由貿易体制 | 特集 - 地域・分析レポート - 海外ビジネス情報&nbsp;&nbsp;jetro.go.jp",
+     "summary": "高リスクが常態化する現代において、自由貿易体制を維持する重要性が強調されているにゃ。特に、国際的な経済環境の変化に対応するための戦略が求められているそうだにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "高まる重要鉱物の供給リスク（世界） 戦略的小規模鉱物への政策支援が今後のカギ - jetro.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ0dBNjhlcFRENkYwRGh5UjNkMGVZbWpPM3BxZVVnWW5pbXVIWGIxb1JpSWIxM2lLTkk4dW5IcWFQQ0xNUGtFT3hvTVFSS2FJM3lxWXFzZTlFWnpLb2piMmZLcjIzTkl0dUhWUndFekU2dXMxanlmVXB2dWxGYWx0UmpHYVpnZw?oc=5",
+     "date": "2026-08-06T23:48:37+00:00",
+     "source": "jetro.go.jp",
+     "snippet": "高まる重要鉱物の供給リスク（世界） 戦略的小規模鉱物への政策支援が今後のカギ&nbsp;&nbsp;jetro.go.jp",
+     "summary": "重要鉱物の供給リスクが高まっている世界において、戦略的小規模鉱物への政策支援が今後の鍵となると指摘されているにゃ。持続可能な供給チェーンの構築が急務だそうだにゃん。"
+    },
     {
      "type": "news",
      "title": "出前館、生成AI活用のリテールメディア広告ソリューション「Moloco Commerce Media」で出店者向けに「オーダーブースト広告」を提供中 - ｄメニューニュース",
@@ -12,34 +39,7 @@
      "date": "2026-08-06T22:00:00+00:00",
      "source": "ｄメニューニュース",
      "snippet": "出前館、生成AI活用のリテールメディア広告ソリューション「Moloco Commerce Media」で出店者向けに「オーダーブースト広告」を提供中&nbsp;&nbsp;ｄメニューニュース",
-     "summary": "出前館は、生成AIを活用したリテールメディア広告ソリューション「Moloco Commerce Media」を通じて、出店者向けに「オーダーブースト広告」を提供しているにゃ。これにより、出店者は広告の効果を高めることができるそうだにゃん。"
-    },
-    {
-     "type": "gov",
-     "title": "ルールに基づく自由貿易体制の維持と強化に向けて（世界） - jetro.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOODVZXzVVWDcxWV9mTUp1Nlk5SUtMTUY3M2NzTC1NMmdldFdwUV9TdmY3a2pCazVQMEZIU3RCbjZXYVNaUGZzZ0hnN1lVTi1MYnIzNGMxU1I2VzNYbFo0a3RkREdXV2VZZ1dBZGhMQlhjV0puZVhoM0g0TUJNTFlYakkyZm5GQQ?oc=5",
-     "date": "2026-08-06T17:28:39+00:00",
-     "source": "jetro.go.jp",
-     "snippet": "ルールに基づく自由貿易体制の維持と強化に向けて（世界）&nbsp;&nbsp;jetro.go.jp",
-     "summary": "世界的にルールに基づく自由貿易体制の維持と強化が求められているにゃ。国際的な貿易の安定を図るため、各国が協力してルールを遵守することが重要だと考えられているそうだにゃん。"
-    },
-    {
-     "type": "gov",
-     "title": "財貿易の主役に躍り出るAI関連財（世界） - jetro.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZHotNHRJdkVFVk9xQ2E2dlB5THIycTJzbGcyeW1MS2V6NVE1TDFZQ0NpWXdYR3NHc1Q5M3NMYWp5V1BwTTBzVFVLbkpxRGRQQS1Ca2xYSm90VlhIdzd3ZlB5cnhITEoya3h1YW95blhLSUtnSmtFbTYxZmkxZVQyWHhkVzIyUQ?oc=5",
-     "date": "2026-08-06T16:23:40+00:00",
-     "source": "jetro.go.jp",
-     "snippet": "財貿易の主役に躍り出るAI関連財（世界）&nbsp;&nbsp;jetro.go.jp",
-     "summary": "AI関連財が財貿易の主役として注目されているにゃ。これにより、各国の経済成長に寄与する可能性が高まっているそうだにゃん。AI技術の進展が貿易の新たな流れを生み出しているにゃ。"
-    },
-    {
-     "type": "gov",
-     "title": "AI向け半導体の「主役」に迫る（世界） AI時代の半導体産業（1） - jetro.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQzRDMnUxNXFLLVlFcnRkNTdPZDY4V0R1UnV6a2dxem5heEpldm00TVJoMmdMUUx3U1Y4anpBUmNsVGJ0cjd6MW1ZbDFmUjEwekgwN1V4aFlrSVpwUzlleFdScnREN2RMVFAtWlFZcloyay1QNE1zR3F6R0VLWW9paTczOXl4dw?oc=5",
-     "date": "2026-08-06T16:23:40+00:00",
-     "source": "jetro.go.jp",
-     "snippet": "AI向け半導体の「主役」に迫る（世界） AI時代の半導体産業（1）&nbsp;&nbsp;jetro.go.jp",
-     "summary": "AI向け半導体が今後の半導体産業の主役になると予測されているにゃ。AI技術の進化に伴い、特に需要が高まる分野であるため、企業はこの市場に注力しているそうだにゃん。"
+     "summary": "出前館は、生成AIを活用したリテールメディア広告ソリューション「Moloco Commerce Media」を導入し、出店者向けに「オーダーブースト広告」を提供しているにゃ。この新しい広告手法が注目されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -48,7 +48,7 @@
      "date": "2026-08-06T08:05:04+00:00",
      "source": "pronews.com",
      "snippet": "博報堂メディア環境研究所が世界5地域を調査。東京圏は「テレビ大国」、AI・先端技術に最も慎重&nbsp;&nbsp;pronews.com",
-     "summary": "博報堂メディア環境研究所が行った調査によると、東京圏は「テレビ大国」として知られ、AIや先端技術に対しては慎重な姿勢を示しているにゃ。特に、リアルタイム視聴が強いことが特徴だそうだにゃん。"
+     "summary": "博報堂メディア環境研究所の調査によると、東京圏は「テレビ大国」として知られ、AIや先端技術に対して慎重な姿勢を持っているにゃ。しかし、利用意向は高いことが示されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -57,7 +57,7 @@
      "date": "2026-08-06T02:00:32+00:00",
      "source": "hakuhodo.co.jp",
      "snippet": "博報堂 メディア環境研究所、世界5地域調査から東京圏の生活者像を分析 東京圏はテレビ番組のリアルタイム視聴が強く、信用度も高いAI・テクノロジーに慎重も利用意向は8割超え、不安・負担解消が受け入れのヒントに｜ニュースリリース｜博報堂 Hakuhodo Inc.&nbsp;&nbsp;hakuhodo.co.jp",
-     "summary": "博報堂メディア環境研究所は、東京圏の生活者像を分析した結果、リアルタイム視聴が強く、AI技術に対しては慎重ながらも利用意向は8割を超えていることが分かったにゃ。不安や負担を解消することが受け入れのカギだそうだにゃん。"
+     "summary": "博報堂メディア環境研究所が世界5地域を調査し、東京圏の生活者像を分析したにゃ。リアルタイム視聴が強く、AI技術に慎重ながらも利用意向は8割を超えているそうだにゃん。"
     },
     {
      "type": "news",
@@ -66,16 +66,16 @@
      "date": "2026-08-05T23:44:03+00:00",
      "source": "AIsmiley",
      "snippet": "KDDI、出版・専門メディアと連携した対話型AIサービス「Buffmee」提供開始&nbsp;&nbsp;AIsmiley",
-     "summary": "KDDIは、出版・専門メディアと連携した対話型AIサービス「Buffmee」の提供を開始したにゃ。このサービスは、ユーザーとの対話を通じて情報を提供することを目的としているそうだにゃん。"
+     "summary": "KDDIは、出版や専門メディアと連携した対話型AIサービス「Buffmee」を提供開始したにゃ。このサービスは、ユーザーとの対話を通じて情報を提供することを目指しているそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "3展同時開催！ナノオプト・メディア「DXシステム開発 Expo」「ものづくりDX Expo」「AI Innovation Tokyo」 - dtimes.jp",
+     "title": "3展同時開催！ナノオプト・メディア「DXシステム開発 Expo」「ものづくりDX Expo」「AI Innovation Tokyo」 - Dtimes",
      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBScm8za3dkSjhkTDVVcnJNRWJXREw4R2dVNU1pb1dJdXkyckN5M2wyeG9xS09oazIwdUdUdkZFSkY0aGowUVE?oc=5",
      "date": "2026-08-05T12:34:46+00:00",
-     "source": "dtimes.jp",
-     "snippet": "3展同時開催！ナノオプト・メディア「DXシステム開発 Expo」「ものづくりDX Expo」「AI Innovation Tokyo」&nbsp;&nbsp;dtimes.jp",
-     "summary": "ナノオプト・メディアが「DXシステム開発 Expo」「ものづくりDX Expo」「AI Innovation Tokyo」の3展を同時開催するにゃ。これにより、最新のDX技術やAIの革新が紹介される予定だそうだにゃん。"
+     "source": "Dtimes",
+     "snippet": "3展同時開催！ナノオプト・メディア「DXシステム開発 Expo」「ものづくりDX Expo」「AI Innovation Tokyo」&nbsp;&nbsp;Dtimes",
+     "summary": "ナノオプト・メディアが「DXシステム開発 Expo」「ものづくりDX Expo」「AI Innovation Tokyo」を同時開催するにゃ。これにより、最新のDX技術やAIの活用事例が紹介される予定だそうだにゃん。"
     },
     {
      "type": "news",
@@ -84,7 +84,7 @@
      "date": "2026-08-05T05:00:00+00:00",
      "source": "ドリームニュース",
      "snippet": "【新刊】生成AI・AIエージェント時代の店舗DXを\"物語\"で学べる実践書がAmazonで予約開始！日本の小売の9割を支える実店舗の未来を描く&nbsp;&nbsp;ドリームニュース",
-     "summary": "新刊がAmazonで予約開始されたにゃ。この本では、生成AIやAIエージェント時代の店舗DXを物語形式で学ぶことができ、日本の小売業の未来を描いているそうだにゃん。"
+     "summary": "新刊がAmazonで予約開始されたにゃ。生成AIやAIエージェント時代の店舗DXを物語形式で学べる実践書で、日本の小売業の未来を描いているそうだにゃん。"
     },
     {
      "type": "news",
@@ -93,7 +93,7 @@
      "date": "2026-08-05T03:00:00+00:00",
      "source": "Newscast.jp",
      "snippet": "ナノオプト・メディア、「DXシステム開発 Expo」「ものづくりDX Expo」 「AI Innovation Tokyo」を9月に東京浜松町にて3展同時開催&nbsp;&nbsp;Newscast.jp",
-     "summary": "ナノオプト・メディアは、9月に東京浜松町で「DXシステム開発 Expo」「ものづくりDX Expo」「AI Innovation Tokyo」の3展を同時開催するにゃ。これにより、最新の技術やトレンドが紹介される予定だそうだにゃん。"
+     "summary": "ナノオプト・メディアが「DXシステム開発 Expo」「ものづくりDX Expo」「AI Innovation Tokyo」を9月に東京浜松町で同時開催するにゃ。多くの企業が参加し、最新技術の展示が行われる予定だそうだにゃん。"
     }
    ]
   },
@@ -108,7 +108,7 @@
      "date": "2026-08-06T20:00:09+00:00",
      "source": "千葉テレビ放送",
      "snippet": "地域創生撮影活動 第六章 『写真の力』日本の食文化伝導 その二&nbsp;&nbsp;千葉テレビ放送",
-     "summary": "千葉テレビ放送の「地域創生撮影活動 第六章」では、日本の食文化を伝えるための写真の力について語られているにゃ。地域の魅力を写真を通じて発信し、食文化の重要性を再認識することを目的としているそうだにゃん。"
+     "summary": "千葉テレビ放送の『地域創生撮影活動 第六章』では、日本の食文化を伝えるための写真の力に焦点を当てているにゃ。地域の魅力を引き出し、食文化を広める活動が進められているそうだにゃん。"
     },
     {
      "type": "gov",
@@ -117,7 +117,7 @@
      "date": "2026-08-06T15:06:11+00:00",
      "source": "政府広報オンライン",
      "snippet": "はじめよう、DIGITAL POSITIVE ACTION&nbsp;&nbsp;政府広報オンライン",
-     "summary": "政府広報オンラインの「はじめよう、DIGITAL POSITIVE ACTION」では、デジタル技術を活用したポジティブな行動を促進する取り組みが紹介されているにゃ。デジタル社会における新たな価値創造を目指しているそうだにゃん。"
+     "summary": "政府広報オンラインの『はじめよう、DIGITAL POSITIVE ACTION』では、デジタルを活用したポジティブな行動を促進する取り組みが紹介されているにゃ。デジタル技術を通じて、社会の課題解決を目指す内容だにゃ。"
     },
     {
      "type": "news",
@@ -126,7 +126,7 @@
      "date": "2026-08-06T07:15:12+00:00",
      "source": "Yahoo!ニュース",
      "snippet": "産経新聞が東北で発行を休止。次々と休刊・廃刊の続く新聞メディアの動向 #エキスパートトピ（秋元祥治） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "産経新聞が東北での発行を休止したことが報じられたにゃ。新聞メディアの休刊や廃刊が続く中、地域の情報発信の在り方が問われているそうだにゃん。今後のメディアの動向に注目が集まっているにゃ。"
+     "summary": "産経新聞が東北での発行を休止したことが報じられたにゃ。新聞メディアの休刊や廃刊が続く中、地域メディアの厳しい状況が浮き彫りになっているそうだにゃん。"
     },
     {
      "type": "news",
@@ -135,7 +135,7 @@
      "date": "2026-08-06T00:30:00+00:00",
      "source": "zakⅡ",
      "snippet": "アルミ額縁メーカーの株式会社アルナが「埼玉を代表する企業100選」に選出&nbsp;&nbsp;zakⅡ",
-     "summary": "アルミ額縁メーカーの株式会社アルナが「埼玉を代表する企業100選」に選ばれたというニュースがzakⅡで報じられたにゃ。地域経済に貢献する企業としての評価が高まっているそうだにゃん。"
+     "summary": "株式会社アルナが、埼玉を代表する企業100選に選ばれたことが報じられたにゃ。アルミ額縁を製造するこの企業は、地域経済に貢献していることが評価されたそうだにゃん。"
     },
     {
      "type": "news",
@@ -144,7 +144,7 @@
      "date": "2026-08-05T21:30:42+00:00",
      "source": "ニコニコニュース",
      "snippet": "2026天草デザイン経営促進シンポジウムを開催します！&nbsp;&nbsp;ニコニコニュース",
-     "summary": "2026年に天草でデザイン経営促進シンポジウムが開催されることがニコニコニュースで発表されたにゃ。デザインを通じて地域の発展を目指す取り組みが期待されているそうだにゃん。"
+     "summary": "2026天草デザイン経営促進シンポジウムが開催されることが発表されたにゃ。デザイン経営を通じて地域の発展を図ることを目的としたイベントだそうだにゃん。"
     }
    ]
   },
@@ -154,21 +154,30 @@
    "items": [
     {
      "type": "news",
-     "title": "FIFA 子会社設立計画撤回めぐり謝罪も 会長を“全面的に支持” - NHKニュース",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nVzIySzZYdU1naXpHYmpXeVNXOEhqZ2xwSDcycUFlcnQ4YU5XcEl1TTkzZTMycm93TU5uU281ZUV4a191UUdwWkxMSWUxMm5paVVob3VTRUI1N0NQMkZr?oc=5",
-     "date": "2026-08-06T10:26:56+00:00",
-     "source": "NHKニュース",
-     "snippet": "FIFA 子会社設立計画撤回めぐり謝罪も 会長を“全面的に支持”&nbsp;&nbsp;NHKニュース",
-     "summary": "FIFAは子会社設立計画を撤回し、その過程で謝罪を行ったにゃ。しかし、会長に対しては全面的な支持を表明しているそうだにゃん。今後のFIFAの方針や影響については注目されるにゃ。"
+     "title": "次世代の製造現場をつくる「実践的なDX」の実現へ 「第2回 製造現場DX展」2027年3月10日、千葉・幕張メッセで開幕《出展企業募集》 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SYV96UzBUTE81QWx1TFp0b3psMDYtZjZWUzgwZ1JONGplUWpTQVZxSmJVOE4zWDdNUlZtN1pDcHlTOThXbWVsTUt6TEluM3hsRTBJUWJ4NlczVlBNNHJ5Y3RIUFRFWGI1NkE?oc=5",
+     "date": "2026-08-07T01:10:01+00:00",
+     "source": "PR TIMES",
+     "snippet": "次世代の製造現場をつくる「実践的なDX」の実現へ 「第2回 製造現場DX展」2027年3月10日、千葉・幕張メッセで開幕《出展企業募集》&nbsp;&nbsp;PR TIMES",
+     "summary": "「第2回 製造現場DX展」が2027年3月10日に千葉・幕張メッセで開催されるにゃ。この展示会は、次世代の製造現場を実現するための「実践的なDX」をテーマにしているにゃ。出展企業を募集しており、製造業のデジタル化や効率化に関心のある企業にとって、重要な機会となるだにゃ。"
     },
     {
      "type": "news",
-     "title": "高校生らがスタートアップ経営者から起業を学ぶ 京都 - NHKニュース",
+     "title": "FIFA 子会社設立計画撤回めぐり謝罪も 会長を“全面的に支持” - news.web.nhk",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nVzIySzZYdU1naXpHYmpXeVNXOEhqZ2xwSDcycUFlcnQ4YU5XcEl1TTkzZTMycm93TU5uU281ZUV4a191UUdwWkxMSWUxMm5paVVob3VTRUI1N0NQMkZr?oc=5",
+     "date": "2026-08-06T10:26:56+00:00",
+     "source": "news.web.nhk",
+     "snippet": "FIFA 子会社設立計画撤回めぐり謝罪も 会長を“全面的に支持”&nbsp;&nbsp;news.web.nhk",
+     "summary": "FIFAは子会社設立計画を撤回し、謝罪を行ったにゃ。しかし、会長は全面的に支持されているとのことだにゃ。これにより、FIFA内での意見の対立や今後の運営に影響が出る可能性があるかもしれないにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "高校生らがスタートアップ経営者から起業を学ぶ 京都 - news.web.nhk",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDZkV3QUY2TWZSOU0xeUJBTzhxLUtma0ZnbEw4cXlxRFhUODVwSG5kcFhtT1ZMaGdpRmI5X0djazlnZnR6NnZVbzFKMGxRTW1hdWdTamFqOTE?oc=5",
      "date": "2026-08-06T09:10:00+00:00",
-     "source": "NHKニュース",
-     "snippet": "高校生らがスタートアップ経営者から起業を学ぶ 京都&nbsp;&nbsp;NHKニュース",
-     "summary": "京都では高校生たちがスタートアップ経営者から起業について学ぶイベントが開催されたにゃ。実際の経営者からの話を聞くことで、起業への理解を深める機会となったそうだにゃん。若者たちの未来に期待がかかるにゃ。"
+     "source": "news.web.nhk",
+     "snippet": "高校生らがスタートアップ経営者から起業を学ぶ 京都&nbsp;&nbsp;news.web.nhk",
+     "summary": "京都で高校生たちがスタートアップ経営者から起業について学ぶイベントが開催されたにゃ。若者たちは、実際の経営者からのアドバイスや体験談を通じて、起業の魅力や課題を理解する機会を得たそうだにゃん。"
     },
     {
      "type": "news",
@@ -177,7 +186,7 @@
      "date": "2026-08-06T01:21:29+00:00",
      "source": "朝日新聞",
      "snippet": "TechSuite株式会社のAIスカウト代行サービス「AIスカウトくん」、「DX総合EXPO 2026 夏 東京」に出展&nbsp;&nbsp;朝日新聞",
-     "summary": "TechSuite株式会社は、AIスカウト代行サービス「AIスカウトくん」を発表し、2026年夏に東京で開催されるDX総合EXPOに出展するにゃ。このサービスは企業の人材採用を支援するもので、注目されているそうだにゃん。"
+     "summary": "TechSuite株式会社のAIスカウト代行サービス「AIスカウトくん」が、2026年夏に東京で開催される「DX総合EXPO」に出展するにゃ。このサービスは、企業の人材採用を支援するもので、AI技術を活用しているにゃん。"
     },
     {
      "type": "news",
@@ -186,16 +195,7 @@
      "date": "2026-08-06T00:57:30+00:00",
      "source": "47NEWS",
      "snippet": "新興企業との連携による新事業の事例紹介 広島銀行が地場企業向けセミナー&nbsp;&nbsp;47NEWS",
-     "summary": "広島銀行は新興企業との連携による新事業の事例を紹介するセミナーを地元企業向けに開催したにゃ。地域経済の活性化を目指し、新たなビジネスモデルの構築を促進する取り組みが行われているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "アコム＜8572＞、マイクロファイナンスのカンボジアPrasethpheap Financeを子会社化 - ｄメニューニュース",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc0c2a0hsa2ZJcnJWQjVZN3JfVVZRcWNFeGtQMWxkUDJPOExQbU4zQ0lldVpJajdVbE9xUFBsNDhTYkxtVmdSaXlRTG1adHZaX21UQXBfVlVXMVBmS09PTldaT1E0N1ZKQ0J6LTFSVE1hUTd6aFlQUHhsR3BNRmxPbEFoYWFscknSAYcBQVVfeXFMTnNHNmtIbGtmSXJyVkI1WTdyX1VWUXFjRXhrUDFsZFAyTzhMUG1OM0NJZXVaSWo3VWxPcVBQbDQ4U2JMbVZnUml5UUxtWnR2Wl9tVEFwX1ZVVzFQZktPT05XWk9RNDdWSkNCei0xUlRNYVE3emhZUFB4bEdwTUZsT2xBaGFhbHJJ?oc=5",
-     "date": "2026-08-05T11:40:00+00:00",
-     "source": "ｄメニューニュース",
-     "snippet": "アコム＜8572＞、マイクロファイナンスのカンボジアPrasethpheap Financeを子会社化&nbsp;&nbsp;ｄメニューニュース",
-     "summary": "アコムはカンボジアのマイクロファイナンス企業Prasethpheap Financeを子会社化したにゃ。この動きはアコムの国際展開を強化するもので、今後の成長戦略に寄与することが期待されているそうだにゃん。"
+     "summary": "広島銀行が地場企業向けに、新興企業との連携による新事業の事例を紹介するセミナーを開催したにゃ。この取り組みは、地域の企業が新たなビジネスチャンスを見つける手助けをすることを目的としているそうだにゃん。"
     }
    ]
   },
@@ -210,7 +210,7 @@
      "date": "2026-08-06T07:52:51+00:00",
      "source": "電波タイムズ",
      "snippet": "南極観測70周年記念「夏の企画展」 極地研、南極・北極科学館で写真百点以上公開&nbsp;&nbsp;電波タイムズ",
-     "summary": "南極観測70周年を記念した「夏の企画展」が、極地研と南極・北極科学館で開催されるにゃ。展示では、南極の美しい風景や研究活動を捉えた写真が百点以上公開されるそうだにゃ。観覧者は、南極の魅力や科学の重要性を感じることができる機会だにゃん。"
+     "summary": "南極観測70周年を記念した「夏の企画展」が、極地研と南極・北極科学館で開催されるにゃ。展示には、南極の美しい風景や観測活動の様子を収めた写真が百点以上公開されるそうだにゃ。観覧者は南極の魅力を感じながら、科学の進歩を知ることができるイベントだにゃん。"
     },
     {
      "type": "news",
@@ -219,7 +219,7 @@
      "date": "2026-08-06T02:47:08+00:00",
      "source": "クラウドファンディング - READYFOR",
      "snippet": "「知りたい！」 が生まれる場所の入口をアップデート&nbsp;&nbsp;クラウドファンディング - READYFOR",
-     "summary": "「知りたい！」が生まれる場所の入口をアップデートするプロジェクトが始まったにゃ。クラウドファンディングを通じて、より多くの人々に知識を提供する場を整備することを目指しているそうだにゃ。新しい情報の発信や学びの場を提供することで、好奇心を刺激することを狙っているにゃん。"
+     "summary": "「知りたい！」という好奇心を育むための新しい入口がアップデートされるにゃ。クラウドファンディングプラットフォーム「READYFOR」での取り組みが進行中だそうだにゃ。具体的な内容はまだ発表されていないが、今後の展開が楽しみだにゃん。"
     },
     {
      "type": "news",
@@ -228,7 +228,7 @@
      "date": "2026-08-05T08:00:00+00:00",
      "source": "ぴあエンタメ情報",
      "snippet": "相葉雅紀、800万年前のナマケモノに興味津々！ 特別展『いきもの超ワールド展 国立科学博物館×ダーウィンが来た！』開催中&nbsp;&nbsp;ぴあエンタメ情報",
-     "summary": "相葉雅紀が、特別展『いきもの超ワールド展 国立科学博物館×ダーウィンが来た！』で800万年前のナマケモノに興味を示しているにゃ。展示では、古代の生物や進化に関する情報が豊富に紹介されており、来場者は過去の生物の世界を体験できるそうだにゃん。"
+     "summary": "相葉雅紀が、800万年前のナマケモノに興味を示しているにゃ！特別展『いきもの超ワールド展 国立科学博物館×ダーウィンが来た！』が開催中で、彼の関心が高まっているそうだにゃ。この展覧会では、さまざまな生物の歴史や進化について学べる機会が提供されているにゃん。"
     },
     {
      "type": "news",
@@ -237,16 +237,16 @@
      "date": "2026-08-05T00:13:37+00:00",
      "source": "クラウドファンディング - READYFOR",
      "snippet": "大阪・関西万博で展示した培養肉ブースが、大阪府「万博閉幕1周年イベント」で再展示されます！&nbsp;&nbsp;クラウドファンディング - READYFOR",
-     "summary": "大阪・関西万博で展示された培養肉ブースが、大阪府の「万博閉幕1周年イベント」で再展示されるにゃ。培養肉の未来やその可能性についての理解を深める機会になるそうだにゃん。来場者は、最新の食文化や技術について学ぶことができるイベントだにゃ。"
+     "summary": "大阪・関西万博で展示された培養肉ブースが、万博閉幕1周年イベントで再展示されるにゃ！このイベントでは、未来の食文化についての理解を深めることができるそうだにゃ。培養肉の可能性を知る良い機会になるだろうにゃん。"
     },
     {
      "type": "news",
-     "title": "【いきもの超ワールド展】国立科学博物館×ダーウィンが来た！の見どころを図鑑執筆者が徹底解説 - 講談社コクリコ",
+     "title": "【いきもの超ワールド展】国立科学博物館×ダーウィンが来た！の見どころを図鑑執筆者が徹底解説 - cocreco.kodansha.co.jp",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXSm9nc2tHUl93eG1BM1hrNm8tXzBXdjZCUDI1am9mYVZOVTlac1ZEVldsSUlrUkZrTWotOE9UOEQ0ekZQd2ZYUFRIQkpXRUUxRnZGd0hWVXlLYmtRb2xhRg?oc=5",
      "date": "2026-08-04T23:00:00+00:00",
-     "source": "講談社コクリコ",
-     "snippet": "【いきもの超ワールド展】国立科学博物館×ダーウィンが来た！の見どころを図鑑執筆者が徹底解説&nbsp;&nbsp;講談社コクリコ",
-     "summary": "国立科学博物館と『ダーウィンが来た！』のコラボによる「いきもの超ワールド展」の見どころを、図鑑執筆者が詳しく解説する記事があるにゃ。展示内容や魅力的な生物についての情報が満載で、来場者にとって興味深い内容になっているそうだにゃん。"
+     "source": "cocreco.kodansha.co.jp",
+     "snippet": "【いきもの超ワールド展】国立科学博物館×ダーウィンが来た！の見どころを図鑑執筆者が徹底解説&nbsp;&nbsp;cocreco.kodansha.co.jp",
+     "summary": "国立科学博物館と「ダーウィンが来た！」がコラボした特別展『いきもの超ワールド展』の見どころを、図鑑執筆者が詳しく解説するにゃ。多様な生物の進化や生態について学べる内容が盛りだくさんで、訪れる価値があるイベントだそうだにゃん。"
     }
    ]
   },
@@ -256,12 +256,21 @@
    "items": [
     {
      "type": "news",
-     "title": "【岩手県北上市】夏休み科学イベント「ILCと科学2026」開催。VR体験や工作など親子で楽しめる - straightpress.jp",
+     "title": "【岩手県北上市】夏休み科学イベント「ILCと科学2026」開催。VR体験や工作など親子で楽しめる - STRAIGHT PRESS",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UcG1NbkRnTHVlV2ZUZGVKT0dlbmhoRHZBQ1kyZ3h2UjVmeGd5eHBpeExMUHJWdTdtX0M4b3I2MFhEbkprQ1NKX2lKTXhKcV9YMHg0?oc=5",
      "date": "2026-08-07T00:24:53+00:00",
-     "source": "straightpress.jp",
-     "snippet": "【岩手県北上市】夏休み科学イベント「ILCと科学2026」開催。VR体験や工作など親子で楽しめる&nbsp;&nbsp;straightpress.jp",
-     "summary": "岩手県北上市で夏休み科学イベント「ILCと科学2026」が開催されるにゃ。親子で楽しめるVR体験や工作などが用意されているそうだにゃ。参加者は科学を楽しく学びながら、家族での思い出を作ることができるイベントだにゃん。"
+     "source": "STRAIGHT PRESS",
+     "snippet": "【岩手県北上市】夏休み科学イベント「ILCと科学2026」開催。VR体験や工作など親子で楽しめる&nbsp;&nbsp;STRAIGHT PRESS",
+     "summary": "岩手県北上市で夏休み科学イベント「ILCと科学2026」が開催されるにゃ。親子で楽しめるVR体験や工作が用意されていて、科学の楽しさを体験できるイベントだにゃ。参加者は新しい知識を得ながら、楽しい時間を過ごせるにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "沖縄市平和月間始まる パネル展示やＶＲ体験実施 - 琉球新報デジタル",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqSzBobmZFZlFvcEh3dklzRVhmamlIeU02R1RWN3NValR5VDl5LTJJYUxXUW4yd0dtVWM1d1l4cXdkNk1fd1UyQlZRakFzdjV0ajM0cWU5VUlfWWR4dHc?oc=5",
+     "date": "2026-08-06T20:00:00+00:00",
+     "source": "琉球新報デジタル",
+     "snippet": "沖縄市平和月間始まる パネル展示やＶＲ体験実施&nbsp;&nbsp;琉球新報デジタル",
+     "summary": "沖縄市で平和月間が始まったにゃ。期間中にはパネル展示やVR体験が行われ、平和の大切さを伝える取り組みが行われるそうだにゃ。市民や観光客が参加し、平和について考える機会になるにゃん。"
     },
     {
      "type": "news",
@@ -270,7 +279,7 @@
      "date": "2026-08-06T14:00:00+00:00",
      "source": "ｄメニューニュース",
      "snippet": "大阪で「光の国ミュージアム ウルトラマンXRジャーニー」開催中 迫力のVR体験 &nbsp;&nbsp;ｄメニューニュース",
-     "summary": "大阪で「光の国ミュージアム ウルトラマンXRジャーニー」が開催中だにゃ。ここでは迫力のあるVR体験が楽しめるそうだにゃ。ウルトラマンの世界に浸りながら、参加者は新しい体験をすることができるみたいだにゃん。"
+     "summary": "大阪では「光の国ミュージアム ウルトラマンXRジャーニー」が開催中だにゃ。ここでは迫力のあるVR体験が楽しめ、ウルトラマンの世界に没入できるにゃん。ファンにとっては特別な体験になること間違いなしだにゃ。"
     },
     {
      "type": "news",
@@ -279,25 +288,16 @@
      "date": "2026-08-06T04:01:29+00:00",
      "source": "PlusWeb3",
      "snippet": "AR企業のXREAL、初音ミク公式イベントに出展へ ARグラスで花火と仮想演出を同期&nbsp;&nbsp;PlusWeb3",
-     "summary": "AR企業のXREALが初音ミクの公式イベントに出展するにゃ。ARグラスを使って花火と仮想演出を同期させる予定だそうだにゃ。これにより、参加者は新しい形のエンターテインメントを楽しむことができるにゃん。"
+     "summary": "AR企業のXREALが初音ミクの公式イベントに出展するにゃ。ARグラスを使用して、花火と仮想演出を同期させる新しい試みが行われるそうだにゃ。これにより、参加者はよりリアルな体験を楽しむことができるにゃん。"
     },
     {
      "type": "news",
-     "title": "ＶＲ技術を活用 新たな被爆体験継承の形（2026年8月5日掲載）｜広テレ！NEWS NNN - 日テレNEWS NNN",
+     "title": "ＶＲ技術を活用 新たな被爆体験継承の形（2026年8月5日掲載）｜広テレ！NEWS NNN - news.ntv.co.jp",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDktc0NfbW5IME04X3JubnExbnNLLVRhRTVXZUVJUW51Q200YmdDVF9sR0RldmZGeEdQb1hENndzMkdWLXdTT1JlcTRBXzBCRkNBR0lrd0FPU1I1SVRRamhmaHhLX2xrOEJPU3loSkx3NGRuMTVjUWN4NkxhTERkQWtjUEVuWnM?oc=5",
      "date": "2026-08-06T02:33:00+00:00",
-     "source": "日テレNEWS NNN",
-     "snippet": "ＶＲ技術を活用 新たな被爆体験継承の形（2026年8月5日掲載）｜広テレ！NEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
-     "summary": "VR技術を活用した新たな被爆体験の継承方法が提案されているにゃ。2026年8月5日に掲載された記事によると、VRを通じて被爆の歴史を伝える試みが進められているそうだにゃ。これにより、次世代への教育が期待されているにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "ＶＲ技術を活用 新たな被爆体験継承の形 - Infoseek",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EQ2JJTFMxTmdyU1RlelFEZjJvT3ZwMFprYTFNeTFyeWk2b1RJaElOQkFEWUQ0SmdHdEx1QlVqZlFsQ3IteHBFem12TFhzWGVtTlJKOFRWTEs1ZnhabkI1RWdFMzk3TDdMTkIydm5B0gFuQVVfeXFMTURDYklMUzFOZ3JTVGV6UURmMm9PdnAwWmthMU15MXJ5aTZvVEloSU5CQURZRDRKZ0d0THVCVWpmUWxDci14cEV6bXZMWHNYZW1OUko4VFZMSzVmeFpuQjVFZ0UzOTdMN0xOQjJ2bkE?oc=5",
-     "date": "2026-08-06T02:33:00+00:00",
-     "source": "Infoseek",
-     "snippet": "ＶＲ技術を活用 新たな被爆体験継承の形&nbsp;&nbsp;Infoseek",
-     "summary": "VR技術を活用した新たな被爆体験の継承方法が紹介されているにゃ。被爆の歴史をVRで体験することで、より深く理解することができるそうだにゃ。これにより、未来の世代に重要なメッセージを伝えることが目指されているにゃん。"
+     "source": "news.ntv.co.jp",
+     "snippet": "ＶＲ技術を活用 新たな被爆体験継承の形（2026年8月5日掲載）｜広テレ！NEWS NNN&nbsp;&nbsp;news.ntv.co.jp",
+     "summary": "広島では、VR技術を活用した新たな被爆体験の継承方法が模索されているにゃ。2026年8月5日に掲載された記事によると、VRを通じて被爆の歴史を伝える取り組みが進められているそうだにゃ。これにより、次世代への教育が期待されるにゃん。"
     }
    ]
   }
