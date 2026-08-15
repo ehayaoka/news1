@@ -1,10 +1,37 @@
 {
- "updated": "2026-08-14T23:01:27.310263+00:00",
+ "updated": "2026-08-15T20:57:01.862002+00:00",
  "categories": [
   {
    "id": "ai_media",
    "title": "🤖 AI×メディア研究（ニュース・論文・行政）",
    "items": [
+    {
+     "type": "news",
+     "title": "Google、AI生成物に表示する「透かし」をオフ可能に SynthIDとC2PA情報は維持 - ｄメニューニュース",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTQ4LXphTFp2MGVzZnRFdDRvRU1uempvOWlRYnNuUkx2ajd0TVZhVHRHdDItM0RHajJ2R3RSYUZoRFYzX2dYWFpBcEFJVlZxMXZ5Nm5HSXZ5VFE1Qkp5Q2lFeDRtTmZ5RGF5WGd0alNTUHdPYklHctIBeEFVX3lxTE1oOTQ4LXphTFp2MGVzZnRFdDRvRU1uempvOWlRYnNuUkx2ajd0TVZhVHRHdDItM0RHajJ2R3RSYUZoRFYzX2dYWFpBcEFJVlZxMXZ5Nm5HSXZ5VFE1Qkp5Q2lFeDRtTmZ5RGF5WGd0alNTUHdPYklHcg?oc=5",
+     "date": "2026-08-14T21:37:00+00:00",
+     "source": "ｄメニューニュース",
+     "snippet": "Google、AI生成物に表示する「透かし」をオフ可能に SynthIDとC2PA情報は維持&nbsp;&nbsp;ｄメニューニュース",
+     "summary": "GoogleはAI生成物に表示する「透かし」をオフにできる機能を導入したにゃ。ただし、SynthIDやC2PA情報は維持されるため、生成物の出所は確認できる仕組みだにゃ。これにより、ユーザーは透かしの表示を選択できるようになるにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "【会場参加/同時ライブ配信】（愛媛県内企業限定）令和8年度国際ビジネス支援講座 | イベント情報 - jetro.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EUUJrSTRaOW5EakZFalEtLTktQ0gyZC1tWWZVVTZHQzBEQ05RVkhlS3hkcjFpd3lVbC1WWlFveU5fMFNCLUpMRWdIMVEzdG9DRVB5dGZnOUlRaEFkZ2R2RHlDOUFNTEk?oc=5",
+     "date": "2026-08-14T11:06:29+00:00",
+     "source": "jetro.go.jp",
+     "snippet": "【会場参加/同時ライブ配信】（愛媛県内企業限定）令和8年度国際ビジネス支援講座 | イベント情報&nbsp;&nbsp;jetro.go.jp",
+     "summary": "愛媛県内企業限定の令和8年度国際ビジネス支援講座が開催されるにゃ。会場参加と同時ライブ配信が行われる予定で、企業の国際ビジネスに関する支援を目的とした内容だにゃ。詳細はjetro.go.jpで確認できるにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "ネットアクセスの過半数は、もう人間じゃない……機械が読む「Web4時代」のアクセス数の読み方 - 生成AIストリーム - 窓の杜",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80VDdHUjA3LWE1dmtSVTNjQ2UtV1hvdkdBZ2pKTk9RTG1xVGNnMTdPRTVXWVhEbUpoYVpBaEVDS2sxQzRKeExzR2NxVHZ4aVhRcmJCeGJOeXRJZEs4OW5UZGdOR1o0S240dnpvVENJbVdza2FkYVFZ?oc=5",
+     "date": "2026-08-14T08:28:00+00:00",
+     "source": "窓の杜",
+     "snippet": "ネットアクセスの過半数は、もう人間じゃない……機械が読む「Web4時代」のアクセス数の読み方 - 生成AIストリーム&nbsp;&nbsp;窓の杜",
+     "summary": "ネットアクセスの過半数が人間ではなく、機械によって行われているという現状が報告されたにゃ。「Web4時代」では、アクセス数の読み方が変わりつつあり、機械の影響が大きくなっているそうだにゃん。"
+    },
     {
      "type": "gov",
      "title": "リボ核酸干渉（RNAi）を利用した殺菌剤を世界初登録、米バイオ企業がメキシコ市で製造投資へ(米国、メキシコ) | ビジネス短信 - jetro.go.jp",
@@ -12,34 +39,25 @@
      "date": "2026-08-14T07:34:57+00:00",
      "source": "jetro.go.jp",
      "snippet": "リボ核酸干渉（RNAi）を利用した殺菌剤を世界初登録、米バイオ企業がメキシコ市で製造投資へ(米国、メキシコ) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
-     "summary": "米国のバイオ企業が、リボ核酸干渉（RNAi）を利用した殺菌剤を世界初めて登録したにゃ。この新しい殺菌剤は、メキシコ市で製造される予定で、企業は製造投資を行うことを発表したにゃん。これにより、農業や食品業界における病害虫対策が進むことが期待されているにゃ。"
+     "summary": "米バイオ企業がリボ核酸干渉（RNAi）を利用した殺菌剤を世界初めて登録したにゃ。メキシコ市での製造投資が計画されており、農業や環境保護に貢献する可能性があるにゃん。"
     },
     {
      "type": "gov",
-     "title": "瀋陽市でアニメ・ゲーム博覧会、約4万人が来場(中国、日本) | ビジネス短信 - jetro.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43ZWhvZHZkU084VEItUHRkbWpEZXFvalJqVE1INTQ0a1FxTk9ERVI3czJUOElHT0V1M3hGN2FPbHNKeXdmRXZDQm9FeHlsUG4wbWtfbkNyNm5XT0NqR2tYdl9KSVBXYTl2ZEs1M3FB?oc=5",
-     "date": "2026-08-14T06:36:30+00:00",
+     "title": "京都フュージョニアリング、ORNLと米テネシー州に核融合の実用化に向け試験施設建設へ(日本、米国) | ビジネス短信 - jetro.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fTW11MUJwcmlPS0J1dHpHZDFwSVc0cmVQMm5QSzZBem1VWWQ1NFhZZFN3dGNRMUJlRVowZ25YV1JiVTkxMUZMbF9hbkVaUWxjemliYzVkMFdGa1RKREFMT3VwQmpwRVhuMllFQzRR?oc=5",
+     "date": "2026-08-14T07:04:46+00:00",
      "source": "jetro.go.jp",
-     "snippet": "瀋陽市でアニメ・ゲーム博覧会、約4万人が来場(中国、日本) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
-     "summary": "中国の瀋陽市でアニメ・ゲーム博覧会が開催され、約4万人が来場したにゃ。このイベントは、アニメやゲームに興味を持つ多くのファンにとって、交流や新しいコンテンツを楽しむ機会となったそうだにゃん。多彩な展示やステージイベントが行われ、盛況を呈したにゃ。"
-    },
-    {
-     "type": "gov",
-     "title": "非友好国の個人と支店・駐在員事務所の定期預金を払い戻し規制対象から除外(ロシア) | ビジネス短信 - jetro.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iV2Z2TVNobklteEJkbXhtYUNCaUhBcGd4TTYzbEVXZTczSlVVeUh4T3Juam80X1lFakZINS1xUlFSc242TGI2d3BOS1lkSmc1NWxIN2xWSF9WUGFmcDZTa1ZUOEVWT3NHd3hsZXF3?oc=5",
-     "date": "2026-08-14T06:36:30+00:00",
-     "source": "jetro.go.jp",
-     "snippet": "非友好国の個人と支店・駐在員事務所の定期預金を払い戻し規制対象から除外(ロシア) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
-     "summary": "ロシアでは、非友好国の個人や支店、駐在員事務所の定期預金が払い戻し規制の対象から除外されることが決定されたにゃ。この措置は、経済的な影響を考慮したもので、特定の国との関係を見直す一環として実施されるにゃん。"
+     "snippet": "京都フュージョニアリング、ORNLと米テネシー州に核融合の実用化に向け試験施設建設へ(日本、米国) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
+     "summary": "京都フュージョニアリングが、ORNLと共同で米テネシー州に核融合の実用化に向けた試験施設を建設することが決定したにゃ。このプロジェクトは、核融合技術の進展に寄与することが期待されているにゃん。"
     },
     {
      "type": "news",
-     "title": "大学生の生成AI継続利用率が84.5％に ChatGPT利用は9割超、Geminiは1年で約4倍に - KAI-YOU",
+     "title": "大学生の生成AI継続利用率が84.5％に ChatGPT利用は9割超、Geminiは1年で約4倍に - kai-you.net",
      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1STVEY0JJUnJKekhOLThXM250a2VndGdkczBzNDJ6ZDVDcmpxcVM5M0ZSSlVpaEtzbVM1OWE2YnZQQUsyODh0Sw?oc=5",
      "date": "2026-08-13T03:43:00+00:00",
-     "source": "KAI-YOU",
-     "snippet": "大学生の生成AI継続利用率が84.5％に ChatGPT利用は9割超、Geminiは1年で約4倍に&nbsp;&nbsp;KAI-YOU",
-     "summary": "大学生の生成AIの継続利用率が84.5％に達し、特にChatGPTの利用は9割を超えたにゃ。さらに、Geminiの利用は1年で約4倍に増加しているそうだにゃん。これにより、学生たちの学習や情報収集の方法が大きく変わっているにゃ。"
+     "source": "kai-you.net",
+     "snippet": "大学生の生成AI継続利用率が84.5％に ChatGPT利用は9割超、Geminiは1年で約4倍に&nbsp;&nbsp;kai-you.net",
+     "summary": "大学生の生成AIの継続利用率が84.5％に達し、ChatGPTの利用は9割を超えたにゃ。また、Geminiの利用は1年で約4倍に増加しており、生成AIの人気が高まっていることが分かるにゃん。"
     },
     {
      "type": "news",
@@ -48,7 +66,7 @@
      "date": "2026-08-13T03:02:16+00:00",
      "source": "河北新報オンライン",
      "snippet": "河北新報社 ビズラボ 河北経済研究所&nbsp;&nbsp;河北新報オンライン",
-     "summary": "河北新報社が運営するビズラボと河北経済研究所に関する情報が提供されているにゃ。具体的な内容は記載されていないが、地域経済やビジネスに関する研究や情報発信が行われていると推測されるにゃん。"
+     "summary": "河北新報社のビズラボが河北経済研究所を運営しているにゃ。地域経済に関する研究や情報提供を行っているそうだにゃん。"
     },
     {
      "type": "news",
@@ -57,7 +75,7 @@
      "date": "2026-08-13T02:00:00+00:00",
      "source": "共同通信PRワイヤー",
      "snippet": "【コンテンツビジネス研究所調べ】学生メディア・コンテンツ利用調査2026 -生成AI編-&nbsp;&nbsp;共同通信PRワイヤー",
-     "summary": "コンテンツビジネス研究所が実施した学生メディア・コンテンツ利用調査2026の生成AI編が発表されたにゃ。調査結果は、学生たちのメディア利用の傾向や生成AIの影響を探るもので、今後のコンテンツビジネスにおける重要なデータとなるだろうにゃん。"
+     "summary": "コンテンツビジネス研究所が実施した学生メディア・コンテンツ利用調査2026の生成AI編が発表されたにゃ。学生のメディア利用の実態が明らかになる内容だにゃん。"
     },
     {
      "type": "news",
@@ -66,7 +84,7 @@
      "date": "2026-08-13T00:31:57+00:00",
      "source": "日本経済新聞",
      "snippet": "Apple、「Siri AI」でのニュース配信へメディアと協議 WSJ報道&nbsp;&nbsp;日本経済新聞",
-     "summary": "Appleが「Siri AI」を通じてニュース配信を行うためにメディアと協議しているとの報道があったにゃ。これにより、ユーザーに対して新しい情報提供の形が生まれる可能性があるにゃん。具体的な内容や実施時期についてはまだ不明だにゃ。"
+     "summary": "Appleが「Siri AI」を通じてニュース配信を行うため、メディアと協議を進めているという報道があったにゃ。これにより、Siriを利用した新たな情報提供の形が期待されるにゃん。"
     },
     {
      "type": "news",
@@ -75,25 +93,7 @@
      "date": "2026-08-12T02:40:58+00:00",
      "source": "BigGo ファイナンス",
      "snippet": "フランスメディア、GoogleのAI検索に反発「トラフィック38%減、別途補償を」&nbsp;&nbsp;BigGo ファイナンス",
-     "summary": "フランスのメディアがGoogleのAI検索によるトラフィック減少に反発しているにゃ。具体的には、トラフィックが38%減少したため、別途補償を求めているそうだにゃん。この問題は、メディア業界とテクノロジー企業の関係に影響を与えるかもしれないにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "AI生成コンテンツに伴うリスクの増大により、ディープフェイク検知市場は急拡大し、2035年には90億米ドルに達する見通し - newscast.jp",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IV3ZrWU94TnJwdFl2X2RPdTM4b3VyS0ZLRFZ0dWZlNGFma3p4U3l3WnlfeTY5LW9KcDB1Nm1lRU5PTWFyb0FWcUo5R181cHM?oc=5",
-     "date": "2026-08-11T02:00:00+00:00",
-     "source": "newscast.jp",
-     "snippet": "AI生成コンテンツに伴うリスクの増大により、ディープフェイク検知市場は急拡大し、2035年には90億米ドルに達する見通し&nbsp;&nbsp;newscast.jp",
-     "summary": "AI生成コンテンツのリスク増大により、ディープフェイク検知市場が急拡大しているにゃ。2035年には市場規模が90億米ドルに達する見通しだそうだにゃん。この成長は、偽情報対策や信頼性の確保に向けた需要の高まりを反映しているにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "熊本地震の偽画像がSNSで拡散 毎日新聞の写真をAIで加工か - 毎日新聞",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MNG03WjlMM25FcmVUSk50czJKV0JkalJrU0lzeHFjbzZ2VEc5djZxaDl5NURiRlo5eWVHV3Y3OFMycXo4dG5lenB1SjhxWXhzdXAwU0hrVExFUlFtLVpILTVvN2lOeVFf?oc=5",
-     "date": "2026-08-10T12:01:44+00:00",
-     "source": "毎日新聞",
-     "snippet": "熊本地震の偽画像がSNSで拡散 毎日新聞の写真をAIで加工か&nbsp;&nbsp;毎日新聞",
-     "summary": "熊本地震に関する偽画像がSNSで拡散しているにゃ。毎日新聞の写真がAIで加工された可能性があり、情報の正確性が問われているそうだにゃん。このような偽情報の拡散は、社会的な影響を及ぼす恐れがあるにゃ。"
+     "summary": "フランスのメディアがGoogleのAI検索によるトラフィック減少に反発しているにゃ。具体的には、トラフィックが38%減少したため、別途補償を求めているそうだにゃん。"
     }
    ]
   },
@@ -102,13 +102,22 @@
    "title": "🏘 地方創生×メディア",
    "items": [
     {
+     "type": "news",
+     "title": "国交省、「かわまちづくり」11計画を新規登録 水辺の観光・賑わい創出を支援 - ツーリズムメディアサービス",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RV2FWVkZmQzV1VkxpVnNvVWJ2Vi0tcjkzWEVJTC16WGVqRFBvaEg1bDhuNUVYZGQwa2JNNm1Kb25fVXJTSmxvVw?oc=5",
+     "date": "2026-08-15T15:42:22+00:00",
+     "source": "ツーリズムメディアサービス",
+     "snippet": "国交省、「かわまちづくり」11計画を新規登録 水辺の観光・賑わい創出を支援&nbsp;&nbsp;ツーリズムメディアサービス",
+     "summary": "国交省は新たに11の「かわまちづくり」計画を登録したにゃ。この取り組みは水辺の観光や地域の賑わいを創出することを目的としているにゃん。地域の特性を生かした観光資源の開発が期待されているそうだにゃ。"
+    },
+    {
      "type": "gov",
      "title": "農泊をめぐる状況について - maff.go.jp",
      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMHBEdTJ3TnJtc2V4SzFoOUFvUVkxYTNWOWtfZjVlTUZLOUZCaGd4djRQbmliX0U3TVU3Z2plZC1UclBtTUE3U08ycUpVUy04LXN5a0JfNlpza0JFMDl1dmlqd2o5cTZVbml0NEZkZ2I5b3JkMU9aaml5S2Ryck4xeVhPMG53c0Q3MUFmeA?oc=5",
      "date": "2026-08-14T05:56:28+00:00",
      "source": "maff.go.jp",
      "snippet": "農泊をめぐる状況について&nbsp;&nbsp;maff.go.jp",
-     "summary": "農泊に関する状況についての情報が提供されているにゃ。農泊は農業体験を通じて地域の魅力を伝える取り組みで、観光客に地元の文化や食を楽しんでもらうことを目的としているんだにゃ。農泊の普及が地域活性化に寄与することが期待されているにゃん。"
+     "summary": "農泊に関する最新の状況をまとめた記事だにゃ。農泊は農業体験を通じて地域の魅力を発信し、観光客を呼び込む取り組みだにゃん。農業と観光の融合が進められていることが伺えるにゃ。"
     },
     {
      "type": "news",
@@ -117,7 +126,7 @@
      "date": "2026-08-13T15:45:26+00:00",
      "source": "ツーリズムメディアサービス",
      "snippet": "北海道・北竜町、米由来素材で持続可能なまちづくり 観光グッズにも活用拡大&nbsp;&nbsp;ツーリズムメディアサービス",
-     "summary": "北海道・北竜町では、米由来の素材を活用した持続可能なまちづくりが進められているにゃ。観光グッズにもその素材が使われ、地域の特産品としての価値を高める取り組みが行われているんだにゃ。これにより、地域経済の活性化が図られているそうだにゃん。"
+     "summary": "北海道の北竜町では、米由来の素材を活用した持続可能なまちづくりが進行中だにゃ。この取り組みは観光グッズにも活用され、地域の特産品を通じて観光振興を図っているそうだにゃん。"
     },
     {
      "type": "news",
@@ -126,7 +135,7 @@
      "date": "2026-08-13T05:08:44+00:00",
      "source": "pr-free.jp",
      "snippet": "九州創生Kプロジェクト ／『オトナ学校_現代社会が教えてくれない生き残りの術』をリリース&nbsp;&nbsp;pr-free.jp",
-     "summary": "九州創生Kプロジェクトが『オトナ学校_現代社会が教えてくれない生き残りの術』をリリースしたにゃ。このプロジェクトは、現代社会で生き残るための知識やスキルを学ぶ機会を提供することを目的としているんだにゃ。地域の活性化に寄与することが期待されているにゃん。"
+     "summary": "九州創生Kプロジェクトが『オトナ学校_現代社会が教えてくれない生き残りの術』をリリースしたにゃ。このプロジェクトは現代社会での生き残りに必要な知識やスキルを提供することを目的としているそうだにゃん。"
     },
     {
      "type": "news",
@@ -135,16 +144,7 @@
      "date": "2026-08-13T01:10:01+00:00",
      "source": "PR TIMES",
      "snippet": "【2026年最新Web集客分析】静岡県内のSEO・Web集客に強い制作会社5選の比較データを公開！「見た目重視」から「集客・成約重視」へのWeb活用シフトを分析&nbsp;&nbsp;PR TIMES",
-     "summary": "静岡県内のSEO・Web集客に強い制作会社5選の比較データが公開されたにゃ。2026年の最新Web集客分析では、企業が「見た目重視」から「集客・成約重視」へとシフトしていることが明らかになったんだにゃ。この変化が今後のWeb活用に影響を与えると考えられているにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "【富良野市・協力隊レポ】高校生と地元パン店がタッグ！”ふるさと納税返礼品開発”に密着！ - 千葉テレビ放送",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NNF82MVctX1diVGJvV3l2cDE4cVY3UHlwOThfOHp4R3R4czZ5NjNzQlI2U0dZMUlLWmFXOVdldE5CSXJrLVFfVTl1X1cxWXdQZi1RY2d4d2cyOVphMWFR?oc=5",
-     "date": "2026-08-13T00:57:27+00:00",
-     "source": "千葉テレビ放送",
-     "snippet": "【富良野市・協力隊レポ】高校生と地元パン店がタッグ！”ふるさと納税返礼品開発”に密着！&nbsp;&nbsp;千葉テレビ放送",
-     "summary": "富良野市では、高校生と地元のパン店が協力してふるさと納税の返礼品を開発するプロジェクトが進行中だにゃ。地域の特産品を活かした返礼品の開発は、地元の活性化や高校生の学びの場にもつながる取り組みとなっているんだにゃん。"
+     "summary": "静岡県内のSEO・Web集客に強い制作会社5社の比較データが公開されたにゃ。2026年の最新分析では、Web活用が「見た目重視」から「集客・成約重視」へとシフトしていることが明らかになったそうだにゃん。"
     }
    ]
   },
@@ -154,21 +154,30 @@
    "items": [
     {
      "type": "news",
+     "title": "偏向報道の上映スケジュール・映画情報 - 映画の時間",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOd2hBSGpwYTA5RGlIWTM5UUhQeENsVFltLXlJZVhBcE1kRUJlZHNUdzAtYmlFczlRT1F1Y0xTR2pFOWhuZ1FCV1pTdWZER01wM3c?oc=5",
+     "date": "2026-08-15T12:11:52+00:00",
+     "source": "映画の時間",
+     "snippet": "偏向報道の上映スケジュール・映画情報&nbsp;&nbsp;映画の時間",
+     "summary": "映画「偏向報道」の上映スケジュールや映画情報が紹介されているにゃ。詳細な内容は記載されていないけれど、映画の時間で確認できるみたいだにゃ。興味がある方はぜひチェックしてみてほしいにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "「風、薫る」シマケン、ついに動く！自信満々の横沢は玉砕か そしてどこに行った虎太郎…【ネタバレ】 - au Webポータル",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13TXlKWlE3bEpmQkNaVVgtSWtrclpOTjZqU3BTQ1NXMlN2amtkWWpmZ0FGLThrdVJUN2M0WGJ6M25qX2FQSWJEVW1YUzFhUmp2Y1dVeF9UOUk0WWZGcTVTOEFIbWcxZ3FWYU1LQi1vWWY4VnJfUHNKVg?oc=5",
+     "date": "2026-08-14T12:51:48+00:00",
+     "source": "au Webポータル",
+     "snippet": "「風、薫る」シマケン、ついに動く！自信満々の横沢は玉砕か そしてどこに行った虎太郎…【ネタバレ】&nbsp;&nbsp;au Webポータル",
+     "summary": "「風、薫る」の最新エピソードでは、シマケンがついに行動を起こす様子が描かれているにゃ。自信満々の横沢はどうなるのか、そして虎太郎の行方も気になるところだにゃん。ネタバレが含まれているから、注意が必要だにゃ。"
+    },
+    {
+     "type": "news",
      "title": "見とおみ えひめ「“ミュージックナイター”に５万人の観客」 - nhk.or.jp",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fc0V1N1pfS1N2VjFDRHBtMXR6Xzc1eFVtZURlQlFfcklXdW52VUFiTU9uZzFWSGFtTm90eUVoeDRTSDVXM1lLc1pqOW44eTlXZTNfcXdCaU1CTWcyYURzeGo0RXQtb1Y5?oc=5",
      "date": "2026-08-14T12:00:41+00:00",
      "source": "nhk.or.jp",
      "snippet": "見とおみ えひめ「“ミュージックナイター”に５万人の観客」&nbsp;&nbsp;nhk.or.jp",
-     "summary": "見とおみえひめでは「ミュージックナイター」が開催され、約5万人の観客が集まったそうだにゃ。多くの人々が音楽を楽しみ、盛り上がったイベントだったにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "偏向報道の上映スケジュール・映画情報 - 映画の時間",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOd2hBSGpwYTA5RGlIWTM5UUhQeENsVFltLXlJZVhBcE1kRUJlZHNUdzAtYmlFczlRT1F1Y0xTR2pFOWhuZ1FCV1pTdWZER01wM3c?oc=5",
-     "date": "2026-08-14T11:28:35+00:00",
-     "source": "映画の時間",
-     "snippet": "偏向報道の上映スケジュール・映画情報&nbsp;&nbsp;映画の時間",
-     "summary": "映画「偏向報道」の上映スケジュールや情報が掲載されているにゃ。詳細は映画の時間のサイトで確認できるそうだにゃん。"
+     "summary": "えひめで開催された「ミュージックナイター」には、なんと5万人の観客が集まったにゃ！大盛況のイベントだったようで、地域の活気を感じることができるにゃん。音楽の力はすごいにゃね。"
     },
     {
      "type": "news",
@@ -177,25 +186,16 @@
      "date": "2026-08-14T08:01:26+00:00",
      "source": "47NEWS",
      "snippet": "旭建設（日向）がＤＸカー自社開発 山間部での活用、災害時の活躍期待&nbsp;&nbsp;47NEWS",
-     "summary": "旭建設（日向）が自社開発したDXカーは、山間部での活用や災害時の支援が期待されているにゃ。新しい技術が地域の安全に貢献することを目指しているそうだにゃん。"
+     "summary": "旭建設が自社開発したDXカーは、山間部での活用や災害時の対応に期待されているにゃ。新しい技術が地域の安全を支えることに繋がるといいにゃん。これからの活躍が楽しみだにゃ。"
     },
     {
      "type": "news",
-     "title": "見とおみ えひめ「帰省客ピーク（国鉄 松山駅）」 - nhk.or.jp",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XVWFLY3NPZ1hmejJaZ2syUWxxNDVyTGhzc0VaVTlmc2U5YXpJRWhCdS1xaXBpcXpFMksxZjRaNlQ4ZFVTeURwMTBhVjcxMUpHTGY5Vk1WOHlsNThmaGxCcUVucmhNQlA5?oc=5",
-     "date": "2026-08-14T02:01:51+00:00",
-     "source": "nhk.or.jp",
-     "snippet": "見とおみ えひめ「帰省客ピーク（国鉄 松山駅）」&nbsp;&nbsp;nhk.or.jp",
-     "summary": "見とおみえひめでは、国鉄松山駅で帰省客がピークを迎えたにゃ。多くの人々が帰省し、賑わいを見せているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "「幸せをつかむ人」に共通する〈明確な特徴〉〈風、薫る第100回〉 - ダイヤモンド・オンライン",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ000a2pzYjE3blZvZGtMeWdjRElUVFJOXzVWbG5neEhrWW9wV0Z0OEJXRG9MSzZOZWh1Ump5WGdLR3BBNDhwN3V1TkswaUJOYUtDYjFjeTNjODBlalkzeHJxU1VncXhqRU9Vb3FaU2VfeTFRajBfdURjcU1BSVpnWUx0Q2lWTlljTnd0M1FHSmtkbnJsb2IxbERTdkpubU4wQ0ZGRzhUT3drektMV2NwcUk3MXVNdUFiLXFN0gFPQVVfeXFMTkNSVXFqdGs0TkNncVA3RHNsRy1xeEpLMDUzeGZUVGk4UkVRblRRZ0FCMTU0R1UwcExfZWNGMnYxZzd0NDM3TlJTQ1Z5WnFUQQ?oc=5",
-     "date": "2026-08-14T00:00:00+00:00",
-     "source": "ダイヤモンド・オンライン",
-     "snippet": "「幸せをつかむ人」に共通する〈明確な特徴〉〈風、薫る第100回〉&nbsp;&nbsp;ダイヤモンド・オンライン",
-     "summary": "「幸せをつかむ人」に共通する特徴についての考察が行われているにゃ。明確な特徴を持つ人々の行動や思考が、幸せに繋がることが示唆されているそうだにゃん。"
+     "title": "札幌中心部最大級のスタートアップ拠点「HooK」、DGフィーリストとATOMicaの共同運営で本格始動 - 西日本新聞me",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKcUQ4UTQ0b19Ia0M5SWItYW1HejVpTjNrSEtYSWtLbV9oWmFNNEdGelUxMUJqZ0xwSWVsUzYwbmF5eW9YUG1OS2JaeTUyMnczMkxpbjdR?oc=5",
+     "date": "2026-08-14T07:00:02+00:00",
+     "source": "西日本新聞me",
+     "snippet": "札幌中心部最大級のスタートアップ拠点「HooK」、DGフィーリストとATOMicaの共同運営で本格始動&nbsp;&nbsp;西日本新聞me",
+     "summary": "札幌中心部に新たなスタートアップ拠点「HooK」が登場したにゃ。DGフィーリストとATOMicaの共同運営で、本格的に始動するそうだにゃ。新たなビジネスの芽が育つ場所になるといいにゃん。"
     }
    ]
   },
@@ -205,48 +205,48 @@
    "items": [
     {
      "type": "news",
-     "title": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任 - ウォーカープラス",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yU1d6MTZqYnQwUzVsSW13TDQ5WXZyd3dnMTFGbmZWVDhhV1dYSDQtUWtOSE5Uc09hbmQxRmJTd1UzRDJWVENWd1luWXktWnJjZy1WSlE3YmxLVlpJUnBkWXZ4NXNPcnh1dFE?oc=5",
-     "date": "2026-08-14T17:39:00+00:00",
+     "title": "画像37 / 42＞上野・国立科学博物館で「大絶滅展」が開催中！生命のピンチと進化の歴史「ビッグファイブ」に迫る - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNOWVRNS11UFlmdEpBUWIyclRjbnczaWtpZWk4TTZHNlBsR0NmeGNLeHhLYUtIejMwRXVJZXBnd0swcEhzbzZSSE1zMWFJblYwdWhTTVJLRkJpaDd4OUNSeFJYTmYtenJUUHk4Z0tB?oc=5",
+     "date": "2026-08-15T14:29:58+00:00",
      "source": "ウォーカープラス",
-     "snippet": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任&nbsp;&nbsp;ウォーカープラス",
-     "summary": "香川照之が国立科学博物館の「昆虫」展のサポーターに就任したにゃ。彼の参加により、昆虫の魅力が広がることが期待されているそうだにゃん。展覧会では、さまざまな昆虫の展示が行われ、来場者に新たな発見を提供するにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "画像8 / 12＞国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中！おすすめ展覧会グッズを一挙紹介 - ウォーカープラス",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IWmRxNnZqb2ZTWUd1WG1mVGVqbWpPSEJSZVlCdjlzcXJWN2Y5dWZrUkJVcUZEZWtxd3hkQ19sa2duUTEyOHZFcXFBZkhObVpRem9KSm15eTUwUjRJSkRZcGktd1VVYkpsRDVDcGt3?oc=5",
-     "date": "2026-08-14T12:03:03+00:00",
-     "source": "ウォーカープラス",
-     "snippet": "画像8 / 12＞国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中！おすすめ展覧会グッズを一挙紹介&nbsp;&nbsp;ウォーカープラス",
-     "summary": "国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中だにゃ。この展覧会では、日本人の祖先や古代のDNAに関する研究成果が紹介されているにゃ。おすすめの展覧会グッズも紹介されていて、訪れる価値があるそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "総合監修・田島木綿子先生が教える！ 特別展「いきもの超ワールド展 国立科学博物館×ダーウィンが来た！」を100倍楽しむ方法 - Book Bang －ブックバン",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Kb1pHN1NJVkEwNXJhMHhmUk5EbXNveVZiNzNQbGUxSHdYX1J3OHY2ZTdYY1hIN3N1YlZieklvQVZTMW1oVDAzU2p5aHVSdF9oVU1XOFplWDB0SXZsTEozUkhlR1RycTQzRDFfajhlZXpqQXczV3lR?oc=5",
-     "date": "2026-08-14T10:06:56+00:00",
-     "source": "Book Bang －ブックバン",
-     "snippet": "総合監修・田島木綿子先生が教える！ 特別展「いきもの超ワールド展 国立科学博物館×ダーウィンが来た！」を100倍楽しむ方法&nbsp;&nbsp;Book Bang －ブックバン",
-     "summary": "特別展「いきもの超ワールド展 国立科学博物館×ダーウィンが来た！」の楽しみ方を田島木綿子先生が教えてくれるにゃ。展示内容を深く理解し、楽しむためのポイントが紹介されているそうだにゃん。科学に興味がある人には特におすすめだにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "中核の科学館、デジタル駆使し展示充実 開館３カ月で年間目標３万人突破 岩国のいこいと学びの交流テラス【夏の遊び×学び コスパ最強クエスト】④ - 中国新聞デジタル",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rYmZSUWxzRm5wQmtuT1R3V1lYU21MU1c5TGlzbEo3dC12aEdIakxHcjNxTnRYNjV2VXpUajJra1ZjN0RybmhBMnF0Y2NhNjBkTUV0SlhwT2k4QQ?oc=5",
-     "date": "2026-08-14T06:46:00+00:00",
-     "source": "中国新聞デジタル",
-     "snippet": "中核の科学館、デジタル駆使し展示充実 開館３カ月で年間目標３万人突破 岩国のいこいと学びの交流テラス【夏の遊び×学び コスパ最強クエスト】④&nbsp;&nbsp;中国新聞デジタル",
-     "summary": "岩国のいこいと学びの交流テラスが開館から3カ月で年間目標の3万人を突破したにゃ。デジタル技術を駆使した展示が充実しており、訪れる人々に新しい学びの体験を提供しているそうだにゃん。夏の遊びと学びを融合させた取り組みが評価されているにゃ。"
+     "snippet": "画像37 / 42＞上野・国立科学博物館で「大絶滅展」が開催中！生命のピンチと進化の歴史「ビッグファイブ」に迫る&nbsp;&nbsp;ウォーカープラス",
+     "summary": "上野の国立科学博物館で「大絶滅展」が開催中だにゃ。展覧会では、生命の危機と進化の歴史に関する「ビッグファイブ」に焦点を当てているそうだにゃん。来場者は、過去の大絶滅事件を通じて生命の多様性とその進化の過程を学ぶことができるにゃ。"
     },
     {
      "type": "news",
      "title": "＜画像9 / 13＞国立科学博物館の特別展「昆虫」がスタート！見逃したくないポイントはここだ - ウォーカープラス",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5eVhIcm9RaDhUSWwxaC1zWENzbjVkWkhoY3NFSTBJcE9TdEJ1NkQ5YXczbkxFeU9Demc2MndoYmthNG5Pbkhvd0dieU9Na0VjS2Z0bnVsQ0tTSVo0MVFFYkJ2V3M0YmNrRlE?oc=5",
-     "date": "2026-08-14T05:16:03+00:00",
+     "date": "2026-08-15T11:16:55+00:00",
      "source": "ウォーカープラス",
      "snippet": "＜画像9 / 13＞国立科学博物館の特別展「昆虫」がスタート！見逃したくないポイントはここだ&nbsp;&nbsp;ウォーカープラス",
-     "summary": "国立科学博物館の特別展「昆虫」がスタートしたにゃ。展示の見どころやポイントが紹介されており、多くの昆虫に関する情報が得られるそうだにゃん。昆虫好きにはたまらない内容になっているにゃ。"
+     "summary": "国立科学博物館で特別展「昆虫」が始まったにゃ。展示では、昆虫の多様性や生態系における重要性が紹介されているそうだにゃ。見逃せないポイントがいくつかあり、昆虫の魅力を存分に楽しむことができる展示内容になっているにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "生物の生存戦略に迫る「いきもの超ワールド展」 国立科学博物館とNHKが共同で開催（産経新聞） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJRktGS2prSXBHUllGc0ZIYmRnVzlKV0ttbTAxQm0tdFBuMFkwX1ZfNjdONFMyZzg2dG9ELTgydndwbzZOQUFxVnQ2UnV2SkNReHpZWTZ4U3BKQllDRmhTOGlyQi1HeEd3WWRqSXZTREd6RzlBM19QWS1OSEZwZFk?oc=5",
+     "date": "2026-08-15T05:38:00+00:00",
+     "source": "Yahoo!ニュース",
+     "snippet": "生物の生存戦略に迫る「いきもの超ワールド展」 国立科学博物館とNHKが共同で開催（産経新聞）&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "「いきもの超ワールド展」が国立科学博物館とNHKの共同で開催されるにゃ。生物の生存戦略に迫るこの展覧会では、さまざまな生物の適応や進化の過程が紹介されるそうだにゃ。来場者は、生物の多様性とその生存方法について深く学ぶことができるにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "＜画像4 / 5＞自宅が国立科学博物館に大変身！3Dビュー&VR映像で常設展示を無料公開 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40dGlYbDVjZDNaMUZBbmUyenE0LWlvVU14Smh4Nkpja3Y0MGMwY3dxZndTT1E4ZTIyRmNrNVNEd2NyOXkxTm9KR0x0eGxOeWppUTZkU2ZzXzNzOG0wclRvRklzQmcwUkF0alBOdkJ1VHF2TE56LVVDc3MwSk5MZ3c?oc=5",
+     "date": "2026-08-14T22:38:38+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "＜画像4 / 5＞自宅が国立科学博物館に大変身！3Dビュー&amp;VR映像で常設展示を無料公開&nbsp;&nbsp;ウォーカープラス",
+     "summary": "自宅が国立科学博物館に大変身する企画があるにゃ。3DビューとVR映像を使って、常設展示が無料で公開されるそうだにゃ。自宅にいながら博物館の展示を楽しむことができる新しい試みだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yU1d6MTZqYnQwUzVsSW13TDQ5WXZyd3dnMTFGbmZWVDhhV1dYSDQtUWtOSE5Uc09hbmQxRmJTd1UzRDJWVENWd1luWXktWnJjZy1WSlE3YmxLVlpJUnBkWXZ4NXNPcnh1dFE?oc=5",
+     "date": "2026-08-14T17:39:00+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任&nbsp;&nbsp;ウォーカープラス",
+     "summary": "香川照之さんが国立科学博物館の「昆虫」展のサポーターに就任したにゃ。彼の参加により、昆虫展の魅力がさらに引き立てられることが期待されているそうだにゃん。昆虫の重要性を広める活動に貢献するにゃ。"
     }
    ]
   },
@@ -258,19 +258,28 @@
      "type": "news",
      "title": "“食べる”×“遊べる”新体験。「今日の梅占いAR」付き『まろやか干し梅まろ』新発売！ - 朝日新聞",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ua19XeFpqZTF0a1ZPM3ozQVNWbHFBUHhrRE5mRF9rQndMeU5ueDRKYXlRc0NEdDdpU1Rxdl9sd3p1VEhTRUMxTDdXZTZnRXdGcnQzWnNSelVJQms?oc=5",
-     "date": "2026-08-14T18:15:35+00:00",
+     "date": "2026-08-15T12:34:56+00:00",
      "source": "朝日新聞",
      "snippet": "“食べる”×“遊べる”新体験。「今日の梅占いAR」付き『まろやか干し梅まろ』新発売！&nbsp;&nbsp;朝日新聞",
-     "summary": "新商品『まろやか干し梅まろ』が発売されたにゃ。この商品は「今日の梅占いAR」というAR体験が付いていて、食べるだけでなく遊ぶ楽しさも提供するにゃ。梅を楽しむ新しい方法として注目されているそうだにゃん。"
+     "summary": "新商品『まろやか干し梅まろ』が発売されたにゃ。この商品には「今日の梅占いAR」という新しい体験が付いていて、食べるだけでなく遊ぶこともできるんだにゃ。梅の楽しみ方が広がるアイデアだと思うにゃん。"
     },
     {
      "type": "news",
-     "title": "VRChat関連企画の運営「V」代表ら、産総研の研究開発委員会に参加 VRやARの安全性を議論 - KAI-YOU",
+     "title": "BTS、セブチ「ゼロ距離」に VRでライブ没入体験、福岡市・岩田屋で「VISION FESTA」 写真や映像展示も - 西日本新聞me",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kSjVQbG1YXzdIVUNSYzVKUy1LX2x2RVUzbmNuTGJlY0NCTk1JM2VoY0xhRGdpckM5amYxcHI5aEx6ZkVwczU5MllFdVdmc2t6enlRcWpB?oc=5",
+     "date": "2026-08-15T03:44:00+00:00",
+     "source": "西日本新聞me",
+     "snippet": "BTS、セブチ「ゼロ距離」に VRでライブ没入体験、福岡市・岩田屋で「VISION FESTA」 写真や映像展示も&nbsp;&nbsp;西日本新聞me",
+     "summary": "福岡市の岩田屋で、BTSとセブチの「ゼロ距離」VRライブ体験が行われるにゃ。このイベント「VISION FESTA」では、写真や映像の展示もあり、ファンにとって特別な体験が提供されるそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "VRChat関連企画の運営「V」代表ら、産総研の研究開発委員会に参加 VRやARの安全性を議論 - kai-you.net",
      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfbWdQbGFDWS1vNHJGdXhpWWVhaTdSM0FnRWhnN29wM2RTbTBEZ3ZQNy1BY21XLW1zZHFXWllKdHlROFQ3LXZVQw?oc=5",
      "date": "2026-08-14T09:06:00+00:00",
-     "source": "KAI-YOU",
-     "snippet": "VRChat関連企画の運営「V」代表ら、産総研の研究開発委員会に参加 VRやARの安全性を議論&nbsp;&nbsp;KAI-YOU",
-     "summary": "VRChat関連企画を運営する「V」の代表が、産総研の研究開発委員会に参加したにゃ。ここではVRやARの安全性について議論が行われ、技術の進化に伴うリスクや対策が話し合われたそうだにゃん。"
+     "source": "kai-you.net",
+     "snippet": "VRChat関連企画の運営「V」代表ら、産総研の研究開発委員会に参加 VRやARの安全性を議論&nbsp;&nbsp;kai-you.net",
+     "summary": "VRChat関連企画の運営「V」の代表が、産総研の研究開発委員会に参加したにゃ。ここではVRやARの安全性について議論が行われ、技術の発展とともに安全性の確保が重要であることが確認されたそうだにゃん。"
     },
     {
      "type": "news",
@@ -279,7 +288,7 @@
      "date": "2026-08-14T03:00:10+00:00",
      "source": "BOAT RACE振興会",
      "snippet": "BOATRACE VR スプラッシュバトル公式大会 「スプラッシュバトルCHAMPIONSHIP 2026 SUMMER」 初の小・中学生大会「YOUNG DERBY」も同時開催！ ～上位入賞者には豪華賞品をプレゼント！無料体験スペシャルウィークも実施～｜お知らせ・プレスリリース｜BOAT R&nbsp;&nbsp;BOAT RACE振興会",
-     "summary": "BOATRACE VRの公式大会「スプラッシュバトルCHAMPIONSHIP 2026 SUMMER」が開催されるにゃ。初めて小・中学生向けの大会「YOUNG DERBY」も同時に行われ、上位入賞者には豪華賞品が贈られるそうだにゃ。無料体験スペシャルウィークも実施されるにゃん。"
+     "summary": "BOATRACE VRの公式大会「スプラッシュバトルCHAMPIONSHIP 2026 SUMMER」が開催されるにゃ。初の小・中学生大会「YOUNG DERBY」も同時に行われ、上位入賞者には豪華賞品が贈られるそうだにゃ。無料体験スペシャルウィークも実施されるにゃん。"
     },
     {
      "type": "news",
@@ -288,16 +297,7 @@
      "date": "2026-08-14T00:40:06+00:00",
      "source": "CREATIVE VILLAGE",
      "snippet": "日本放送60周年！「サンダーバード」がキービジュアル制作からVR体験まで多彩な施策で節目を祝う&nbsp;&nbsp;CREATIVE VILLAGE",
-     "summary": "日本放送60周年を祝うため、「サンダーバード」が多彩な施策を展開するにゃ。キービジュアル制作やVR体験など、様々なイベントが計画されており、記念の年を盛り上げることを目的としているそうだにゃん。"
-    },
-    {
-     "type": "paper",
-     "title": "Safety vs. Social Image: Co-Designing Protection Mechanisms Against Ableist Harassment with People with Disabilities in Social Virtual Reality",
-     "link": "https://arxiv.org/abs/2608.13532v1",
-     "date": "2026-08-13T17:49:00+00:00",
-     "source": "arXiv",
-     "snippet": "People with disabilities (PWD) increasingly use avatars to express disability identities in social virtual reality (VR), but greater visibility also invites targeted harassment. Existing safety features are often insufficient, overlooking PWD's experiences and needs. To address this gap, we co-designed protection mechanisms with 11 PWD to reveal their values and needs. Our research employed a social lens to interpret harassment behaviors and protection mechanisms. Inspired by Hall's Proxemics Theory that interpersonal distances indicate social intent and boundaries, we divided social VR spaces",
-     "summary": "障害を持つ人々（PWD）がソーシャルVRでアイデンティティを表現する一方で、ハラスメントのリスクも増加しているにゃ。既存の安全機能は不十分で、PWDのニーズを考慮していないため、11人のPWDと共に保護メカニズムを共同設計したそうだにゃ。"
+     "summary": "日本放送60周年を記念して、「サンダーバード」が多彩な施策を展開するにゃ。キービジュアル制作からVR体験まで、様々な方法でこの節目を祝う計画が進行中だそうだにゃん。多くのファンが楽しめる内容になるといいにゃ。"
     }
    ]
   }
