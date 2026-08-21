@@ -1,45 +1,63 @@
 {
- "updated": "2026-08-20T23:04:44.256936+00:00",
+ "updated": "2026-08-21T20:58:22.102622+00:00",
  "categories": [
   {
    "id": "ai_media",
    "title": "🤖 AI×メディア研究（ニュース・論文・行政）",
    "items": [
     {
-     "type": "gov",
-     "title": "第221回国会 厚生労働委員会 第19号（令和8年7月15日（水曜日）） - shugiin.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORUg1dnRXZHJRUjEwTGpMVTFrYmtFNGJJTVcxNnZWTHFVTjlVV3FxUnc4cTNwX3FsbzFneHJHRzBjRW5pZXpNalpKT19TQ09MMUdHcGpkU0N1MjBLLXhTbE9TNWpSQVAzSDRnTmRTaEdmZlJjaUtaMkdQODB0a09CTTE0ZWRRaVJtM0JYbWdoZWVRYVM2d2c?oc=5",
-     "date": "2026-08-20T19:01:53+00:00",
-     "source": "shugiin.go.jp",
-     "snippet": "第221回国会 厚生労働委員会 第19号（令和8年7月15日（水曜日））&nbsp;&nbsp;shugiin.go.jp",
-     "summary": "第221回国会の厚生労働委員会第19号が、令和8年7月15日に開催されたにゃ。詳細な議題や討議内容は記載されていないけれど、国会の重要な機関である厚生労働委員会の活動が行われたことが分かるにゃん。"
+     "type": "news",
+     "title": "音楽生成AIを巡る攻防、アーティストの反発とレコード会社のジレンマ - 東京報道新聞",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zSmY3WEtadTRkakZDUGRlbWZjVElBYjdFTURXUS1Ha2FFSVl3ejBYaWU3OTV6WVdnMGJkdXlCLUVodWZhLTdqVU9GWUdXMjR3eUJV?oc=5",
+     "date": "2026-08-21T14:11:24+00:00",
+     "source": "東京報道新聞",
+     "snippet": "音楽生成AIを巡る攻防、アーティストの反発とレコード会社のジレンマ&nbsp;&nbsp;東京報道新聞",
+     "summary": "音楽生成AIに関する議論が活発化しているにゃ。アーティストたちは、自分たちの作品がAIによって生成されることに反発しているそうだにゃ。一方で、レコード会社は新たなビジネスモデルを模索する中で、アーティストとの関係性にジレンマを抱えているにゃん。この状況は、音楽業界全体に影響を及ぼす可能性があるだにゃ。"
     },
     {
      "type": "gov",
-     "title": "電力インフラ需要を取り込む韓国企業 韓国企業の対米投資（4） - jetro.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQUJEd1pUNXJjaWlIZFNiektPM0k5Uko4c3llSFB4Ri02N290bVpLdExkUFFKd2lISGhYV2VfbjVPN2FrZVhuQTRydExEVGZkcVhsNG5FM2R3N0ZLSXRCazhGaTlWQWlrZ19nRkFvTXA3WFBDLVE3Z3NwQ2t6Nm9mS0dtdVQ0dw?oc=5",
-     "date": "2026-08-20T18:19:42+00:00",
+     "title": "J-StarX GSE Bootcamp | 海外における起業家等の育成プログラム ―J-StarX― - ジェトロのサービス - jetro.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qTDlVbThVRnJKaUEzcjZ6OGs1dDEwUnU3MTBiNEl3THBoSE9kTFJuYW9ZOGxwa28wU2xLMkJQSmRtM0NrUkwzbVU4NFNhV1QwMWFtcnNMVlhYUk9fM1E?oc=5",
+     "date": "2026-08-21T10:59:43+00:00",
      "source": "jetro.go.jp",
-     "snippet": "電力インフラ需要を取り込む韓国企業 韓国企業の対米投資（4）&nbsp;&nbsp;jetro.go.jp",
-     "summary": "韓国企業が電力インフラ需要を取り込む動きが進んでいるにゃ。対米投資の一環として、韓国企業はアメリカ市場における電力インフラの拡充に注力しているそうだにゃ。"
+     "snippet": "J-StarX GSE Bootcamp | 海外における起業家等の育成プログラム ―J-StarX― - ジェトロのサービス&nbsp;&nbsp;jetro.go.jp",
+     "summary": "J-StarX GSE Bootcampは、海外での起業家育成プログラムだにゃ。ジェトロが提供しており、参加者は実践的なスキルを学ぶことができるにゃん。このプログラムは、国際的なビジネス環境で活躍するための支援を目的としているそうだにゃ。"
     },
     {
      "type": "gov",
-     "title": "米国の重要鉱物供給網に加わる韓国企業 韓国企業の対米投資（5） - jetro.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRVd3V2NpQVlacmY2Wjd6RE1XWkU4TU1sNDBLVWF5QnhiNTZpMkllN1JZNDhrQWZ2QnhUbkozTFkyMGlGSjkzVXNvcnZCSklXd2kyQ2djN2VseEdNTjFYT3U3NFdyUzJfdXp4Y2tGZUd1MEt2VWRkV0pYdEJ6U29nVkVSUGNfQQ?oc=5",
-     "date": "2026-08-20T18:11:15+00:00",
+     "title": "トランプ米大統領が対イラン経済圧力強化を表明、UAEは対イラン取引停止措置 - jetro.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqb0pRdlR6N1lETjZVd1YxWC1RZ0pOUXBtdUZPb3VFaUdubHpNODFHcnJaRjBZb1NOYkE4LW9hVGlKZS03WmRXN3hxV2FHVk82VklFaVhWM2VBcTBMODdFbnpsdmgxQmNKd2hMX1hB?oc=5",
+     "date": "2026-08-21T09:08:59+00:00",
      "source": "jetro.go.jp",
-     "snippet": "米国の重要鉱物供給網に加わる韓国企業 韓国企業の対米投資（5）&nbsp;&nbsp;jetro.go.jp",
-     "summary": "韓国企業が米国の重要鉱物供給網に加わる取り組みが進んでいるにゃ。対米投資の一環として、韓国企業は鉱物資源の供給において重要な役割を果たすことを目指しているそうだにゃん。"
+     "snippet": "トランプ米大統領が対イラン経済圧力強化を表明、UAEは対イラン取引停止措置&nbsp;&nbsp;jetro.go.jp",
+     "summary": "トランプ米大統領は、対イラン経済圧力を強化する方針を表明したにゃ。これに伴い、UAEも対イラン取引を停止する措置を取ることを決定したそうだにゃん。この動きは、中東地域の政治情勢に影響を与える可能性があるだにゃ。"
+    },
+    {
+     "type": "gov",
+     "title": "NIDSコメンタリー 第450号 - nids.mod.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4VVBlM3dCSGpwQ1JZYUFGbVFDR0RWTkl5Nm1MODg2YjBlQUQwb0NOTUsySkZyNDkzNTNqckdOdm9Hb1AzMnZyT0hpMVptdGx0TGVVS3pZUUNvek5LRmxmVklyblFEY3V4WmoxckNBYUlCRGsxWWhJ?oc=5",
+     "date": "2026-08-21T08:51:33+00:00",
+     "source": "nids.mod.go.jp",
+     "snippet": "NIDSコメンタリー 第450号&nbsp;&nbsp;nids.mod.go.jp",
+     "summary": "NIDSコメンタリー第450号が発表されたにゃ。内容の詳細は不明だが、国防や安全保障に関する重要なテーマが扱われていると考えられるにゃん。最新の情報を提供するためのコメンタリーとして注目されているそうだにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "AIアニメ制作プラットフォーム「PopPixs」最新動画生成AI「MiniMax H3」の実装を開始AI - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4NV8tYWtSUFJPdW12YTZFTDJObFF4ZU1NM3ptQ2xXNzZKTEl6MjZNbGxPZnFoMmZCNzQ4Z2NvOFFPdWwzbFZWZl85c0trUERBM2l3Zkh5cWtNcW5nQ3RqQV9LQ1NEZU0waGc?oc=5",
+     "date": "2026-08-21T07:52:13+00:00",
+     "source": "PR TIMES",
+     "snippet": "AIアニメ制作プラットフォーム「PopPixs」最新動画生成AI「MiniMax H3」の実装を開始AI&nbsp;&nbsp;PR TIMES",
+     "summary": "AIアニメ制作プラットフォーム「PopPixs」が、最新の動画生成AI「MiniMax H3」を実装開始したにゃ。この技術により、より高品質なアニメーション制作が可能になるそうだにゃん。クリエイターたちにとって新たな創作の可能性が広がるだにゃ。"
     },
     {
      "type": "news",
      "title": "人と生成AIが共創する「未来の実用美」--TOKYO AI Fashion Week 2026 コンテスト、受賞3作品が決定 - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11bGZzWXItTEs4VDFESVNZQWJtQy1fVW5xR1NKTTdqWThuSmlka2tZMGdUQXhwSVdwQjNCa0JSNFBHN2lzUm5WVDY0ckpMZnRUU2VSNVBkcXBfZkRpMGRfa0ZXaHVTVFpIb0RaeHFPd19kZ2pZeGloQUlJVQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ySGJYTWttLVhkSEFMSEtrNnNXWng1bDItQ3JEVUtmNDEyWUx4ZWY5WHlTcmo3Q2xkMkJXZUVLY3h3Qmg5Rkd0SFQ1WGZ0SVBWWnJuLUttWUlPWWhQVmhqSWt3NGJzQ21Odm1MVWduRHFZQUJGdXVOVllycw?oc=5",
      "date": "2026-08-20T14:30:23+00:00",
      "source": "ニコニコニュース",
      "snippet": "人と生成AIが共創する「未来の実用美」--TOKYO AI Fashion Week 2026 コンテスト、受賞3作品が決定&nbsp;&nbsp;ニコニコニュース",
-     "summary": "TOKYO AI Fashion Week 2026のコンテストで、人と生成AIが共創した「未来の実用美」をテーマにした受賞作品が決定したにゃ。新たなファッションの形が注目されているそうだにゃん。"
+     "summary": "TOKYO AI Fashion Week 2026で、人と生成AIが共創する「未来の実用美」をテーマにしたコンテストが開催され、受賞作品が決定したにゃ。AIと人間のコラボレーションが新たなファッションの形を生み出すことが期待されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -48,7 +66,7 @@
      "date": "2026-08-20T06:59:06+00:00",
      "source": "ニュースメディアVOIX",
      "snippet": "PopPixsが最新動画生成AI「Seedance 2.5」を搭載し、革新的なアニメ制作環境を提供開始&nbsp;&nbsp;ニュースメディアVOIX",
-     "summary": "PopPixsが最新の動画生成AI「Seedance 2.5」を搭載し、革新的なアニメ制作環境を提供開始したにゃ。これにより、アニメ制作の効率が向上することが期待されているそうだにゃん。"
+     "summary": "PopPixsが最新動画生成AI「Seedance 2.5」を搭載し、革新的なアニメ制作環境を提供開始したにゃ。このプラットフォームは、クリエイターにとって使いやすく、効率的な制作をサポートすることを目指しているそうだにゃん。"
     },
     {
      "type": "news",
@@ -57,7 +75,7 @@
      "date": "2026-08-20T06:15:54+00:00",
      "source": "PR TIMES",
      "snippet": "最新動画生成AI「Seedance 2.5」搭載AIアニメ制作プラットフォーム「PopPixs」提供開始&nbsp;&nbsp;PR TIMES",
-     "summary": "AIアニメ制作プラットフォーム「PopPixs」が最新動画生成AI「Seedance 2.5」を搭載して提供を開始したにゃ。新しい技術により、アニメ制作の可能性が広がることが期待されているそうだにゃん。"
+     "summary": "AIアニメ制作プラットフォーム「PopPixs」が、最新動画生成AI「Seedance 2.5」を搭載して提供を開始したにゃ。この技術は、アニメ制作のプロセスを革新し、クリエイターに新たな可能性を提供することを目指しているそうだにゃん。"
     },
     {
      "type": "news",
@@ -66,7 +84,7 @@
      "date": "2026-08-20T04:03:32+00:00",
      "source": "メディアジーン",
      "snippet": "台湾の青年20名が日本のメディア・AIの最前線を学ぶ、約2週間の研修プログラムを実施&nbsp;&nbsp;メディアジーン",
-     "summary": "台湾の青年20名が、日本のメディアやAIの最前線を学ぶ約2週間の研修プログラムを実施したにゃ。国際的な視野を広げる貴重な機会となったそうだにゃん。"
+     "summary": "台湾の青年20名が、日本のメディアやAIの最前線を学ぶ約2週間の研修プログラムを実施したにゃ。彼らは、最新の技術や知識を習得し、国際的な視野を広げることを目的としているそうだにゃん。"
     },
     {
      "type": "news",
@@ -75,25 +93,7 @@
      "date": "2026-08-19T11:21:49+00:00",
      "source": "ITmedia",
      "snippet": "生成AI画像で“架空の女性”に成り済まして政治投稿か 立憲栃木県連の男性党員 一部報道&nbsp;&nbsp;ITmedia",
-     "summary": "立憲栃木県連の男性党員が生成AI画像を使って架空の女性に成り済まし、政治投稿を行った疑いが報じられたにゃ。AI技術の利用に関する倫理的な問題が浮上しているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "スイッチメディア、AI広告データプラットフォーム「TVAL」のMCPサーバーを提供開始 - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5SFRsTW41ZVRmbUpxR1dhTEcxRUhBQ0J2cGJmR19VNEYyU0NhWW4ta0V2eG9EeHh1b21KbVk2d1NHckhxTzNmamN2Y19raGRfQ0xXSXdNQVZuWUluTGZqMHpiOHNDd1FiNmo4LUhpSllfaTloOU5sZGNfTQ?oc=5",
-     "date": "2026-08-19T07:21:15+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "スイッチメディア、AI広告データプラットフォーム「TVAL」のMCPサーバーを提供開始&nbsp;&nbsp;ニコニコニュース",
-     "summary": "スイッチメディアがAI広告データプラットフォーム「TVAL」のMCPサーバーを提供開始したにゃ。これにより、広告データの分析や活用がさらに進むことが期待されているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "電通デジタル、電通PRコンサルティングと共同でメディア露出と生成AI回答の関係性を基点に、生成AI時代の情報設計を支援するGEO研究プロジェクトを発足｜Infoseekニュース - Infoseek",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PbmhaWUpKQ1M0dm5rVUxBS2MwY3VjaG94Yi1yVDlJdmszWXZxRjBWeURYLWdxQ09JNXhsZlJBTWswejYzWjhVaWZMOGZZblI4X1I2OGZJdVNvTFF0amFXWmwwdTZTNFRiX1hodGF1eV9Pdw?oc=5",
-     "date": "2026-08-19T02:02:07+00:00",
-     "source": "Infoseek",
-     "snippet": "電通デジタル、電通PRコンサルティングと共同でメディア露出と生成AI回答の関係性を基点に、生成AI時代の情報設計を支援するGEO研究プロジェクトを発足｜Infoseekニュース&nbsp;&nbsp;Infoseek",
-     "summary": "電通デジタルが電通PRコンサルティングと共同で、生成AI時代の情報設計を支援するGEO研究プロジェクトを発足したにゃ。メディア露出と生成AI回答の関係性を基点にした研究が行われるそうだにゃん。"
+     "summary": "立憲栃木県連の男性党員が、生成AI画像を使って“架空の女性”に成り済まして政治投稿を行ったとの報道があったにゃ。この行為は、政治的な信頼性や倫理に関する問題を引き起こす可能性があるだにゃん。"
     }
    ]
   },
@@ -103,21 +103,39 @@
    "items": [
     {
      "type": "gov",
-     "title": "第221回国会 厚生労働委員会 第19号（令和8年7月15日（水曜日）） - shugiin.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORUg1dnRXZHJRUjEwTGpMVTFrYmtFNGJJTVcxNnZWTHFVTjlVV3FxUnc4cTNwX3FsbzFneHJHRzBjRW5pZXpNalpKT19TQ09MMUdHcGpkU0N1MjBLLXhTbE9TNWpSQVAzSDRnTmRTaEdmZlJjaUtaMkdQODB0a09CTTE0ZWRRaVJtM0JYbWdoZWVRYVM2d2c?oc=5",
-     "date": "2026-08-20T19:01:53+00:00",
-     "source": "shugiin.go.jp",
-     "snippet": "第221回国会 厚生労働委員会 第19号（令和8年7月15日（水曜日））&nbsp;&nbsp;shugiin.go.jp",
-     "summary": "第221回国会の厚生労働委員会第19号が令和8年7月15日に開催されたにゃ。詳細な議題や内容は記載されていないけれど、国会の活動が続いていることが分かるにゃん。"
+     "title": "令和８年熊本地震 関連情報 | 2026年 | トピックス | 観光庁 - mlit.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QNVpaSkRWcDRhQjhra3ZxYnJpX1p1NllwVDB5Q3ozRi1pbkdTc3RsV2tQb1pzbmo3dFFPOEhxblJJSkhocHJjeTIxODZZSE9VaXh0WlcxVDhrYjRseUlmWQ?oc=5",
+     "date": "2026-08-21T14:31:48+00:00",
+     "source": "mlit.go.jp",
+     "snippet": "令和８年熊本地震 関連情報 | 2026年 | トピックス | 観光庁&nbsp;&nbsp;mlit.go.jp",
+     "summary": "令和8年熊本地震に関する情報が観光庁の公式サイトで公開されているにゃ。2026年に向けたトピックスとして、地震の影響や復興に関する取り組みが紹介されているそうだにゃん。観光業への影響も考慮されているみたいだにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "【無料オンライン参加者受付中】スポーツジャーナリスト中西哲生氏基調講演など「スポーツコンプレックスの推進」をテーマとしたシンポジウムを開催～スポーツを核とした持続可能なまちづくりの価値を全国へ発信～ - スポーツマニア",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1HdVRWTUZiT3lSMkxmYlh2anpuQVhaeDNBSmhPMC0xeklCQmxrVC1xU2hlcGNwNURhSlROUkw3NVJkNUYt0gFKQVVfeXFMUHpNV19sc1c4X1JVSVE1YkJwUkRMY3Jva1hUdEtSWTc3MFNsajQzdXRhLTNSY1dXa0Ixa21iZURPaTBjU0JWRkgzUHc?oc=5",
+     "date": "2026-08-21T07:00:48+00:00",
+     "source": "スポーツマニア",
+     "snippet": "【無料オンライン参加者受付中】スポーツジャーナリスト中西哲生氏基調講演など「スポーツコンプレックスの推進」をテーマとしたシンポジウムを開催～スポーツを核とした持続可能なまちづくりの価値を全国へ発信～&nbsp;&nbsp;スポーツマニア",
+     "summary": "スポーツジャーナリストの中西哲生氏が基調講演を行うシンポジウムが開催されるにゃ。テーマは「スポーツコンプレックスの推進」で、スポーツを中心にした持続可能なまちづくりの価値を全国に発信することを目的としているそうだにゃん。参加は無料で、オンラインでの受付も行われているにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "オリンピアン成田童夢氏と茨城・境町へ “原資”をつくるまちづくり - ツーリズムメディアサービス",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IbWN6MVVfSHhnRUlEazU2UDBiZllxM19feTNZaG93VjluN1lWZ3JkMzdaYXpoU25HSFdjejFJdGNydjZDZkJibg?oc=5",
+     "date": "2026-08-21T03:21:04+00:00",
+     "source": "ツーリズムメディアサービス",
+     "snippet": "オリンピアン成田童夢氏と茨城・境町へ “原資”をつくるまちづくり&nbsp;&nbsp;ツーリズムメディアサービス",
+     "summary": "オリンピアンの成田童夢氏が茨城県境町で「原資」をつくるまちづくりに取り組んでいるにゃ。地域活性化を目指し、スポーツや観光を通じて地域の魅力を引き出す活動が行われているそうだにゃん。具体的な施策や成果については、今後の展開が期待されるにゃ。"
     },
     {
      "type": "news",
      "title": "社会構想大学院大学、新たな短期プログラム「地方を動かす広報戦略マネジメント講座」を開講 - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fejAzWlo5M0ZHT1h2STBDZjVGZFZKXzN6Q21idXBzZ0ZKZUpQM0JuckNBWXdKUnNNM0pvRWZnem9Wd2JMb0NZZlpoVVhjSDB5b2hrbTlzeEhSYkM1eDZPcUpXaVYwQklqb3otMk1pVHhOTEQ0amtvZ1JhZw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81dzh4N3BIWFdoTWRXeko5UlFtYlp3SEI3TlpZSnFrVGZGTzJnbUFBa3ZrblV2YVMzS1I0SHFGWEtpdVduOE1wNFR4cURTMk9kMXFpRw?oc=5",
      "date": "2026-08-20T15:48:44+00:00",
      "source": "ニコニコニュース",
      "snippet": "社会構想大学院大学、新たな短期プログラム「地方を動かす広報戦略マネジメント講座」を開講&nbsp;&nbsp;ニコニコニュース",
-     "summary": "社会構想大学院大学が新たに「地方を動かす広報戦略マネジメント講座」を開講したにゃ。この短期プログラムは地方の広報戦略を学ぶことを目的としていて、地域活性化に寄与することを目指しているそうだにゃん。"
+     "summary": "社会構想大学院大学が新たに「地方を動かす広報戦略マネジメント講座」を開講するにゃ。この短期プログラムは、地方の魅力を効果的に発信するための戦略を学ぶことを目的としているそうだにゃん。地域の広報活動に関心のある人々にとって、貴重な学びの場になるだろうにゃ。"
     },
     {
      "type": "news",
@@ -126,25 +144,7 @@
      "date": "2026-08-20T06:40:01+00:00",
      "source": "PR TIMES",
      "snippet": "タスキパートナーズ、サンミュージックプロダクション・西桂町と空き家再生・地方創生に取り組む連携協定を締結&nbsp;&nbsp;PR TIMES",
-     "summary": "タスキパートナーズがサンミュージックプロダクションと西桂町と連携協定を結び、空き家再生や地方創生に取り組むことになったにゃ。この協定により、地域の活性化が期待されているそうだにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "出社回帰で変わる「働く時間」のメディア価値。オフィス内広告「Office Vision」、設置2,100面、想定リーチ260万人の媒体へ拡大 - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KS0NMY0NocjlESWdXUnY0R0pjRk5jelExcVBHTVBiNzVGUnBON1JuRVdCallEcXB4SEJzZEN0Qy1tZUk4azFnOXNsRXFMb3VlclcwWXJmOWNUc2oxcXlUXzZ3blZna0xwbXc?oc=5",
-     "date": "2026-08-20T01:14:31+00:00",
-     "source": "PR TIMES",
-     "snippet": "出社回帰で変わる「働く時間」のメディア価値。オフィス内広告「Office Vision」、設置2,100面、想定リーチ260万人の媒体へ拡大&nbsp;&nbsp;PR TIMES",
-     "summary": "出社回帰に伴い、オフィス内広告「Office Vision」が設置面数を2,100面に増やし、想定リーチが260万人に達することになったにゃ。働く時間のメディア価値が変わってきていることが示されているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "大好評につき第3弾！「くら寿司」×「らーめん香澄」×「ラーメンステーション」の共同開発メニューが3社の店舗で提供開始！ - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRYjZwQ0JhSjhqc3ZYeFE3N3lRQnJmaU1wWTNXQ0hxbG1lRUtQYTVyNWp4RnZRaGE0VHJoVmwyVXN3b2RxeHFxb1hCbG9JV1NWSFJmcGQ2T1dtNXlqY3FOd29nMm4wOGdtZ1hFZThOQTlZNzMtZVhxRjlLNA?oc=5",
-     "date": "2026-08-19T17:18:30+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "大好評につき第3弾！「くら寿司」×「らーめん香澄」×「ラーメンステーション」の共同開発メニューが3社の店舗で提供開始！&nbsp;&nbsp;ニコニコニュース",
-     "summary": "「くら寿司」、「らーめん香澄」、「ラーメンステーション」の3社が共同開発したメニューが大好評につき第3弾として提供開始されたにゃ。これにより、各店舗で新たな味を楽しむことができるようになったそうだにゃん。"
+     "summary": "タスキパートナーズがサンミュージックプロダクションと西桂町と連携し、空き家再生や地方創生に取り組む協定を締結したにゃ。この取り組みは、地域の活性化や持続可能な発展を目指しているそうだにゃん。空き家問題の解決に向けた具体的な施策が期待されるにゃ。"
     }
    ]
   },
@@ -154,12 +154,39 @@
    "items": [
     {
      "type": "news",
+     "title": "製造業DXの第一人者・福本勲氏、クラスメソッドの顧問に就任 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95YmxDX1FtcVozZU5MRFBjWHNEcThNMVNSTG02OUNjTV9nTzRlQXVGc3ZsLTdROVpieUlvY2dfZzRpQU4yT214Rmt3cGl4YldYWmFpVTlOb05WNnktQ1ZQSmhtVTN0UjRFT1lKSWxxcnZRT0dmeG5HX3hUSQ?oc=5",
+     "date": "2026-08-21T12:21:35+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "製造業DXの第一人者・福本勲氏、クラスメソッドの顧問に就任&nbsp;&nbsp;ニコニコニュース",
+     "summary": "製造業のデジタルトランスフォーメーション（DX）の第一人者である福本勲氏が、クラスメソッドの顧問に就任したにゃ。福本氏は、製造業のDX推進において豊富な経験を持ち、今後のクラスメソッドの成長に寄与することが期待されているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "地域のDX化について勉強会：ニュース - 中日BIZナビ",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5UXpSR0loRjBRM0FZSWpJaEs3NmZhSmpmcFlRZUc4UDYxQ2M3QkN2RHhFaVYxZWhCdnBPZ2k3alBTYzR5WkZnUWp2TTh0ZmV4QVVGUzM2VkljM1ZKZVM4?oc=5",
+     "date": "2026-08-21T08:45:00+00:00",
+     "source": "中日BIZナビ",
+     "snippet": "地域のDX化について勉強会：ニュース&nbsp;&nbsp;中日BIZナビ",
+     "summary": "地域のDX化に関する勉強会が開催されたにゃ。この勉強会では、地域社会におけるデジタル技術の導入や活用方法について議論が行われ、参加者はDXの重要性を再認識したそうだにゃ。地域の発展に向けた取り組みが進むことが期待されるにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "台湾のデジタル企業8社が訪日 日本と共同でAI・DX応用を開拓 - 福島民友新聞社",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83c0VDdC04Q3lNX2g5emk1VDlwaWROaHVfR3g2bXVQeFd6N0xYb3VvWlNXaFZvUUlhZ3NMWU9Eb2JiaWthQS1Jcl9WbWQ1NlV6U0FVblk0MHdscVhNdGprNGNGa2k?oc=5",
+     "date": "2026-08-21T06:10:00+00:00",
+     "source": "福島民友新聞社",
+     "snippet": "台湾のデジタル企業8社が訪日 日本と共同でAI・DX応用を開拓&nbsp;&nbsp;福島民友新聞社",
+     "summary": "台湾のデジタル企業8社が日本を訪問し、AIやDXの応用について共同開発を進めることになったにゃ。両国の企業が連携することで、新たなビジネスチャンスが生まれることが期待されているそうだにゃん。国際的な協力が進む中、技術革新が促進されるにゃ。"
+    },
+    {
+     "type": "news",
      "title": "ＤＸスキル普及促す 若年層認知向上へ連携 ＩＰＡ・英検協会 - 労働新聞社",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RWE9qMjczdVpuYnFiS3FPWkVjaGdQWXlHaXRmRjBMSEMzc1dCakZPcm1DNzZ1QjdMUndYOXg0aXAwMFJsc2VWN21pWQ?oc=5",
      "date": "2026-08-20T20:01:45+00:00",
      "source": "労働新聞社",
      "snippet": "ＤＸスキル普及促す 若年層認知向上へ連携 ＩＰＡ・英検協会&nbsp;&nbsp;労働新聞社",
-     "summary": "若年層のDXスキル普及を目指し、IPAと英検協会が連携することが発表されたにゃ。これにより、デジタル技術に対する認知を高め、将来の人材育成を図る狙いがあるそうだにゃん。具体的な取り組み内容は今後の発表を待つ必要があるにゃ。"
+     "summary": "若年層に向けたDXスキルの普及を促進するため、IPAと英検協会が連携することになったにゃ。これにより、若者のDXに対する認知度が向上し、将来的な人材育成につながることが期待されているそうだにゃん。デジタル社会に対応できる人材の育成が急務だにゃ。"
     },
     {
      "type": "news",
@@ -168,34 +195,7 @@
      "date": "2026-08-20T12:17:53+00:00",
      "source": "福島民友新聞社",
      "snippet": "NanoFrontier、ジェトロ「グローバル・スタートアップ・アクセラレーションプログラム（GSAP）2026」に採択&nbsp;&nbsp;福島民友新聞社",
-     "summary": "NanoFrontierがジェトロの「グローバル・スタートアップ・アクセラレーションプログラム（GSAP）2026」に採択されたにゃ。これにより、国際的なビジネス展開や支援を受けることが期待されているそうだにゃん。詳細なプログラム内容については、今後の情報を待つ必要があるにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "【9/12・13】駿府城公園（静岡市）で開催「駿府城夏まつり2026」露店・キッチンカー出店募集のお知らせ - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OYWZIUnotTy1DNXNZLWRFYTdrUklFLVd5WmNBTDVhUTR2TnRzS1JHYi1lb1dYVU5vUEoxU2ZhdVVxSnBGdDR1Y1pzajJMMC00TWRWem5RWHFWR1VzX21DTG51bC1Ga2NJYkE?oc=5",
-     "date": "2026-08-20T09:35:11+00:00",
-     "source": "PR TIMES",
-     "snippet": "【9/12・13】駿府城公園（静岡市）で開催「駿府城夏まつり2026」露店・キッチンカー出店募集のお知らせ&nbsp;&nbsp;PR TIMES",
-     "summary": "静岡市の駿府城公園で「駿府城夏まつり2026」が9月12日と13日に開催されるにゃ。このイベントでは露店やキッチンカーの出店を募集しているそうだにゃん。地域の活性化や交流の場となることが期待されているにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "『風、薫る』Aぇ! group・佐野晶哉が演じる “シマケン” 退場も…SNSでは「要らないキャラだった」辛辣な声（SmartFLASH） - Yahoo!ニュース",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wdUt0eXpxdTFiOGV4MGNxNVFxTFNMSnhxR0dnZmZydXlobzZEUEZKbnJDcWZ1aTJ4c2t4UmlodjdDZlB6UnVNS2EzQk50Y3ZrMHd4WVFJRmlDQ2dBc3VWclkwcC1zTFo5RmllZTA2bXdMcWZabEJVWHlKU1I1YVk?oc=5",
-     "date": "2026-08-20T08:40:39+00:00",
-     "source": "Yahoo!ニュース",
-     "snippet": "『風、薫る』Aぇ! group・佐野晶哉が演じる “シマケン” 退場も…SNSでは「要らないキャラだった」辛辣な声（SmartFLASH）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "Aぇ! groupの佐野晶哉が演じるキャラクター「シマケン」が退場したことが話題になっているにゃ。SNSでは「要らないキャラだった」との辛辣な意見も見受けられ、視聴者の反応が注目されているそうだにゃん。今後のストーリー展開にも影響があるかもしれないにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "【叡啓大学】開催報告！ 8/4（火）第2回 新規事業研究会を開催しました - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJSzI3dy1ZOG05U29YejhqZ2ctVW9yRmNSS3BhLTNEcWo3RWY2SG5IWEtMdEJ0UGJOVlIya0FiTVZ1XzZSWFdLc18zV0oxME54dVAwZ1dHX3lmTVdHSlBmUHctNVZmTzZKNXRoZVNYbFdjbHJWU2c?oc=5",
-     "date": "2026-08-20T06:45:25+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "【叡啓大学】開催報告！ 8/4（火）第2回 新規事業研究会を開催しました&nbsp;&nbsp;ニコニコニュース",
-     "summary": "叡啓大学で8月4日に第2回新規事業研究会が開催されたにゃ。この会議では新たなビジネスアイデアやプロジェクトについて議論が行われたそうだにゃん。参加者の意見交換が活発に行われ、今後の事業展開に向けた重要なステップとなったにゃ。"
+     "summary": "NanoFrontierがジェトロの「グローバル・スタートアップ・アクセラレーションプログラム（GSAP）2026」に採択されたにゃ。このプログラムは、スタートアップ企業の国際展開を支援するもので、NanoFrontierの成長が期待されているそうだにゃん。新たなビジネスの可能性が広がるにゃ。"
     }
    ]
   },
@@ -205,48 +205,48 @@
    "items": [
     {
      "type": "news",
-     "title": "「タオルで牛乳を拭くと臭いけど一番臭いのは…」「ピンはどうして錆びるの?」小学生が科学館アドバイザーに相談しながら進めた自由研究を発表（RKB毎日放送） - Yahoo!ニュース",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5SURtSmx2UjE5VnFXWjVOaEJXdzdoQjNDZ3IzYmRHd2pGd1E3VnhJT2huemYwRHc5bW9SOVpMV0FTYTZmUlRyTkFLSEt1TGFIQVlVMXc1Y3ZNM3V6dkVrbF9zV0lBZ2pQWkhLSEJoNUdyX0hlLU8yRHQ5V3FNTUU?oc=5",
-     "date": "2026-08-20T09:39:16+00:00",
-     "source": "Yahoo!ニュース",
-     "snippet": "「タオルで牛乳を拭くと臭いけど一番臭いのは…」「ピンはどうして錆びるの?」小学生が科学館アドバイザーに相談しながら進めた自由研究を発表（RKB毎日放送）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "小学生たちが科学館のアドバイザーと共に進めた自由研究を発表したにゃ。研究内容には「タオルで牛乳を拭くと臭いがする理由」や「ピンが錆びる理由」など、身近な疑問が含まれているそうだにゃ。子どもたちの好奇心が科学への興味を引き出すきっかけになったにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "マリエントで特殊詐欺の水槽展示 八戸警察署とコラボ、謎解きで「犯魚」探し - 八戸経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mU2FHakVrSE9UdUl3NUFzNnRLR1ZxQUVzMVVWbEtfTUI4Mmt5STBySmpIeDJKSENLZVFJVDc3R0taUDcyTk85cklHRzV1dmducXNSREln?oc=5",
-     "date": "2026-08-20T07:33:10+00:00",
-     "source": "八戸経済新聞",
-     "snippet": "マリエントで特殊詐欺の水槽展示 八戸警察署とコラボ、謎解きで「犯魚」探し&nbsp;&nbsp;八戸経済新聞",
-     "summary": "八戸のマリエントで特殊詐欺に関する水槽展示が行われたにゃ。八戸警察署とのコラボレーションで、来場者は謎解きを通じて「犯魚」を探す体験ができるそうだにゃ。このユニークな展示は、詐欺の危険性を楽しく学ぶ機会を提供しているにゃん。"
+     "title": "＜画像2 / 5＞自宅が国立科学博物館に大変身！3Dビュー&VR映像で常設展示を無料公開 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZEI5eEVJUF9FTV9lQ09CejYtcHFsb1NwMmpqdjIxLWZSSWkzSmkwUWUtY2dvSFl1N1VqWW4wTkFyWGY5RU9BY2ZkN2lnZFh4azcydmljWHNVR3NVV3BCZDFJS252UFJLLWVmbzlKMGExdG0xNkJhV2JhQkpxWWc?oc=5",
+     "date": "2026-08-21T14:12:16+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "＜画像2 / 5＞自宅が国立科学博物館に大変身！3Dビュー&amp;VR映像で常設展示を無料公開&nbsp;&nbsp;ウォーカープラス",
+     "summary": "自宅が国立科学博物館に変身するプロジェクトが始まったにゃ。3DビューやVR映像を使って、常設展示を無料で公開するんだにゃ。これにより、自宅にいながら博物館の展示を楽しむことができるにゃん。特に、科学や自然に興味がある人には嬉しい企画だと思うにゃ！"
     },
     {
      "type": "news",
      "title": "＜画像9 / 13＞国立科学博物館の特別展「昆虫」がスタート！見逃したくないポイントはここだ - ウォーカープラス",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5eVhIcm9RaDhUSWwxaC1zWENzbjVkWkhoY3NFSTBJcE9TdEJ1NkQ5YXczbkxFeU9Demc2MndoYmthNG5Pbkhvd0dieU9Na0VjS2Z0bnVsQ0tTSVo0MVFFYkJ2V3M0YmNrRlE?oc=5",
-     "date": "2026-08-20T05:22:02+00:00",
+     "date": "2026-08-21T06:16:18+00:00",
      "source": "ウォーカープラス",
      "snippet": "＜画像9 / 13＞国立科学博物館の特別展「昆虫」がスタート！見逃したくないポイントはここだ&nbsp;&nbsp;ウォーカープラス",
-     "summary": "国立科学博物館で特別展「昆虫」が始まったにゃ。展示では多様な昆虫の生態や進化について学べるポイントが紹介されているそうだにゃ。昆虫好きにはたまらない内容で、見逃せない展示になっているにゃん。"
+     "summary": "国立科学博物館で特別展「昆虫」が始まったにゃ！この展覧会では、昆虫の多様性や生態について学べるポイントがたくさんあるんだにゃ。見逃さないために、事前にチェックしておくと良いにゃん。昆虫好きにはたまらない展示だと思うにゃ！"
     },
     {
      "type": "news",
-     "title": "＜予約特典つき！＞受験研究社と大阪市立自然史博物館が親子で遊べる「おでかけプラス＋」謎解きイベントを9月12日に共同開催！ - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TOFFEUUxUS1ZSZll6VGNWc21CSzMwcGtSdklRS0s4b2hPMlBGRkNHaVFEam5FX1BfWXRCLXRUeVBoOW9kcVduUG5CM1FLeks4TUQtVUFwenNUQnBtdjM4YXpFZVdZSnNnUmc?oc=5",
-     "date": "2026-08-20T05:00:02+00:00",
-     "source": "PR TIMES",
-     "snippet": "＜予約特典つき！＞受験研究社と大阪市立自然史博物館が親子で遊べる「おでかけプラス＋」謎解きイベントを9月12日に共同開催！&nbsp;&nbsp;PR TIMES",
-     "summary": "受験研究社と大阪市立自然史博物館が共同で「おでかけプラス＋」という親子向けの謎解きイベントを9月12日に開催するにゃ。予約特典もあるため、参加する親子にとって楽しい体験になること間違いなしだにゃん。"
+     "title": "大阪市立自然史博物館で謎解き、小学生向け無料イベント9/12 - リセマム",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tb0JPVWxDYkdtY21HbUFRRHc0WlNKcExvX3lsQTFZN0xoVnJYbi1UV0E0dEh0Z2dsY2RDa2VhWXNialNQT3ZEMWpycWsya3ZrTjZscWh0MlhGaUZp?oc=5",
+     "date": "2026-08-21T06:15:03+00:00",
+     "source": "リセマム",
+     "snippet": "大阪市立自然史博物館で謎解き、小学生向け無料イベント9/12&nbsp;&nbsp;リセマム",
+     "summary": "大阪市立自然史博物館で、小学生向けの無料謎解きイベントが9月12日に開催されるにゃ。子どもたちが楽しみながら自然史について学べる良い機会だと思うにゃん。参加することで、友達と一緒に楽しみながら知識を深められるにゃ！"
     },
     {
      "type": "news",
-     "title": "画像37 / 42＞上野・国立科学博物館で「大絶滅展」が開催中！生命のピンチと進化の歴史「ビッグファイブ」に迫る - ウォーカープラス",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNOWVRNS11UFlmdEpBUWIyclRjbnczaWtpZWk4TTZHNlBsR0NmeGNLeHhLYUtIejMwRXVJZXBnd0swcEhzbzZSSE1zMWFJblYwdWhTTVJLRkJpaDd4OUNSeFJYTmYtenJUUHk4Z0tB?oc=5",
-     "date": "2026-08-20T04:30:14+00:00",
+     "title": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yU1d6MTZqYnQwUzVsSW13TDQ5WXZyd3dnMTFGbmZWVDhhV1dYSDQtUWtOSE5Uc09hbmQxRmJTd1UzRDJWVENWd1luWXktWnJjZy1WSlE3YmxLVlpJUnBkWXZ4NXNPcnh1dFE?oc=5",
+     "date": "2026-08-21T03:38:35+00:00",
      "source": "ウォーカープラス",
-     "snippet": "画像37 / 42＞上野・国立科学博物館で「大絶滅展」が開催中！生命のピンチと進化の歴史「ビッグファイブ」に迫る&nbsp;&nbsp;ウォーカープラス",
-     "summary": "上野の国立科学博物館で「大絶滅展」が開催中だにゃ。展示では、生命の危機と進化の歴史に関する「ビッグファイブ」に焦点を当てているそうだにゃ。来場者は、過去の大絶滅の原因や影響について学ぶことができる貴重な機会だにゃん。"
+     "snippet": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任&nbsp;&nbsp;ウォーカープラス",
+     "summary": "香川照之さんが国立科学博物館の「昆虫」展のサポーターに就任したにゃ。彼の知名度を活かして、展覧会の魅力を広めることが期待されているんだにゃ。昆虫に対する興味を引き出すための活動が楽しみだにゃん！"
+    },
+    {
+     "type": "news",
+     "title": "画像2 / 3＞国立科学博物館のアンモナイト研究者とコラボ！各種の特徴をわかりやすく表現したアンモナイト型クッキー9種が登場 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LNUw4a3BGd19zNEFGV3hjbVVpV2VzWm1VdldVcTFGZURUaGdfN2pSVndnMDBWYjNNWTdBSVdyWGZESGVMTXh6RXVscG9CdjBpLUVueEx1MDN0YUw1VnJVMlFtNEhLazBGMTZqZU9R?oc=5",
+     "date": "2026-08-20T12:04:25+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "画像2 / 3＞国立科学博物館のアンモナイト研究者とコラボ！各種の特徴をわかりやすく表現したアンモナイト型クッキー9種が登場&nbsp;&nbsp;ウォーカープラス",
+     "summary": "国立科学博物館のアンモナイト研究者とコラボした、アンモナイト型クッキーが9種類登場するにゃ！それぞれの特徴をわかりやすく表現しているんだにゃ。お菓子を通じて、楽しく学べる機会になると思うにゃん。"
     }
    ]
   },
@@ -256,48 +256,48 @@
    "items": [
     {
      "type": "news",
-     "title": "金沢でリトアニアの芸術家作品のVR鑑賞会 画集閲覧や複製品展示も（みんなの経済新聞ネットワーク） - Yahoo!ニュース",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wUkpocl9acnlZU2loTS1rUGxlLVk5dzVqN2MwRDk5eWJLRWtEWEJyYUc0X2FPZWFhR1c0SGN4ZkZ5a1RhdGQ0Z0I4NFEtdVd5VlNOdUdCdk5fMEtfWld2Q0tpTEM5cUJzQlVfc0xJREFnZExIekF6MUJwTzRKSDQ?oc=5",
-     "date": "2026-08-20T22:17:37+00:00",
-     "source": "Yahoo!ニュース",
-     "snippet": "金沢でリトアニアの芸術家作品のVR鑑賞会 画集閲覧や複製品展示も（みんなの経済新聞ネットワーク）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "金沢でリトアニアの芸術家による作品のVR鑑賞会が開催されるにゃ。参加者は画集を閲覧したり、複製品を展示で楽しむことができるそうだにゃん。リトアニアの文化に触れられる貴重な機会だにゃ。"
+     "title": "大阪・天王寺動物園を再現したVR映像の一場面 - 病室からVRで動物園に 若い長期入院患者に希望 全国30病院以上が連携 - 写真・画像(3/4) - 西日本新聞me",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lbjhBOG1YYVdBTm5RMVB4NzVGd2xERHhMVWo3U1hDOWhxOUJ0VEdwcWdTenRwMDVpMzBxT2NaMWVsREJQVXF4TldQVEItZVI5NzNQY2g0Yw?oc=5",
+     "date": "2026-08-21T15:40:54+00:00",
+     "source": "西日本新聞me",
+     "snippet": "大阪・天王寺動物園を再現したVR映像の一場面 - 病室からVRで動物園に 若い長期入院患者に希望 全国30病院以上が連携 - 写真・画像(3/4)&nbsp;&nbsp;西日本新聞me",
+     "summary": "大阪・天王寺動物園を再現したVR映像が、長期入院中の若い患者に希望を与える取り組みが行われているにゃ。全国30以上の病院が連携し、病室からでも動物園を体験できるように工夫されているそうだにゃ。患者たちはVRを通じて、動物たちの姿を楽しみ、心の癒しを得ることができるんだにゃん。"
     },
     {
      "type": "news",
-     "title": "【１０９シネマズプレミアム新宿】TOMORROW X TOGETHER VRコンサート3作品一挙アンコール上映 - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXajduRzc4TjZJMTRVV2o2cVhoRXVWU2pLX1BmT3c0b2wyakNYWld0QlJhb1ZUOU9PRF9XOGZiRVNzNmI4cHE1SXhxMlJIcElybFlPckNpMGI5S2pRNmcxckU2V1EzV01XcWExTy0wZGdaYmo5UDNHa05Kbw?oc=5",
-     "date": "2026-08-20T19:30:32+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "【１０９シネマズプレミアム新宿】TOMORROW X TOGETHER VRコンサート3作品一挙アンコール上映&nbsp;&nbsp;ニコニコニュース",
-     "summary": "新宿の109シネマズプレミアムで、TOMORROW X TOGETHERのVRコンサートが3作品一挙にアンコール上映されるにゃ。ファンにとっては見逃せないイベントだにゃん。詳細はニコニコニュースで確認できるそうだにゃ。"
+     "title": "長期入院患者らの大阪・天王寺動物園VR体験のQRコード - 病室からVRで動物園に 若い長期入院患者に希望 全国30病院以上が連携 - 写真・画像(4/4) - 西日本新聞me",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UM0VvWXJRbzJoaGdaRjljYUJDZ1dWdE8zRGhnNnZnTW1SdFRGWURpbTlvQ2VDUEltc2RjdlNnNkFNLWxrNHN6MHZqYUlLREIxemlIMWZCbw?oc=5",
+     "date": "2026-08-21T15:31:07+00:00",
+     "source": "西日本新聞me",
+     "snippet": "長期入院患者らの大阪・天王寺動物園VR体験のQRコード - 病室からVRで動物園に 若い長期入院患者に希望 全国30病院以上が連携 - 写真・画像(4/4)&nbsp;&nbsp;西日本新聞me",
+     "summary": "長期入院患者向けに、大阪・天王寺動物園のVR体験が提供されているにゃ。この取り組みは全国30以上の病院が協力して行っており、QRコードを使って簡単にアクセスできるようになっているそうだにゃ。患者たちは、病室にいながらにして動物園の魅力を楽しむことができ、心の支えになっているんだにゃん。"
     },
     {
      "type": "news",
-     "title": "APAMAN提供のVR体験『VR恐竜 ティラノに見つかるな！ トリケラトプス救出ミッション』に STYLYのLBE向けオープンソースを活用いただきました - t.co",
-     "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9TNy1LNmladDlaTFhFLWs3VXctT2YtRHpIbDh4OWpaNk8taHZicEY0Q3JSeExUcGU2ZS1n?oc=5",
-     "date": "2026-08-20T12:09:42+00:00",
-     "source": "t.co",
-     "snippet": "APAMAN提供のVR体験『VR恐竜 ティラノに見つかるな！ トリケラトプス救出ミッション』に STYLYのLBE向けオープンソースを活用いただきました&nbsp;&nbsp;t.co",
-     "summary": "APAMANが提供するVR体験『VR恐竜 ティラノに見つかるな！ トリケラトプス救出ミッション』に、STYLYのオープンソースが活用されたにゃ。恐竜の世界を楽しむ新しい体験が提供されるそうだにゃん。"
+     "title": "美しい自然を360度の映像や音で体験 新庄村が舞台のVR短編作品「魅力を村外、県外の人に伝えられるように」【岡山】 - Infoseek",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmRXJ5MHFXR1hyVUpSOTh4LXVjZnhvRExQX0VjUXBzbEEzYl9xMGlJY1NFRlBxV3RFTjlHbXdDeE1aQVB2Z3E4LWdVdl9qaXZxWkRlU0ZwT1c4aGhZQ1BYbVJR0gFiQVVfeXFMUGZFcnkwcVdHWHJVSlI5OHgtdWNmeG9ETFBfRWNRcHNsQTNiX3EwaUljU0VGUHFXdEVOOUdtd0N4TVpBUHZncTgtZ1V2X2ppdnFaRGVTRnBPVzhoaFlDUFhtUlE?oc=5",
+     "date": "2026-08-21T11:00:00+00:00",
+     "source": "Infoseek",
+     "snippet": "美しい自然を360度の映像や音で体験 新庄村が舞台のVR短編作品「魅力を村外、県外の人に伝えられるように」【岡山】&nbsp;&nbsp;Infoseek",
+     "summary": "新庄村を舞台にしたVR短編作品が制作され、美しい自然を360度の映像と音で体験できるようになっているにゃ。この作品は、村の魅力を村外や県外の人々に伝えることを目的としているそうだにゃ。新庄村の自然の美しさを多くの人に知ってもらうための新たな試みだにゃん。"
     },
     {
      "type": "news",
-     "title": "浅草・時代屋、夏限定のVR肝試しイベント「シライサン 呪死の来訪」8月21日より開催！ - ｄメニューニュース",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PM1B4WmwwSnV6N0ZXazRuLVpmbG5zb3lWTEJjNTRpRDUxODlYT1otSG5xdjZrYU9xVVB0VEFaZUdaTUVHNnVrTlZHVnE4MXQ1YmVMRklyQkE0STlXT1NNX2t3LUtBOVdmT1JvMDVKZnZZNmZmV1FxSGZR0gF_QVVfeXFMTktRQmt5Y013TGFmS01TejhMaTJmU29wUlFzNXYxaERuQVVzb0N2a2czMU8tZzN5MUV3QnRqbFNkczNoRHpESXhnOFZwMzVSUG9TYU1UOVJOSXdPVk9MU2tERk9wbmlFbXZmWjlhR1BUaUVReWg1UDhWdzJwaW50VQ?oc=5",
-     "date": "2026-08-20T09:18:00+00:00",
-     "source": "ｄメニューニュース",
-     "snippet": "浅草・時代屋、夏限定のVR肝試しイベント「シライサン 呪死の来訪」8月21日より開催！&nbsp;&nbsp;ｄメニューニュース",
-     "summary": "浅草の時代屋で、夏限定のVR肝試しイベント「シライサン 呪死の来訪」が8月21日から開催されるにゃ。参加者は恐怖体験を楽しむことができるそうだにゃん。夏の思い出にぴったりだにゃ。"
+     "title": "豪雨や巨大地震 ＶＲで体験 福山市で防災ワークショップ - 山陽新聞",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rZU4wdk9SWXA1VTJuelN3M2NmUU9UcFFXWVAxMTBPWFAyLXJWQkM2UFk1M3JNZU9JekpFUnk3ZXQ1UlpRRmxSUXJlOU5wTFh5V2c?oc=5",
+     "date": "2026-08-21T10:11:00+00:00",
+     "source": "山陽新聞",
+     "snippet": "豪雨や巨大地震 ＶＲで体験 福山市で防災ワークショップ&nbsp;&nbsp;山陽新聞",
+     "summary": "福山市で豪雨や巨大地震をVRで体験する防災ワークショップが開催されたにゃ。このワークショップでは、参加者が実際の災害を疑似体験し、防災意識を高めることを目的としているそうだにゃ。VR技術を活用することで、よりリアルな体験が可能になり、参加者の理解を深めることが期待されているんだにゃん。"
     },
     {
      "type": "news",
-     "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル - sannichi.co.jp",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jTkJwMXY4UThaekJrcWxYQllGRjdFR1FXR2dzRHdTVXFkeFRnOU1fUm1KTmkycXBxTnZVcW8ybHBCYXRLNjJUWDRIaWYzeGR4eEFSWm5FWUlOR2FVWXZ5Y3lB?oc=5",
-     "date": "2026-08-20T09:10:47+00:00",
-     "source": "sannichi.co.jp",
-     "snippet": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル&nbsp;&nbsp;sannichi.co.jp",
-     "summary": "山梨日日新聞デジタルにて、PRTIMESの記事が掲載されているにゃ。詳細はさんにちEyeで確認できるそうだにゃん。特に注目すべき内容が含まれているかもしれないにゃ。"
+     "title": "九州・山口・沖縄エリア限定「アパマンショップ来店キャンペーン」を8月22日より開始 - エンタメラッシュ",
+     "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB3bDdXdHN0dVpxcDNIX1d3Q2x6RU51TWt1c1FxWUlfX21hOVVrWURnejZGVGY1eGhYRGgzeTR5cUlEckXSAUhBVV95cUxPV0RqOUFKQklCajRwNVc0dEFueTRiSTB6X2JOckxDTzBtNFJwblZvMHl0ejNzSUF4bEVCMGtSbUQyYnNUekFNVzc?oc=5",
+     "date": "2026-08-21T08:51:14+00:00",
+     "source": "エンタメラッシュ",
+     "snippet": "九州・山口・沖縄エリア限定「アパマンショップ来店キャンペーン」を8月22日より開始&nbsp;&nbsp;エンタメラッシュ",
+     "summary": "九州・山口・沖縄エリア限定で「アパマンショップ来店キャンペーン」が8月22日より開始されたにゃ。このキャンペーンでは、来店したお客様に特典が用意されているそうだにゃ。地域の皆さんにアパマンショップを利用してもらうための取り組みだにゃん。"
     }
    ]
   }
