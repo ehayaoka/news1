@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T22:55:23.357118+00:00",
+ "updated": "2026-08-31T00:53:04.759383+00:00",
  "categories": [
   {
    "id": "ai_media",
@@ -12,7 +12,16 @@
      "date": "2026-08-30T15:10:35+00:00",
      "source": "jetro.go.jp",
      "snippet": "トルコで制作のAI生成ドラマ、主要動画配信サービスで初の配信開始(トルコ) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
-     "summary": "トルコで制作されたAI生成ドラマが、主要な動画配信サービスで初めて配信を開始したにゃ。このドラマはAI技術を活用して制作されており、視聴者に新しいエンターテインメント体験を提供することを目指しているそうだにゃん。今後の反響が楽しみだにゃ。"
+     "summary": "トルコで制作されたAI生成ドラマが、主要な動画配信サービスで初めて配信を開始したにゃ。このドラマはAI技術を活用して制作されており、視聴者に新しいエンターテインメント体験を提供することを目指しているそうだにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "ケニアで「オタ祭り2026」開催、4,500人超が来場(ケニア) | ビジネス短信 - jetro.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Rc1RKcHVCbW9HZjZXSkIwMFlMWnJCZ3NjZkhPb1FQNHU5Z0lRUzkwV1E4bERjR05zS1E1QXlzUEpLMmZKV3dtV1A0UHphN1U0WlJfd0FmNzlLU3NBcjlEVVY1bDRuMnNObDA5elNB?oc=5",
+     "date": "2026-08-30T15:10:35+00:00",
+     "source": "jetro.go.jp",
+     "snippet": "ケニアで「オタ祭り2026」開催、4,500人超が来場(ケニア) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
+     "summary": "ケニアで「オタ祭り2026」が開催され、4,500人以上が来場したにゃ。この祭りはオタク文化を祝うイベントで、参加者はアニメやゲームに関連するさまざまなアクティビティを楽しんだそうだにゃ。"
     },
     {
      "type": "gov",
@@ -21,16 +30,7 @@
      "date": "2026-08-29T16:03:08+00:00",
      "source": "jstage.jst.go.jp",
      "snippet": "生成 AI の組織的運用における 中間管理職のジレンマとその解消&nbsp;&nbsp;jstage.jst.go.jp",
-     "summary": "生成AIの組織的運用において、中間管理職が直面するジレンマとその解消方法について考察されているにゃ。特に、AI導入による業務効率化と人間の役割の変化が焦点となっており、適切なマネジメントが求められるそうだにゃん。"
-    },
-    {
-     "type": "gov",
-     "title": "中小企業省力化投資補助金（一般型） 第6回公募 採択決定事業者一覧 - 中小企業省力化投資補助金",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxVzJFbFJRV05CUnVzZi1ZN2JxZDhjamRMak9wNEdTOHM4XzNJZjhUOVRraUo2cmU0Y1ZpOWZsTnotY3pqNnAwYWFtUXVNM05KTmVzRHE1Q0RBNlRPZmtTN05iYUdKQ0V5emoyM2YycVRYMVdXZWkw?oc=5",
-     "date": "2026-08-28T10:56:07+00:00",
-     "source": "中小企業省力化投資補助金",
-     "snippet": "中小企業省力化投資補助金（一般型） 第6回公募 採択決定事業者一覧&nbsp;&nbsp;中小企業省力化投資補助金",
-     "summary": "中小企業省力化投資補助金の第6回公募において、採択された事業者の一覧が発表されたにゃ。この補助金は中小企業の省力化を促進するためのもので、各企業がどのような取り組みを行うのか注目されるそうだにゃ。"
+     "summary": "生成AIの組織的運用において、中間管理職が直面するジレンマについて考察した論文だにゃ。特に、AI導入による業務の変化に対する抵抗や、従業員のスキル向上の必要性が指摘されているにゃん。解決策としては、教育やコミュニケーションの強化が提案されているそうだにゃ。"
     },
     {
      "type": "news",
@@ -39,7 +39,7 @@
      "date": "2026-08-28T00:24:25+00:00",
      "source": "디지털투데이",
      "snippet": "KT、釜山の中学生向けにAI活用力とデジタル倫理教育を実施&nbsp;&nbsp;디지털투데이",
-     "summary": "KTが釜山の中学生向けにAI活用力とデジタル倫理教育を実施したにゃ。教育プログラムでは、AI技術の理解を深めるとともに、デジタル社会での倫理的な判断力を育成することを目指しているそうだにゃん。"
+     "summary": "KTが釜山の中学生向けにAI活用力とデジタル倫理教育を実施したにゃ。このプログラムは、学生たちがAI技術を理解し、適切に活用するための基礎を築くことを目的としているそうだにゃん。"
     },
     {
      "type": "news",
@@ -48,7 +48,7 @@
      "date": "2026-08-27T21:02:58+00:00",
      "source": "電通報",
      "snippet": "「届ける」から「選ばれる」へ。AI時代のメディア戦略とは？&nbsp;&nbsp;電通報",
-     "summary": "AI時代におけるメディア戦略が「届ける」から「選ばれる」へと変化しているにゃ。企業は視聴者のニーズに応じたコンテンツを提供することが重要で、AIを活用したデータ分析が鍵となるそうだにゃん。"
+     "summary": "AI時代におけるメディア戦略が「届ける」から「選ばれる」へとシフトしているにゃ。企業は、視聴者のニーズに応じたコンテンツを提供することで、選ばれる存在になることが求められているそうだにゃん。"
     },
     {
      "type": "news",
@@ -57,7 +57,7 @@
      "date": "2026-08-27T10:33:30+00:00",
      "source": "AIsmiley",
      "snippet": "「AIガバナンス実務ガイド」を公開！生成AIの社内利用で押さえるべきルール・体制・リスク管理を解説&nbsp;&nbsp;AIsmiley",
-     "summary": "「AIガバナンス実務ガイド」が公開され、生成AIの社内利用におけるルールや体制、リスク管理について解説されているにゃ。企業がAIを安全に活用するための指針として、重要な情報が提供されているそうだにゃん。"
+     "summary": "「AIガバナンス実務ガイド」が公開され、生成AIの社内利用において押さえるべきルールや体制、リスク管理について解説されているにゃ。このガイドは、企業がAIを安全に活用するための指針となるそうだにゃん。"
     },
     {
      "type": "news",
@@ -66,7 +66,7 @@
      "date": "2026-08-27T09:03:15+00:00",
      "source": "ニコニコニュース",
      "snippet": "【グラッドキューブ】「 AI&nbsp;&nbsp;ニコニコニュース",
-     "summary": "グラッドキューブに関する情報が報じられているにゃが、具体的な内容は記載されていないため、詳細は不明だにゃ。今後の動向に注目したいところだにゃん。"
+     "summary": "グラッドキューブに関する情報が報じられたにゃが、詳細は不明だにゃん。おそらくAI関連の話題が含まれていると思われるにゃ。"
     },
     {
      "type": "news",
@@ -75,7 +75,7 @@
      "date": "2026-08-26T06:00:00+00:00",
      "source": "AGARA紀伊民報",
      "snippet": "ゼロクリック・生成AI時代へ。GLAM、一次情報を軸にメディア戦略を強化&nbsp;&nbsp;AGARA紀伊民報",
-     "summary": "GLAMがゼロクリック・生成AI時代に向けて、一次情報を基にしたメディア戦略を強化しているにゃ。これにより、視聴者にとって価値のある情報提供を目指しているそうだにゃん。"
+     "summary": "GLAMがゼロクリック・生成AI時代に向けて、一次情報を軸にしたメディア戦略を強化しているにゃ。これにより、情報の信頼性を高め、視聴者に価値あるコンテンツを提供することを目指しているそうだにゃん。"
     },
     {
      "type": "news",
@@ -84,7 +84,7 @@
      "date": "2026-08-26T01:22:41+00:00",
      "source": "音楽業界総合情報サイト",
      "snippet": "イレブンラボジャパン、noteで日本語オウンドメディアを開設 音声AIの権利と実務情報を発信&nbsp;&nbsp;音楽業界総合情報サイト",
-     "summary": "イレブンラボジャパンがnoteで日本語のオウンドメディアを開設し、音声AIに関する権利や実務情報を発信することを発表したにゃ。これにより、音声AIに関する知識を広めることを目指しているそうだにゃん。"
+     "summary": "イレブンラボジャパンがnoteで日本語のオウンドメディアを開設し、音声AIに関する権利や実務情報を発信することになったにゃ。このメディアは、音声AIの最新情報を提供することを目的としているそうだにゃん。"
     },
     {
      "type": "news",
@@ -93,7 +93,7 @@
      "date": "2026-08-25T22:44:00+00:00",
      "source": "Koubo",
      "snippet": "ニュースリリース作成講座で記事化を実現、生成AIで速く伝わる広報へ&nbsp;&nbsp;Koubo",
-     "summary": "ニュースリリース作成講座が生成AIを活用し、記事化を実現することで、広報活動の迅速化を図っているにゃ。これにより、情報伝達がスムーズになることが期待されているそうだにゃん。"
+     "summary": "ニュースリリース作成講座が開催され、生成AIを活用して記事化を実現し、広報活動の迅速化を図っているにゃ。この取り組みは、広報担当者が効率的に情報を伝える手助けとなるそうだにゃん。"
     }
    ]
   },
@@ -108,7 +108,7 @@
      "date": "2026-08-30T22:37:22+00:00",
      "source": "政府広報オンライン",
      "snippet": "公金受取口座（令和8年（2026年）8月掲載）&nbsp;&nbsp;政府広報オンライン",
-     "summary": "公金受取口座についての情報が、令和8年（2026年）8月に掲載される予定だにゃ。詳細は政府広報オンラインで確認できるにゃ。"
+     "summary": "公金受取口座に関する情報が令和8年（2026年）8月に掲載される予定だにゃ。政府広報オンラインで詳細が発表されるから、興味がある人はチェックしてみるといいにゃ。"
     },
     {
      "type": "news",
@@ -117,7 +117,7 @@
      "date": "2026-08-29T08:01:04+00:00",
      "source": "Yahoo!ニュース",
      "snippet": "自分たちが住む高松市を盛り上げよう まちづくりを学ぶ中学生がイベント（KSB瀬戸内海放送）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "高松市の中学生たちが、地域の活性化を目指してまちづくりを学ぶイベントを開催したにゃ。自分たちの住む街をより良くするための取り組みが進んでいるそうだにゃん。"
+     "summary": "高松市の中学生たちがまちづくりを学び、地域を盛り上げるためのイベントを開催したにゃ。彼らの活動は地域の活性化に寄与することを目指しているそうだにゃん。"
     },
     {
      "type": "news",
@@ -126,7 +126,7 @@
      "date": "2026-08-29T02:00:36+00:00",
      "source": "千葉テレビ放送",
      "snippet": "観光PRの仕事から、地域の人とつくる食堂へ。 那須塩原市地域おこし協力隊・蛭田結衣さん、任期3年目の現在地&nbsp;&nbsp;千葉テレビ放送",
-     "summary": "那須塩原市の地域おこし協力隊の蛭田結衣さんは、観光PRから地域の人々と共に食堂を運営する活動にシフトしたにゃ。任期3年目を迎え、地域とのつながりを深めているそうだにゃん。"
+     "summary": "那須塩原市の地域おこし協力隊、蛭田結衣さんは観光PRから地域の人々と協力して食堂を運営する活動にシフトしたにゃ。任期3年目を迎え、地域とのつながりを深めているそうだにゃ。"
     },
     {
      "type": "news",
@@ -135,7 +135,7 @@
      "date": "2026-08-28T06:57:27+00:00",
      "source": "千葉テレビ放送",
      "snippet": "テント芝居、見たことありますか？ 旅する劇団、マタヒバチが和歌山にやってくる！&nbsp;&nbsp;千葉テレビ放送",
-     "summary": "旅する劇団「マタヒバチ」が和歌山でテント芝居を行う予定だにゃ。テント芝居は観客との距離が近く、独特の雰囲気を楽しめるイベントだそうだにゃん。"
+     "summary": "旅する劇団マタヒバチが和歌山でテント芝居を上演する予定だにゃ。テント芝居は独特の雰囲気があり、観客に新しい体験を提供することが期待されているにゃん。"
     },
     {
      "type": "news",
@@ -144,7 +144,7 @@
      "date": "2026-08-28T03:09:00+00:00",
      "source": "日テレNEWS NNN",
      "snippet": "【速報】JR松山駅周辺まちづくり 事業協力者に三井不動産、JR四国、伊織の3社 三井不は「ららぽーと」など運営&nbsp;&nbsp;日テレNEWS NNN",
-     "summary": "JR松山駅周辺のまちづくりにおいて、三井不動産、JR四国、伊織の3社が事業協力者として選ばれたにゃ。三井不動産は「ららぽーと」などの運営を行っているそうだにゃん。"
+     "summary": "JR松山駅周辺のまちづくりにおいて、三井不動産、JR四国、伊織の3社が事業協力者として選ばれたにゃ。三井不動産は「ららぽーと」などの運営実績があり、期待が高まるにゃん。"
     }
    ]
   },
@@ -154,21 +154,30 @@
    "items": [
     {
      "type": "news",
+     "title": "日テレが映像制作大手KANAMELの483億円買収で加速させる「地上波一本足打法」からの脱却、世界と競う「開国」のシナリオを幹部激白 - ダイヤモンド・オンライン",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCUFUzRnBzdnowTE1NYWJQeGZ1YlhtRU5nNzIwc0JBNTEzeWpjd0Fra1QyS3ptcFI3VlhjME5JeUNuSXozUGEweHlKU3DSAU9BVV95cUxPVVgwRjJpMWZLZGM3eTlhbU1TbDdGUXJXNmctTkl2MmxGY3JLbnRpN29mUmxZM2dEeEliSDYtSjlCbGhMbjcwcW9GM1NlbTBr?oc=5",
+     "date": "2026-08-30T19:55:00+00:00",
+     "source": "ダイヤモンド・オンライン",
+     "snippet": "日テレが映像制作大手KANAMELの483億円買収で加速させる「地上波一本足打法」からの脱却、世界と競う「開国」のシナリオを幹部激白&nbsp;&nbsp;ダイヤモンド・オンライン",
+     "summary": "日テレは映像制作大手KANAMELを483億円で買収し、地上波一本足打法からの脱却を目指すそうだにゃ。この買収により、日テレは世界市場での競争力を高める「開国」のシナリオを描いているにゃ。幹部はこの戦略の重要性を強調し、今後の展開に期待が寄せられているにゃん。"
+    },
+    {
+     "type": "news",
      "title": "2026年4〜6月期のスタートアップ投資 - 日本経済新聞",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKSzZSTVMyS1JXNVRRM0lfcW9HTnFFMTdDalh5eGk5Y2tZXzhCOXVwdW51Yl9Lb1FFRGxYekUxSnhMR2c3dEc5RnljaW5qMUpPNFpOMU9MbnU5WHV6d2lfSGQzU0pjR0FfbllFcw?oc=5",
      "date": "2026-08-30T17:00:00+00:00",
      "source": "日本経済新聞",
      "snippet": "2026年4〜6月期のスタートアップ投資&nbsp;&nbsp;日本経済新聞",
-     "summary": "2026年4〜6月期のスタートアップ投資について、日本経済新聞が報じているにゃ。具体的な投資額やトレンドは示されていないけれど、スタートアップの成長が期待される時期だと考えられるにゃん。"
+     "summary": "2026年4〜6月期のスタートアップ投資に関する情報は、日本経済新聞で報じられているにゃ。しかし、具体的な内容や投資額については詳細が不明だにゃ。スタートアップ投資の動向は、今後の経済に影響を与える可能性があるため、注目されるにゃん。"
     },
     {
      "type": "news",
-     "title": "英国ミステリー『刑事フォイル』NHK総合で初放送 10月11日スタート、シーズン1・2を全16回で - 秋田魁新報電子版",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IdUNzZkdaMklCRGNMWDBGVS1mMHpodlhiaXpFdWRUQnZ2LUE1WVpGU204YUNSMUtjVGRqeGlMUkFPUGR0Y2xaYTR5QTktTDZaYTJMSzhIWlYyWFp4eV82TkxwRGdWLXpBcmhXSjVOaw?oc=5",
-     "date": "2026-08-29T23:31:40+00:00",
-     "source": "秋田魁新報電子版",
-     "snippet": "英国ミステリー『刑事フォイル』NHK総合で初放送 10月11日スタート、シーズン1・2を全16回で&nbsp;&nbsp;秋田魁新報電子版",
-     "summary": "英国ミステリー『刑事フォイル』がNHK総合で10月11日から初放送されるにゃ。シーズン1と2を全16回で放送予定で、ミステリー好きにはたまらない内容だにゃん。"
+     "title": "山口県 半導体材料の研究開発や人材育成へ新事業 方針固める - NHKニュース",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfS3hLLURONGg3YVVTRzl4WUVsRmVLMW1ISEtyLXVaQTNZQ2lDYUxVWDc4ZEFMZ0VGWW9jaWhOYmVIY1Zud1l2b0JLWk5hY01IYlpyUi1rek4?oc=5",
+     "date": "2026-08-29T10:07:00+00:00",
+     "source": "NHKニュース",
+     "snippet": "山口県 半導体材料の研究開発や人材育成へ新事業 方針固める&nbsp;&nbsp;NHKニュース",
+     "summary": "山口県は半導体材料の研究開発と人材育成に向けた新事業を進める方針を固めたそうだにゃ。これにより、地域の産業振興や技術革新が期待されているにゃん。半導体産業は今後ますます重要になるため、山口県の取り組みは注目されるだにゃ。"
     },
     {
      "type": "news",
@@ -177,16 +186,7 @@
      "date": "2026-08-29T01:17:50+00:00",
      "source": "NHKニュース",
      "snippet": "米の日本製紙子会社の11人死亡事故 タンクの厚み不足指摘&nbsp;&nbsp;NHKニュース",
-     "summary": "アメリカの日本製紙子会社で発生した事故で、11人が死亡したことが報じられているにゃ。事故の原因としてタンクの厚み不足が指摘されており、安全管理の重要性が再認識されるにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "電通総研＜4812＞、伊藤忠商事＜8001＞子会社のTOBを受け入れて非公開化 - ｄメニューニュース",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZjBpaGMySmFOemNmZ2lKcjBIV1JZdlczWkdLSUdBZE8wQnBwUmNFOWtXWUk0N2N3a09KQndwOVg1QzZlbUZHLTFZMmJFM1MwMVg3RXdacHJFZG5mMl9qeUNfOGxGdzhCWjZCNHRrZlYwaUdONjkyX3FVUDdXZWRYYUMzMU92dmfSAYcBQVVfeXFMT2YwaWhjMkphTnpjZmdpSnIwSFdSWXZXM1pHS0lHQWRPMEJwcFJjRTlrV1lJNDdjd2tPSkJ3cDlYNUM2ZW1GRy0xWTJiRTNTMDFYN0V3WnByRWRuZjJfanlDXzhsRnc4Qlo2QjR0a2ZWMGlHTjY5Ml9xVVA3V2VkWGFDMzFPdnZn?oc=5",
-     "date": "2026-08-28T14:12:00+00:00",
-     "source": "ｄメニューニュース",
-     "snippet": "電通総研＜4812＞、伊藤忠商事＜8001＞子会社のTOBを受け入れて非公開化&nbsp;&nbsp;ｄメニューニュース",
-     "summary": "電通総研が伊藤忠商事の子会社によるTOBを受け入れ、非公開化することが決まったにゃ。これにより、電通総研の経営戦略がどのように変わるのか注目されるにゃん。"
+     "summary": "米国の日本製紙子会社で発生した事故で、11人が死亡したことが報じられているにゃ。この事故はタンクの厚み不足が指摘されており、安全管理の重要性が再認識される事態となっているそうだにゃ。詳細な調査が求められるにゃん。"
     },
     {
      "type": "news",
@@ -195,7 +195,7 @@
      "date": "2026-08-28T11:33:00+00:00",
      "source": "Excite エキサイト",
      "snippet": "セーフィー＜4375＞、保険代理店の佐渡島商事を子会社化&nbsp;&nbsp;Excite エキサイト",
-     "summary": "セーフィーが保険代理店の佐渡島商事を子会社化したことが報じられているにゃ。これにより、セーフィーの事業展開がさらに広がることが期待されるにゃん。"
+     "summary": "セーフィーは保険代理店の佐渡島商事を子会社化したことを発表したにゃ。この買収により、セーフィーは保険業界でのプレゼンスを強化し、さらなる成長を目指すそうだにゃん。今後の展開に期待が寄せられているにゃ。"
     }
    ]
   },
@@ -205,12 +205,21 @@
    "items": [
     {
      "type": "news",
+     "title": "画像8 / 12＞国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中！おすすめ展覧会グッズを一挙紹介 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IWmRxNnZqb2ZTWUd1WG1mVGVqbWpPSEJSZVlCdjlzcXJWN2Y5dWZrUkJVcUZEZWtxd3hkQ19sa2duUTEyOHZFcXFBZkhObVpRem9KSm15eTUwUjRJSkRZcGktd1VVYkpsRDVDcGt3?oc=5",
+     "date": "2026-08-30T20:58:34+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "画像8 / 12＞国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中！おすすめ展覧会グッズを一挙紹介&nbsp;&nbsp;ウォーカープラス",
+     "summary": "国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中だにゃ。この展覧会では、日本人の祖先や古代のDNAに関する研究成果が紹介されているにゃ。来場者にはおすすめの展覧会グッズも用意されているので、ぜひチェックしてみてほしいにゃん。"
+    },
+    {
+     "type": "news",
      "title": "＜画像9 / 13＞国立科学博物館の特別展「昆虫」がスタート！見逃したくないポイントはここだ - ウォーカープラス",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5eVhIcm9RaDhUSWwxaC1zWENzbjVkWkhoY3NFSTBJcE9TdEJ1NkQ5YXczbkxFeU9Demc2MndoYmthNG5Pbkhvd0dieU9Na0VjS2Z0bnVsQ0tTSVo0MVFFYkJ2V3M0YmNrRlE?oc=5",
      "date": "2026-08-30T06:21:38+00:00",
      "source": "ウォーカープラス",
      "snippet": "＜画像9 / 13＞国立科学博物館の特別展「昆虫」がスタート！見逃したくないポイントはここだ&nbsp;&nbsp;ウォーカープラス",
-     "summary": "国立科学博物館で特別展「昆虫」が始まったにゃ。この展覧会では、昆虫の多様性や生態について学べるポイントがたくさんあるそうだにゃ。特に、昆虫の標本や生態系の展示が見どころだにゃん。昆虫に興味がある人は、ぜひ訪れてみてほしいにゃ！"
+     "summary": "国立科学博物館で特別展「昆虫」がスタートしたにゃ！この展覧会では、さまざまな昆虫の生態や特徴が紹介されていて、見逃せないポイントがたくさんあるにゃ。昆虫の世界を深く知る良い機会だと思うので、興味がある方はぜひ訪れてみてほしいにゃん。"
     },
     {
      "type": "news",
@@ -219,7 +228,16 @@
      "date": "2026-08-30T06:15:53+00:00",
      "source": "ウォーカープラス",
      "snippet": "＜画像2 / 5＞自宅が国立科学博物館に大変身！3Dビュー&amp;VR映像で常設展示を無料公開&nbsp;&nbsp;ウォーカープラス",
-     "summary": "自宅が国立科学博物館に変身する企画が始まったにゃ。3DビューやVR映像を使って、常設展示を無料で楽しめるそうだにゃ。自宅にいながら博物館の魅力を体験できるチャンスだにゃん。家族や友達と一緒に楽しむのも良いかもしれないにゃ！"
+     "summary": "自宅が国立科学博物館に大変身する企画があるにゃ！3DビューとVR映像を使って、常設展示を無料で公開しているんだにゃ。自宅にいながら博物館の展示を楽しむことができるので、家族や友達と一緒に体験してみるのもいいかもしれないにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "画像3 / 12＞国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中！おすすめ展覧会グッズを一挙紹介 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43UnNXbjg3RUkta3Y0QUFjSUFIek1vMllnbUJPNVBHN2gxYXZkTmkyRHd3TFYzQWRfU21qWWwwT1ZNb0gzakFnOHlrSll6RDZMc0tSUmhWT0xjYUZiREZBWkxrUFJDbmZtZ1NNVE53?oc=5",
+     "date": "2026-08-30T05:19:35+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "画像3 / 12＞国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中！おすすめ展覧会グッズを一挙紹介&nbsp;&nbsp;ウォーカープラス",
+     "summary": "国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中だにゃ。この展覧会では、日本人の祖先や古代のDNAに関する研究成果が紹介されているにゃ。来場者にはおすすめの展覧会グッズも用意されているので、ぜひチェックしてみてほしいにゃん。"
     },
     {
      "type": "news",
@@ -228,25 +246,7 @@
      "date": "2026-08-30T04:53:51+00:00",
      "source": "ウォーカープラス",
      "snippet": "画像4 / 13＞まるで遊園地！体験アトラクションがいっぱいの「バンドー神戸青少年科学館」で遊んで学ぼう&nbsp;&nbsp;ウォーカープラス",
-     "summary": "「バンドー神戸青少年科学館」では、遊園地のような体験アトラクションがたくさん用意されているにゃ。遊びながら学べる仕組みが魅力的で、子どもたちにとって楽しい学びの場になっているそうだにゃ。科学に興味を持つきっかけになるかもしれないにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "画像2 / 3＞国立科学博物館のアンモナイト研究者とコラボ！各種の特徴をわかりやすく表現したアンモナイト型クッキー9種が登場 - ウォーカープラス",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LNUw4a3BGd19zNEFGV3hjbVVpV2VzWm1VdldVcTFGZURUaGdfN2pSVndnMDBWYjNNWTdBSVdyWGZESGVMTXh6RXVscG9CdjBpLUVueEx1MDN0YUw1VnJVMlFtNEhLazBGMTZqZU9R?oc=5",
-     "date": "2026-08-30T04:50:58+00:00",
-     "source": "ウォーカープラス",
-     "snippet": "画像2 / 3＞国立科学博物館のアンモナイト研究者とコラボ！各種の特徴をわかりやすく表現したアンモナイト型クッキー9種が登場&nbsp;&nbsp;ウォーカープラス",
-     "summary": "国立科学博物館のアンモナイト研究者とコラボした、アンモナイト型クッキーが9種類登場したにゃ。各クッキーはアンモナイトの特徴をわかりやすく表現しているそうだにゃ。お菓子を通じて、楽しく学べる機会になるかもしれないにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任 - ウォーカープラス",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yU1d6MTZqYnQwUzVsSW13TDQ5WXZyd3dnMTFGbmZWVDhhV1dYSDQtUWtOSE5Uc09hbmQxRmJTd1UzRDJWVENWd1luWXktWnJjZy1WSlE3YmxLVlpJUnBkWXZ4NXNPcnh1dFE?oc=5",
-     "date": "2026-08-30T03:43:01+00:00",
-     "source": "ウォーカープラス",
-     "snippet": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任&nbsp;&nbsp;ウォーカープラス",
-     "summary": "香川照之さんが国立科学博物館の「昆虫」展のサポーターに就任したにゃ。彼の知識や魅力を活かして、展覧会を盛り上げる役割を果たすそうだにゃ。昆虫に対する理解を深めるための活動が期待されるにゃん。"
+     "summary": "「バンドー神戸青少年科学館」では、遊園地のような体験アトラクションがたくさん用意されているにゃ！遊びながら学ぶことができるので、子どもたちにとって楽しい学びの場になると思うにゃ。家族で訪れて、楽しい時間を過ごしてほしいにゃん。"
     }
    ]
   },
@@ -256,21 +256,12 @@
    "items": [
     {
      "type": "news",
-     "title": "シャープ VRグラス「Xrostella VR1」かんたんかけるVR篇 星井美希 15秒【アイドルマスター】 El Niño–southern Oscillation (qJOo84wys3) - Mshale",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LV09xam84OXZETDlsTzNzcF8wTWx2T0Qtb1YzVzQxcHBMOU5zSFd4cG9hQks0MUNCY0lwXzA0UzNRbm1adlI5Y0YwV3BuSy1mNnhKWk1JeHJGc2s?oc=5",
-     "date": "2026-08-30T14:48:27+00:00",
-     "source": "Mshale",
-     "snippet": "シャープ VRグラス「Xrostella VR1」かんたんかけるVR篇 星井美希 15秒【アイドルマスター】 El Niño–southern Oscillation (qJOo84wys3)&nbsp;&nbsp;Mshale",
-     "summary": "シャープのVRグラス「Xrostella VR1」を紹介する15秒の動画が公開されたにゃ。このグラスは「アイドルマスター」のキャラクター星井美希が登場し、簡単にかけられることをアピールしているそうだにゃ。VR技術の進化を感じさせるアイテムだにゃん。"
-    },
-    {
-     "type": "news",
      "title": "VR体験や竜巻実験なども 親子で防災を学ぶ 名古屋・中区 - TBS NEWS DIG",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96WUs1SFEyQ25lRFQ1WHBYb2dUSFlGRTZySXFPUnkwVFFEUXZkN0dka2RBYW82THBOLVA5R052ckNpd0tGaTBpQVBWSk9POE1VV1hlc3NIMVpyRzhGUUpF?oc=5",
      "date": "2026-08-30T09:54:16+00:00",
      "source": "TBS NEWS DIG",
      "snippet": "VR体験や竜巻実験なども 親子で防災を学ぶ 名古屋・中区&nbsp;&nbsp;TBS NEWS DIG",
-     "summary": "名古屋・中区で親子向けの防災イベントが開催されたにゃ。参加者はVR体験や竜巻実験を通じて、防災について学ぶことができたそうだにゃ。楽しく学べる機会が提供されており、地域の防災意識向上に寄与しているだにゃん。"
+     "summary": "名古屋・中区で親子向けの防災イベントが開催されたにゃ。VR体験や竜巻実験を通じて、子どもたちが楽しみながら防災について学ぶことができる内容だったそうだにゃ。参加者は実際の災害を想定した体験を通じて、備えの重要性を感じることができたにゃん。"
     },
     {
      "type": "news",
@@ -279,7 +270,7 @@
      "date": "2026-08-30T09:51:18+00:00",
      "source": "Mshale",
      "snippet": "超軽量198gのVR体験 シャープが作ったVRゴーグル体験会に参加してきた JkumoのVLOG Vol.2096 Monette Farms Creditor Protection (Ymbp4uMfxS)&nbsp;&nbsp;Mshale",
-     "summary": "シャープが主催したVRゴーグル体験会に参加した様子が紹介されているにゃ。このゴーグルは超軽量の198gで、快適なVR体験を提供することが特徴だそうだにゃ。参加者はその軽さと使いやすさに驚いていたにゃん。"
+     "summary": "シャープが開発した超軽量198gのVRゴーグル体験会に参加したにゃ。参加者はその軽さと快適さに驚き、VR体験を楽しんだそうだにゃ。新しい技術がもたらす体験の幅広さに、期待が高まるイベントだったにゃん。"
     },
     {
      "type": "news",
@@ -288,7 +279,7 @@
      "date": "2026-08-29T10:29:31+00:00",
      "source": "au Webポータル",
      "snippet": "巷で流行りの「VR睡眠」って知ってる？ “V睡”専用のまくらが登場です&nbsp;&nbsp;au Webポータル",
-     "summary": "最近流行している「VR睡眠」に特化した専用のまくらが登場したにゃ。このまくらはVR技術を活用して、より良い睡眠環境を提供することを目的としているそうだにゃ。新しい睡眠体験に興味がある人にはぴったりだにゃん。"
+     "summary": "最近流行している「VR睡眠」に特化したまくらが登場したにゃ。このまくらは、VRを活用してリラックスした睡眠環境を提供することを目的としているそうだにゃ。新しい睡眠のスタイルとして注目されているにゃん。"
     },
     {
      "type": "news",
@@ -297,7 +288,16 @@
      "date": "2026-08-29T08:43:00+00:00",
      "source": "Yahoo!ニュース",
      "snippet": "「鳥になったみたいだった」東尋坊の絶景を上空から満喫 福井駅なのに…現地にいるような臨場感 VR体験会が観光客にも好評&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "福井駅で行われたVR体験会では、東尋坊の絶景を上空から楽しむことができたにゃ。参加者は「鳥になったみたいだった」と感想を述べ、現地にいるような臨場感を味わったそうだにゃ。観光客にも好評で、VRの魅力を再確認できるイベントだったにゃん。"
+     "summary": "福井駅で行われたVR体験会では、東尋坊の絶景を上空から楽しむことができたにゃ。参加者は「鳥になったみたいだった」と感想を述べ、現地にいるような臨場感を味わったそうだにゃ。観光客にも好評だったにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "高島屋「2027年新春 おせち料理」プレス内覧・試食会 / ティフォンが魅せる魔法体験と恐怖のVR【まとめ記事】 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QSGdaOEJJT0lfdzgtUFhkNzR4S2pya3IxVmVfZzV2RjRpVWNjMW9ydmRPeHZ5dXNDMXp0RGtjbUFQcFpXS2tMdnVKQngxaE81UUNwbA?oc=5",
+     "date": "2026-08-29T02:09:16+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "高島屋「2027年新春 おせち料理」プレス内覧・試食会 / ティフォンが魅せる魔法体験と恐怖のVR【まとめ記事】&nbsp;&nbsp;ニコニコニュース",
+     "summary": "高島屋で「2027年新春おせち料理」のプレス内覧・試食会が行われたにゃ。ティフォンが提供する魔法体験や恐怖のVRもあり、参加者は新しい体験を楽しんだそうだにゃ。おせち料理の新たな魅力を発見する機会となったにゃん。"
     }
    ]
   }
