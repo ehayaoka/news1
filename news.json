@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T22:50:03.661992+00:00",
+ "updated": "2026-09-03T00:43:38.094507+00:00",
  "categories": [
   {
    "id": "ai_media",
@@ -12,7 +12,7 @@
      "date": "2026-09-02T15:10:22+00:00",
      "source": "jetro.go.jp",
      "snippet": "中国、物流ネットワークの整備に向けた17項目の取り組みを発表(中国) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
-     "summary": "中国は物流ネットワークの整備に向け、17項目の取り組みを発表したにゃ。これにより、物流の効率化やコスト削減を目指すそうだにゃ。具体的な施策には、インフラの改善やデジタル化の推進が含まれているにゃん。"
+     "summary": "中国は物流ネットワークの整備に向けた17項目の取り組みを発表したにゃ。これにより、物流の効率化やコスト削減を目指しているそうだにゃん。具体的な施策には、インフラの改善やデジタル技術の導入が含まれているにゃ。これにより、国内外の物流がスムーズになることが期待されているだにゃ。"
     },
     {
      "type": "gov",
@@ -21,7 +21,7 @@
      "date": "2026-09-02T14:10:40+00:00",
      "source": "keiba.go.jp",
      "snippet": "出馬表&nbsp;&nbsp;keiba.go.jp",
-     "summary": "出馬表は競馬に関する情報を提供するもので、詳細な内容は記載されていないにゃ。競馬ファンにとって重要な情報源だと思うにゃん。"
+     "summary": "出馬表に関する情報が掲載されているにゃ。詳細はkeiba.go.jpで確認できるそうだにゃ。"
     },
     {
      "type": "gov",
@@ -30,16 +30,34 @@
      "date": "2026-09-02T11:29:13+00:00",
      "source": "jetro.go.jp",
      "snippet": "米軍がイラン攻撃、イランは報復を発表(ヨルダン、米国、イスラエル、イラン) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
-     "summary": "米軍がイランを攻撃し、イランは報復を発表したにゃ。これにより、地域の緊張が高まることが予想されるそうだにゃん。詳細な背景や影響については、今後の報道に注目が必要だにゃ。"
+     "summary": "米軍がイランを攻撃し、イランは報復を発表したにゃ。これにより、地域の緊張が高まっているそうだにゃん。具体的な攻撃内容やイランの反応については、今後の動向が注目されるだにゃ。"
     },
     {
      "type": "news",
-     "title": "HOUSEI、生成AIの導入・定着を支援する「FDE」組織新設 - ニコニコニュース",
+     "title": "HOUSEI、生成AIの導入・定着を支援する「FDE」組織新設 - news.nicovideo.jp",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0telg3ck9JUlBWWjBZV2daUGRxWEpnOUwtM3M5UlEzMVRFNktiZFVmMmVfM2R0eERjWV80YjdheGJvUE80T0IwUXNwZVRnVFVYR1RiNE1rb25MeG52djZNdl9SNUEyaEwtMGxPZUJVeHNwQnNOSzB1MFQwVQ?oc=5",
      "date": "2026-09-02T09:30:25+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "HOUSEI、生成AIの導入・定着を支援する「FDE」組織新設&nbsp;&nbsp;ニコニコニュース",
-     "summary": "HOUSEIが生成AIの導入・定着を支援する新組織「FDE」を設立したにゃ。この組織は、企業や団体が生成AIを効果的に活用できるようサポートすることを目的としているそうだにゃん。"
+     "source": "news.nicovideo.jp",
+     "snippet": "HOUSEI、生成AIの導入・定着を支援する「FDE」組織新設&nbsp;&nbsp;news.nicovideo.jp",
+     "summary": "HOUSEIが生成AIの導入と定着を支援する「FDE」組織を新設したにゃ。この組織は、企業や教育機関における生成AIの活用を促進することを目的としているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "委託業者が無断でAI利用か――ヨルシカ、ライブ映像上映会のチケットサンプル画像が文字化け デザインにも影響 - ITmedia",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GU3RmYVFGckR3d0J1TEtla1pzbmQ2aTNReWg5NUlzSnNGeEdibTBvMGxpQTF4dlZaNFFDckJfZU8tMUx1dWx2YmlCdDdmTnlLeFo5QzJ3WldrdU1CcVdlQkg4MUZnb0c2SGc?oc=5",
+     "date": "2026-09-02T08:49:15+00:00",
+     "source": "ITmedia",
+     "snippet": "委託業者が無断でAI利用か――ヨルシカ、ライブ映像上映会のチケットサンプル画像が文字化け デザインにも影響&nbsp;&nbsp;ITmedia",
+     "summary": "ヨルシカのライブ映像上映会で、委託業者が無断でAIを利用した可能性があるにゃ。その結果、チケットサンプル画像が文字化けし、デザインにも影響が出たそうだにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "「士業×AI」の実務活用に特化した専門メディア「士業のチカラ」を公開 - オリコンニュース",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KMDJic2NDVUZwN0RpQmI3RnMwQlVyXzd3azgycVA1OGhpaHc2SkFIN2tpdlVHaHM4ZDFBRTQ0M04wNWZPNWg2ZVIzUGR5b1RmTnNXVVRnU1c?oc=5",
+     "date": "2026-09-02T05:16:00+00:00",
+     "source": "オリコンニュース",
+     "snippet": "「士業×AI」の実務活用に特化した専門メディア「士業のチカラ」を公開&nbsp;&nbsp;オリコンニュース",
+     "summary": "「士業×AI」に特化した専門メディア「士業のチカラ」が公開されたにゃ。このメディアは、士業におけるAIの実務活用を支援することを目的としているそうだにゃん。"
     },
     {
      "type": "news",
@@ -48,7 +66,7 @@
      "date": "2026-09-02T01:00:02+00:00",
      "source": "PR TIMES",
      "snippet": "国産AIO（LLMO/GEO）分析ツール「DolphinX AIO」が、MCP連携の応答データを最大89%削減。生成AIでの分析・施策設計がスムーズに&nbsp;&nbsp;PR TIMES",
-     "summary": "国産のAIO分析ツール「DolphinX AIO」が、MCP連携の応答データを最大89%削減することに成功したにゃ。これにより、生成AIを用いた分析や施策設計がよりスムーズに行えるようになるそうだにゃん。"
+     "summary": "国産のAIO分析ツール「DolphinX AIO」が、MCP連携の応答データを最大89%削減できることが発表されたにゃ。これにより、生成AIを使った分析や施策設計がスムーズになるそうだにゃん。"
     },
     {
      "type": "news",
@@ -57,43 +75,25 @@
      "date": "2026-09-01T22:00:03+00:00",
      "source": "media-innovation.jp",
      "snippet": "ロイター通信、39年分のニュースアーカイブをSnowflake Marketplaceで AI企業向けに開放&nbsp;&nbsp;media-innovation.jp",
-     "summary": "ロイター通信が39年分のニュースアーカイブをSnowflake MarketplaceでAI企業向けに開放したにゃ。この取り組みは、AI企業が過去のデータを活用しやすくすることを目的としているそうだにゃん。"
+     "summary": "ロイター通信が39年分のニュースアーカイブをSnowflake MarketplaceでAI企業向けに開放したにゃ。これにより、AI企業が過去のニュースデータを活用しやすくなるそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "Google Pics、Workspace顧客とAIサブスクライバーに提供開始 - Unite.AI",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFhDQ1AzbmhUT0had29FWDU5UHZJVTNoaXdWOVZZdWcyWnlObl9JelRTQVZ2eVFpbG8zVnNmTjJ3UXFBUDJNaTF6XzJodFRVdnUzWk1HVlpHUWNxRTBvX0NHWWlXckdqN3ZaaDhtZVhEalRkOEd5eHlqdEdoczVIMXVmYXRzTFdaOGF0RTh3c045dw?oc=5",
-     "date": "2026-09-01T19:37:53+00:00",
-     "source": "Unite.AI",
-     "snippet": "Google Pics、Workspace顧客とAIサブスクライバーに提供開始&nbsp;&nbsp;Unite.AI",
-     "summary": "Google PicsがWorkspace顧客とAIサブスクライバーに提供を開始したにゃ。これにより、ユーザーはAIを活用した新しい機能を利用できるようになるそうだにゃん。"
+     "title": "【9/29（火）無料開催】小学生の約4割が生成AIを利用する時代、家庭はどう向き合う？専門家が「家庭のAIルール10か条」を解説 - news.nicovideo.jp",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQdXVUMEE3RHh0ZmpWdEZ3akh2NlhQaWg0TGpzb1VtRWZ1WEhBa1JJZGM4LTJST2MwbDhfYkFCRmszSlpWWnA1bVItbncwRnhNYnJfV1dveEV1UFoxVkdHM0pGS3NOV2x0OFVRZHpxb2FEUVItdHFGREIxYw?oc=5",
+     "date": "2026-09-01T15:21:25+00:00",
+     "source": "news.nicovideo.jp",
+     "snippet": "【9/29（火）無料開催】小学生の約4割が生成AIを利用する時代、家庭はどう向き合う？専門家が「家庭のAIルール10か条」を解説&nbsp;&nbsp;news.nicovideo.jp",
+     "summary": "小学生の約4割が生成AIを利用する時代に、家庭がどう向き合うかについて専門家が「家庭のAIルール10か条」を解説する無料イベントが開催されるにゃ。家庭でのAI活用の重要性が増しているそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "アイスマイリー、9/16（水）から3日間、「総務・人事・経理Week【東京】」にブース出展 - ニコニコニュース",
+     "title": "アイスマイリー、9/16（水）から3日間、「総務・人事・経理Week【東京】」にブース出展 - news.nicovideo.jp",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QLUp5aXNlLS03QjdGdEFNQTdBOXpTN0otWGJjRUVScHJTZzRYc1BBeTFlQ0o4UWVTRmRmWmE5ZEtORVprTVAzenBBSkxLUHV2N3BDSjRBMVJnWWFPbDdJcDlhVFZVUTNIZFlxTVFiM3lvdVB3NFE?oc=5",
      "date": "2026-09-01T08:45:25+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "アイスマイリー、9/16（水）から3日間、「総務・人事・経理Week【東京】」にブース出展&nbsp;&nbsp;ニコニコニュース",
-     "summary": "アイスマイリーが9月16日から3日間、「総務・人事・経理Week【東京】」にブース出展するにゃ。このイベントでは、企業向けのサービスや製品を紹介する予定だそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "生成AIを「超優秀な部下」としてマネジメント。一生使える「仕事の任せ方」が身につく書籍『AIを部下にする技術』を9月1日に発売 - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iWVJGZmJ3ajlZZUs5aFNmd21taThNd2ktTUExN0pRWV9JVGs1dXY2SjZBZXFiUVcwNGZtRjBOaDZib1ZNS2huLWFsZGQxSlg0eERoMWZuREhHZjRGT3Q4b2hXT0REOEdHNUx3bXduUjU5OXJ4X3l0cFh5aw?oc=5",
-     "date": "2026-09-01T08:30:28+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "生成AIを「超優秀な部下」としてマネジメント。一生使える「仕事の任せ方」が身につく書籍『AIを部下にする技術』を9月1日に発売&nbsp;&nbsp;ニコニコニュース",
-     "summary": "生成AIを「超優秀な部下」としてマネジメントする方法を解説した書籍『AIを部下にする技術』が9月1日に発売されたにゃ。この本では、仕事の任せ方を学べる内容になっているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "【9/29（火）無料開催】小学生の約4割が生成AIを利用する時代、家庭はどう向き合う？専門家が「家庭のAIルール10か条」を解説 - SHIFT AI",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pWWRIWlUtZkV1Nkd5bG5DWE9oQndtWXNMeXMxczlLa01KTnNhc3NvTHRmZm1jMmtRRzdnUTE1YlE0TENXVGpDX1ViZXF2M2FUWmhRWFM3WQ?oc=5",
-     "date": "2026-09-01T06:36:27+00:00",
-     "source": "SHIFT AI",
-     "snippet": "【9/29（火）無料開催】小学生の約4割が生成AIを利用する時代、家庭はどう向き合う？専門家が「家庭のAIルール10か条」を解説&nbsp;&nbsp;SHIFT AI",
-     "summary": "9月29日に無料開催されるイベントでは、小学生の約4割が生成AIを利用している現状について、専門家が「家庭のAIルール10か条」を解説するにゃ。家庭でのAIとの向き合い方が重要だと思うにゃん。"
+     "source": "news.nicovideo.jp",
+     "snippet": "アイスマイリー、9/16（水）から3日間、「総務・人事・経理Week【東京】」にブース出展&nbsp;&nbsp;news.nicovideo.jp",
+     "summary": "アイスマイリーが「総務・人事・経理Week【東京】」にブース出展するにゃ。イベントは9月16日から3日間行われるそうだにゃん。"
     }
    ]
   },
@@ -103,21 +103,21 @@
    "items": [
     {
      "type": "news",
-     "title": "【北海道・札幌市】「SBI MUSIC CIRCUS - ニコニコニュース",
+     "title": "【北海道・札幌市】「SBI MUSIC CIRCUS - news.nicovideo.jp",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tNHdGZDJXTVBHOW02ZG83d0k0MUpVVFd0SnQ3dk1JY2tEWlN0U2NKUWZtY29VYV9OTkdVNTVzZXJlN0lNUVRkMlBXRzY5SWJlWmtlSURSS3BvV3JqSmZBeTJEOXQ2NmI3?oc=5",
      "date": "2026-09-02T20:30:26+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "【北海道・札幌市】「SBI MUSIC CIRCUS&nbsp;&nbsp;ニコニコニュース",
-     "summary": "北海道・札幌市で「SBI MUSIC CIRCUS」が開催されるにゃ。音楽イベントとして多くのアーティストが参加し、地域の活性化を目指す内容だにゃ。詳細はニコニコニュースで確認できるにゃん。"
+     "source": "news.nicovideo.jp",
+     "snippet": "【北海道・札幌市】「SBI MUSIC CIRCUS&nbsp;&nbsp;news.nicovideo.jp",
+     "summary": "北海道・札幌市で「SBI MUSIC CIRCUS」が開催されることが発表されたにゃ。詳細はまだ不明だけど、音楽イベントとして注目されているそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "【北海道・札幌市】「SBI MUSIC CIRCUS HOKKAIDO」北海道放送株式会社（HBC北海道放送）公式メディアパートナー決定のお知らせ - Infoseek",
+     "title": "【北海道・札幌市】「SBI MUSIC CIRCUS HOKKAIDO」北海道放送株式会社（HBC北海道放送）公式メディアパートナー決定のお知らせ - news.infoseek.co.jp",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zcmlwZFluTDF5MmVtcTlNM0h5dDBobFl0cS1adjVzRlBsMk1OOXMwUmxfM3FhbjRTZ1lHZzA5cm9sSnphQk10RmltMG1tUVlJRTh6Z2xJNURRLURCampaMkQxTy1JU1haamhndC1fM3lvZw?oc=5",
      "date": "2026-09-02T18:15:21+00:00",
-     "source": "Infoseek",
-     "snippet": "【北海道・札幌市】「SBI MUSIC CIRCUS HOKKAIDO」北海道放送株式会社（HBC北海道放送）公式メディアパートナー決定のお知らせ&nbsp;&nbsp;Infoseek",
-     "summary": "「SBI MUSIC CIRCUS HOKKAIDO」の公式メディアパートナーとして、北海道放送株式会社（HBC）が決定したにゃ。これにより、イベントの情報発信が強化されるそうだにゃん。詳細はInfoseekで確認できるにゃ。"
+     "source": "news.infoseek.co.jp",
+     "snippet": "【北海道・札幌市】「SBI MUSIC CIRCUS HOKKAIDO」北海道放送株式会社（HBC北海道放送）公式メディアパートナー決定のお知らせ&nbsp;&nbsp;news.infoseek.co.jp",
+     "summary": "「SBI MUSIC CIRCUS HOKKAIDO」が北海道放送株式会社（HBC）との公式メディアパートナーシップを結んだにゃ。これにより、イベントの情報発信が強化される見込みだにゃん。"
     },
     {
      "type": "gov",
@@ -126,16 +126,16 @@
      "date": "2026-09-02T09:54:36+00:00",
      "source": "chisou.go.jp",
      "snippet": "中間支援組織の提案型モデル事業 - 地域未来戦略本部事務局&nbsp;&nbsp;chisou.go.jp",
-     "summary": "中間支援組織による提案型モデル事業が地域未来戦略本部事務局から発表されたにゃ。この取り組みは地域の課題解決を目指し、様々な提案を通じて地域活性化を図るものだにゃん。詳細はchisou.go.jpで見られるにゃ。"
+     "summary": "中間支援組織の提案型モデル事業が地域未来戦略本部事務局から発表されたにゃ。この事業は地域の発展を目指しており、具体的な取り組みが期待されているそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "「スポーツを通じたまちづくり」富山市とグラウジーズが連携協定（北日本放送） - news.yahoo.co.jp",
+     "title": "「スポーツを通じたまちづくり」富山市とグラウジーズが連携協定（北日本放送） - Yahoo!ニュース",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01aDJqVllaLUwta04yTGdxZURndEpPQlB2WVlqRzY5SlowS1FlMTZ2a2loaG5VamJvZk43RmVjaTFkS1ZNOEs1MjAwQmxsajNVZDhHN0tZQ0tielhyX3FSVFhabGdlMWZWOXRyQWUtbzNWWjlSMXQ0RjREeEQ5b1U?oc=5",
      "date": "2026-09-02T07:33:00+00:00",
-     "source": "news.yahoo.co.jp",
-     "snippet": "「スポーツを通じたまちづくり」富山市とグラウジーズが連携協定（北日本放送）&nbsp;&nbsp;news.yahoo.co.jp",
-     "summary": "富山市とプロバスケットボールチームのグラウジーズが連携協定を結んだにゃ。「スポーツを通じたまちづくり」をテーマに、地域の振興を図る取り組みが進められるそうだにゃん。詳細は北日本放送で確認できるにゃ。"
+     "source": "Yahoo!ニュース",
+     "snippet": "「スポーツを通じたまちづくり」富山市とグラウジーズが連携協定（北日本放送）&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "富山市とプロバスケットボールチームのグラウジーズが「スポーツを通じたまちづくり」に関する連携協定を結んだにゃ。この協定により、地域活性化が進むことが期待されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -144,7 +144,7 @@
      "date": "2026-09-02T05:15:03+00:00",
      "source": "千葉テレビ放送",
      "snippet": "秩父地域1市4町で観光まちづくり 「Let’s秩父！」始動&nbsp;&nbsp;千葉テレビ放送",
-     "summary": "秩父地域で観光まちづくりプロジェクト「Let’s秩父！」が始動したにゃ。1市4町が協力し、観光資源を活かした地域振興を目指す内容だにゃん。詳細は千葉テレビ放送で確認できるにゃ。"
+     "summary": "秩父地域の1市4町で観光まちづくりプロジェクト「Let’s秩父！」が始動したにゃ。この取り組みは地域の魅力を引き出し、観光客を呼び込むことを目指しているそうだにゃん。"
     }
    ]
   },
@@ -159,7 +159,7 @@
      "date": "2026-09-02T09:24:44+00:00",
      "source": "nhk.or.jp",
      "snippet": "ケンドーコバヤシさん「計画性のある姿に感心しました」&nbsp;&nbsp;nhk.or.jp",
-     "summary": "ケンドーコバヤシさんが、ある計画的な姿勢に感心したというニュースだにゃ。具体的な内容は記載されていないけれど、彼の感想からは、計画性の重要性が伝わってくるにゃ。"
+     "summary": "ケンドーコバヤシさんが、ある人物の計画性に感心したことを述べた記事だにゃ。具体的な内容は記載されていないが、計画的な行動が評価される様子が伝わってくるにゃ。"
     },
     {
      "type": "news",
@@ -168,7 +168,7 @@
      "date": "2026-09-02T01:51:00+00:00",
      "source": "財経新聞",
      "snippet": "クリーク・アンド・リバー社、子会社ウイングがアジアンドキュメンタリーズと提携――若手制作者を育成&nbsp;&nbsp;財経新聞",
-     "summary": "クリーク・アンド・リバー社の子会社ウイングが、アジアンドキュメンタリーズと提携したことを発表したにゃ。この提携は、若手制作者の育成を目的としているそうだにゃん。"
+     "summary": "クリーク・アンド・リバー社の子会社ウイングが、アジアンドキュメンタリーズと提携したことを発表した記事だにゃ。この提携は若手制作者の育成を目的としており、今後の展開が期待されるにゃん。"
     },
     {
      "type": "news",
@@ -177,16 +177,16 @@
      "date": "2026-09-02T01:45:00+00:00",
      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
      "snippet": "クリーク・アンド・リバー社---子会社ウイング、アジアンドキュメンタリーズと業務提携 提供 Fisco&nbsp;&nbsp;Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-     "summary": "クリーク・アンド・リバー社の子会社ウイングが、アジアンドキュメンタリーズと業務提携を結んだにゃ。この提携は、若手制作者を育成するための取り組みを強化するものだにゃ。"
+     "summary": "クリーク・アンド・リバー社の子会社ウイングが、アジアンドキュメンタリーズと業務提携を結んだことを報じる記事だにゃ。提携の目的は若手制作者の育成で、業界への貢献が期待されるにゃん。"
     },
     {
      "type": "news",
-     "title": "DXでガス配送計画業務2時間→3分に 春日井市の「ニイミ産業」全国の特別賞受賞 - 47news.jp",
+     "title": "DXでガス配送計画業務2時間→3分に 春日井市の「ニイミ産業」全国の特別賞受賞 - 47NEWS",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrMDF0UUlpTW02cmhKSXpUWHJ4MUU2UDAwcmVvN2hLMTg3SVkycE8tMzFva2VLNDRpOG5yNTl2UEhXWkhfV2tBN2lncw?oc=5",
      "date": "2026-09-01T20:05:00+00:00",
-     "source": "47news.jp",
-     "snippet": "DXでガス配送計画業務2時間→3分に 春日井市の「ニイミ産業」全国の特別賞受賞&nbsp;&nbsp;47news.jp",
-     "summary": "春日井市の「ニイミ産業」が、DXを活用してガス配送計画業務の時間を2時間から3分に短縮したことが評価され、全国の特別賞を受賞したそうだにゃ。効率化の成功例だにゃん。"
+     "source": "47NEWS",
+     "snippet": "DXでガス配送計画業務2時間→3分に 春日井市の「ニイミ産業」全国の特別賞受賞&nbsp;&nbsp;47NEWS",
+     "summary": "春日井市の「ニイミ産業」が、DXを活用してガス配送計画業務の時間を2時間から3分に短縮したことが全国の特別賞を受賞したという記事だにゃ。効率化の成功が評価されたにゃん。"
     },
     {
      "type": "news",
@@ -195,7 +195,7 @@
      "date": "2026-09-01T11:06:07+00:00",
      "source": "アットエス",
      "snippet": "モビリティ・スタートアップ「イメイド社」との連携を通じた電動モビリティプロジェクトの活動に関するお知らせ&nbsp;&nbsp;アットエス",
-     "summary": "モビリティ・スタートアップの「イメイド社」と連携し、電動モビリティプロジェクトに関する活動が発表されたにゃ。このプロジェクトは、未来の交通手段を考える重要な取り組みだにゃん。"
+     "summary": "モビリティ・スタートアップ「イメイド社」との連携を通じて、電動モビリティプロジェクトの活動についてのお知らせだにゃ。このプロジェクトは新しいモビリティの可能性を探るものだにゃん。"
     }
    ]
   },
@@ -210,7 +210,7 @@
      "date": "2026-09-02T20:04:50+00:00",
      "source": "iwanichi.co.jp",
      "snippet": "道具に見る養蚕の足跡 農業科学博物館企画展 桑の葉裁断包丁など４０点【北上】&nbsp;&nbsp;iwanichi.co.jp",
-     "summary": "北上の農業科学博物館で開催される企画展「道具に見る養蚕の足跡」では、桑の葉裁断包丁など、養蚕に関連する道具が約40点展示されるにゃ。これらの道具は、養蚕の歴史や技術の進化を示しており、来場者にとって貴重な学びの機会となるだにゃ。"
+     "summary": "農業科学博物館で開催される企画展「道具に見る養蚕の足跡」では、桑の葉裁断包丁など、養蚕に関連する約40点の道具が展示されるにゃ。この展覧会は、養蚕の歴史や文化を知る良い機会だにゃん。北上での開催で、地域の農業の重要性を再認識できる内容になっているそうだにゃ。"
     },
     {
      "type": "news",
@@ -219,7 +219,7 @@
      "date": "2026-09-02T07:22:02+00:00",
      "source": "ウォーカープラス",
      "snippet": "画像3 / 7＞大阪市立自然史博物館の特別展「恐竜の卵 ～恐竜誕生に秘められた謎～」潜入レポート 日本初公開の化石や全身骨格も登場！&nbsp;&nbsp;ウォーカープラス",
-     "summary": "大阪市立自然史博物館で特別展「恐竜の卵 ～恐竜誕生に秘められた謎～」が開催されるにゃ。日本初公開の化石や全身骨格が展示され、恐竜の誕生に関する新たな知見が得られるチャンスだにゃん。来場者は恐竜の神秘に触れることができるそうだにゃ。"
+     "summary": "大阪市立自然史博物館で特別展「恐竜の卵 ～恐竜誕生に秘められた謎～」が開催されるにゃ。この展覧会では、日本初公開の化石や全身骨格が展示され、恐竜の誕生に関する新たな知見が得られるそうだにゃん。来場者は、恐竜の不思議な世界を体験できる貴重な機会だにゃ。"
     },
     {
      "type": "news",
@@ -228,7 +228,7 @@
      "date": "2026-09-02T04:30:01+00:00",
      "source": "PR TIMES",
      "snippet": "2026 秋の企画展「デジタルでみる 東京自然いきもの展」&nbsp;&nbsp;PR TIMES",
-     "summary": "2026年秋に「デジタルでみる 東京自然いきもの展」が企画されるにゃ。この展覧会では、デジタル技術を活用して東京の自然や生き物を紹介する予定だにゃ。新しい形の展示が期待されているそうだにゃん。"
+     "summary": "2026年秋に「デジタルでみる 東京自然いきもの展」が開催される予定だにゃ。この企画展では、デジタル技術を活用して東京の自然や生き物を紹介する内容になるそうだにゃん。新しい形の展示が期待されていて、来場者にとって新たな発見があるかもしれないにゃ。"
     },
     {
      "type": "news",
@@ -237,7 +237,7 @@
      "date": "2026-09-02T01:09:58+00:00",
      "source": "クラウドファンディング - READYFOR",
      "snippet": "「知りたい！」 が生まれる場所の入口をアップデート&nbsp;&nbsp;クラウドファンディング - READYFOR",
-     "summary": "「知りたい！」が生まれる場所の入口をアップデートするプロジェクトがクラウドファンディングで進行中だにゃ。このプロジェクトは、学びの場をより魅力的にするための取り組みで、支援を募っているにゃん。新しい知識の発見が楽しみだにゃ。"
+     "summary": "クラウドファンディングプラットフォーム「READYFOR」で、「知りたい！」が生まれる場所の入口をアップデートするプロジェクトが進行中だにゃ。この取り組みは、学びや探求の場をより魅力的にすることを目指しているそうだにゃん。多くの人々が参加し、知識を深める機会が増えることが期待されているにゃ。"
     },
     {
      "type": "news",
@@ -246,7 +246,7 @@
      "date": "2026-09-01T22:59:34+00:00",
      "source": "ウォーカープラス",
      "snippet": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任&nbsp;&nbsp;ウォーカープラス",
-     "summary": "香川照之さんが国立科学博物館の「昆虫」展のサポーターに就任したにゃ。彼の参加により、昆虫に対する関心を高めることが期待されているそうだにゃん。昆虫の魅力を多くの人に伝える活動が進むだにゃ。"
+     "summary": "国立科学博物館の「昆虫」展に、俳優の香川照之がサポーターとして就任したにゃ。この展覧会では、昆虫の多様性や生態について学ぶことができる内容になるそうだにゃん。香川の参加により、より多くの人々が昆虫の魅力に触れる機会が増えることが期待されているにゃ。"
     }
    ]
   },
@@ -256,12 +256,30 @@
    "items": [
     {
      "type": "news",
-     "title": "大阪・夜の新定番。中之島で定期ナイトクルーズ「OSAKA NIGHTSTREAM」、2026年10月3日（土）グランドスタート！ - ニコニコニュース",
+     "title": "原爆投下を“体験” あすまで 沖縄市役所でＶＲ - 琉球新報デジタル",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XY1c0TDMzbUlhNS1tQ2J2RlpxUS0tSHo4NFpjVTVtSENXZElydkV3YnFnQ2llbzM2UnZ4M2xiTlZENlBucFBISmpvMW5zRXByelJoWmQ5QjF1Q1FOUDVQeg?oc=5",
+     "date": "2026-09-02T20:00:00+00:00",
+     "source": "琉球新報デジタル",
+     "snippet": "原爆投下を“体験” あすまで 沖縄市役所でＶＲ&nbsp;&nbsp;琉球新報デジタル",
+     "summary": "沖縄市役所で、原爆投下をVRで“体験”できるイベントが開催されているにゃ。これは、原爆の悲惨さを伝えるための取り組みで、参加者は仮想現実を通じてその歴史を学ぶことができるんだにゃ。イベントは明日まで行われるそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "大阪・夜の新定番。中之島で定期ナイトクルーズ「OSAKA NIGHTSTREAM」、2026年10月3日（土）グランドスタート！ - news.nicovideo.jp",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41Z09LQV9KTFd0NUQ3LWdhUTlfQ3ZrMHcteHNtOWg5YU1hTXc2MnRhUE9vVXpZRHZwcjZGdmJIVWtwVlk2LUVRS2tJbjdZNWNwZXg4U1RHMllwY0NtZXJnbUxXbHNOOS0t?oc=5",
      "date": "2026-09-02T18:45:24+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "大阪・夜の新定番。中之島で定期ナイトクルーズ「OSAKA NIGHTSTREAM」、2026年10月3日（土）グランドスタート！&nbsp;&nbsp;ニコニコニュース",
-     "summary": "大阪の中之島で、定期ナイトクルーズ「OSAKA NIGHTSTREAM」が2026年10月3日（土）にグランドスタートすることが発表されたにゃ。夜の大阪を楽しむ新しい定番として、多くの人々に親しまれることを目指しているそうだにゃん。詳細は今後の発表を待つ必要があるにゃ。"
+     "source": "news.nicovideo.jp",
+     "snippet": "大阪・夜の新定番。中之島で定期ナイトクルーズ「OSAKA NIGHTSTREAM」、2026年10月3日（土）グランドスタート！&nbsp;&nbsp;news.nicovideo.jp",
+     "summary": "大阪の中之島で、定期ナイトクルーズ「OSAKA NIGHTSTREAM」が2026年10月3日にスタートするにゃ。このクルーズは夜の新しい楽しみ方として、観光客や地元の人々に人気を集めることを目指しているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "＜画像2 / 5＞イオンモール神戸南にVR体験施設「VR ZONE Portal」が国内初登場！ - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TWF9oVWVxdTJqRXRTbGdSZkVIcU5qYWtDMldpeGREUVRSRDlnb3pWd0dZWWJaSEZqcG9YeWx6UW5OdFBDenpYUjFVSVJJN3Y3akh6czlSd0NEcXdrelNscU9BbVVpdFFGT1E?oc=5",
+     "date": "2026-09-02T12:30:07+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "＜画像2 / 5＞イオンモール神戸南にVR体験施設「VR ZONE Portal」が国内初登場！&nbsp;&nbsp;ウォーカープラス",
+     "summary": "イオンモール神戸南に、国内初のVR体験施設「VR ZONE Portal」がオープンしたにゃ。この施設では、さまざまなVRコンテンツを楽しむことができ、訪れる人々に新しい体験を提供することを目的としているそうだにゃん。"
     },
     {
      "type": "news",
@@ -270,34 +288,16 @@
      "date": "2026-09-02T12:04:21+00:00",
      "source": "Vietnam.vn",
      "snippet": "VRゴーグルを装着したダナン市民は、81年前のバディン広場へと「タイムトラベル」を体験した。&nbsp;&nbsp;Vietnam.vn",
-     "summary": "ダナン市民がVRゴーグルを装着し、81年前のバディン広場へ「タイムトラベル」を体験したにゃ。この体験は、歴史を身近に感じることができる新しい試みで、多くの市民に好評だったそうだにゃ。VR技術を活用したこのイベントは、地域の文化や歴史を再認識する機会を提供しているにゃん。"
+     "summary": "ダナン市民がVRゴーグルを装着し、81年前のバディン広場へ「タイムトラベル」を体験したにゃ。この体験は、歴史を身近に感じることができる新しい試みで、多くの市民が参加して楽しんだそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "防災訓練VRに新コンテンツ「地震 市街地編」「津波 津波比較編」を追加 - ニコニコニュース",
+     "title": "防災訓練VRに新コンテンツ「地震 市街地編」「津波 津波比較編」を追加 - news.nicovideo.jp",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSR1NhS25UdGgzd2JjeWktbzljb1NrSXdIa0gyYnpKenBCUnYwWEh1dDRxd2JhU1hzTWZoc3pYdmJXa3dpV2pCNFhfYnM5d0RkZDB4aFNMcThVN0o1eTB1UmhyenpRZVI1UnV2N0lUSm9LdmpEV1dWOHF2VQ?oc=5",
      "date": "2026-09-02T11:30:16+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "防災訓練VRに新コンテンツ「地震 市街地編」「津波 津波比較編」を追加&nbsp;&nbsp;ニコニコニュース",
-     "summary": "防災訓練VRに新たに「地震 市街地編」と「津波 津波比較編」が追加されたにゃ。これにより、よりリアルな体験を通じて防災意識を高めることが期待されているそうだにゃ。新コンテンツは、参加者が実際の災害時にどのように行動すべきかを学ぶ手助けになるだろうにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "あるあるCityに＜没入型VR体験＞オープン ナレーションは人気キャラ声優？【北九州市小倉北区】 - 北九州ノコト",
-     "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9odVowN1ZTNUZNb1ZucF9kYUxIY2lPRmRHWDd4WENycnpUQmhJellaTkFQc2pjWnFSN1QzSkh4X3U?oc=5",
-     "date": "2026-09-01T22:30:50+00:00",
-     "source": "北九州ノコト",
-     "snippet": "あるあるCityに＜没入型VR体験＞オープン ナレーションは人気キャラ声優？【北九州市小倉北区】&nbsp;&nbsp;北九州ノコト",
-     "summary": "北九州市小倉北区のあるあるCityに、没入型VR体験がオープンしたにゃ。人気キャラクターの声優によるナレーションが特徴で、訪れる人々に新しい体験を提供することを目指しているそうだにゃん。VR技術を活用したこの施設は、エンターテインメントとしても注目されているにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "サグラダ・ファミリアの「完成」とは？ガウディVR展ほか気になる美術展の話も┆美術ニュース雑談 Mcdonalds (ilI6eytMRP) - Mshale",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OMVFaSjBFLVZ3TFl4SjBEY2FRZkdZNnM5ZWlXeWhnN2xYMmxzUHhqVkxYQlBVbjBGOGs4ZmtrWGFnMjRmQ1BkUUVjRVlkRGNQQ25oRV9rMU01OW8?oc=5",
-     "date": "2026-09-01T19:33:22+00:00",
-     "source": "Mshale",
-     "snippet": "サグラダ・ファミリアの「完成」とは？ガウディVR展ほか気になる美術展の話も┆美術ニュース雑談 Mcdonalds (ilI6eytMRP)&nbsp;&nbsp;Mshale",
-     "summary": "サグラダ・ファミリアの「完成」についての議論や、ガウディVR展などの美術展に関する情報が紹介されたにゃ。これらの展覧会は、芸術や建築の理解を深める機会を提供しており、多くの人々に関心を持たれているそうだにゃん。美術ニュースとして、今後の展開にも注目が集まっているにゃ。"
+     "source": "news.nicovideo.jp",
+     "snippet": "防災訓練VRに新コンテンツ「地震 市街地編」「津波 津波比較編」を追加&nbsp;&nbsp;news.nicovideo.jp",
+     "summary": "防災訓練用のVRに新しいコンテンツが追加されたにゃ。「地震 市街地編」と「津波 津波比較編」が新たに導入され、よりリアルな防災訓練が可能になるそうだにゃ。これにより、参加者は実際の災害に備えることができるんだにゃん。"
     }
    ]
   }
