@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T22:45:59.459927+00:00",
+ "updated": "2026-09-11T00:35:21.922994+00:00",
  "categories": [
   {
    "id": "ai_media",
@@ -7,12 +7,21 @@
    "items": [
     {
      "type": "news",
+     "title": "生成AI「クロード」が生物兵器開発を手助けする恐れ 関連アカウントを停止 アンソロピック社 - FNNプライムオンライン",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pMzVLb1BnNk1QbzlmRkZsZEMxRXdjM3Y3MzFnWFFweFBlWmx2QzJYRlRlX0ZNM1hoVUlZVy0waV9FQ1VNdWJVbmdlYlQ5UQ?oc=5",
+     "date": "2026-09-10T22:54:00+00:00",
+     "source": "FNNプライムオンライン",
+     "snippet": "生成AI「クロード」が生物兵器開発を手助けする恐れ 関連アカウントを停止 アンソロピック社&nbsp;&nbsp;FNNプライムオンライン",
+     "summary": "生成AI「クロード」が生物兵器の開発を助ける可能性があるとして、関連アカウントが停止されたにゃ。アンソロピック社は、このAIが悪用されるリスクを懸念しているそうだにゃん。特に、生成AIが持つ情報生成能力が、危険な用途に使われることを防ぐための措置だにゃ。"
+    },
+    {
+     "type": "news",
      "title": "災害とフェイク情報 真実まで虚偽と疑わせる生成AIの危うさ - 朝日新聞",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jc1N6Y05uSU5wbGNmeFVxc1p6R25oTUtFRjJQak83RnZjUzdzZ1RRRml4TERFVDFiWHdac3lTc3JWUDN5MHRoNFJHc2c2ZFFFMXdaV0Jza0c3cHFieFpTX0E0SFRsWFk?oc=5",
      "date": "2026-09-10T20:00:00+00:00",
      "source": "朝日新聞",
      "snippet": "災害とフェイク情報 真実まで虚偽と疑わせる生成AIの危うさ&nbsp;&nbsp;朝日新聞",
-     "summary": "災害時に生成AIが作成する情報が真実を疑わせる危険性について語られている記事だにゃ。特に、フェイク情報が広がることで、被災者が正確な情報を得る妨げになる可能性があるそうだにゃん。AIが生成する情報の信頼性をどう確保するかが重要な課題だにゃ。"
+     "summary": "災害時におけるフェイク情報の拡散が、生成AIによってさらに悪化する危険性が指摘されているにゃ。真実を疑わせる情報が生成されることで、混乱が生じる可能性があるそうだにゃん。特に、災害情報の信憑性が損なわれることが懸念されているにゃ。"
     },
     {
      "type": "news",
@@ -21,7 +30,7 @@
      "date": "2026-09-10T16:06:44+00:00",
      "source": "unite.ai",
      "snippet": "ユニバーサル・ミュージック・グループ、ElevenLabsが長期AI音楽契約を締結&nbsp;&nbsp;unite.ai",
-     "summary": "ユニバーサル・ミュージック・グループとElevenLabsがAI音楽に関する長期契約を結んだことが報じられているにゃ。これにより、AIを活用した音楽制作が進むことが期待されているそうだにゃん。音楽業界におけるAIの影響がますます大きくなっていくにゃ。"
+     "summary": "ユニバーサル・ミュージック・グループとElevenLabsが、長期的なAI音楽契約を締結したにゃ。この契約により、AIを活用した音楽制作が進むことが期待されているそうだにゃん。音楽業界におけるAIの影響がますます大きくなるだろうにゃ。"
     },
     {
      "type": "gov",
@@ -30,7 +39,7 @@
      "date": "2026-09-10T07:36:16+00:00",
      "source": "jetro.go.jp",
      "snippet": "WIPO、世界のイノベーションクラスター上位100を先行公表、東京・横浜は2位(世界、日本、スイス) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
-     "summary": "WIPOが発表した世界のイノベーションクラスター上位100において、東京・横浜が2位にランクインしたことが伝えられているにゃ。日本のイノベーション力が国際的に評価されていることを示しているそうだにゃん。今後の発展が楽しみだにゃ。"
+     "summary": "WIPOが発表した世界のイノベーションクラスターのランキングで、東京・横浜が2位に選ばれたにゃ。これは日本のイノベーションの強さを示しているそうだにゃん。特に、技術革新や研究開発が評価された結果だにゃ。"
     },
     {
      "type": "gov",
@@ -39,7 +48,7 @@
      "date": "2026-09-10T07:26:13+00:00",
      "source": "jetro.go.jp",
      "snippet": "第2四半期のGDP成長率は前年同期比マイナス4.7％、10期ぶりのマイナス成長(サウジアラビア) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
-     "summary": "サウジアラビアの第2四半期のGDP成長率が前年同期比でマイナス4.7％となり、10期ぶりのマイナス成長を記録したことが報じられているにゃ。経済の減速が懸念されており、今後の対策が求められる状況だにゃん。"
+     "summary": "サウジアラビアの第2四半期のGDP成長率が前年同期比でマイナス4.7％となり、10期ぶりのマイナス成長を記録したにゃ。この経済的な後退は、さまざまな要因によるものとされているそうだにゃん。経済の回復が期待される中、注視が必要だにゃ。"
     },
     {
      "type": "gov",
@@ -48,7 +57,7 @@
      "date": "2026-09-10T07:16:10+00:00",
      "source": "jetro.go.jp",
      "snippet": "米国とベネズエラのエネルギー協定、ベネズエラの経済学者や野党は批判(中国、米国、ベネズエラ) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
-     "summary": "米国とベネズエラのエネルギー協定に対して、ベネズエラの経済学者や野党が批判していることが伝えられているにゃ。協定の内容や影響についての意見が分かれており、国内外での議論が続いているそうだにゃん。"
+     "summary": "米国とベネズエラのエネルギー協定が発表され、ベネズエラの経済学者や野党から批判を受けているにゃ。この協定は、両国の経済関係に影響を与える可能性があるそうだにゃん。特に、国内の経済状況に対する懸念が強まっているにゃ。"
     },
     {
      "type": "news",
@@ -57,16 +66,16 @@
      "date": "2026-09-10T05:39:06+00:00",
      "source": "digitaltoday.co.kr",
      "snippet": "放送メディア通信委員会、放送現場のAI活用事例を公開&nbsp;&nbsp;digitaltoday.co.kr",
-     "summary": "放送メディア通信委員会が、放送現場でのAI活用事例を公開したことが報じられているにゃ。AI技術が放送業界にどのように役立っているかが具体的に示されており、今後の展開が注目されるにゃん。"
+     "summary": "放送メディア通信委員会が、放送現場でのAI活用事例を公開したにゃ。これにより、AI技術がどのように放送業界に貢献しているかが示されているそうだにゃん。今後の放送の進化に期待が高まるだろうにゃ。"
     },
     {
      "type": "news",
-     "title": "AI音声認識と生成AIを活用したマウスアプリ「AmiVoice トークマウス」に、「テンプレート機能」「ファイル送受信機能」を追加 - PR TIMES",
+     "title": "AI音声認識と生成AIを活用したマウスアプリ「AmiVoice トークマウス」に、「テンプレート機能」「ファイル送受信機能」を追加 - prtimes.jp",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTWURsaS00RUJib3ZVVjBpdFZndlFXbHNYUkRmZjRSb2NNd1d2bGxMaldMMHVGUjQ1ZmtManhoRHc1LTBXMm1MMUg2Nzd0RlBUa0tBcWlrYnpPTUt6RjFDTHlmdTR1bDRiM1E?oc=5",
      "date": "2026-09-10T02:00:02+00:00",
-     "source": "PR TIMES",
-     "snippet": "AI音声認識と生成AIを活用したマウスアプリ「AmiVoice トークマウス」に、「テンプレート機能」「ファイル送受信機能」を追加&nbsp;&nbsp;PR TIMES",
-     "summary": "AI音声認識と生成AIを活用したマウスアプリ「AmiVoice トークマウス」に新機能が追加されたことが発表されたにゃ。テンプレート機能やファイル送受信機能が加わり、使い勝手が向上したそうだにゃん。これにより、より便利なコミュニケーションが可能になるにゃ。"
+     "source": "prtimes.jp",
+     "snippet": "AI音声認識と生成AIを活用したマウスアプリ「AmiVoice トークマウス」に、「テンプレート機能」「ファイル送受信機能」を追加&nbsp;&nbsp;prtimes.jp",
+     "summary": "AI音声認識と生成AIを活用したマウスアプリ「AmiVoice トークマウス」に、新たに「テンプレート機能」と「ファイル送受信機能」が追加されたにゃ。これにより、ユーザーの利便性が向上することが期待されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -75,25 +84,16 @@
      "date": "2026-09-09T04:32:59+00:00",
      "source": "artscape.jp",
      "snippet": "塚田優｜生成AIという人工プラトン主義のゆくえ──レフ・マノヴィッチ、エマニュエーレ・アリエッリ『人工美学 生成AI・アート・ビジュアルメディア』／前編&nbsp;&nbsp;artscape.jp",
-     "summary": "生成AIと人工プラトン主義についての考察が行われている記事だにゃ。レフ・マノヴィッチとエマニュエーレ・アリエッリの著作をもとに、生成AIがアートやビジュアルメディアに与える影響について探求しているそうだにゃん。"
+     "summary": "塚田優氏が、生成AIに関する考察を行っているにゃ。レフ・マノヴィッチとエマニュエーレ・アリエッリの著作『人工美学 生成AI・アート・ビジュアルメディア』を基に、生成AIの影響について論じているそうだにゃん。アートやメディアの未来に関する重要な視点が提供されているにゃ。"
     },
     {
      "type": "news",
-     "title": "生成AIツール比較表Excelも、AI導入 稟議書ひな形も、ぜんぶ無料で持ち帰れる — 法人の生成AI導入の“判断材料”に特化したメディア「AISAKUマガジン」開設 - PR TIMES",
+     "title": "生成AIツール比較表Excelも、AI導入 稟議書ひな形も、ぜんぶ無料で持ち帰れる — 法人の生成AI導入の“判断材料”に特化したメディア「AISAKUマガジン」開設 - prtimes.jp",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kQ1NmcTRTOEhCdXR3WXJURnI1eExPUXdDTlFHWG4wdWlJQ1F6bFBLSTFiemxyOVpqWVV0NGlMdFRlTVpmT3BSdzJJcFhtLVlxTXJ0dlU3Und3Y2ZVaGlsQ2FmOUFoUmpDSEE?oc=5",
      "date": "2026-09-09T01:54:43+00:00",
-     "source": "PR TIMES",
-     "snippet": "生成AIツール比較表Excelも、AI導入 稟議書ひな形も、ぜんぶ無料で持ち帰れる — 法人の生成AI導入の“判断材料”に特化したメディア「AISAKUマガジン」開設&nbsp;&nbsp;PR TIMES",
-     "summary": "法人向けに生成AI導入の判断材料を提供するメディア「AISAKUマガジン」が開設されたことが報じられているにゃ。生成AIツールの比較表や稟議書ひな形などが無料で提供され、企業のAI導入を支援する内容だにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "【AI×マーケティング】“攻めのAI活用へ”。ビジネスパーソンを魅了するAIGC（AI-Generated - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kcWNjenllYzNqQ1ZnejdvRGJObzViT2lfX1lqYlhaYjBNZmZLd0ZhenM0cm9aTjZxQko5OUswYUUwZVJoWVo0amtWZTVBNGlZYUZBNnhWa0lvZGZ0RWFheXdTSGFwUQ?oc=5",
-     "date": "2026-09-09T01:18:31+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "【AI×マーケティング】“攻めのAI活用へ”。ビジネスパーソンを魅了するAIGC（AI-Generated&nbsp;&nbsp;ニコニコニュース",
-     "summary": "AIとマーケティングの融合について、攻めのAI活用が求められていることが伝えられているにゃ。ビジネスパーソンにとって魅力的なAIGC（AI-Generated Content）の活用が進む中、企業の戦略におけるAIの重要性が増しているそうだにゃん。"
+     "source": "prtimes.jp",
+     "snippet": "生成AIツール比較表Excelも、AI導入 稟議書ひな形も、ぜんぶ無料で持ち帰れる — 法人の生成AI導入の“判断材料”に特化したメディア「AISAKUマガジン」開設&nbsp;&nbsp;prtimes.jp",
+     "summary": "法人向けの生成AI導入に特化したメディア「AISAKUマガジン」が開設されたにゃ。ここでは、生成AIツールの比較表や導入に関する稟議書のひな形が無料で提供されるそうだにゃん。企業がAIを導入する際の判断材料として役立つだろうにゃ。"
     }
    ]
   },
@@ -108,7 +108,7 @@
      "date": "2026-09-10T20:00:16+00:00",
      "source": "ニコニコニュース",
      "snippet": "おダシ屋インビジョン株式会社、株式会社福井新聞社と業務提携のお知らせ！&nbsp;&nbsp;ニコニコニュース",
-     "summary": "おダシ屋インビジョン株式会社が株式会社福井新聞社と業務提携を結んだことを発表したにゃ。この提携により、両社は新たなビジネスチャンスを創出し、地域の情報発信やサービス向上を目指すそうだにゃん。詳細は今後の発表を待つ必要があるにゃ。"
+     "summary": "おダシ屋インビジョン株式会社が株式会社福井新聞社と業務提携を結んだことを発表したにゃ。この提携により、両社は新たなビジネスチャンスを創出し、地域の情報発信やサービス向上を目指すそうだにゃん。今後の展開に期待が高まるにゃ。"
     },
     {
      "type": "gov",
@@ -117,7 +117,7 @@
      "date": "2026-09-10T15:11:15+00:00",
      "source": "kunaicho.go.jp",
      "snippet": "秋篠宮皇嗣妃殿下お誕生日に際し（令和8年）&nbsp;&nbsp;kunaicho.go.jp",
-     "summary": "秋篠宮皇嗣妃殿下のお誕生日に際して、公式に祝意が表明されたにゃ。令和8年のこの特別な日を迎え、皇嗣妃殿下の健康と幸せが祈られているそうだにゃ。今後も皇室の活動に注目が集まるだろうにゃん。"
+     "summary": "秋篠宮皇嗣妃殿下の誕生日に際して、公式なメッセージが発表されたにゃ。令和8年における祝福の言葉が綴られ、皇室の重要な行事として位置づけられているそうだにゃ。詳細は公式サイトで確認できるにゃん。"
     },
     {
      "type": "news",
@@ -126,7 +126,7 @@
      "date": "2026-09-10T10:58:13+00:00",
      "source": "千葉テレビ放送株式会社",
      "snippet": "観光だけでは見えてこない徳島へ。4社の経営者に聞く、地域の暮らしと仕事｜地域の仕事“ホンネ”サロン #13 徳島県編&nbsp;&nbsp;千葉テレビ放送株式会社",
-     "summary": "徳島県における地域の暮らしと仕事について、4社の経営者が語るインタビューが行われたにゃ。観光だけでは見えない地域の実情や課題が浮き彫りになり、経営者たちの視点から地域活性化のヒントが得られる内容となっているそうだにゃん。"
+     "summary": "徳島県の地域の暮らしと仕事について、4社の経営者にインタビューを行ったにゃ。観光だけでは見えない地域の実情や課題が語られ、地元の活性化に向けた取り組みが紹介されているそうだにゃん。地域の魅力を再発見する機会だにゃ。"
     },
     {
      "type": "news",
@@ -135,7 +135,7 @@
      "date": "2026-09-10T05:09:49+00:00",
      "source": "電波タイムズ",
      "snippet": "日本ケーブルテレビ連盟、「脱炭素チャレンジカップ2027」後援&nbsp;&nbsp;電波タイムズ",
-     "summary": "日本ケーブルテレビ連盟が「脱炭素チャレンジカップ2027」を後援することを発表したにゃ。この大会は、脱炭素社会の実現に向けた取り組みを促進することを目的としており、参加者の意識向上が期待されているそうだにゃん。"
+     "summary": "日本ケーブルテレビ連盟が「脱炭素チャレンジカップ2027」を後援することを発表したにゃ。この大会は、脱炭素社会の実現に向けた取り組みを促進することを目的としており、参加者の意識向上を図るそうだにゃん。環境問題への関心が高まる中、注目されるイベントだにゃ。"
     },
     {
      "type": "news",
@@ -144,7 +144,7 @@
      "date": "2026-09-09T09:15:00+00:00",
      "source": "Yahoo!ニュース",
      "snippet": "課題山積の秋田市…外旭川地区のまちづくり事業→年間来場者数の見通しが焦点に 新スタジアム整備→沼谷市長“Jリーグの施設基準の見直しの必要性”を強調（ABS秋田放送）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "秋田市の外旭川地区におけるまちづくり事業が課題を抱えているにゃ。新スタジアムの整備に関して、沼谷市長はJリーグの施設基準の見直しが必要だと強調しているそうだにゃん。年間来場者数の見通しも焦点となっているにゃ。"
+     "summary": "秋田市の外旭川地区でのまちづくり事業が課題を抱えているにゃ。新スタジアム整備に関して、沼谷市長はJリーグの施設基準見直しの必要性を強調したそうだにゃ。年間来場者数の見通しが焦点となっており、地域振興に向けた議論が続いているにゃん。"
     }
    ]
   },
@@ -156,10 +156,10 @@
      "type": "news",
      "title": "ＮＨＫが受信料滞納ホテルを提訴、事業者への民事訴訟は今年３件目 - ライブドアニュース",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SR2dnd0hTV0h0M2oyZ0NzVjJWeDdiZEs5cU5fdjV1XzhGRWdqN0hsX0NDRnJuOTlSMGhPMlo1YVFmbldmQ0NFWl9jc196MVJOWHIwc0hRN2hnbDdqUFdz?oc=5",
-     "date": "2026-09-10T22:19:00+00:00",
+     "date": "2026-09-10T23:20:17+00:00",
      "source": "ライブドアニュース",
      "snippet": "ＮＨＫが受信料滞納ホテルを提訴、事業者への民事訴訟は今年３件目&nbsp;&nbsp;ライブドアニュース",
-     "summary": "ＮＨＫは受信料を滞納しているホテルを提訴したにゃ。この訴訟は、今年に入ってから事業者に対する民事訴訟としては3件目だにゃ。受信料の未払い問題は、公共放送としての運営に影響を与えるため、厳しい対応を取ることが求められているにゃん。"
+     "summary": "ＮＨＫが受信料を滞納しているホテルに対して民事訴訟を起こしたにゃ。この訴訟は今年3件目で、受信料の未払い問題が続いていることを示しているにゃ。受信料の支払いを巡るトラブルが増加している中、ＮＨＫは法的手段を取ることで、未払いの解消を図ろうとしているそうだにゃん。"
     },
     {
      "type": "news",
@@ -168,16 +168,25 @@
      "date": "2026-09-10T13:09:00+00:00",
      "source": "Excite エキサイト",
      "snippet": "ジェリービーンズグループ＜3070＞、エスニック衣料・雑貨のチチカカを子会社化&nbsp;&nbsp;Excite エキサイト",
-     "summary": "ジェリービーンズグループがエスニック衣料・雑貨のチチカカを子会社化したにゃ。これにより、同グループは多様な商品ラインを強化し、さらなる成長を目指す方針だにゃん。チチカカのブランド力を活かして、国内外での展開を進めることが期待されているにゃ。"
+     "summary": "ジェリービーンズグループがエスニック衣料や雑貨を扱うチチカカを子会社化したにゃ。この買収により、ジェリービーンズグループは新たな市場に進出し、事業の多角化を目指すことになるにゃ。チチカカのブランド力を活かし、さらなる成長を期待しているそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "日産 稼働率低迷の栃木工場に福岡から生産車種の一部移管へ - NHKニュース",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RMF85NTFUUTZBOGhNbUZKMkM4M19qcy1QaF9veHZrclI0SHRVQkJ1MVZqSjBBNVZuYVdGeWd0UTVyN3NocnpZX1dienpGQVhrdjM0eEdsQXJkWDBBaDJJ?oc=5",
-     "date": "2026-09-10T12:40:00+00:00",
+     "title": "パンサー尾形の８歳娘さくちゃん、モデルデビューを発表「天真爛漫なキャラクターが魅力」 - news.infoseek.co.jp",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zNlJOcXl3THN2ZHU5bWVLeG9Va1FmV2I0SlZIQndDMk5fZ1lLYW1iSDM4Z2MtZ1RyOENZLU5FUklZRWFtYUUxMVE0QWJtbzF3a1BOSGpfcXBuUHh4V2hBYnlmcU1kcTlZdWZjVk1Ic0VtR2o4U0loVNIBeEFVX3lxTE5zNlJOcXl3THN2ZHU5bWVLeG9Va1FmV2I0SlZIQndDMk5fZ1lLYW1iSDM4Z2MtZ1RyOENZLU5FUklZRWFtYUUxMVE0QWJtbzF3a1BOSGpfcXBuUHh4V2hBYnlmcU1kcTlZdWZjVk1Ic0VtR2o4U0loVA?oc=5",
+     "date": "2026-09-10T11:13:26+00:00",
+     "source": "news.infoseek.co.jp",
+     "snippet": "パンサー尾形の８歳娘さくちゃん、モデルデビューを発表「天真爛漫なキャラクターが魅力」&nbsp;&nbsp;news.infoseek.co.jp",
+     "summary": "パンサー尾形の8歳の娘、さくちゃんがモデルデビューを果たすことを発表したにゃ。彼女の天真爛漫なキャラクターが魅力とされ、多くの注目を集めているそうだにゃ。さくちゃんの活躍が今後楽しみだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "仙台 約４０００億円規模のＡＩ向けデータセンター整備計画 - NHKニュース",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmVXJ6WTNhVXNZbDhmMU9MdjBuNTJrdVllZHJGeFlaaVRNSU5NM0FNaC1lSW5FV3JsZlFCMHR1VFFtR2c4OWE2Z2hTY2FOTFNfUDA5WDBKMUk?oc=5",
+     "date": "2026-09-10T06:18:00+00:00",
      "source": "NHKニュース",
-     "snippet": "日産 稼働率低迷の栃木工場に福岡から生産車種の一部移管へ&nbsp;&nbsp;NHKニュース",
-     "summary": "日産は栃木工場の稼働率が低迷しているため、福岡から生産車種の一部を移管することを決定したにゃ。これにより、効率的な生産体制を構築し、工場の稼働率向上を図る狙いがあるにゃん。自動車業界の競争が激化する中で、柔軟な対応が求められているにゃ。"
+     "snippet": "仙台 約４０００億円規模のＡＩ向けデータセンター整備計画&nbsp;&nbsp;NHKニュース",
+     "summary": "仙台市で約4000億円規模のAI向けデータセンター整備計画が進行中だにゃ。このプロジェクトは、AI技術の発展に寄与することを目的としており、地域経済の活性化にもつながると期待されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -186,16 +195,7 @@
      "date": "2026-09-10T05:31:00+00:00",
      "source": "NHKニュース",
      "snippet": "１０月盛岡で開催のスタートアップ国際会議 プログラム決まる&nbsp;&nbsp;NHKニュース",
-     "summary": "10月に盛岡で開催されるスタートアップ国際会議のプログラムが決定したにゃ。この会議では、起業家や投資家が集まり、最新のビジネスアイデアや技術について議論する予定だにゃん。地域の活性化や新たなビジネスチャンスの創出が期待されているにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "【静岡市 ×静岡新聞社 ×eiicon】静岡市が抱える社会課題の解決を目指す 知・地域共創コンテスト「UNITE」一次審査通過11チームが決定！11月11日（水）開催 二次審査会の観覧者を募集します。 - Infoseek",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zWHluMkVuUVRrUmt4NXZ1aXJtOUk0WU5sZ3BPN2ZvS2s3dWdmNk02Z1RhTGxHMlcyVlJ5dHZYNjRTTERPYXNaWHBjVF96YW1jYlJwVXdkWFBjajAwcWREQlpTa1pRSGgxZW1rdk1uckJnUQ?oc=5",
-     "date": "2026-09-10T02:45:23+00:00",
-     "source": "Infoseek",
-     "snippet": "【静岡市 ×静岡新聞社 ×eiicon】静岡市が抱える社会課題の解決を目指す 知・地域共創コンテスト「UNITE」一次審査通過11チームが決定！11月11日（水）開催 二次審査会の観覧者を募集します。&nbsp;&nbsp;Infoseek",
-     "summary": "静岡市は社会課題の解決を目指す知・地域共創コンテスト「UNITE」の一次審査を通過した11チームを発表したにゃ。二次審査会は11月11日に開催され、観覧者を募集しているにゃん。地域の課題解決に向けた取り組みが進むことが期待されているにゃ。"
+     "summary": "10月に盛岡で開催されるスタートアップ国際会議のプログラムが決定したにゃ。この会議では、スタートアップ企業の最新情報や技術が共有され、参加者同士のネットワーキングが促進される予定だにゃ。地域のスタートアップ支援にも寄与することが期待されているそうだにゃん。"
     }
    ]
   },
@@ -210,7 +210,7 @@
      "date": "2026-09-10T21:30:00+00:00",
      "source": "京都新聞デジタル",
      "snippet": "京都市の総合地球環境学研究所が「地球の未来」問う企画展 東京の国立科学博物館と企画&nbsp;&nbsp;京都新聞デジタル",
-     "summary": "京都市の総合地球環境学研究所が、東京の国立科学博物館と共同で「地球の未来」をテーマにした企画展を開催するにゃ。この展覧会では、地球環境に関するさまざまな問題を考える機会が提供されるそうだにゃ。来場者は、環境問題についての理解を深めることができるにゃん。"
+     "summary": "京都市の総合地球環境学研究所が、東京の国立科学博物館と共同で「地球の未来」をテーマにした企画展を開催するにゃ。この展覧会では、地球環境に関するさまざまな問題を考える機会が提供されるそうだにゃ。来場者は、地球の未来についての理解を深めることができるにゃん。"
     },
     {
      "type": "news",
@@ -219,34 +219,34 @@
      "date": "2026-09-10T21:00:42+00:00",
      "source": "ニコニコニュース",
      "snippet": "【静岡県】小学生19名が光とレンズのふしぎを解明！静岡科学館る・く・るにて「メガネ教授の魔法研究所」を初開催&nbsp;&nbsp;ニコニコニュース",
-     "summary": "静岡科学館る・く・るで、小学生19名が「メガネ教授の魔法研究所」を初開催したにゃ。このイベントでは、光とレンズの不思議を学びながら、実験や体験を通じて科学の楽しさを体感することができるそうだにゃ。子どもたちの好奇心が刺激される素敵な企画だにゃん。"
+     "summary": "静岡県の静岡科学館る・く・るで、小学生19名が「メガネ教授の魔法研究所」を初開催したにゃ。このイベントでは、光とレンズの不思議について学び、実験を通じて楽しみながら理解を深めることができたそうだにゃ。子どもたちの好奇心が育まれる良い機会だったにゃん。"
     },
     {
      "type": "news",
-     "title": "10月15日は「化石の日」！大阪市立自然史博物館でテーマ展示「化石を楽しむ2026」を開催します - PR TIMES",
+     "title": "10月15日は「化石の日」！大阪市立自然史博物館でテーマ展示「化石を楽しむ2026」を開催します - prtimes.jp",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43NGZXYnFZdTBiNjhYT0JIaEw3QWM2YVV1NS1OUHY0cXRzYlFFWElrdG16RVhpX2x1bFZzbW95S09oaGU5U0JRNElBQk01RE9HZlZmWHA3SHVFRGJ1cFJVY1NyLTNTUHdsWGc?oc=5",
      "date": "2026-09-10T05:30:07+00:00",
-     "source": "PR TIMES",
-     "snippet": "10月15日は「化石の日」！大阪市立自然史博物館でテーマ展示「化石を楽しむ2026」を開催します&nbsp;&nbsp;PR TIMES",
-     "summary": "10月15日は「化石の日」で、大阪市立自然史博物館で「化石を楽しむ2026」というテーマ展示が行われるにゃ。この展示では、化石の魅力を伝えるさまざまな展示物が用意されているそうだにゃ。化石に興味がある人には、ぜひ訪れてほしいイベントだにゃん。"
+     "source": "prtimes.jp",
+     "snippet": "10月15日は「化石の日」！大阪市立自然史博物館でテーマ展示「化石を楽しむ2026」を開催します&nbsp;&nbsp;prtimes.jp",
+     "summary": "10月15日は「化石の日」にゃ！大阪市立自然史博物館では、テーマ展示「化石を楽しむ2026」を開催するそうだにゃ。この展示では、さまざまな化石に関する情報や魅力を紹介し、訪れる人々に化石の楽しさを伝えることを目的としているにゃん。"
     },
     {
      "type": "news",
-     "title": "画像2 / 3＞国立科学博物館のアンモナイト研究者とコラボ！各種の特徴をわかりやすく表現したアンモナイト型クッキー9種が登場 - walkerplus.com",
+     "title": "画像2 / 3＞国立科学博物館のアンモナイト研究者とコラボ！各種の特徴をわかりやすく表現したアンモナイト型クッキー9種が登場 - ウォーカープラス",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LNUw4a3BGd19zNEFGV3hjbVVpV2VzWm1VdldVcTFGZURUaGdfN2pSVndnMDBWYjNNWTdBSVdyWGZESGVMTXh6RXVscG9CdjBpLUVueEx1MDN0YUw1VnJVMlFtNEhLazBGMTZqZU9R?oc=5",
      "date": "2026-09-09T04:35:51+00:00",
-     "source": "walkerplus.com",
-     "snippet": "画像2 / 3＞国立科学博物館のアンモナイト研究者とコラボ！各種の特徴をわかりやすく表現したアンモナイト型クッキー9種が登場&nbsp;&nbsp;walkerplus.com",
-     "summary": "国立科学博物館のアンモナイト研究者とコラボして、アンモナイト型のクッキーが9種類登場したにゃ。これらのクッキーは、各種の特徴をわかりやすく表現しているそうだにゃ。お菓子を通じて、楽しくアンモナイトについて学べる機会だにゃん。"
+     "source": "ウォーカープラス",
+     "snippet": "画像2 / 3＞国立科学博物館のアンモナイト研究者とコラボ！各種の特徴をわかりやすく表現したアンモナイト型クッキー9種が登場&nbsp;&nbsp;ウォーカープラス",
+     "summary": "国立科学博物館のアンモナイト研究者とコラボして、アンモナイト型クッキーが9種類登場したにゃ！それぞれのクッキーは、アンモナイトの特徴をわかりやすく表現しているそうだにゃ。お菓子を通じて、楽しく学べる機会になっているにゃん。"
     },
     {
      "type": "news",
-     "title": "2026大阪大学共創DAY@EXPOCITYにて、培養肉の展示を行います - クラウドファンディング - READYFOR",
+     "title": "2026大阪大学共創DAY@EXPOCITYにて、培養肉の展示を行います - readyfor.jp",
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JMF9xeHNaV01KZXRqcDd3bXlSVGNzaVhYdkhfMDNPU1ZMdUR0eWx1dW9zdER4QndhWDdjWU5jMWFkcmtJVXRMU1hUUUJ6VFV1TUdZYTFpNWlBVGl6MUVOSWk5VGNqek1GOVd1WTZKVUI?oc=5",
      "date": "2026-09-09T01:47:05+00:00",
-     "source": "クラウドファンディング - READYFOR",
-     "snippet": "2026大阪大学共創DAY@EXPOCITYにて、培養肉の展示を行います&nbsp;&nbsp;クラウドファンディング - READYFOR",
-     "summary": "2026年に大阪大学共創DAYがEXPOCITYで開催され、培養肉の展示が行われるにゃ。この展示では、未来の食に関する新しい技術や可能性について紹介されるそうだにゃ。食の未来に興味がある人には、見逃せないイベントだにゃん。"
+     "source": "readyfor.jp",
+     "snippet": "2026大阪大学共創DAY@EXPOCITYにて、培養肉の展示を行います&nbsp;&nbsp;readyfor.jp",
+     "summary": "2026年に大阪大学共創DAYがEXPOCITYで開催され、培養肉の展示が行われるにゃ。この展示では、培養肉の技術やその可能性についての情報が提供されるそうだにゃ。未来の食文化を考える良い機会になるにゃん。"
     }
    ]
   },
@@ -256,12 +256,39 @@
    "items": [
     {
      "type": "news",
+     "title": "横須賀でバーチャル宇宙体験フェス10/4…VR・ARで宇宙へ - newscafe.ne.jp",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01U3JaQ09wMFhpNUY5WDN2UktGQ19xUUFoekdFUnkwSU1DTVR1R205UFRXT2ZnYnVkVmdEVTlBZFRZUXc5YTdMMFBfZlhfazNvRndndTBxNkpkVEF6TDNXbXRhaVlTYkM3MlE?oc=5",
+     "date": "2026-09-11T00:30:30+00:00",
+     "source": "newscafe.ne.jp",
+     "snippet": "横須賀でバーチャル宇宙体験フェス10/4…VR・ARで宇宙へ&nbsp;&nbsp;newscafe.ne.jp",
+     "summary": "横須賀で10月4日にバーチャル宇宙体験フェスが開催されるにゃ。VRやAR技術を使って、参加者は宇宙の冒険を体験できるそうだにゃ。さまざまな宇宙関連のアクティビティが用意されているみたいだにゃん。興味がある人はぜひ参加してみてほしいにゃ！"
+    },
+    {
+     "type": "news",
+     "title": "「最先端技術」集結！ロボ操縦やVR体験 会津若松・アピオスペース:地域ニュース - 福島民友新聞社",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HRndsVm80b3BrNFdPeEwxd1Q4bmlkM21fLWQ0ZHotekg4R2ROd01HT0J3T0pUd3V5Y2ZJUDV1ZU9ZS2pPc2hNSXVTUEpvSFFxUk01SldmM1hKSVhyOC1sRG41UUxCUnlj?oc=5",
+     "date": "2026-09-11T00:00:00+00:00",
+     "source": "福島民友新聞社",
+     "snippet": "「最先端技術」集結！ロボ操縦やVR体験 会津若松・アピオスペース:地域ニュース&nbsp;&nbsp;福島民友新聞社",
+     "summary": "会津若松のアピオスペースで、最先端技術を駆使したロボ操縦やVR体験が行われるにゃ。地域の人々が最新の技術に触れられる機会となっているそうだにゃ。楽しみながら学べるイベントになっているみたいだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "日本のイマーシブエンターテインメント市場：VR、ミックスドリアリティ、ゲーミング・ロケーションベース体験が新たな成長機会を創出 - ドリームニュース",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10aWF1TGR6NEdaWk9qMTFXUXZnVGZRYVZVOHVlUGMxMnVkNUE3b2VSNm9HV0tpRlVjOG12RTFlVnc0WE9SbVVaYTdyWFVteUJfdkhj?oc=5",
+     "date": "2026-09-11T00:00:00+00:00",
+     "source": "ドリームニュース",
+     "snippet": "日本のイマーシブエンターテインメント市場：VR、ミックスドリアリティ、ゲーミング・ロケーションベース体験が新たな成長機会を創出&nbsp;&nbsp;ドリームニュース",
+     "summary": "日本のイマーシブエンターテインメント市場では、VRやミックスドリアリティ、ゲーミング・ロケーションベース体験が新たな成長機会を生み出しているにゃ。これにより、エンターテインメントの楽しみ方が多様化しているそうだにゃん。"
+    },
+    {
+     "type": "news",
      "title": "先端ARテクノロジーで医療現場に「ぬくもりのある体験」を届ける - 千葉テレビ放送株式会社",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYa3M2UUFWN2Z4ZG85c2NLa2ZwYlg4eTBCenB4eXJCUkw5ZGQzOHZFdG9KaHJFWTBZUFY4ZWtHaW4zWW56aVBDZ0FmU3lTSnBlT0QzZURDOHpPbERHN08w?oc=5",
      "date": "2026-09-10T02:24:25+00:00",
      "source": "千葉テレビ放送株式会社",
      "snippet": "先端ARテクノロジーで医療現場に「ぬくもりのある体験」を届ける&nbsp;&nbsp;千葉テレビ放送株式会社",
-     "summary": "千葉テレビ放送株式会社の記事では、先端ARテクノロジーを活用して医療現場に「ぬくもりのある体験」を提供する取り組みが紹介されているにゃ。AR技術により、患者と医療従事者のコミュニケーションが円滑になり、より人間味のあるケアが実現できることを目指しているそうだにゃん。"
+     "summary": "先端ARテクノロジーを活用し、医療現場に「ぬくもりのある体験」を提供する取り組みが進められているにゃ。患者に対してより温かみのあるケアを実現するための技術が注目されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -270,34 +297,7 @@
      "date": "2026-09-09T11:00:00+00:00",
      "source": "メタカル最前線",
      "snippet": "名場面をVR空間で追体験！ 『ヒーローアカデミア』VRChat内体験型バーチャル展示をレポート&nbsp;&nbsp;メタカル最前線",
-     "summary": "メタカル最前線の記事では、『ヒーローアカデミア』の名場面をVR空間で体験できる展示が紹介されているにゃ。VRChat内で行われるこの展示では、ファンが作品の世界に没入し、キャラクターたちと一緒に冒険する感覚を味わえるそうだにゃ。参加者の反応も好評で、作品への愛が感じられる内容だにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "【企画】青春!未来へのパスポート 超リアル!VRゴーグルでスキージャンプ体験!仮想空間に選手の視点を映し出した若き技術者たち 山形工業高校（山形）（テレビユー山形） - Yahoo!ニュース",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FTjRneFZyeHB4b2ZFY1lYUTBCSEZ1enJ6Zk8zT3AzaU8zS0JWaV9ENDdTcldDLU9pSWhxYjhrU0lZM1ZzSkl5RVdETUlXUG5pS2pXWWp5S0xwZ0RrOHgtQ2k2LWc3cXNBMXkycUc4LVRaWUk0RW5kbDd3LS1BVDg?oc=5",
-     "date": "2026-09-09T10:06:17+00:00",
-     "source": "Yahoo!ニュース",
-     "snippet": "【企画】青春!未来へのパスポート 超リアル!VRゴーグルでスキージャンプ体験!仮想空間に選手の視点を映し出した若き技術者たち 山形工業高校（山形）（テレビユー山形）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "Yahoo!ニュースの記事では、山形工業高校の若き技術者たちが超リアルなVRゴーグルを使ってスキージャンプ体験を提供している様子が紹介されているにゃ。仮想空間で選手の視点を映し出し、リアルな体験を通じて技術を学ぶ機会を創出しているそうだにゃ。未来の技術者たちの挑戦が感じられる内容だにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "【企画】青春！未来へのパスポート 超リアル！VRゴーグルでスキージャンプ体験！仮想空間に選手の視点を映し出した若き技術者たち 山形工業高校（山形） - TBS NEWS DIG",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GZUlDYjE0MWs2eWxTUXp2NFdtQWN4R2RyRV9CZDM0X1EyOXY0UDVabFpBc1U5cEw1c3k3LS0ybmRQR2ZHc3REQ05YN0xxQmQ5V09MRU5uWQ?oc=5",
-     "date": "2026-09-09T10:05:00+00:00",
-     "source": "TBS NEWS DIG",
-     "snippet": "【企画】青春！未来へのパスポート 超リアル！VRゴーグルでスキージャンプ体験！仮想空間に選手の視点を映し出した若き技術者たち 山形工業高校（山形）&nbsp;&nbsp;TBS NEWS DIG",
-     "summary": "TBS NEWS DIGの記事も、山形工業高校のVRゴーグルによるスキージャンプ体験を取り上げているにゃ。仮想空間で選手の視点を体験することで、学生たちがリアルなスポーツの感覚を学び、技術を磨くことができる取り組みだそうだにゃん。教育と技術の融合が進んでいることが伺える内容だにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "【富士急ハイランド】今年は「災害体験VR」が新登場！体験型防災イベント「FUJI-Q防災FESTA 2026」開催！ - マイナビ子育て",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yd0VWMk5DbFZPVURnT0VTMHRIVTZ2Zjc5cmRqcHZNdGRfVjRYY3dDLWk4cVJ4ejVrVExFSlQ0THQtMGNHWDIydHplMElWaG5IbVpj?oc=5",
-     "date": "2026-09-09T01:20:00+00:00",
-     "source": "マイナビ子育て",
-     "snippet": "【富士急ハイランド】今年は「災害体験VR」が新登場！体験型防災イベント「FUJI-Q防災FESTA 2026」開催！&nbsp;&nbsp;マイナビ子育て",
-     "summary": "マイナビ子育ての記事では、富士急ハイランドで開催される「FUJI-Q防災FESTA 2026」に新たに登場する「災害体験VR」について紹介されているにゃ。このイベントでは、参加者がVRを通じて災害時の行動を学び、実際の状況に備えることができる体験型の防災教育が行われるそうだにゃん。安全意識を高める良い機会だにゃ。"
+     "summary": "『ヒーローアカデミア』の名場面をVR空間で追体験できるバーチャル展示がVRChat内で行われているにゃ。ファンはお気に入りのシーンを新たな形で楽しむことができるそうだにゃん。興味のある人はぜひ体験してみてほしいにゃ！"
     }
    ]
   }
