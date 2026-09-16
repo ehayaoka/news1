@@ -1,10 +1,19 @@
 {
- "updated": "2026-09-15T23:10:07.277511+00:00",
+ "updated": "2026-09-16T00:50:09.208821+00:00",
  "categories": [
   {
    "id": "ai_media",
    "title": "🤖 AI×メディア研究（ニュース・論文・行政）",
    "items": [
+    {
+     "type": "news",
+     "title": "日本のメディア・エンターテインメント向け生成AI市場：AI支援型コンテンツ制作、日本IPの拡大、クリエイターの生産性向上が新たな成長機会を創出 - ドリームニュース",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4d0FXTmNCdGtDUVdVVEt3Y1VEMEp2MjUyeFF0Q0IyOTk1dWlrMmd0NGh5Zld0ajZRbjdGaWFITjItdzlrYlBBM2pKLW40cUFzMm9B?oc=5",
+     "date": "2026-09-16T00:00:00+00:00",
+     "source": "ドリームニュース",
+     "snippet": "日本のメディア・エンターテインメント向け生成AI市場：AI支援型コンテンツ制作、日本IPの拡大、クリエイターの生産性向上が新たな成長機会を創出&nbsp;&nbsp;ドリームニュース",
+     "summary": "日本のメディア・エンターテインメント向け生成AI市場では、AI支援型コンテンツ制作や日本のIPの拡大、クリエイターの生産性向上が新たな成長機会を生み出しているそうだにゃ。これにより、業界全体の発展が期待されているにゃん。"
+    },
     {
      "type": "gov",
      "title": "量子コンピュータのユースケース開発、日本の産業多様性と技術基盤がカギ - jetro.go.jp",
@@ -12,7 +21,7 @@
      "date": "2026-09-15T18:46:16+00:00",
      "source": "jetro.go.jp",
      "snippet": "量子コンピュータのユースケース開発、日本の産業多様性と技術基盤がカギ&nbsp;&nbsp;jetro.go.jp",
-     "summary": "量子コンピュータのユースケース開発には、日本の産業多様性と技術基盤が重要だにゃ。これにより、さまざまな分野での応用が期待されているにゃん。特に、産業界との連携が進むことで、実用化が加速する可能性があるそうだにゃ。"
+     "summary": "量子コンピュータのユースケース開発において、日本の産業多様性と技術基盤が重要な役割を果たすとされているにゃ。これにより、さまざまな産業での応用が進むことが期待されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -21,7 +30,7 @@
      "date": "2026-09-15T16:00:07+00:00",
      "source": "Unite.AI",
      "snippet": "Meta、Meta Oneサブスクリプションを開始し、AI利用をアプリ全体でバンドル&nbsp;&nbsp;Unite.AI",
-     "summary": "Metaが新たにMeta Oneサブスクリプションを開始したにゃ。このサービスでは、AI機能がアプリ全体にバンドルされ、ユーザーはより便利にAIを活用できるようになるそうだにゃん。これにより、Metaのアプリ群がさらに強化されるだろうにゃ。"
+     "summary": "Metaは新たにMeta Oneサブスクリプションを開始し、AI機能をアプリ全体でバンドルしたそうだにゃ。このサービスにより、ユーザーはより便利にAIを利用できるようになるにゃん。"
     },
     {
      "type": "gov",
@@ -30,7 +39,7 @@
      "date": "2026-09-15T15:51:33+00:00",
      "source": "jetro.go.jp",
      "snippet": "インド政府、半導体産業支援策「Semicon 2.0」の詳細を発表(インド) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
-     "summary": "インド政府は半導体産業支援策「Semicon 2.0」の詳細を発表したにゃ。この政策は、国内の半導体生産を促進し、技術革新を支えることを目的としているそうだにゃ。インドの半導体産業の成長が期待されるにゃん。"
+     "summary": "インド政府は半導体産業支援策「Semicon 2.0」の詳細を発表したにゃ。この施策はインドの半導体産業の発展を促進することを目的としているそうだにゃん。"
     },
     {
      "type": "gov",
@@ -39,7 +48,7 @@
      "date": "2026-09-15T15:16:16+00:00",
      "source": "jetro.go.jp",
      "snippet": "上海市、3月発表の「首発経済」促進策を具体化、補助金申請の受け付け開始(中国) | ビジネス短信&nbsp;&nbsp;jetro.go.jp",
-     "summary": "上海市は「首発経済」促進策の具体化を進め、補助金申請の受け付けを開始したにゃ。この政策は新興企業やスタートアップを支援し、経済の活性化を図ることを目指しているそうだにゃん。"
+     "summary": "上海市は「首発経済」促進策を具体化し、補助金申請の受け付けを開始したにゃ。この施策は地域経済の活性化を目指しているそうだにゃん。"
     },
     {
      "type": "news",
@@ -48,7 +57,7 @@
      "date": "2026-09-15T08:03:01+00:00",
      "source": "株式会社インプレス",
      "snippet": "「NIKKEI KAI」、広報・PR業務を支援する「広報・報道分析Agent」を提供開始&nbsp;&nbsp;株式会社インプレス",
-     "summary": "「NIKKEI KAI」は広報・PR業務を支援する「広報・報道分析Agent」を提供開始したにゃ。このツールは、企業の広報活動を効率化し、効果的な情報発信をサポートすることを目的としているそうだにゃん。"
+     "summary": "「NIKKEI KAI」は広報・PR業務を支援する「広報・報道分析Agent」を提供開始したにゃ。このサービスは、企業の広報活動をより効率的にすることを目的としているそうだにゃん。"
     },
     {
      "type": "news",
@@ -57,7 +66,7 @@
      "date": "2026-09-15T07:00:00+00:00",
      "source": "FNNプライムオンライン",
      "snippet": "“ニセ警察官詐欺”で公開の人物は生成AIか 別人になりすまし顔の向き口の動きもトレースする最新の“詐欺技術”に注意&nbsp;&nbsp;FNNプライムオンライン",
-     "summary": "「ニセ警察官詐欺」で公開された人物が生成AIによるものかもしれないにゃ。最新の詐欺技術では、別人になりすまし、顔の向きや口の動きまでトレースすることが可能になっているそうだにゃん。注意が必要だにゃ。"
+     "summary": "“ニセ警察官詐欺”に関連して公開された人物が生成AIによるものかもしれないと報じられているにゃ。最新の詐欺技術には、顔の向きや口の動きをトレースする機能があるそうだにゃん。"
     },
     {
      "type": "news",
@@ -66,7 +75,7 @@
      "date": "2026-09-15T05:00:01+00:00",
      "source": "PR TIMES",
      "snippet": "「NIKKEI KAI」が生成 AI で広報・PR 業務を支援する「広報・報道分析 Agent」提供開始&nbsp;&nbsp;PR TIMES",
-     "summary": "「NIKKEI KAI」は生成AIを活用した「広報・報道分析Agent」を提供開始したにゃ。このサービスは、広報やPR業務を効率化し、企業の情報発信を強化することを目的としているそうだにゃん。"
+     "summary": "「NIKKEI KAI」は生成AIを活用した「広報・報道分析Agent」を提供開始したにゃ。このエージェントは広報・PR業務を支援するために設計されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -75,7 +84,7 @@
      "date": "2026-09-15T04:42:30+00:00",
      "source": "日本ネット経済新聞",
      "snippet": "W２、ECを「売上を生み出すメディア」へ AIエージェント基盤「W2 SmartHub」正式発表&nbsp;&nbsp;日本ネット経済新聞",
-     "summary": "W2はECを「売上を生み出すメディア」に変えるAIエージェント基盤「W2 SmartHub」を正式発表したにゃ。このプラットフォームは、ECサイトの収益化を支援することを目指しているそうだにゃん。"
+     "summary": "W2はECを「売上を生み出すメディア」と位置づけ、AIエージェント基盤「W2 SmartHub」を正式発表したにゃ。このプラットフォームはEC業界に革新をもたらすことを目指しているそうだにゃん。"
     },
     {
      "type": "news",
@@ -84,16 +93,7 @@
      "date": "2026-09-15T02:30:32+00:00",
      "source": "ニコニコニュース",
      "snippet": "【生成AI時代、ITエンジニアの「技術書」活用実態調査】約9割が「AIや動画が普及しても技術書は手放せない」と回答！最&nbsp;&nbsp;ニコニコニュース",
-     "summary": "ITエンジニアの技術書活用実態調査によると、約9割がAIや動画が普及しても技術書は手放せないと回答したにゃ。技術書の重要性が依然として高いことが示されているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "AIと育つ子どもたち。α世代が描く、生活者とAIの未来 @メ環研フォーラム2026 レポートvol.3 - メディア環境研究所",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94UlhWYXpFRHZYaVJlZ3M2WnZFSHJEQ0NqRmdORGpQRjNlTTFJOE8wOHl0OWc2YmZTWXVvdVBfMTF2ODRnbE1BcEVodw?oc=5",
-     "date": "2026-09-15T02:21:27+00:00",
-     "source": "メディア環境研究所",
-     "snippet": "AIと育つ子どもたち。α世代が描く、生活者とAIの未来 @メ環研フォーラム2026 レポートvol.3&nbsp;&nbsp;メディア環境研究所",
-     "summary": "メ環研フォーラム2026では、AIと共に育つ子どもたちが描く未来について議論されたにゃ。α世代が生活者とAIの関係をどのように考えているか、興味深い視点が共有されたそうだにゃん。"
+     "summary": "ITエンジニアに対する調査では、約9割がAIや動画が普及しても技術書を手放せないと回答したにゃ。技術書の重要性が依然として高いことが示されているそうだにゃん。"
     }
    ]
   },
@@ -103,12 +103,12 @@
    "items": [
     {
      "type": "news",
-     "title": "みらいワークスとGMO TECH、AI検索時代の企業・地域情報発信支援に向け業務提携 - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mNFZsSG92QWdYZVBwa2dtdlM0cG9BN2pSMjZGb0xYNUdOZmxkM05EZ3ZjcnU4cWJKMXo2cGdIRDBhTU03UmdtdzRLUFgwVElFWEt5RjUtdkZGMmMxTmJ0M0tyLVhrS2pfWlVXSkNKbU1RZmdZM2pwVW9Tbw?oc=5",
-     "date": "2026-09-15T13:21:31+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "みらいワークスとGMO TECH、AI検索時代の企業・地域情報発信支援に向け業務提携&nbsp;&nbsp;ニコニコニュース",
-     "summary": "みらいワークスとGMO TECHが業務提携し、AI検索時代における企業や地域の情報発信を支援することになったにゃ。両社は、最新の技術を活用して、より効果的な情報提供を目指すそうだにゃん。"
+     "title": "復興の先の地域づくり｜気仙沼DMC・熊谷夫妻 - tms-media.jp",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmWG12MEppU0g0blE4LTk2S3JZbHRfZzdLdzUzZ0o1THNBenNsSDFPNF82V0R4ZTBiYzZjTl80SVNzQUJZcEtISQ?oc=5",
+     "date": "2026-09-15T22:49:33+00:00",
+     "source": "tms-media.jp",
+     "snippet": "復興の先の地域づくり｜気仙沼DMC・熊谷夫妻&nbsp;&nbsp;tms-media.jp",
+     "summary": "気仙沼DMCの熊谷夫妻が、復興を超えた地域づくりについて語っている記事だにゃ。彼らは地域の特性を活かし、持続可能な発展を目指しているそうだにゃん。地域の人々との協力を重視し、観光や地元産業の振興を通じて、地域の魅力を引き出す取り組みを行っているにゃ。復興後の地域活性化に向けた具体的なビジョンが示されているにゃん。"
     },
     {
      "type": "news",
@@ -117,7 +117,7 @@
      "date": "2026-09-15T10:13:02+00:00",
      "source": "Yahoo!ニュース",
      "snippet": "秋田市議会 卸売市場の移転とまちづくりを議論（秋田朝日放送）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "秋田市議会では、卸売市場の移転とそれに伴うまちづくりについて議論が行われたにゃ。市場の移転が地域に与える影響や、新たなまちづくりの方向性について意見が交わされたそうだにゃん。"
+     "summary": "秋田市議会で、卸売市場の移転とそれに伴うまちづくりについて議論が行われた記事だにゃ。市場の移転は地域経済に影響を与えるため、議員たちは様々な意見を交わし、地域の発展を考慮した議論が進められたそうだにゃん。市民の声も反映されるような取り組みが求められているにゃ。"
     },
     {
      "type": "gov",
@@ -126,16 +126,16 @@
      "date": "2026-09-15T08:58:16+00:00",
      "source": "政府広報オンライン",
      "snippet": "城内大臣記者会見（令和8年9月15日）&nbsp;&nbsp;政府広報オンライン",
-     "summary": "城内大臣が令和8年9月15日に記者会見を行ったにゃ。会見の内容は詳細には記載されていないが、政府の方針や施策についての情報が発表された可能性があるそうだにゃん。"
+     "summary": "令和8年9月15日に行われた城内大臣の記者会見に関する記事だにゃ。会見では、政府の政策や施策についての説明が行われ、記者からの質問にも答えたそうだにゃん。具体的な内容は記載されていないが、重要な情報が発表された可能性があるにゃ。"
     },
     {
      "type": "news",
-     "title": "【第二回定例会(6月4日)一般質問⑯】６板橋区かわまちづくりについてフェスティバル等の広報効果... - 選挙ドットコム",
+     "title": "【第二回定例会(6月4日)一般質問⑯】６板橋区かわまちづくりについてフェスティバル等の広報効果... - go2senkyo.com",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTaE9BOEltUlF3SmQ1Y1dsYnJuRXd5d0FtZFlOdldscGpRYW5iY1FNMkNHbkdRa1o1ZEhSVUdaZkduUzRRRi1kRHFudS1hS193REJqb2ZrY0V4SWk0NFBN?oc=5",
      "date": "2026-09-15T04:03:23+00:00",
-     "source": "選挙ドットコム",
-     "snippet": "【第二回定例会(6月4日)一般質問⑯】６板橋区かわまちづくりについてフェスティバル等の広報効果...&nbsp;&nbsp;選挙ドットコム",
-     "summary": "板橋区のかわまちづくりに関する一般質問が行われ、フェスティバルなどの広報効果について議論されたにゃ。地域活性化のための取り組みが進められていることが伺えるそうだにゃん。"
+     "source": "go2senkyo.com",
+     "snippet": "【第二回定例会(6月4日)一般質問⑯】６板橋区かわまちづくりについてフェスティバル等の広報効果...&nbsp;&nbsp;go2senkyo.com",
+     "summary": "板橋区のかわまちづくりについての一般質問が行われた記事だにゃ。フェスティバルなどの広報効果についても議論され、地域の魅力を引き出す施策が求められているそうだにゃん。住民の参加を促し、地域活性化につながるような取り組みが期待されているにゃ。"
     },
     {
      "type": "news",
@@ -144,7 +144,7 @@
      "date": "2026-09-15T02:12:00+00:00",
      "source": "アットプレス",
      "snippet": "地方創生支援プロジェクト「KINBAN」 全国初のモデル地域に滋賀県高島市を選定 私設応援団として具体的な地域支...&nbsp;&nbsp;アットプレス",
-     "summary": "滋賀県高島市が地方創生支援プロジェクト「KINBAN」の全国初のモデル地域に選定されたにゃ。私設応援団が具体的な地域支援を行い、地域の活性化を図ることが期待されているそうだにゃん。"
+     "summary": "滋賀県高島市が地方創生支援プロジェクト「KINBAN」の全国初のモデル地域に選定された記事だにゃ。私設応援団が具体的な地域支援を行い、地域の特性を活かした取り組みが進められるそうだにゃん。地域の活性化を目指す新たな試みが注目されているにゃ。"
     }
    ]
   },
@@ -154,21 +154,21 @@
    "items": [
     {
      "type": "news",
-     "title": "人手不足・技術継承の危機をDXで乗り越える！「建設・建築DX EXPO」にて特別企画を開催 - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIYk9fNHp0ZXBuV19BNDR5ZDZrYzBBNFBmazNKemxfYjh3aDI3VkJvWHpRMzg2SGRUdm1oV19ZazdIMGoyeVZzUkxmMjZuMEVqdUx5akRVVDBHRWJQZFZQSk9nNFM3YWJpTklxcmFkNy1id1VNY21RdFZaZw?oc=5",
-     "date": "2026-09-15T21:48:32+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "人手不足・技術継承の危機をDXで乗り越える！「建設・建築DX EXPO」にて特別企画を開催&nbsp;&nbsp;ニコニコニュース",
-     "summary": "「建設・建築DX EXPO」で特別企画が開催され、人手不足や技術継承の危機をデジタルトランスフォーメーション（DX）で乗り越える方法が議論されたにゃ。業界の未来を見据えた取り組みが紹介され、参加者は新たな技術やアイデアを学ぶ機会を得たそうだにゃん。"
+     "title": "住宅性能向上DXコンソーシアム 第5回研究発表会 - 新建ハウジング",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wUXlFeDdaQlA2RjFtMTl0N2Q2bWJpQkhybnUyMVRNZTNPbDZkOEZYaEQyNW9BMXU3NlhVUDFNbFVoWlM3N0I5SGMtd0NfS1IwV1E?oc=5",
+     "date": "2026-09-16T00:32:00+00:00",
+     "source": "新建ハウジング",
+     "snippet": "住宅性能向上DXコンソーシアム 第5回研究発表会&nbsp;&nbsp;新建ハウジング",
+     "summary": "住宅性能向上DXコンソーシアムの第5回研究発表会が開催されたにゃ。詳細な内容は記載されていないけれど、住宅性能の向上に向けた取り組みが進められていることが伺えるにゃん。"
     },
     {
      "type": "news",
-     "title": "ANAホールディングス＜9202＞、コメ・食品雑貨店のAKOMEYA TOKYOを子会社化 - excite.co.jp",
+     "title": "ANAホールディングス＜9202＞、コメ・食品雑貨店のAKOMEYA TOKYOを子会社化 - Excite エキサイト",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kOEdObUwxc20taHgwWUxOWGJBRDFJSGdOT25jTVVKRm5kdVY4NGQ3azRVS1MxWFUzR2ZBeXoyY3FkYk5JNGpVcDBrZTczeXNEclhISmtDUmdVY09reC1wbVFHNFhWM1U?oc=5",
      "date": "2026-09-15T11:43:00+00:00",
-     "source": "excite.co.jp",
-     "snippet": "ANAホールディングス＜9202＞、コメ・食品雑貨店のAKOMEYA TOKYOを子会社化&nbsp;&nbsp;excite.co.jp",
-     "summary": "ANAホールディングスが、コメや食品雑貨を扱う「AKOMEYA TOKYO」を子会社化したにゃ。これにより、ANAは食品事業の拡大を目指し、航空業界以外での収益源を確保する狙いがあるそうだにゃん。"
+     "source": "Excite エキサイト",
+     "snippet": "ANAホールディングス＜9202＞、コメ・食品雑貨店のAKOMEYA TOKYOを子会社化&nbsp;&nbsp;Excite エキサイト",
+     "summary": "ANAホールディングスが、コメや食品雑貨を扱うAKOMEYA TOKYOを子会社化したにゃ。これにより、ANAは新たなビジネス展開を図ることが期待されるにゃん。"
     },
     {
      "type": "news",
@@ -177,7 +177,7 @@
      "date": "2026-09-15T09:38:00+00:00",
      "source": "NHKニュース",
      "snippet": "四国電力子会社社員 転落し死亡 遺書とみられる文書見つかる&nbsp;&nbsp;NHKニュース",
-     "summary": "四国電力の子会社に勤務する社員が転落し、死亡した事件が報じられたにゃ。現場では遺書とみられる文書が見つかり、詳細な調査が進められているそうだにゃん。"
+     "summary": "四国電力の子会社社員が転落して死亡した事件が報じられたにゃ。現場では遺書とみられる文書が見つかっており、詳細な状況はまだ不明だにゃん。"
     },
     {
      "type": "news",
@@ -186,7 +186,7 @@
      "date": "2026-09-15T09:28:49+00:00",
      "source": "au Webポータル",
      "snippet": "UFO目撃急増は人工知能の急速な進化と相関がある？米起業家が主張&nbsp;&nbsp;au Webポータル",
-     "summary": "米国の起業家が、UFOの目撃急増と人工知能の急速な進化に相関関係があると主張したにゃ。AI技術の進展が人々の認識や報告に影響を与えている可能性について考察されているそうだにゃん。"
+     "summary": "UFO目撃の急増が、人工知能の進化と関係があると米起業家が主張しているにゃ。AIの発展が人々の認識や報告に影響を与えている可能性があるそうだにゃん。"
     },
     {
      "type": "news",
@@ -195,7 +195,7 @@
      "date": "2026-09-15T06:01:11+00:00",
      "source": "西日本新聞me",
      "snippet": "株式会社TriOrb、北九州市「企業変革・スタートアップ・グロースサポート事業」イノベーション支援プログラムに採択&nbsp;&nbsp;西日本新聞me",
-     "summary": "株式会社TriOrbが北九州市の「企業変革・スタートアップ・グロースサポート事業」に選ばれ、イノベーション支援プログラムに採択されたにゃ。このプログラムを通じて、企業の成長を促進する取り組みが期待されているそうだにゃん。"
+     "summary": "株式会社TriOrbが、北九州市の「企業変革・スタートアップ・グロースサポート事業」のイノベーション支援プログラムに採択されたにゃ。これにより、さらなる成長が期待されるにゃん。"
     }
    ]
   },
@@ -210,7 +210,16 @@
      "date": "2026-09-15T11:10:00+00:00",
      "source": "axismag.jp",
      "snippet": "大阪市立科学館「月から火星へ 宇宙探査におけるイタリア」展 アルテミス計画で使用予定の次世代宇宙服レプリカを日本初公開&nbsp;&nbsp;axismag.jp",
-     "summary": "大阪市立科学館で「月から火星へ 宇宙探査におけるイタリア」展が開催されるにゃ。この展覧会では、アルテミス計画で使用予定の次世代宇宙服のレプリカが日本初公開されるそうだにゃ。宇宙探査の最新技術やイタリアの貢献について学べる貴重な機会だにゃん。"
+     "summary": "大阪市立科学館で「月から火星へ 宇宙探査におけるイタリア」展が開催されるにゃ。この展覧会では、アルテミス計画で使用予定の次世代宇宙服のレプリカが日本初公開されるそうだにゃ。宇宙探査の最前線を感じられる貴重な機会だにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "「大絶滅展」大阪市立自然史博物館で、5回の“大量絶滅”から生命の進化を辿る - ファッションプレス",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jTmE4ZjRyMmdaRUhEWE4yR3dpbmhCdkg5SG5WR0pxYTFtZUl6cGVrSHp2UTk4emJteWYwVE54cVpBaDloRXVtQkpQLXNEeUJhMHBV?oc=5",
+     "date": "2026-09-15T11:06:33+00:00",
+     "source": "ファッションプレス",
+     "snippet": "「大絶滅展」大阪市立自然史博物館で、5回の“大量絶滅”から生命の進化を辿る&nbsp;&nbsp;ファッションプレス",
+     "summary": "「大絶滅展」が大阪市立自然史博物館で開催されるにゃ。この展覧会では、5回の大量絶滅を通じて生命の進化を辿る内容が紹介されるそうだにゃ。過去の絶滅イベントを学ぶことで、現在の生物多様性の重要性を再認識できる機会だにゃん。"
     },
     {
      "type": "news",
@@ -219,7 +228,7 @@
      "date": "2026-09-15T09:13:58+00:00",
      "source": "ウォーカープラス",
      "snippet": "画像4 / 12＞国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中！おすすめ展覧会グッズを一挙紹介&nbsp;&nbsp;ウォーカープラス",
-     "summary": "国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中だにゃ。この展覧会では、日本人の起源や古代のDNAに関する研究成果が紹介されているにゃ。おすすめの展覧会グッズも紹介されているから、訪れる際にはチェックしてみるといいにゃん。"
+     "summary": "国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中だにゃ。この展覧会では、日本人の祖先や古代の移動に関するDNA研究が紹介されているそうだにゃ。関連グッズも販売されていて、訪れる価値があるにゃん。"
     },
     {
      "type": "news",
@@ -228,7 +237,7 @@
      "date": "2026-09-15T07:50:00+00:00",
      "source": "多摩六都科学館",
      "snippet": "【開催報告】2026年夏の企画展 巡回展「キモかわすごい！海の骨なしどうぶつの世界」&nbsp;&nbsp;多摩六都科学館",
-     "summary": "多摩六都科学館で2026年夏に企画展「キモかわすごい！海の骨なしどうぶつの世界」が開催される予定だにゃ。この展覧会では、骨のない海の生物たちの魅力を紹介するそうだにゃ。海の不思議な生き物たちに触れることができる楽しみなイベントだにゃん。"
+     "summary": "多摩六都科学館で2026年夏に巡回展「キモかわすごい！海の骨なしどうぶつの世界」が開催される予定だにゃ。この企画展では、海に生息する骨のない動物たちの不思議な世界を紹介するそうだにゃん。楽しみな内容だにゃ！"
     },
     {
      "type": "news",
@@ -237,16 +246,7 @@
      "date": "2026-09-15T07:12:34+00:00",
      "source": "ウォーカープラス",
      "snippet": "＜画像9 / 13＞国立科学博物館の特別展「昆虫」がスタート！見逃したくないポイントはここだ&nbsp;&nbsp;ウォーカープラス",
-     "summary": "国立科学博物館で特別展「昆虫」がスタートしたにゃ！この展覧会では、昆虫の多様性や生態についての見どころが紹介されているそうだにゃ。昆虫に興味がある人には見逃せないポイントがたくさんあるから、ぜひ足を運んでみるといいにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "「恐竜博2027」が上野で開催！ 国立科学博物館の開館150周年を記念する特別展、日本初公開の実物標本も - Tokyo Art Beat",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeURCX1JkWktUUzVBUUVuZFhpRTExRkNvekkxckY3UmJxLTd5S0RNNkVOdnprMm4zNDBhZFVzM1JXMEtTajc4emxMVkVHa2JMdWJ5VHdSQ3hPaUoxR2dyLW9EdWxmQndKTk1XODNDUy1UTm80WWpXMnRmZ0JtRWJ3dVZmaFJEeHhJVm9UYzdwVFNUODJrMDBuRTV3?oc=5",
-     "date": "2026-09-14T19:25:08+00:00",
-     "source": "Tokyo Art Beat",
-     "snippet": "「恐竜博2027」が上野で開催！ 国立科学博物館の開館150周年を記念する特別展、日本初公開の実物標本も&nbsp;&nbsp;Tokyo Art Beat",
-     "summary": "「恐竜博2027」が上野で開催されるにゃ！これは国立科学博物館の開館150周年を記念する特別展で、日本初公開の実物標本も展示されるそうだにゃ。恐竜の魅力を存分に楽しめるイベントになるから、恐竜好きにはたまらないにゃん。"
+     "summary": "国立科学博物館で特別展「昆虫」がスタートしたにゃ。この展覧会では、昆虫の多様性や生態についての見どころが紹介されているそうだにゃ。昆虫の魅力を再発見できるチャンスだにゃん。"
     }
    ]
   },
@@ -256,30 +256,30 @@
    "items": [
     {
      "type": "news",
-     "title": "見えない生理痛を、VRで「体で知る」という体験 - finders.me",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jaDBsVWNLTGVqTUxRaEo1cHVYOVF5OFFMeC1FcW8xNF85NXduNjRYWWNkQU5tWnZoWE9UbTZlczI0em40Ql82YmpXSTFlZw?oc=5",
-     "date": "2026-09-15T22:07:48+00:00",
-     "source": "finders.me",
-     "snippet": "見えない生理痛を、VRで「体で知る」という体験&nbsp;&nbsp;finders.me",
-     "summary": "VRを使って生理痛を体験するプロジェクトが注目されているにゃ。見えない痛みを「体で知る」ことで、理解を深めることを目指しているんだにゃ。参加者はVRを通じて、実際の痛みを擬似体験し、他者の苦しみを理解する手助けになるそうだにゃん。"
+     "title": "生理痛の重さをVRで体感 大阪・福岡の企画展で初上陸（FINDERS） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnS2tSOTcwejZ3RVV3RGlORUdUajk5R1Y4QWVkeGdiZmQ3ZFNHc2lFMDFWNGh2QzJNdHB3bUpHSEVTR0VtSjJyMnJ4bkJUc1JZT0RzOG5qNi03WGhkaUk5RzFDYUdpTU1SR0VzZnJtSXM4OEUzVU8xM2JDUzhSM28?oc=5",
+     "date": "2026-09-15T22:19:36+00:00",
+     "source": "Yahoo!ニュース",
+     "snippet": "生理痛の重さをVRで体感 大阪・福岡の企画展で初上陸（FINDERS）&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "大阪と福岡で開催される企画展では、VR技術を使って生理痛の重さを体感できる展示が行われるそうだにゃ。この体験を通じて、生理痛に対する理解を深めることを目的としているにゃ。参加者は、実際に痛みを感じることで、女性の健康問題についての意識を高めることが期待されているんだにゃ。"
     },
     {
      "type": "news",
-     "title": "北見秋祭 管内の食味わって 25日から3日間 ＶＲ体験企画も - 北海道新聞デジタル",
+     "title": "北見秋祭 管内の食味わって 25日から3日間 ＶＲ体験企画も - hokkaido-np.co.jp",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DY0J4dzd2Vk5iUkJlbzBneGl6YlBuYmVqeHRZRDVBWC16RVlmWkhTenlkdy1FM3JVbXBLOC13SW1XSEQ0V3RVa1J2R0JOVEtDZ1B6ZXJ0VEdoQQ?oc=5",
      "date": "2026-09-15T19:00:00+00:00",
-     "source": "北海道新聞デジタル",
-     "snippet": "北見秋祭 管内の食味わって 25日から3日間 ＶＲ体験企画も&nbsp;&nbsp;北海道新聞デジタル",
-     "summary": "北見秋祭が25日から3日間開催されるにゃ。地元の食を楽しむイベントで、VR体験企画も用意されているんだにゃ。参加者は、地域の特産品を味わいながら、VRを通じて新たな体験を楽しむことができるそうだにゃん。"
+     "source": "hokkaido-np.co.jp",
+     "snippet": "北見秋祭 管内の食味わって 25日から3日間 ＶＲ体験企画も&nbsp;&nbsp;hokkaido-np.co.jp",
+     "summary": "北見秋祭が25日から3日間開催されるにゃ。地元の食を楽しむイベントで、VR体験企画も用意されているそうだにゃ。参加者は、秋の味覚を堪能しながら、VRを通じて新しい体験を楽しむことができるんだにゃ。地域の活性化を目指したイベントとして注目されているにゃん。"
     },
     {
      "type": "news",
-     "title": "プロの投球に思わずのけぞる！ 東京ドームでキヤノンが提示した「空間に入る」スポーツ観戦 - moguravr.com",
+     "title": "プロの投球に思わずのけぞる！ 東京ドームでキヤノンが提示した「空間に入る」スポーツ観戦 - Mogura VR",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UMDZyZk1zS2daRzdNa2tHcG80VHFXa2dVRGhZTlNVVjlKMHFtR253NmZGYmpPMEw4VTZjWTdKODh4SjliSnQxQkR4bmo2SFZxckd1ZmFVU05xa1hwb05LUA?oc=5",
      "date": "2026-09-15T09:55:08+00:00",
-     "source": "moguravr.com",
-     "snippet": "プロの投球に思わずのけぞる！ 東京ドームでキヤノンが提示した「空間に入る」スポーツ観戦&nbsp;&nbsp;moguravr.com",
-     "summary": "東京ドームで、キヤノンが「空間に入る」スポーツ観戦を提案したにゃ。プロの投球を間近で体感できるVR体験が話題になっているんだにゃ。観客は、まるで試合の中にいるかのような感覚を味わえるそうだにゃん。"
+     "source": "Mogura VR",
+     "snippet": "プロの投球に思わずのけぞる！ 東京ドームでキヤノンが提示した「空間に入る」スポーツ観戦&nbsp;&nbsp;Mogura VR",
+     "summary": "東京ドームでキヤノンが提案する新しいスポーツ観戦体験が話題だにゃ。「空間に入る」感覚を提供することで、プロの投球を間近で体感できる仕組みになっているそうだにゃ。観客は、より臨場感のある観戦ができるため、スポーツの楽しさが一層増すんだにゃん。"
     },
     {
      "type": "news",
@@ -288,16 +288,16 @@
      "date": "2026-09-15T08:23:20+00:00",
      "source": "au Webポータル",
      "snippet": "高松塚古墳とキトラ古墳の極彩色壁画、ＶＲで石室内部を楽しんで…奈文研がコンテンツを作成&nbsp;&nbsp;au Webポータル",
-     "summary": "奈良文化財研究所が、高松塚古墳とキトラ古墳の極彩色壁画をVRで楽しむコンテンツを作成したにゃ。これにより、石室内部の美しい壁画を手軽に体験できるようになったんだにゃ。歴史を身近に感じることができる素敵な試みだにゃん。"
+     "summary": "奈文研が制作したVRコンテンツでは、高松塚古墳とキトラ古墳の極彩色壁画を石室内部から楽しむことができるそうだにゃ。これにより、古代の文化や芸術に触れながら、歴史的な価値を再発見する機会が提供されるんだにゃ。VR技術を活用した新しい学びの場として注目されているにゃん。"
     },
     {
      "type": "news",
-     "title": "GEDEON Media Group、パリの裁判所が法的清算の開始を決定、VR体験施設の映像コンテンツを手がけたスタジオ - moguravr.com",
+     "title": "GEDEON Media Group、パリの裁判所が法的清算の開始を決定、VR体験施設の映像コンテンツを手がけたスタジオ - Mogura VR",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOanhjZ1h6aUdIWVFjeGxub2xLVi12bUhOVWFoYWFoOXJuU29kR1h6X3RGTXJlS3ZldlBOYWRxdFJhcXlkaExQZmZocXF5WXNxZDlPYXR3Z2pFZVU1YWN1MVFLbnZNOEU?oc=5",
      "date": "2026-09-15T07:30:07+00:00",
-     "source": "moguravr.com",
-     "snippet": "GEDEON Media Group、パリの裁判所が法的清算の開始を決定、VR体験施設の映像コンテンツを手がけたスタジオ&nbsp;&nbsp;moguravr.com",
-     "summary": "GEDEON Media Groupがパリの裁判所で法的清算の開始を決定されたにゃ。このスタジオはVR体験施設の映像コンテンツを手がけていたんだにゃ。今後の動向が注目されるところだにゃん。"
+     "source": "Mogura VR",
+     "snippet": "GEDEON Media Group、パリの裁判所が法的清算の開始を決定、VR体験施設の映像コンテンツを手がけたスタジオ&nbsp;&nbsp;Mogura VR",
+     "summary": "パリの裁判所がGEDEON Media Groupに対して法的清算の開始を決定したそうだにゃ。このスタジオは、VR体験施設向けの映像コンテンツを手がけていたが、経営難に陥ったとのことだにゃ。今後の動向が気になるところだにゃん。"
     }
    ]
   }
