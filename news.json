@@ -1,10 +1,46 @@
 {
- "updated": "2026-10-02T00:12:43.197784+00:00",
+ "updated": "2026-10-02T01:49:35.887212+00:00",
  "categories": [
   {
    "id": "ai_media",
    "title": "🤖 AI×メディア研究（ニュース・論文・行政）",
    "items": [
+    {
+     "type": "gov",
+     "title": "8月のインド保険市場、生保は団体保険が牽引、損保は医療・自動車保険が堅調 - jetro.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXQXp3ZlRNLXFrTlNjbnEwNjBPZ0RfUmR3bkZlMEI3Wk1DY1lRMDg5eldWRVdLMF9vTEpSLU5lVDFQUEZaSkE3S2VjRnNJY0EwSmRzaDRXSFVOUEN3MktjZVFWa2JUNjlsd1dDWUJ3?oc=5",
+     "date": "2026-10-02T01:28:26+00:00",
+     "source": "jetro.go.jp",
+     "snippet": "8月のインド保険市場、生保は団体保険が牽引、損保は医療・自動車保険が堅調&nbsp;&nbsp;jetro.go.jp",
+     "summary": "8月のインド保険市場では、生保が団体保険を中心に成長し、損保は医療や自動車保険が堅調に推移したそうだにゃ。これにより、保険業界全体の活性化が期待されているにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "インド・ベンガルールで宇宙テック展示会開催、初のジャパンパビリオンに日本企業8社が出展 - jetro.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YZ3hIMW5CdnFBVlNOQ3pNOFk0REdmd3dzOVZmMElWU2g5bEtjd1hsa3dfal9OejFHbXdIWUxOUW1menVPZ3Y3ZHdzbGZlaWdPUkhZOWcwUk93NlhNaTV1Z01wS2lkMURGcWRtS01R?oc=5",
+     "date": "2026-10-02T01:17:14+00:00",
+     "source": "jetro.go.jp",
+     "snippet": "インド・ベンガルールで宇宙テック展示会開催、初のジャパンパビリオンに日本企業8社が出展&nbsp;&nbsp;jetro.go.jp",
+     "summary": "インドのベンガルールで宇宙テクノロジーの展示会が開催され、初のジャパンパビリオンには日本企業8社が出展したにゃ。これにより、日本の宇宙産業の国際的なプレゼンスが高まることが期待されるそうだにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "ジェトロ、ベンガルールとハイデラバードで宇宙テック企業視察ツアー開催(インド、日本) | ビジネス短信 ―ジェトロの海外ニュース - jetro.go.jp",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KVVhQNDRTZlpVam5wUTNDaE1MR2RMU29ma01vRlN1b0dpSWQ4RG5aeG5PTG0wTmo3YkpvdTlrS1pxRUliUzdjR2RjWWkySmgxeW9LN2lyMDlBWFdGWm9GLWl4NjRRaWxkSEdrU2dR?oc=5",
+     "date": "2026-10-02T01:07:07+00:00",
+     "source": "jetro.go.jp",
+     "snippet": "ジェトロ、ベンガルールとハイデラバードで宇宙テック企業視察ツアー開催(インド、日本) | ビジネス短信 ―ジェトロの海外ニュース&nbsp;&nbsp;jetro.go.jp",
+     "summary": "ジェトロは、インドのベンガルールとハイデラバードで宇宙テック企業の視察ツアーを開催したにゃ。このツアーは、日本企業がインドの宇宙産業に関する情報を得る機会を提供することを目的としているそうだにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "VOLTMIND、メディア総研株式会社主催の生成AIアイデアソンを技術支援 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkM0V5V3lEcElFNTVBRFZZcFdjOEJnb25DRWVTeTV3MXFObWNaSndaNHVSWnBtS1BSc1FSYmhuRkZWQ3ZvLVVieERLRXlwaFJWWEx6cE5VQkg3U0c5aTlBMjBsMjRXcHI5dnc?oc=5",
+     "date": "2026-10-02T01:00:02+00:00",
+     "source": "PR TIMES",
+     "snippet": "VOLTMIND、メディア総研株式会社主催の生成AIアイデアソンを技術支援&nbsp;&nbsp;PR TIMES",
+     "summary": "VOLTMINDは、メディア総研株式会社が主催する生成AIアイデアソンに技術支援を行ったにゃ。このイベントでは、生成AIを活用した新しいアイデアが求められ、参加者たちが創造力を発揮する場となったそうだにゃん。"
+    },
     {
      "type": "news",
      "title": "新聞記事を学習、無断引用 ただ乗りＡＩ メディア浸食 現行法の保護及ばず - 琉球新報デジタル",
@@ -12,43 +48,16 @@
      "date": "2026-10-01T20:00:00+00:00",
      "source": "琉球新報デジタル",
      "snippet": "新聞記事を学習、無断引用 ただ乗りＡＩ メディア浸食 現行法の保護及ばず&nbsp;&nbsp;琉球新報デジタル",
-     "summary": "新聞記事を学習したAIが無断引用を行い、メディア業界に影響を及ぼしているという問題が指摘されているにゃ。現行法ではこのような行為を十分に保護できないため、メディアの権利が侵害される可能性があるそうだにゃん。"
+     "summary": "新聞記事を学習した生成AIが無断引用を行い、メディアに浸食をもたらしている問題が指摘されているにゃ。現行法ではこのような行為を十分に保護できていないため、対策が求められているそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "Sony、標準PS5向けの新しいAIアップスケーリング層 QSSR を発表 - unite.ai",
+     "title": "Sony、標準PS5向けの新しいAIアップスケーリング層 QSSR を発表 - Unite.AI",
      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGhEUnkyWGFtX3F5UGhLU184Q2p4U010d09zTVhYMXZid0hpOXVjRXdsdEt2djNLQy1LNTlzMFdXc2JKcmRFLWFGZW9oV19UeDFtb0JSLWEtYXVvOTJ6UDIzbmRUNWo3dWxZMnRsQnc4S1o2NnFQeXE4VWVoSVI4alNrdkpYSWtrUk1oek5YbDE?oc=5",
      "date": "2026-10-01T17:43:55+00:00",
-     "source": "unite.ai",
-     "snippet": "Sony、標準PS5向けの新しいAIアップスケーリング層 QSSR を発表&nbsp;&nbsp;unite.ai",
-     "summary": "Sonyが標準PS5向けに新しいAIアップスケーリング層「QSSR」を発表したにゃ。これにより、ゲームのグラフィックが向上し、よりリアルな体験が提供されることが期待されているそうだにゃん。"
-    },
-    {
-     "type": "gov",
-     "title": "詳細 | 国・独立行政法人 - 政府公共調達データベース - jetro.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVFRnbXd5T1lUSFpBZ1JSMF84ZW1jM3otekhFclNYeFZxNUltSnNUclZHQlk4eFAxRUtQRElzWFBFSl9qVVJsRE92RmJIU2M0QmlwLXRMTXgyRU5lal9QZndoUGR1eHdGVFQwVElsUEF4VmJLekxCVEk2WFlxdGI1Zmc5T01QZVNqa2pYTjNiNA?oc=5",
-     "date": "2026-10-01T16:33:26+00:00",
-     "source": "jetro.go.jp",
-     "snippet": "詳細 | 国・独立行政法人 - 政府公共調達データベース&nbsp;&nbsp;jetro.go.jp",
-     "summary": "政府公共調達データベースに関する詳細情報が公開されているにゃ。これは国や独立行政法人が行う公共調達に関するデータを集約したもので、透明性向上を目指しているそうだにゃん。"
-    },
-    {
-     "type": "gov",
-     "title": "米テンポラル、大型資金調達、AIエージェント運用基盤などで顧客4,300社超え(米国) | ビジネス短信 ―ジェトロの海外ニュース - jetro.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pUGNfSkIwdGo0TUJOWXBSQy1Ib2VJTVc4cnhkQ2ZuSE8tQVVvWVI3Yjhac19yTlA0M2YtYlJPdGVDN1phWldubzludTgya3Jpa2lQZUhHdDFybXpSR2JTS2FsUEo2S3hLdlJ2WVl3?oc=5",
-     "date": "2026-10-01T15:25:10+00:00",
-     "source": "jetro.go.jp",
-     "snippet": "米テンポラル、大型資金調達、AIエージェント運用基盤などで顧客4,300社超え(米国) | ビジネス短信 ―ジェトロの海外ニュース&nbsp;&nbsp;jetro.go.jp",
-     "summary": "米国のテンポラルが大型資金調達を行い、AIエージェント運用基盤を強化した結果、顧客数が4,300社を超えたにゃ。これにより、同社の成長が加速することが期待されているそうだにゃん。"
-    },
-    {
-     "type": "gov",
-     "title": "上海米国商会が調査報告書を公表、事業見通しは大幅改善、中国国内の競争激化が最大の課題 - jetro.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tLUR2eTlndEhidjhxelJJS3NPN21SMGM3UWQwamliMzVIUWNDS1BIS0p5dXVvXzFnWnF6UUkwQ24zc2lGc3c2aDFNLVNfVFdSNDhESi11X3M5LUstRW9QVUV2bzZxY3JXaldKaEV3?oc=5",
-     "date": "2026-10-01T15:20:40+00:00",
-     "source": "jetro.go.jp",
-     "snippet": "上海米国商会が調査報告書を公表、事業見通しは大幅改善、中国国内の競争激化が最大の課題&nbsp;&nbsp;jetro.go.jp",
-     "summary": "上海米国商会が発表した調査報告書によると、事業見通しは大幅に改善したが、中国国内の競争激化が最大の課題となっているにゃ。企業はこの競争にどう対処するかが重要だそうだにゃん。"
+     "source": "Unite.AI",
+     "snippet": "Sony、標準PS5向けの新しいAIアップスケーリング層 QSSR を発表&nbsp;&nbsp;Unite.AI",
+     "summary": "Sonyは、標準PS5向けに新しいAIアップスケーリング層「QSSR」を発表したにゃ。この技術により、ゲームのグラフィック品質が向上し、よりリアルな体験が可能になることが期待されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -57,16 +66,16 @@
      "date": "2026-10-01T01:46:36+00:00",
      "source": "디지털투데이",
      "snippet": "放送メディア通信委員会、生成AIの偽情報対策でSNS啓発 MZ世代・青少年向け&nbsp;&nbsp;디지털투데이",
-     "summary": "放送メディア通信委員会が生成AIによる偽情報対策を強化し、SNSを通じてMZ世代や青少年向けに啓発活動を行うことを発表したにゃ。これにより、若者たちの情報リテラシー向上が期待されているそうだにゃん。"
+     "summary": "放送メディア通信委員会は、生成AIによる偽情報対策としてSNSでの啓発活動を行うことを発表したにゃ。特にMZ世代や青少年を対象にした取り組みが強化されるそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "InstagramのEditsアプリ、米国ユーザー向けにAIクリエイティブアシスタントを搭載 - unite.ai",
+     "title": "InstagramのEditsアプリ、米国ユーザー向けにAIクリエイティブアシスタントを搭載 - Unite.AI",
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdmthUF9ocFhaV3FDem1sTXlucXlRNVFneXdlYmVDdGh1cWh6dHJYa0dpbEhld0VMRHFEUlVyakdhRmZnejNGY2ZZVlFWVUtZYmZuQlkzdzFqS3Q3NVRGYlNva3J4c0txY25STXlwczAtd2tDaDdoandoV24yUE9NTWVYbWpxMTAtQ0pFYnNoSQ?oc=5",
      "date": "2026-09-30T15:18:23+00:00",
-     "source": "unite.ai",
-     "snippet": "InstagramのEditsアプリ、米国ユーザー向けにAIクリエイティブアシスタントを搭載&nbsp;&nbsp;unite.ai",
-     "summary": "InstagramのEditsアプリが米国ユーザー向けにAIクリエイティブアシスタントを搭載したにゃ。これにより、ユーザーはより簡単にクリエイティブなコンテンツを作成できるようになるそうだにゃん。"
+     "source": "Unite.AI",
+     "snippet": "InstagramのEditsアプリ、米国ユーザー向けにAIクリエイティブアシスタントを搭載&nbsp;&nbsp;Unite.AI",
+     "summary": "InstagramのEditsアプリが、米国ユーザー向けにAIクリエイティブアシスタントを搭載したにゃ。この機能により、ユーザーはより簡単にクリエイティブなコンテンツを作成できるようになるそうだにゃん。"
     },
     {
      "type": "news",
@@ -75,16 +84,7 @@
      "date": "2026-09-30T11:31:00+00:00",
      "source": "千葉テレビ放送株式会社",
      "snippet": "新聞記事を生成AIで横断整理、対価は報道各社へ 47紙参加で10月開始&nbsp;&nbsp;千葉テレビ放送株式会社",
-     "summary": "47紙が参加するプロジェクトで、生成AIを使って新聞記事を横断整理し、報道各社に対価を支払う仕組みが10月から始まるにゃ。これにより、情報の整理が効率化されることが期待されているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "「Claude対応 生成AI研修・リスキリングサービス比較ガイド」を公開！自社に合う研修タイプの選び方と主要6サービスを整理 - AIsmiley",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XX0ZVUWc5X2RYVmY5dTRTTHVwNjNwTXRtT0twaUgyblBWeVRiT0NBcFBxVmNNdDBCMGJCd1VNcFlLT1diSXNtdlB0ZnZqZ19pR05rWXE4TlBEZDFqdDN0bGdBV0ZCQmdWeVVHUGV0Y29OM1E?oc=5",
-     "date": "2026-09-30T10:31:44+00:00",
-     "source": "AIsmiley",
-     "snippet": "「Claude対応 生成AI研修・リスキリングサービス比較ガイド」を公開！自社に合う研修タイプの選び方と主要6サービスを整理&nbsp;&nbsp;AIsmiley",
-     "summary": "「Claude対応 生成AI研修・リスキリングサービス比較ガイド」が公開されたにゃ。このガイドでは、自社に合った研修タイプの選び方と主要な6つのサービスが整理されているそうだにゃん。"
+     "summary": "新聞記事を生成AIで整理し、対価を報道各社に支払う取り組みが始まるにゃ。47紙が参加し、10月から運用が開始される予定だそうだにゃん。"
     },
     {
      "type": "news",
@@ -93,7 +93,7 @@
      "date": "2026-09-30T09:04:46+00:00",
      "source": "디지털투데이",
      "snippet": "放送規制を緩和、OTT・AIに新たな規律 放送メディア通信委員会が第1期ビジョン&nbsp;&nbsp;디지털투데이",
-     "summary": "放送メディア通信委員会が放送規制を緩和し、OTTやAIに新たな規律を設ける第1期ビジョンを発表したにゃ。これにより、メディア環境の変化に対応した規制が期待されているそうだにゃん。"
+     "summary": "放送メディア通信委員会は、OTTやAIに関する新たな規律を設け、放送規制を緩和する方針を示したにゃ。これにより、より柔軟なメディア環境が整備されることが期待されているそうだにゃん。"
     }
    ]
   },
@@ -103,21 +103,30 @@
    "items": [
     {
      "type": "news",
-     "title": "セ・リーグ優勝をお祝い！最大20枚無料のラーメンステーション「チャーシュー熱覇増量キャンペーン」！ - prtimes.jp",
+     "title": "セ・リーグ優勝をお祝い！最大20枚無料のラーメンステーション「チャーシュー熱覇増量キャンペーン」！ - PR TIMES",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHanJMRHpXS19jV1FvWDMxZUlNQWtnV0x4VmxQTjZneUh4Z2dxdVE3MzZObVJEYzMzNFczaEV4VjdYVE9sVHNjVFpaSm13eWE4b3hpZEd4SHI2M24zN1h0TkU1THhzTHZ2Unc?oc=5",
      "date": "2026-10-02T00:00:08+00:00",
-     "source": "prtimes.jp",
-     "snippet": "セ・リーグ優勝をお祝い！最大20枚無料のラーメンステーション「チャーシュー熱覇増量キャンペーン」！&nbsp;&nbsp;prtimes.jp",
-     "summary": "セ・リーグ優勝を祝うため、ラーメンステーションが「チャーシュー熱覇増量キャンペーン」を実施するにゃ。最大20枚のチャーシューが無料で提供されるそうだにゃ。このキャンペーンは、ファンにとって嬉しい特典だにゃん。詳細はprtimes.jpをチェックしてほしいにゃ！"
+     "source": "PR TIMES",
+     "snippet": "セ・リーグ優勝をお祝い！最大20枚無料のラーメンステーション「チャーシュー熱覇増量キャンペーン」！&nbsp;&nbsp;PR TIMES",
+     "summary": "セ・リーグ優勝を祝うため、ラーメンステーションでは「チャーシュー熱覇増量キャンペーン」を実施するにゃ。最大20枚のチャーシューが無料で提供されるそうだにゃ。このキャンペーンは、ファンにとって嬉しい特典だにゃん。詳細はPR TIMESで確認できるにゃ。"
     },
     {
      "type": "news",
-     "title": "東京科学大学、高尾山で歩行アシストロボットを活用した観光ツアーを実施 - tms-media.jp",
+     "title": "東京科学大学、高尾山で歩行アシストロボットを活用した観光ツアーを実施 - ツーリズムメディアサービス",
      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13M0xHTDBTOUR6cjI3ay1RUVlwUEpQZzFmTEtjampYeWFBUG5SdmxjRjB1VG9Bek5teVRVd3MxZE9NZGtqTXFlSQ?oc=5",
      "date": "2026-10-01T18:22:42+00:00",
-     "source": "tms-media.jp",
-     "snippet": "東京科学大学、高尾山で歩行アシストロボットを活用した観光ツアーを実施&nbsp;&nbsp;tms-media.jp",
-     "summary": "東京科学大学が高尾山で歩行アシストロボットを使った観光ツアーを行ったにゃ。参加者はロボットの助けを借りて、快適に山を楽しむことができたそうだにゃ。この取り組みは、観光の新たな形として注目されているにゃん。詳しくはtms-media.jpを見てほしいにゃ！"
+     "source": "ツーリズムメディアサービス",
+     "snippet": "東京科学大学、高尾山で歩行アシストロボットを活用した観光ツアーを実施&nbsp;&nbsp;ツーリズムメディアサービス",
+     "summary": "東京科学大学が高尾山で歩行アシストロボットを活用した観光ツアーを行ったにゃ。これにより、参加者はロボットの助けを借りて快適に観光を楽しむことができたそうだにゃ。新しい技術を観光に取り入れる試みは、今後の観光業にも影響を与えるかもしれないにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "【鳥取県】補助金・助成金：「社会福祉・保育施設等物価高騰対策応援金」 - J-Net21[中小企業ビジネス支援サイト]",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yM3JjNXRBeUNJV2w3SG1JN0xwbDk0VmN6OGlPSTJXNlJyWm1xQm56SkxrLVpqUFNCZGhZbTBLbTF0TVJYYmRpN2l6QzZ5eWNVcWhJYXQtQ2FHeDlhMHc?oc=5",
+     "date": "2026-10-01T13:35:49+00:00",
+     "source": "J-Net21[中小企業ビジネス支援サイト]",
+     "snippet": "【鳥取県】補助金・助成金：「社会福祉・保育施設等物価高騰対策応援金」&nbsp;&nbsp;J-Net21[中小企業ビジネス支援サイト]",
+     "summary": "鳥取県では「社会福祉・保育施設等物価高騰対策応援金」という補助金・助成金が提供されるにゃ。この支援は、物価高騰に苦しむ福祉や保育施設を支えるためのものだにゃ。具体的な申請方法や条件については、J-Net21で確認できるにゃん。"
     },
     {
      "type": "news",
@@ -126,7 +135,7 @@
      "date": "2026-10-01T13:27:33+00:00",
      "source": "千葉テレビ放送株式会社",
      "snippet": "いきなり移住は必要なし！10/27高輪開催・首都圏から10組が事業化した「燕三条・弥彦」空き家マッチングのリアル&nbsp;&nbsp;千葉テレビ放送株式会社",
-     "summary": "10月27日に高輪で開催されるイベントでは、首都圏から10組が「燕三条・弥彦」の空き家マッチングを事業化した事例が紹介されるにゃ。移住を急がずに、地域の魅力を知ることができる機会だそうだにゃん。詳細は千葉テレビ放送株式会社の情報を確認してほしいにゃ。"
+     "summary": "10月27日に高輪で開催されるイベントでは、首都圏から10組が事業化した「燕三条・弥彦」空き家マッチングの実情が紹介されるにゃ。移住を考える人々にとって、いきなり移住する必要がないことを伝える内容だそうだにゃん。詳細は千葉テレビ放送でチェックしてほしいにゃ。"
     },
     {
      "type": "news",
@@ -135,16 +144,7 @@
      "date": "2026-10-01T08:45:00+00:00",
      "source": "Infoseek",
      "snippet": "エアトリCVC投資先である株式会社ピカパカの連結子会社化に関するお知らせ&nbsp;&nbsp;Infoseek",
-     "summary": "エアトリがCVC投資先の株式会社ピカパカを連結子会社化することを発表したにゃ。この動きは、エアトリの事業拡大に寄与することが期待されているそうだにゃん。詳細についてはInfoseekの記事を参照してほしいにゃ。"
-    },
-    {
-     "type": "gov",
-     "title": "令和８年度「廃屋撤去・再生による地方温泉地等のまちづくり支援事業」採択結果のお知らせ | 2026年 | 公募情報 | 観光庁 - mlit.go.jp",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LZ1pzdnFtYk02b0s5bE4tRmdRS2g4ZUJ6d1dJcENjVl9fTVdXNVR1S0pxbDVVQ1lyTjRES3ltZVR6c0VtLTlRMkxwOF9pTG9xZUlnLUNmQ0NEZGFlblE?oc=5",
-     "date": "2026-10-01T08:33:13+00:00",
-     "source": "mlit.go.jp",
-     "snippet": "令和８年度「廃屋撤去・再生による地方温泉地等のまちづくり支援事業」採択結果のお知らせ | 2026年 | 公募情報 | 観光庁&nbsp;&nbsp;mlit.go.jp",
-     "summary": "令和8年度の「廃屋撤去・再生による地方温泉地等のまちづくり支援事業」の採択結果が発表されたにゃ。この事業は、地方の温泉地の revitalization を目指しているそうだにゃん。詳しい情報は観光庁の公式サイトをチェックしてほしいにゃ。"
+     "summary": "エアトリがCVC投資先の株式会社ピカパカを連結子会社化することを発表したにゃ。この動きは、エアトリの事業拡大に向けた重要な一歩と考えられるにゃん。具体的な影響や今後の展望については、Infoseekで確認できるにゃ。"
     }
    ]
   },
@@ -154,12 +154,21 @@
    "items": [
     {
      "type": "news",
+     "title": "城南信用金庫×日本IBMが取り組む「地域DX」 従来の事業モデルから脱却できるか？ - Infoseek",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kV1M3YXVpZ3F5Q1FlZFhJeXRzTUM5Y01yTFYtUnhHLUlRdXNySFNIVWVDOGZZbG9lUmI4a3cwNno2RmRJb1hzcnExQ0xfX0NPamVJd21HVFdZbjZOVGs4TXQyRTNtR0piSU9uOE04OG1sTUdCejBuV1k2WdIBe0FVX3lxTE1kV1M3YXVpZ3F5Q1FlZFhJeXRzTUM5Y01yTFYtUnhHLUlRdXNySFNIVWVDOGZZbG9lUmI4a3cwNno2RmRJb1hzcnExQ0xfX0NPamVJd21HVFdZbjZOVGs4TXQyRTNtR0piSU9uOE04OG1sTUdCejBuV1k2WQ?oc=5",
+     "date": "2026-10-01T22:00:11+00:00",
+     "source": "Infoseek",
+     "snippet": "城南信用金庫×日本IBMが取り組む「地域DX」 従来の事業モデルから脱却できるか？&nbsp;&nbsp;Infoseek",
+     "summary": "城南信用金庫と日本IBMが共同で進める「地域DX」プロジェクトは、従来の事業モデルからの脱却を目指しているそうだにゃ。地域経済の活性化やデジタル技術の導入を通じて、地域のニーズに応える新たなビジネスモデルの構築を図ることが期待されているにゃん。"
+    },
+    {
+     "type": "news",
      "title": "名古屋から1時間半の離島へ。ブルーカーボン新規事業担当者20名限定、「篠島ブルーエコノミー現地視察ツアー」を10月2日開催 - 朝日新聞",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SSlk2SDB1ckQwelV6QWVCTmlRNjNtQ0piSzZTaV9ET1pBSGMzUkFuRGt0Yng5aTFsZm1XZ05UVmVfMlYyWWhHQ0FPb2xYZjVUeEJ0Q19sNU1lY00?oc=5",
      "date": "2026-10-01T19:42:42+00:00",
      "source": "朝日新聞",
      "snippet": "名古屋から1時間半の離島へ。ブルーカーボン新規事業担当者20名限定、「篠島ブルーエコノミー現地視察ツアー」を10月2日開催&nbsp;&nbsp;朝日新聞",
-     "summary": "名古屋から1時間半の距離にある篠島で、ブルーカーボン新規事業担当者向けの「篠島ブルーエコノミー現地視察ツアー」が10月2日に開催されるにゃ。参加者は20名限定で、地域の環境保護や持続可能な開発に関する取り組みを学ぶ機会が提供されるそうだにゃん。"
+     "summary": "名古屋から1時間半の距離にある篠島で、ブルーカーボン新規事業担当者向けの現地視察ツアーが10月2日に開催されるそうだにゃ。このツアーは20名限定で、ブルーカーボンの取り組みやその可能性について学ぶ機会となるにゃん。"
     },
     {
      "type": "news",
@@ -168,7 +177,7 @@
      "date": "2026-10-01T19:05:00+00:00",
      "source": "ダイヤモンド・オンライン",
      "snippet": "日テレが映像制作大手KANAMELの483億円買収で加速させる「地上波一本足打法」からの脱却、世界と競う「開国」のシナリオを幹部激白《再配信》&nbsp;&nbsp;ダイヤモンド・オンライン",
-     "summary": "日テレが映像制作大手KANAMELを483億円で買収することで、地上波一本足打法からの脱却を図るにゃ。幹部はこの買収を通じて、世界と競争するための「開国」のシナリオを明らかにしたそうだにゃ。新たな戦略により、メディア業界での地位を強化する狙いがあるにゃん。"
+     "summary": "日本テレビは映像制作大手KANAMELを483億円で買収し、地上波一本足打法からの脱却を図るそうだにゃ。この動きは、世界市場での競争力を高めるための「開国」のシナリオを描くもので、幹部がその意図を明かしているにゃん。"
     },
     {
      "type": "news",
@@ -177,7 +186,7 @@
      "date": "2026-10-01T07:14:40+00:00",
      "source": "テアトルシネマグループ",
      "snippet": "偏向報道&nbsp;&nbsp;テアトルシネマグループ",
-     "summary": "「偏向報道」というテーマについて、テアトルシネマグループが取り上げているにゃ。詳細な内容は不明だが、偏向した報道が持つ影響や問題点についての議論が行われていると思われるにゃん。"
+     "summary": "「偏向報道」というテーマで、テアトルシネマグループが何らかの情報を発信しているようだにゃ。具体的な内容は不明だが、報道の中立性や公正性についての問題提起が含まれている可能性があるにゃん。"
     },
     {
      "type": "news",
@@ -186,16 +195,7 @@
      "date": "2026-10-01T04:11:10+00:00",
      "source": "NHKニュース",
      "snippet": "ソフトバンク子会社の元常務を逮捕 1億7000万円着服か | NHKニュース | 事件・事故&nbsp;&nbsp;NHKニュース",
-     "summary": "ソフトバンク子会社の元常務が、1億7000万円を着服した疑いで逮捕されたにゃ。事件の詳細はまだ明らかにされていないが、企業内部での不正行為が問題視されているようだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "メディアドゥ(東京)、カナダ企業に海外５社売却 DX化の逆輸入進まず - 徳島新聞デジタル",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zREljdFpjY2k0OHRWclNxRF90LTJSTkZ4T040RjVha0RHcXgyTDlCY3FkdU1NNXVmMjQ0NHI3cGNsQzVJYXRQeVY5UFY5UU9CeXVOSFVR?oc=5",
-     "date": "2026-09-30T20:00:00+00:00",
-     "source": "徳島新聞デジタル",
-     "snippet": "メディアドゥ(東京)、カナダ企業に海外５社売却 DX化の逆輸入進まず&nbsp;&nbsp;徳島新聞デジタル",
-     "summary": "メディアドゥがカナダ企業に海外5社を売却したが、DX化の逆輸入が進んでいないという報告があるにゃ。東京に本社を置くメディアドゥは、国際的なビジネス展開に苦戦している様子だにゃん。"
+     "summary": "ソフトバンクの子会社の元常務が、約1億7000万円を着服した疑いで逮捕されたそうだにゃ。事件の詳細や背景については今後の捜査で明らかになるだろうが、企業の信頼性に影響を与える重大な問題だにゃん。"
     }
    ]
   },
@@ -210,16 +210,16 @@
      "date": "2026-10-01T16:35:50+00:00",
      "source": "ウォーカープラス",
      "snippet": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任&nbsp;&nbsp;ウォーカープラス",
-     "summary": "香川照之が国立科学博物館の「昆虫」展のサポーターに就任したにゃ。彼の参加により、昆虫の魅力を広める活動が期待されるそうだにゃん。昆虫展は多くの人々に科学への興味を喚起することを目指しているにゃ。"
+     "summary": "香川照之が国立科学博物館の「昆虫」展のサポーターに就任したにゃ。彼は昆虫の魅力を広めるために活動するそうだにゃん。展覧会では、昆虫に関する様々な展示が行われ、来場者に楽しんでもらえる内容になるだろうにゃ。"
     },
     {
      "type": "news",
-     "title": "アニメ『弱気MAX令嬢』×豊橋市自然史博物館がコラボ。化石展示＆録り下ろし音声を展開 - 電撃オンライン",
+     "title": "アニメ『弱気MAX令嬢』×豊橋市自然史博物館がコラボ。化石展示＆録り下ろし音声を展開 - dengekionline.com",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2N2tMV3d3a2pwci05OXZFTjZ1ZnpGTTROTHpfT3JOTEtNYVB6bnVGTVVaU1c3VTl4M1hSdDF6S0JkTTJxZ09FNWRfVl8tZ1ZTQ1pyOFpZYlVqdw?oc=5",
      "date": "2026-10-01T12:17:00+00:00",
-     "source": "電撃オンライン",
-     "snippet": "アニメ『弱気MAX令嬢』×豊橋市自然史博物館がコラボ。化石展示＆録り下ろし音声を展開&nbsp;&nbsp;電撃オンライン",
-     "summary": "アニメ『弱気MAX令嬢』と豊橋市自然史博物館がコラボしたにゃ。化石展示や録り下ろし音声が展開され、ファンにとって特別な体験が提供されるそうだにゃ。アニメと自然史の融合が楽しみだにゃん。"
+     "source": "dengekionline.com",
+     "snippet": "アニメ『弱気MAX令嬢』×豊橋市自然史博物館がコラボ。化石展示＆録り下ろし音声を展開&nbsp;&nbsp;dengekionline.com",
+     "summary": "アニメ『弱気MAX令嬢』と豊橋市自然史博物館がコラボしたにゃ。化石展示や録り下ろし音声が展開され、ファンにとって特別な体験ができるそうだにゃん。このコラボは、アニメと自然史の融合を楽しむ機会になるだろうにゃ。"
     },
     {
      "type": "news",
@@ -228,7 +228,7 @@
      "date": "2026-10-01T04:24:41+00:00",
      "source": "ウォーカープラス",
      "snippet": "画像3 / 12＞国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中！おすすめ展覧会グッズを一挙紹介&nbsp;&nbsp;ウォーカープラス",
-     "summary": "国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中だにゃ。この展覧会では日本人の起源に関する研究成果が紹介されているにゃ。おすすめの展覧会グッズも販売されており、訪れる価値があるそうだにゃん。"
+     "summary": "国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中だにゃ。展覧会では日本人の起源に関する研究成果が紹介されており、関連グッズも販売されているそうだにゃん。興味深い内容が盛りだくさんの展覧会だにゃ。"
     },
     {
      "type": "news",
@@ -237,7 +237,7 @@
      "date": "2026-10-01T04:06:36+00:00",
      "source": "ウォーカープラス",
      "snippet": "画像4 / 13＞まるで遊園地！体験アトラクションがいっぱいの「バンドー神戸青少年科学館」で遊んで学ぼう&nbsp;&nbsp;ウォーカープラス",
-     "summary": "「バンドー神戸青少年科学館」では、遊園地のような体験アトラクションがたくさんあるにゃ。遊びながら学べる環境が整っていて、子どもたちにとって楽しい学びの場となっているそうだにゃん。"
+     "summary": "「バンドー神戸青少年科学館」では、遊園地のような体験アトラクションがたくさんあるにゃ。遊びながら学ぶことができる施設で、子どもたちにとって楽しい学びの場になるだろうにゃん。科学を身近に感じることができるそうだにゃ。"
     },
     {
      "type": "news",
@@ -246,7 +246,7 @@
      "date": "2026-10-01T04:06:35+00:00",
      "source": "ウォーカープラス",
      "snippet": "画像2 / 3＞国立科学博物館のアンモナイト研究者とコラボ！各種の特徴をわかりやすく表現したアンモナイト型クッキー9種が登場&nbsp;&nbsp;ウォーカープラス",
-     "summary": "国立科学博物館のアンモナイト研究者とコラボしたアンモナイト型クッキーが9種類登場したにゃ。各種の特徴をわかりやすく表現しており、科学と美味しさを楽しむことができるそうだにゃん。"
+     "summary": "国立科学博物館のアンモナイト研究者とコラボしたアンモナイト型クッキーが登場したにゃ。各種の特徴をわかりやすく表現した9種類のクッキーが販売されており、楽しみながら学べるお菓子になっているそうだにゃん。"
     }
    ]
   },
@@ -261,7 +261,7 @@
      "date": "2026-10-01T11:00:00+00:00",
      "source": "枚方つーしん",
      "snippet": "くずモでVR体験やお金の相談！無料イベントが3つ&nbsp;&nbsp;枚方つーしん",
-     "summary": "枚方つーしんによると、くずモで開催される無料イベントでは、VR体験やお金の相談ができるそうだにゃ。参加者はさまざまな体験を通じて、楽しみながら学ぶことができるにゃん。イベントは地域の活性化を目的としており、参加者の関心を引く内容になっているみたいだにゃ。"
+     "summary": "枚方つーしんによると、くずモで開催される無料イベントでは、VR体験やお金の相談ができるそうだにゃ。参加者は最新のVR技術を体験しながら、専門家からお金に関するアドバイスを受けられるにゃ。地域の人々にとって、楽しみながら学べる貴重な機会になりそうだにゃん。"
     },
     {
      "type": "news",
@@ -270,34 +270,34 @@
      "date": "2026-10-01T10:50:10+00:00",
      "source": "陸自調査団",
      "snippet": "陸上自衛隊 広報センター オクトーバーフェア2026（体験喫食･VR体験等）｜2026年10月24日(土)･25日(日)&nbsp;&nbsp;陸自調査団",
-     "summary": "陸自調査団によると、陸上自衛隊の広報センターで2026年10月24日と25日にオクトーバーフェアが開催されるそうだにゃ。体験喫食やVR体験などが用意されており、来場者は自衛隊の活動を身近に感じることができるイベントになっているにゃん。"
+     "summary": "陸自調査団によると、陸上自衛隊の広報センターで2026年10月24日と25日にオクトーバーフェアが開催されるそうだにゃ。体験喫食やVR体験が用意されており、来場者は自衛隊の活動を身近に感じることができるイベントになるにゃ。多くの人が参加することが期待されているにゃん。"
     },
     {
      "type": "news",
-     "title": "VR機器の展示も - 大阪ベイ経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wZTFNOHRTb2JsQi15d2tSaFk0Y19pWXg0NXhsY295dVRQV18xYlh5QXRSaW1lT0pGaEpldlFmd0d6TzcyTldGNko3SHJZV0JNNkJYZk1KTQ?oc=5",
-     "date": "2026-10-01T08:22:48+00:00",
-     "source": "大阪ベイ経済新聞",
-     "snippet": "VR機器の展示も&nbsp;&nbsp;大阪ベイ経済新聞",
-     "summary": "大阪ベイ経済新聞によると、VR機器の展示が行われるイベントがあるそうだにゃ。最新のVR技術や機器が紹介され、来場者はその魅力を体感できる機会になるみたいだにゃん。VRの進化を感じることができる貴重なイベントだと思うにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "新型デバイス『Meta VR Glasses』は何がすごいのか？ 先行体験して分かった魅力を語る【Podcastもぐラジオ要約版】 - moguravr.com",
+     "title": "新型デバイス『Meta VR Glasses』は何がすごいのか？ 先行体験して分かった魅力を語る【Podcastもぐラジオ要約版】 - Mogura VR",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90UFA3X3BKNFFIYy1ncnpSd3JpZmROTHd6SHlxQ0R1XzNManN2M0hCdzRvdi1RNkhYV0piXzk3WXBFYmVocWFidy03YV9XXzJPQjdlUHU4Y1prS0szRHpxWnIzYnY1dw?oc=5",
      "date": "2026-10-01T07:17:57+00:00",
-     "source": "moguravr.com",
-     "snippet": "新型デバイス『Meta VR Glasses』は何がすごいのか？ 先行体験して分かった魅力を語る【Podcastもぐラジオ要約版】&nbsp;&nbsp;moguravr.com",
-     "summary": "moguravr.comによると、新型デバイス『Meta VR Glasses』が注目されているそうだにゃ。先行体験を通じて、その魅力や機能について語られており、特に使いやすさや映像のクオリティが評価されているみたいだにゃん。VRの未来を感じさせるデバイスだと思うにゃ。"
+     "source": "Mogura VR",
+     "snippet": "新型デバイス『Meta VR Glasses』は何がすごいのか？ 先行体験して分かった魅力を語る【Podcastもぐラジオ要約版】&nbsp;&nbsp;Mogura VR",
+     "summary": "Mogura VRによると、新型デバイス『Meta VR Glasses』の先行体験が行われ、その魅力が語られたそうだにゃ。このデバイスは、軽量で高画質な映像体験を提供し、ユーザーに没入感を与えることが特徴だにゃ。ポッドキャストでもその魅力について詳しく紹介されているにゃん。"
     },
     {
      "type": "news",
-     "title": "物流現場の人手不足対策としてＶＲ技術の活用を拡大 －フォークリフト有資格者・教育担当者不足への対応手段として注目－ - dreamnews.jp",
+     "title": "物流現場の人手不足対策としてＶＲ技術の活用を拡大 －フォークリフト有資格者・教育担当者不足への対応手段として注目－ - ドリームニュース",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKckZhNFVCQ1BWN3JoUVNxcXVmaVlidktobUl6S24wUF9Hb08wcko0c0VMclh0NDQwRkVqSXhFbHBMdVdUVnJhYkw2czJqdHhvMmtz?oc=5",
      "date": "2026-10-01T06:30:00+00:00",
-     "source": "dreamnews.jp",
-     "snippet": "物流現場の人手不足対策としてＶＲ技術の活用を拡大 －フォークリフト有資格者・教育担当者不足への対応手段として注目－&nbsp;&nbsp;dreamnews.jp",
-     "summary": "dreamnews.jpによると、物流現場の人手不足対策としてVR技術の活用が拡大しているそうだにゃ。特にフォークリフトの有資格者や教育担当者の不足に対処する手段として注目されているにゃん。VRを活用することで、効率的な教育が可能になるかもしれないにゃ。"
+     "source": "ドリームニュース",
+     "snippet": "物流現場の人手不足対策としてＶＲ技術の活用を拡大 －フォークリフト有資格者・教育担当者不足への対応手段として注目－&nbsp;&nbsp;ドリームニュース",
+     "summary": "ドリームニュースによると、物流現場の人手不足対策としてVR技術の活用が拡大しているそうだにゃ。特にフォークリフトの有資格者や教育担当者が不足している中で、VRを利用した教育が注目されているにゃ。これにより、効率的な人材育成が期待されているにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "ベントレーソウル、現代百貨店 板橋店で20周年記念ポップアップ...「トルカルAR体験」 - 매일경제",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjUFY1Q3k3UEtBYWZWdkpZcEJPNmdBSExPRUx2UWdGZms1MDVDb0hQdlRidUlyU1ZWdkZmOW04MmVkX2dIaFJiNnByRHZnOUtHOVhB?oc=5",
+     "date": "2026-10-01T05:46:06+00:00",
+     "source": "매일경제",
+     "snippet": "ベントレーソウル、現代百貨店 板橋店で20周年記念ポップアップ...「トルカルAR体験」&nbsp;&nbsp;매일경제",
+     "summary": "매일경제によると、ベントレーソウルが現代百貨店板橋店で20周年記念のポップアップイベントを開催するそうだにゃ。このイベントでは「トルカルAR体験」が提供され、来場者は新しい体験を楽しむことができるにゃ。特別な企画が盛りだくさんで、注目を集めているにゃん。"
     }
    ]
   }
