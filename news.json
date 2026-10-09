@@ -1,10 +1,28 @@
 {
- "updated": "2026-10-09T00:38:20.109767+00:00",
+ "updated": "2026-10-09T02:35:03.478341+00:00",
  "categories": [
   {
    "id": "ai_media",
    "title": "🤖 AI×メディア研究（ニュース・論文・行政）",
    "items": [
+    {
+     "type": "gov",
+     "title": "米国・ウクライナ復興投資基金、重要鉱物・エネルギー分野への投資を承認(米国、ウクライナ) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tblE3UjFMeGVfU0JaLXUwQ2N0ODRVdUNBSjM1Ul9uc2s2aUg1OHFOeC1ZQmJyYWNQNnVxVDloa2h3Mzl3ZlhyT3RaeWwtR1FtNmtHbDFSUUU4M0dxemI2OFNpWENQMmlPa1NseThn?oc=5",
+     "date": "2026-10-09T01:24:38+00:00",
+     "source": "ジェトロ（日本貿易振興機構）",
+     "snippet": "米国・ウクライナ復興投資基金、重要鉱物・エネルギー分野への投資を承認(米国、ウクライナ) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
+     "summary": "米国とウクライナの復興投資基金が、重要鉱物やエネルギー分野への投資を承認したにゃ。この投資は、ウクライナの復興を支援するためのもので、経済の再建に寄与することが期待されているそうだにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "世界銀行報告書、中東のAI活用に地域差、言語データ不足も課題と指摘 - ジェトロ（日本貿易振興機構）",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Pck5sQkZzYXZydHpVSHFCQUR5RTZrc19ZSkdjYnNXWTJmMnk4c2xRYm5OT29lUExqZ2t1ZTI5cUdIODVIRHk3S1NVdXN5Wm02SEJ0NGgzVDYwdndmOVNveUg2T0lMT3VkMGFBcDRR?oc=5",
+     "date": "2026-10-09T00:53:30+00:00",
+     "source": "ジェトロ（日本貿易振興機構）",
+     "snippet": "世界銀行報告書、中東のAI活用に地域差、言語データ不足も課題と指摘&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
+     "summary": "世界銀行の報告書によると、中東地域におけるAIの活用には地域差があり、言語データの不足が課題として指摘されているにゃ。各国でのAI技術の導入状況や、言語の多様性が影響を及ぼしているそうだにゃん。"
+    },
     {
      "type": "news",
      "title": "富士通ラーニングメディア、「【集合】生成AIを活用したデータ分析 -問いの設定から意思決定まで-」提供開始 - ICT教育ニュース",
@@ -12,34 +30,16 @@
      "date": "2026-10-09T00:10:25+00:00",
      "source": "ICT教育ニュース",
      "snippet": "富士通ラーニングメディア、「【集合】生成AIを活用したデータ分析 -問いの設定から意思決定まで-」提供開始&nbsp;&nbsp;ICT教育ニュース",
-     "summary": "富士通ラーニングメディアが新たに「【集合】生成AIを活用したデータ分析 -問いの設定から意思決定まで-」というコースを提供開始したにゃ。このコースでは、生成AIを使ったデータ分析の手法や、問いの設定から意思決定に至るまでのプロセスを学ぶことができるそうだにゃ。"
+     "summary": "富士通ラーニングメディアは、生成AIを活用したデータ分析に関する新しいコースを提供開始したにゃ。このコースでは、問いの設定から意思決定までのプロセスを学ぶことができるそうだにゃん。"
     },
     {
-     "type": "gov",
-     "title": "産学連携で育む工学人材と広がる日本語教育：インドRMK工科大学 - ジェトロ（日本貿易振興機構）",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaEtrODdfOE1KWGZuYzBHdzhWQ2YzbXNCOVJJdEQxLW8yMnRKZTFYSHhRdy1jTklYTjhuZFMxZW02eFJmTWVFSEtJVXA5eG9TbHhSc25JMTFidTBOWWU2WGEzUmRIakprbEpwVzk0STQteXdBMVFOd3FzTHFtXzFjX1hJVW1wdw?oc=5",
-     "date": "2026-10-08T09:29:09+00:00",
-     "source": "ジェトロ（日本貿易振興機構）",
-     "snippet": "産学連携で育む工学人材と広がる日本語教育：インドRMK工科大学&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "インドのRMK工科大学では、産学連携を通じて工学人材の育成と日本語教育の拡充を図っているにゃ。ジェトロがこの取り組みを支援しており、学生たちは日本の企業でのインターンシップを通じて実践的なスキルを身につけているそうだにゃん。"
-    },
-    {
-     "type": "gov",
-     "title": "ジェトロ、広島で「USMCAセミナー」を開催(日本) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ（日本貿易振興機構）",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wdnh4aTRSRENpYVpHRlhNeENMc0I5VlZZNloxT1lKUmo2bTJFMkNNWG5PWnNNbDFPQ0I4aDBEeEIzVGd1WXlKR1dQWXVTMFI4T2JEQTNrS29lbHhUZGtReUVDZmpkUExOUFVnX3ZB?oc=5",
-     "date": "2026-10-08T07:01:01+00:00",
-     "source": "ジェトロ（日本貿易振興機構）",
-     "snippet": "ジェトロ、広島で「USMCAセミナー」を開催(日本) | ビジネス短信 ―ジェトロの海外ニュース&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "ジェトロが広島で「USMCAセミナー」を開催したにゃ。このセミナーでは、米国・メキシコ・カナダ間の貿易協定に関する情報が提供され、参加者は最新の貿易動向やビジネスチャンスについて学ぶことができたそうだにゃ。"
-    },
-    {
-     "type": "gov",
-     "title": "ジェトロが米テキサス州で2回目のバイオ・創薬系スタートアップ育成プログラムを実施(日本、米国) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PTXZLQVV4ZlNKcnkxR1pyTXNDUFRzdndNdExqRzB0SHJ2cEZsRVhyQUN4OU8zeWlkYjBfVFFoT0hEVkZPaUZVM0dSdXVlSFpxUkRJOENuVGkzVzVpWXhIVU9lM2VsSjUxaUhienVB?oc=5",
-     "date": "2026-10-08T06:50:56+00:00",
-     "source": "ジェトロ（日本貿易振興機構）",
-     "snippet": "ジェトロが米テキサス州で2回目のバイオ・創薬系スタートアップ育成プログラムを実施(日本、米国) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "ジェトロが米テキサス州で2回目のバイオ・創薬系スタートアップ育成プログラムを実施したにゃ。このプログラムでは、日本と米国のスタートアップが交流し、ビジネスの成長を促進するための支援が行われたそうだにゃん。"
+     "type": "paper",
+     "title": "Narrow and Deep: An Ontology Tower as the Knowledge of an LLM Agent for an Industrial Equipment System",
+     "link": "https://arxiv.org/abs/2610.11768v1",
+     "date": "2026-10-08T11:50:51+00:00",
+     "source": "arXiv",
+     "snippet": "Large language model (LLM) agents are beginning to operate industrial energy equipment, and what they get right depends on what they are told about the plant. Established building ontologies name many kinds of points across many sites, whereas an industrial equipment system needs few entities with much knowledge about each. This study proposes the ontology tower, a narrow-and-deep ontology of a single equipment system whose knowledge deepens in two ways: through quantities derived from the measured points by physical relations, and through lessons from the operating journal incorporated as kno",
+     "summary": "この研究では、産業用エネルギー機器を操作する大規模言語モデル（LLM）エージェントに関する新しい知識体系「オントロジータワー」を提案しているにゃ。これは、特定の機器システムに特化した知識を深める方法を示しているそうだにゃん。"
     },
     {
      "type": "news",
@@ -48,16 +48,16 @@
      "date": "2026-10-08T06:27:00+00:00",
      "source": "ビジネス+IT",
      "snippet": "グーグル、AI生成物の判定ツール「SynthID Detector」を全世界に公開、他社製も対象&nbsp;&nbsp;ビジネス+IT",
-     "summary": "グーグルがAI生成物の判定ツール「SynthID Detector」を全世界に公開したにゃ。このツールは、他社製の生成物も対象としており、AIによるコンテンツの識別を容易にすることを目的としているそうだにゃ。"
+     "summary": "グーグルは、AI生成物を判定するツール「SynthID Detector」を全世界に公開したにゃ。このツールは、他社製のAI生成物にも対応しており、生成物の信頼性を評価するために役立つそうだにゃん。"
     },
     {
      "type": "news",
      "title": "【最新｜BtoB企業のプレスリリース活用実態】半数以上が「生成AIへの引用・露出」に効果を実感。8割以上が外部委託を活 - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02MHE3cUJ0LVZJQlVJUWxlNlprU1plWUg3M2NQN203RWN5WVlFdXc0RTV0U3FKemhOeG1sNVRmTVF2dkVtT2dfRHhSdWpuT3RWaGN2eg?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qaUZ2a05yX0FRaWpLY3pNSTFVNUUzbk5KWkJ5Wm44WlhJYUJ2WnhBOU1aTUx2c0VhRjNReUNMRjJ1TzJBZTUtOFlNM1FFT0hfLU9kRWJPT3EzRVhFTEZSZk11MEFoekNhSWN1VlRnQl81Y2pVRGJhTVlPbw?oc=5",
      "date": "2026-10-08T04:00:54+00:00",
      "source": "ニコニコニュース",
      "snippet": "【最新｜BtoB企業のプレスリリース活用実態】半数以上が「生成AIへの引用・露出」に効果を実感。8割以上が外部委託を活&nbsp;&nbsp;ニコニコニュース",
-     "summary": "BtoB企業のプレスリリース活用実態に関する調査によると、半数以上の企業が生成AIへの引用・露出に効果を実感しているにゃ。また、8割以上の企業が外部委託を活用していることも明らかになったそうだにゃん。"
+     "summary": "BtoB企業のプレスリリース活用実態に関する最新調査では、半数以上の企業が生成AIへの引用や露出に効果を実感しているにゃ。また、8割以上の企業が外部委託を活用していることも明らかになったそうだにゃん。"
     },
     {
      "type": "news",
@@ -66,7 +66,7 @@
      "date": "2026-10-08T02:00:00+00:00",
      "source": "ドリームニュース",
      "snippet": "新規コース「【集合】生成AIを活用したデータ分析 -問いの設定から意思決定まで-」提供開始&nbsp;&nbsp;ドリームニュース",
-     "summary": "新規コース「【集合】生成AIを活用したデータ分析 -問いの設定から意思決定まで-」が提供開始されたにゃ。このコースでは、生成AIを活用したデータ分析の方法を学ぶことができ、実践的なスキルを身につけることができるそうだにゃ。"
+     "summary": "新たに提供が開始されたコース「生成AIを活用したデータ分析」では、問いの設定から意思決定までの流れを学ぶことができるにゃ。このコースは、データ分析のスキルを向上させるための内容となっているそうだにゃん。"
     },
     {
      "type": "news",
@@ -75,7 +75,7 @@
      "date": "2026-10-07T23:00:01+00:00",
      "source": "PR TIMES",
      "snippet": "Defiosの生成AI活用ゲーム2作品が「東京ゲームショウ2026」出展を機に各種メディアで紹介されました！&nbsp;&nbsp;PR TIMES",
-     "summary": "Defiosの生成AIを活用したゲーム2作品が「東京ゲームショウ2026」に出展され、各種メディアで紹介されたにゃ。これにより、ゲーム業界における生成AIの活用が注目されているそうだにゃん。"
+     "summary": "Defiosが開発した生成AIを活用したゲーム2作品が、東京ゲームショウ2026に出展され、各種メディアで紹介されたにゃ。これにより、ゲームの認知度が高まり、注目を集めているそうだにゃん。"
     },
     {
      "type": "news",
@@ -84,7 +84,7 @@
      "date": "2026-10-07T10:53:36+00:00",
      "source": "AIsmiley",
      "snippet": "【10/30開催ウェビナー】「使われない生成AI」をゼロにする！プロセス再設計×人材育成で実現する全社定着 ～人とAIの役割分担から、現場業務への組み込み、研修・エージェント活用事例まで一挙公開～&nbsp;&nbsp;AIsmiley",
-     "summary": "10月30日に開催されるウェビナーでは、「使われない生成AI」をゼロにするためのプロセス再設計と人材育成について議論されるにゃ。人とAIの役割分担や現場業務への組み込み事例が紹介される予定だそうだにゃ。"
+     "summary": "10月30日に開催されるウェビナーでは、「使われない生成AI」をゼロにするためのプロセス再設計や人材育成について公開されるにゃ。人とAIの役割分担や現場業務への組み込み事例が紹介される予定だそうだにゃん。"
     },
     {
      "type": "news",
@@ -93,7 +93,7 @@
      "date": "2026-10-07T07:10:00+00:00",
      "source": "wowKorea（ワウコリア）",
      "snippet": "中国・生成AI利用者規模、7億人を突破…普及率50.0％超える＝中国報道&nbsp;&nbsp;wowKorea（ワウコリア）",
-     "summary": "中国の生成AI利用者規模が7億人を突破し、普及率は50.0％を超えたという報道があったにゃ。これは、生成AIが中国で急速に普及していることを示しており、今後の展開が注目されるそうだにゃん。"
+     "summary": "中国では、生成AIの利用者数が7億人を超え、普及率が50.0％を超えたと報じられているにゃ。この急速な普及は、AI技術の進展とともに、社会全体に影響を及ぼしているそうだにゃん。"
     }
    ]
   },
@@ -103,12 +103,21 @@
    "items": [
     {
      "type": "news",
+     "title": "歩行支援で観光参加を後押し東京科学大学、雨の高尾山でロボット活用ツアー - ツーリズムメディアサービス",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DMS1BT0VybnFQV1lzX3ZncDRjeHYzSWNVTVVheGFORGFZSXJxQUNYOWEyNGJvem9ta1FVM01tekRYUHBZZFNLUQ?oc=5",
+     "date": "2026-10-09T00:29:23+00:00",
+     "source": "ツーリズムメディアサービス",
+     "snippet": "歩行支援で観光参加を後押し東京科学大学、雨の高尾山でロボット活用ツアー&nbsp;&nbsp;ツーリズムメディアサービス",
+     "summary": "東京科学大学は、雨の高尾山でロボットを活用した歩行支援ツアーを実施したにゃ。これにより、観光参加を促進し、障がい者や高齢者が安心して楽しめる環境を整えたそうだにゃん。ロボット技術を活用することで、参加者は自然を楽しみながら、観光地を訪れることができるにゃ。"
+    },
+    {
+     "type": "news",
      "title": "「BASE」、倉敷芸術科学大学と連携し、伝統を受け継ぐ瀬戸内市のやきものを現代の暮らしに届けるオンラインショップ「SE - ニコニコニュース",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKdFp3T2ZYRXEzbVBCMGdFbUNEWnJHMWZoNnl0OXIzcF9mZmdMY01BR0EtSWEzSzJDVW9ucW9CcXBJZV94WmdjWXR3RGFrWnV5SUlXamtQbnhGRDJDN29tZWx3Z2luSGxsS3E2ZmtTQTQxbUdtVFBhSGRpMA?oc=5",
      "date": "2026-10-08T19:18:28+00:00",
      "source": "ニコニコニュース",
      "snippet": "「BASE」、倉敷芸術科学大学と連携し、伝統を受け継ぐ瀬戸内市のやきものを現代の暮らしに届けるオンラインショップ「SE&nbsp;&nbsp;ニコニコニュース",
-     "summary": "「BASE」は倉敷芸術科学大学と協力して、瀬戸内市の伝統的なやきものを現代の生活に届けるオンラインショップ「SE」を開設するにゃ。これにより、地域の文化や技術を広め、より多くの人にやきものの魅力を伝えることを目指しているそうだにゃん。"
+     "summary": "「BASE」は、倉敷芸術科学大学と連携して、瀬戸内市の伝統的なやきものを現代の暮らしに届けるオンラインショップ「SE」を開設したにゃ。これにより、地域の伝統を守りつつ、現代のニーズに合わせた商品を提供することを目指しているそうだにゃん。"
     },
     {
      "type": "news",
@@ -117,7 +126,7 @@
      "date": "2026-10-08T14:15:37+00:00",
      "source": "ニコニコニュース",
      "snippet": "第1回「SATOBITOアワード」受賞者決定 ―― 自分なりの「さと」を築き、主体的に行動する3名が、初代受賞者に&nbsp;&nbsp;ニコニコニュース",
-     "summary": "第1回「SATOBITOアワード」の受賞者が決定したにゃ。このアワードは、自分なりの「さと」を築き、主体的に行動する人々を表彰するもので、初代受賞者には3名が選ばれたそうだにゃ。彼らの活動が地域に良い影響を与えることを期待しているにゃん。"
+     "summary": "第1回「SATOBITOアワード」の受賞者が決定したにゃ。自分なりの「さと」を築き、主体的に行動した3名が初代受賞者となったそうだにゃん。このアワードは、地域貢献や社会活動を評価するもので、受賞者の活動が今後の模範となることが期待されているにゃ。"
     },
     {
      "type": "news",
@@ -126,7 +135,7 @@
      "date": "2026-10-08T10:15:32+00:00",
      "source": "Yahoo!ニュース",
      "snippet": "アーケード商店街の大規模火災から3か月以上経過…建物の解体・がれき撤去が進む中、今後の「まちづくり」はどうなる? 島根県出雲市（BSS山陰放送）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "島根県出雲市のアーケード商店街で発生した大規模火災から3か月以上が経過し、建物の解体やがれき撤去が進んでいるにゃ。今後の「まちづくり」については、地域住民や関係者がどのように再建を進めるかが注目されているそうだにゃん。"
+     "summary": "島根県出雲市のアーケード商店街で発生した大規模火災から3か月以上が経過したにゃ。現在、建物の解体やがれき撤去が進んでいるが、今後の「まちづくり」についての議論が必要とされているそうだにゃん。地域の再生に向けた取り組みが注目されているにゃ。"
     },
     {
      "type": "gov",
@@ -135,16 +144,7 @@
      "date": "2026-10-08T08:14:31+00:00",
      "source": "ＵＲ都市機構",
      "snippet": "10月22日(木)、こんＧＯ！パークでＵＲと富田林市がイベントを開催します&nbsp;&nbsp;ＵＲ都市機構",
-     "summary": "10月22日(木)に、こんＧＯ！パークでUR都市機構と富田林市が共同でイベントを開催するにゃ。このイベントでは地域の交流や情報発信が行われる予定で、参加者にとって楽しいひとときになることを期待しているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "【JCVで放送決定】映画『わたのまち、応答セヨ』10月12日(月・祝)全国一斉放送！ - 十日町タウン情報",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uc3pfQ19Nb21qRWdqdTVfNTNiMVhXajk1SmVxanNSTG11SzBtUkZkVmFycnMxSG85SHMzRS03WVpLQno4MlpNY2RhVHY1RmRIVEtWdjNpanIxUklvS29j?oc=5",
-     "date": "2026-10-08T02:20:00+00:00",
-     "source": "十日町タウン情報",
-     "snippet": "【JCVで放送決定】映画『わたのまち、応答セヨ』10月12日(月・祝)全国一斉放送！&nbsp;&nbsp;十日町タウン情報",
-     "summary": "映画『わたのまち、応答セヨ』が10月12日(月・祝)に全国一斉放送されることが決定したにゃ。この映画は地域の魅力を伝える作品で、多くの人に見てもらえる機会となることを願っているそうだにゃん。"
+     "summary": "10月22日(木)に、こんＧＯ！パークでURと富田林市が共同でイベントを開催するにゃ。地域住民や訪問者が楽しめる内容となっており、地域の活性化を図ることが目的だそうだにゃん。参加者同士の交流も期待されているにゃ。"
     }
    ]
   },
@@ -159,7 +159,7 @@
      "date": "2026-10-08T21:28:00+00:00",
      "source": "NHKニュース",
      "snippet": "ソフトバンク子会社 サイバー攻撃受け データ復旧などは困難&nbsp;&nbsp;NHKニュース",
-     "summary": "ソフトバンクの子会社がサイバー攻撃を受けたにゃ。データの復旧が困難な状況で、影響が広がる可能性があるそうだにゃ。詳細はまだ不明だが、企業のセキュリティ対策が問われる事態だにゃん。"
+     "summary": "ソフトバンクの子会社がサイバー攻撃を受け、データの復旧が困難な状況にあるそうだにゃ。具体的な影響や詳細についてはまだ明らかになっていないが、企業のセキュリティ対策の重要性が再認識される事例だにゃん。"
     },
     {
      "type": "news",
@@ -168,7 +168,7 @@
      "date": "2026-10-08T20:18:58+00:00",
      "source": "47NEWS",
      "snippet": "名鉄タクシーＨＤ 業務のＤＸ化を加速 「ロボット点呼」本格導入 効率的な拠点運営へ&nbsp;&nbsp;47NEWS",
-     "summary": "名鉄タクシーHDが業務のデジタルトランスフォーメーション（DX）を進めているにゃ。「ロボット点呼」を本格導入し、効率的な拠点運営を目指すそうだにゃ。これにより、業務の効率化が期待されているにゃん。"
+     "summary": "名鉄タクシーHDが業務のデジタルトランスフォーメーション（DX）を加速させているそうだにゃ。特に「ロボット点呼」を本格導入し、効率的な拠点運営を目指しているとのことだにゃん。今後の展開が楽しみだにゃ。"
     },
     {
      "type": "news",
@@ -177,16 +177,16 @@
      "date": "2026-10-08T19:38:57+00:00",
      "source": "茨城新聞クロスアイ",
      "snippet": "現場DX実践セミナー 30日、水戸で開催&nbsp;&nbsp;茨城新聞クロスアイ",
-     "summary": "現場DX実践セミナーが30日に水戸で開催されるにゃ。このセミナーでは、現場でのデジタルトランスフォーメーションの実践例やノウハウが共有される予定だにゃん。参加者には新たな知見が得られる機会だにゃ。"
+     "summary": "茨城県水戸市で現場DX実践セミナーが30日に開催されるそうだにゃ。このセミナーでは、デジタル技術を活用した現場の効率化や改善についての実践的な情報が提供される予定だにゃん。参加者の学びが期待されるにゃ。"
     },
     {
      "type": "news",
-     "title": "ソフトバンク子会社「一部データ復元困難」 - 高知新聞",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95OHZ3Z2R6OE85cWpGRDYwYXZ3VmtPNldvSURQeldZeDNEMEJ3UjFJeERoaFlqaTVZUUg2RVZzemJOX3hsR2I5akZodHhrYVpqekVSTmw0YzRJOTBaNjlr?oc=5",
-     "date": "2026-10-08T13:29:00+00:00",
-     "source": "高知新聞",
-     "snippet": "ソフトバンク子会社「一部データ復元困難」&nbsp;&nbsp;高知新聞",
-     "summary": "ソフトバンクの子会社がサイバー攻撃を受け、一部のデータが復元困難な状況にあるそうだにゃ。影響の詳細はまだわからないが、企業の情報管理の重要性が再認識される事態だにゃん。"
+     "title": "ソフトバンク子会社「一部データ復元困難」 - 日本海新聞",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzaTNuZzJkVDhPSmNKMlpkdUw1d0E3dXY0anVyakJOOW5iYnFfOUxVWDl1czB6R3B2Y3d5am14ZVJCWl9GTWp5VVVrZHprS2kx?oc=5",
+     "date": "2026-10-08T13:29:50+00:00",
+     "source": "日本海新聞",
+     "snippet": "ソフトバンク子会社「一部データ復元困難」&nbsp;&nbsp;日本海新聞",
+     "summary": "ソフトバンクの子会社がサイバー攻撃を受け、一部のデータが復元困難な状況にあると報じられているにゃ。影響の範囲や具体的な対策についてはまだ詳細が分からないが、企業の情報管理の重要性が浮き彫りになっているそうだにゃん。"
     },
     {
      "type": "news",
@@ -195,7 +195,7 @@
      "date": "2026-10-08T11:40:14+00:00",
      "source": "Vietnam.vn",
      "snippet": "ホーチミン市：企業は互いに学び合うことで競争力を高めている。&nbsp;&nbsp;Vietnam.vn",
-     "summary": "ホーチミン市では企業が互いに学び合うことで競争力を高めているにゃ。企業同士の協力が新たなビジネスチャンスを生む可能性があるそうだにゃん。この取り組みは地域経済の活性化にも寄与するだにゃ。"
+     "summary": "ホーチミン市では企業が互いに学び合うことで競争力を高めているそうだにゃ。企業間の協力や情報共有が、ビジネス環境の向上に寄与しているとのことだにゃん。地域経済の発展に期待が高まるにゃ。"
     }
    ]
   },
@@ -205,12 +205,21 @@
    "items": [
     {
      "type": "news",
+     "title": "＜画像2 / 5＞自宅が国立科学博物館に大変身！3Dビュー&VR映像で常設展示を無料公開 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZEI5eEVJUF9FTV9lQ09CejYtcHFsb1NwMmpqdjIxLWZSSWkzSmkwUWUtY2dvSFl1N1VqWW4wTkFyWGY5RU9BY2ZkN2lnZFh4azcydmljWHNVR3NVV3BCZDFJS252UFJLLWVmbzlKMGExdG0xNkJhV2JhQkpxWWc?oc=5",
+     "date": "2026-10-09T01:09:15+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "＜画像2 / 5＞自宅が国立科学博物館に大変身！3Dビュー&amp;VR映像で常設展示を無料公開&nbsp;&nbsp;ウォーカープラス",
+     "summary": "自宅が国立科学博物館に大変身したんだにゃ！3DビューとVR映像を使って、常設展示が無料で公開されているにゃ。これにより、誰でも自宅から科学博物館の展示を楽しむことができるんだにゃん。特に、科学に興味がある人には嬉しい企画だと思うにゃ！"
+    },
+    {
+     "type": "news",
      "title": "画像37 / 42＞上野・国立科学博物館で「大絶滅展」が開催中！生命のピンチと進化の歴史「ビッグファイブ」に迫る - ウォーカープラス",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNOWVRNS11UFlmdEpBUWIyclRjbnczaWtpZWk4TTZHNlBsR0NmeGNLeHhLYUtIejMwRXVJZXBnd0swcEhzbzZSSE1zMWFJblYwdWhTTVJLRkJpaDd4OUNSeFJYTmYtenJUUHk4Z0tB?oc=5",
      "date": "2026-10-08T21:21:50+00:00",
      "source": "ウォーカープラス",
      "snippet": "画像37 / 42＞上野・国立科学博物館で「大絶滅展」が開催中！生命のピンチと進化の歴史「ビッグファイブ」に迫る&nbsp;&nbsp;ウォーカープラス",
-     "summary": "上野の国立科学博物館で「大絶滅展」が開催中だにゃ。この展覧会では、生命の危機と進化の歴史について、特に「ビッグファイブ」と呼ばれる大絶滅事件に焦点を当てているそうだにゃん。来場者は、過去の生物多様性の変遷を学びながら、絶滅の原因やその影響について考える機会が得られるにゃ。"
+     "summary": "上野の国立科学博物館で「大絶滅展」が開催中だにゃ。展覧会では、生命の危機と進化の歴史に焦点を当て、「ビッグファイブ」と呼ばれる大絶滅事件について詳しく紹介されているにゃ。多くの人がこの展示を通じて、地球の歴史や生命の大切さを学べる機会になっているそうだにゃん。"
     },
     {
      "type": "news",
@@ -219,7 +228,7 @@
      "date": "2026-10-08T12:53:06+00:00",
      "source": "ウォーカープラス",
      "snippet": "＜画像4 / 5＞自宅が国立科学博物館に大変身！3Dビュー&amp;VR映像で常設展示を無料公開&nbsp;&nbsp;ウォーカープラス",
-     "summary": "自宅が国立科学博物館に大変身する企画があるにゃん！3DビューやVR映像を使って、常設展示を無料で公開しているそうだにゃ。これにより、遠くにいる人でも博物館の展示を楽しむことができるにゃ。自宅で手軽に科学の世界に触れられるチャンスだにゃん。"
+     "summary": "自宅が国立科学博物館に大変身したんだにゃ！3DビューとVR映像を使った常設展示が無料で公開されているにゃ。これにより、誰でも自宅から科学博物館の展示を楽しむことができるんだにゃん。特に、科学に興味がある人には嬉しい企画だと思うにゃ！"
     },
     {
      "type": "news",
@@ -228,7 +237,7 @@
      "date": "2026-10-08T06:46:10+00:00",
      "source": "いこーよニュース",
      "snippet": "高校生以下は無料！ 野口英世生誕150年の感染症展が上野・国立科学博物館で開催&nbsp;&nbsp;いこーよニュース",
-     "summary": "上野の国立科学博物館で、野口英世生誕150年を記念した感染症展が開催されているにゃ。高校生以下は入場が無料なので、若い世代にも感染症についての理解を深める良い機会だにゃん。この展覧会では、野口英世の業績や感染症の歴史について学ぶことができるそうだにゃ。"
+     "summary": "高校生以下は無料で入場できる、野口英世生誕150年の感染症展が上野の国立科学博物館で開催されているにゃ。感染症の歴史や研究成果を学ぶことができ、特に若い世代にとって貴重な体験になると思うにゃん。多くの人に訪れてほしい展覧会だにゃ！"
     },
     {
      "type": "news",
@@ -237,16 +246,7 @@
      "date": "2026-10-08T04:41:22+00:00",
      "source": "愛媛新聞",
      "snippet": "新居浜・県総合科学博物館で「剥製」特別展 国立科博収蔵、世界最大級の野生ヒツジなど180点&nbsp;&nbsp;愛媛新聞",
-     "summary": "新居浜の県総合科学博物館で「剥製」特別展が開催されているにゃ。この展覧会では、国立科学博物館が収蔵している世界最大級の野生ヒツジなど、180点の剥製が展示されているそうだにゃ。動物の生態や多様性について学ぶ良い機会になりそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "＜画像9 / 13＞国立科学博物館の特別展「昆虫」がスタート！見逃したくないポイントはここだ - ウォーカープラス",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5eVhIcm9RaDhUSWwxaC1zWENzbjVkWkhoY3NFSTBJcE9TdEJ1NkQ5YXczbkxFeU9Demc2MndoYmthNG5Pbkhvd0dieU9Na0VjS2Z0bnVsQ0tTSVo0MVFFYkJ2V3M0YmNrRlE?oc=5",
-     "date": "2026-10-08T02:48:22+00:00",
-     "source": "ウォーカープラス",
-     "snippet": "＜画像9 / 13＞国立科学博物館の特別展「昆虫」がスタート！見逃したくないポイントはここだ&nbsp;&nbsp;ウォーカープラス",
-     "summary": "国立科学博物館の特別展「昆虫」が始まったにゃ！この展覧会では、昆虫の多様性や生態についての見どころがたくさんあるそうだにゃ。特に、昆虫の役割やその魅力を知ることができるポイントが紹介されているにゃん。昆虫好きにはたまらない展示だにゃ。"
+     "summary": "新居浜の県総合科学博物館で「剥製」特別展が開催されているにゃ。国立科学博物館が収蔵した、世界最大級の野生ヒツジなど180点の剥製が展示されているんだにゃ。動物の多様性や生態系について学ぶ良い機会になっていると思うにゃん。"
     }
    ]
   },
@@ -256,12 +256,30 @@
    "items": [
     {
      "type": "news",
+     "title": "ゲーミングガジェット体験イベント「TOKYO Gaming-PC STREET 9」にブース出展最新ARグラス「xbx a01+」を展示 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9saHRaTHJLcWExMFJHeHVCcE1vd2hmN2NNd1g1UnhiQi1Eem5sbktHbk9lZkVtRzNTdUo5dl93V0VSbjBlb0VPY2JVaWlNVDRzTTZuOVNTNm44eURFVENRZTFPTG5SVlVsMXc?oc=5",
+     "date": "2026-10-09T01:00:01+00:00",
+     "source": "PR TIMES",
+     "snippet": "ゲーミングガジェット体験イベント「TOKYO Gaming-PC STREET 9」にブース出展最新ARグラス「xbx a01+」を展示&nbsp;&nbsp;PR TIMES",
+     "summary": "ゲーミングガジェット体験イベント「TOKYO Gaming-PC STREET 9」で、最新のARグラス「xbx a01+」が展示されたにゃ。参加者は新しい技術を体験し、ゲーミングの未来を感じることができるイベントだにゃん。"
+    },
+    {
+     "type": "news",
      "title": "【きょうから】秀吉時代の大坂城をVRで体感…NHK最新技術で「幻の城」に潜入、黄金の茶室や真田丸も - Lmaga.jp",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByYkVDeG9aMW1sLUxzRlJTT0FKSVo1bm1nclR3WWVOZ2lDazh0aGs4WTdleGkyaHllOTY4NjZWcGlIdkFQWnA3UGJZenYyaklJQlZkNg?oc=5",
-     "date": "2026-10-08T21:44:41+00:00",
+     "date": "2026-10-08T21:27:47+00:00",
      "source": "Lmaga.jp",
      "snippet": "【きょうから】秀吉時代の大坂城をVRで体感…NHK最新技術で「幻の城」に潜入、黄金の茶室や真田丸も&nbsp;&nbsp;Lmaga.jp",
-     "summary": "NHKが最新技術を用いて、秀吉時代の大坂城をVRで体験できるイベントを開催するにゃ。参加者は「幻の城」に潜入し、黄金の茶室や真田丸などを体感できるそうだにゃん。これにより、歴史的な場所を新たな形で楽しむことができるにゃ。"
+     "summary": "NHKが最新技術を用いて、秀吉時代の大坂城をVRで体感できる企画を開始したにゃ。参加者は「幻の城」に潜入し、黄金の茶室や真田丸などを体験できるそうだにゃん。歴史を新たな形で楽しむ機会だにゃ。"
+    },
+    {
+     "type": "paper",
+     "title": "Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting",
+     "link": "https://arxiv.org/abs/2610.12455v1",
+     "date": "2026-10-08T17:59:11+00:00",
+     "source": "arXiv",
+     "snippet": "On a film set, the camera move is committed during a take. Generative video reshooting lets filmmakers change it afterward, but may require hallucinating unrecorded content, a gap sometimes discovered only after leaving the set. We present Hybrid Cinematography, a workflow that bridges physical capture and generative reshooting to manage hallucination risk while filmmakers can still act on it. Using an editable 3D shot plan and a proxy of the take, our previsualization evaluates hallucination risk in real time. Seeing where the take lacks support, filmmakers can iteratively adjust the plan, ex",
+     "summary": "映画撮影における「ハイブリッドシネマトグラフィー」についての研究が発表されたにゃ。この手法は、物理的な撮影と生成的な再撮影を結びつけ、未記録の内容を想像するリスクを管理することを目的としているそうだにゃん。"
     },
     {
      "type": "news",
@@ -270,7 +288,7 @@
      "date": "2026-10-08T16:45:16+00:00",
      "source": "ニコニコニュース",
      "snippet": "芝生の屋上で家族や友人と過ごす秋の週末～東急百貨店吉祥寺店 屋上イベント「太陽の広場まつり」を開催&nbsp;&nbsp;ニコニコニュース",
-     "summary": "東急百貨店吉祥寺店で、屋上イベント「太陽の広場まつり」が開催されるにゃ。芝生の屋上で、家族や友人と一緒に秋の週末を楽しむことができるイベントだにゃ。参加者はリラックスした時間を過ごせるそうだにゃん。"
+     "summary": "東急百貨店吉祥寺店で、芝生の屋上を利用した「太陽の広場まつり」が開催されるにゃ。家族や友人と共に秋の週末を楽しむイベントで、リラックスした時間を過ごせる場となっているそうだにゃん。"
     },
     {
      "type": "news",
@@ -279,25 +297,7 @@
      "date": "2026-10-08T05:33:21+00:00",
      "source": "明治大学",
      "snippet": "特別講義： VRが拓く新しい「知り方」 — メタバースで出会う、関わる、知る —を開催します&nbsp;&nbsp;明治大学",
-     "summary": "明治大学で特別講義「VRが拓く新しい『知り方』」が開催されるにゃ。この講義では、メタバースを通じて出会い、関わり、知識を深める方法について学ぶことができるそうだにゃん。新しい学びの形を探求する機会だにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "ゴーグル不要で着座型の「被らないVR」九大が開発 産業・医療・文教向け | TECH+（テックプラス） - マイナビニュース",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVazBfeVlYSXBTZGd3OE94bklJTkFvMTVCS3IxbElRM29qak5jOW1wU0VyQW5yNzhLQXg4RkJDdjl3UEVsTWdFM1pmSzBCQ29va0pxUkVMVDQ0V2QxUWtXMlBKcUkzaDBP?oc=5",
-     "date": "2026-10-08T02:05:00+00:00",
-     "source": "マイナビニュース",
-     "snippet": "ゴーグル不要で着座型の「被らないVR」九大が開発 産業・医療・文教向け | TECH+（テックプラス）&nbsp;&nbsp;マイナビニュース",
-     "summary": "九州大学が開発した「被らないVR」は、ゴーグル不要で着座型の新しい体験を提供するにゃ。産業、医療、文教向けに利用される予定で、より手軽にVRを楽しめるようになるそうだにゃん。これにより、さまざまな分野での活用が期待されるにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "1005_Honda-JMS-Biz2026_03 | Motor Fan｜自動車情報のモーターファン - Motor Fan",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03ZzlPWkU5T1RHOGpPd0ZMQUR1d1lPbnJrTWJDcGY2U1h4Y3VTNjNXRm0tWERjdk1ROHZLZlNyREdRYmVTbzlKU1VmaVBDWE9KWklnX2g0UUpqSHZkUUd0TmFVMU9CNmhuQ2RvMktWa3I?oc=5",
-     "date": "2026-10-08T00:28:17+00:00",
-     "source": "Motor Fan",
-     "snippet": "1005_Honda-JMS-Biz2026_03 | Motor Fan｜自動車情報のモーターファン&nbsp;&nbsp;Motor Fan",
-     "summary": "「1005_Honda-JMS-Biz2026_03」という記事は、Hondaに関する情報を提供しているにゃ。詳細な内容は不明だが、自動車情報に関するトピックが扱われているそうだにゃん。興味がある方はぜひチェックしてみてほしいにゃ。"
+     "summary": "明治大学で特別講義「VRが拓く新しい『知り方』」が開催されるにゃ。この講義では、メタバースを通じて出会い、関わり、知識を深める方法について学ぶことができるそうだにゃん。新しい学びの形を探る機会だにゃ。"
     }
    ]
   }
