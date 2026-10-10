@@ -1,10 +1,19 @@
 {
- "updated": "2026-10-10T01:55:50.555066+00:00",
+ "updated": "2026-10-10T23:48:52.929293+00:00",
  "categories": [
   {
    "id": "ai_media",
    "title": "🤖 AI×メディア研究（ニュース・論文・行政）",
    "items": [
+    {
+     "type": "news",
+     "title": "「IBJメンバーズ」が言及率100%を獲得！生成AIのおすすめ結婚相談所調査 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93M1V3MWY0UWt3WkMxR2dxTFhCZENlSFZrZEFEZHBaeGxnMjZYZEV2YzVJOXlwNWJLcE9oWU1YWUtBNmxqUW1TRDRnWmlQV21GeHNMenp5anZaRy10Q0pyLVRETEdlTndRY0JMMTRiUQ?oc=5",
+     "date": "2026-10-09T16:18:40+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "「IBJメンバーズ」が言及率100%を獲得！生成AIのおすすめ結婚相談所調査&nbsp;&nbsp;ニコニコニュース",
+     "summary": "「IBJメンバーズ」が生成AIによるおすすめ結婚相談所調査で言及率100%を獲得したにゃ。これは、同社のサービスが多くの人に認知されていることを示しているにゃん。結婚相談所の選択肢として、IBJメンバーズが注目されていることが伺えるにゃ。"
+    },
     {
      "type": "gov",
      "title": "2026年１０月９日 事 務 局 利用者情報の取扱いに関するモニタリング（2026年度） 事業者回答概 - 総務省",
@@ -12,16 +21,25 @@
      "date": "2026-10-09T12:30:23+00:00",
      "source": "総務省",
      "snippet": "2026年１０月９日 事 務 局 利用者情報の取扱いに関するモニタリング（2026年度） 事業者回答概&nbsp;&nbsp;総務省",
-     "summary": "2026年10月9日、総務省が利用者情報の取扱いに関するモニタリングの事業者回答をまとめた内容が発表されたにゃ。具体的な内容は記載されていないが、利用者情報の適切な管理と透明性が求められていることが示唆されているそうだにゃん。"
+     "summary": "総務省が2026年度の利用者情報の取扱いに関するモニタリングを実施するにゃ。この調査は、事業者からの回答を基に行われ、利用者情報の適切な管理が求められているにゃん。詳細は今後の報告を待つ必要があるにゃ。"
     },
     {
      "type": "gov",
-     "title": "AI半導体向け先端実装技術をテーマに「IMAPS 2026」が開催(日本、米国) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
+     "title": "AI半導体向け先端実装技術をテーマに「IMAPS 2026」が開催(日本、米国) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ（日本貿易振興機構）",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pSFRyV0kzSjFmWjJEZEpiTGlqRmNYdEhPQWR2cGJoWFFSR0JNSzJyVGltN1dqTC1UeEJOZE9ob3dzZFNrRGJHRURERlk4UnJYT04zdDdWTlZ1TnpVaTQ4RVVaSVNpV3YtOVdJenJn?oc=5",
      "date": "2026-10-09T11:12:03+00:00",
      "source": "ジェトロ（日本貿易振興機構）",
-     "snippet": "AI半導体向け先端実装技術をテーマに「IMAPS 2026」が開催(日本、米国) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "「IMAPS 2026」が日本と米国で開催され、AI半導体向けの先端実装技術がテーマに選ばれたにゃ。イベントでは最新の技術やトレンドが紹介され、業界の専門家が集まり情報交換が行われる予定だにゃん。"
+     "snippet": "AI半導体向け先端実装技術をテーマに「IMAPS 2026」が開催(日本、米国) | ビジネス短信 ―ジェトロの海外ニュース&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
+     "summary": "「IMAPS 2026」が日本と米国で開催され、AI半導体向けの先端実装技術がテーマに選ばれたにゃ。これは、AI技術の進展に伴い、半導体産業の重要性が増していることを反映しているにゃん。業界関係者の交流が期待されるにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "10/21（水）から3日間、「Japan DX & AX Week 秋 2026」にブース出展 - AIsmiley",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51Q2x1RklLMmczYTEtYUxZQnlwbmJfWW5XNjllMzZabFY5QTBFTVVSaUNFQVo3bW5PbmVDNC1Kc1B2STA0R0JxU1RNbE1weFFLdW1xZEdUY29lOUdST09rZ0V4MkFUQnh6cURnbA?oc=5",
+     "date": "2026-10-09T11:03:24+00:00",
+     "source": "AIsmiley",
+     "snippet": "10/21（水）から3日間、「Japan DX & AX Week 秋 2026」にブース出展&nbsp;&nbsp;AIsmiley",
+     "summary": "10月21日から3日間、「Japan DX & AX Week 秋 2026」にブース出展するにゃ。デジタルトランスフォーメーションやAI関連の最新情報を発信し、業界の発展に寄与することを目指しているにゃん。多くの参加者との交流が楽しみだにゃ。"
     },
     {
      "type": "gov",
@@ -30,7 +48,7 @@
      "date": "2026-10-09T09:31:30+00:00",
      "source": "ジェトロ（日本貿易振興機構）",
      "snippet": "ベトナム消費市場、成熟化する消費者像とデジタル消費 ベトナム（1）&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "ベトナムの消費市場が成熟し、消費者のデジタル化が進んでいることが報告されたにゃ。特に、若年層を中心にオンラインショッピングが普及し、デジタル消費が重要なトレンドとなっているそうだにゃん。"
+     "summary": "ベトナムの消費市場が成熟化し、デジタル消費が進展しているにゃ。消費者のニーズや行動が変化しており、企業はこれに対応する必要があるにゃん。デジタル化が進む中で、消費者像の変化が注目されているにゃ。"
     },
     {
      "type": "news",
@@ -39,7 +57,7 @@
      "date": "2026-10-09T08:00:58+00:00",
      "source": "ニコニコニュース",
      "snippet": "【グラッドキューブ】マーケティングメディア「 INSIGHT CUBE 」にて、BtoB 企業の AI&nbsp;&nbsp;ニコニコニュース",
-     "summary": "マーケティングメディア「INSIGHT CUBE」において、BtoB企業のAI活用に関する情報が提供されているにゃ。具体的な内容は不明だが、AIが企業のマーケティング戦略にどのように寄与しているかが焦点となっているそうだにゃん。"
+     "summary": "マーケティングメディア「INSIGHT CUBE」がBtoB企業向けにAIを活用した情報を提供しているにゃ。これにより、企業は効果的なマーケティング戦略を立てることができるにゃん。AIの活用が企業の成長に寄与することが期待されるにゃ。"
     },
     {
      "type": "news",
@@ -48,7 +66,7 @@
      "date": "2026-10-09T03:54:00+00:00",
      "source": "PR TIMES",
      "snippet": "AI検索対策（AIO/LLMO）ツール「DolphinX AIO」、生成AIが回答の根拠にしたページを自動で分類する「引用ソース分析」を提供開始&nbsp;&nbsp;PR TIMES",
-     "summary": "AI検索対策ツール「DolphinX AIO」が新たに「引用ソース分析」機能を提供開始したにゃ。生成AIが回答の根拠にしたページを自動で分類することで、情報の信頼性向上を目指しているそうだにゃん。"
+     "summary": "AI検索対策ツール「DolphinX AIO」が新機能を提供開始したにゃ。この「引用ソース分析」は、生成AIが回答の根拠にしたページを自動で分類する機能で、情報の信頼性向上に貢献するにゃん。利用者にとって便利なツールだにゃ。"
     },
     {
      "type": "news",
@@ -57,7 +75,7 @@
      "date": "2026-10-09T00:25:02+00:00",
      "source": "ICT教育ニュース",
      "snippet": "富士通ラーニングメディア、「【集合】生成AIを活用したデータ分析 -問いの設定から意思決定まで-」提供開始&nbsp;&nbsp;ICT教育ニュース",
-     "summary": "富士通ラーニングメディアが「生成AIを活用したデータ分析」の新コースを提供開始したにゃ。問いの設定から意思決定までのプロセスを学ぶことができ、AIの実践的な活用法を学ぶ機会を提供しているそうだにゃん。"
+     "summary": "富士通ラーニングメディアが「生成AIを活用したデータ分析」の新しいプログラムを提供開始したにゃ。このプログラムは、問いの設定から意思決定までのプロセスを学ぶことができる内容になっているにゃん。教育分野でのAI活用が進むにゃ。"
     },
     {
      "type": "news",
@@ -66,7 +84,7 @@
      "date": "2026-10-08T06:27:00+00:00",
      "source": "ビジネス+IT",
      "snippet": "グーグル、AI生成物の判定ツール「SynthID Detector」を全世界に公開、他社製も対象&nbsp;&nbsp;ビジネス+IT",
-     "summary": "グーグルがAI生成物の判定ツール「SynthID Detector」を全世界に公開したにゃ。このツールは他社製の生成物にも対応しており、AIによるコンテンツの識別が可能になることが期待されているそうだにゃん。"
+     "summary": "グーグルがAI生成物の判定ツール「SynthID Detector」を全世界に公開したにゃ。このツールは他社製のAI生成物にも対応しており、生成物の信頼性を確認する手助けになるにゃん。AIの進化に伴う新たな取り組みだにゃ。"
     },
     {
      "type": "news",
@@ -75,25 +93,7 @@
      "date": "2026-10-08T04:00:54+00:00",
      "source": "ニコニコニュース",
      "snippet": "【最新｜BtoB企業のプレスリリース活用実態】半数以上が「生成AIへの引用・露出」に効果を実感。8割以上が外部委託を活&nbsp;&nbsp;ニコニコニュース",
-     "summary": "BtoB企業のプレスリリース活用実態に関する調査が発表され、半数以上が生成AIへの引用や露出に効果を実感していることがわかったにゃ。また、8割以上が外部委託を活用しているとのことだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "新規コース「【集合】生成AIを活用したデータ分析 -問いの設定から意思決定まで-」提供開始 - ドリームニュース",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tZ3pnZ2tXQ1p4NFV5VmFxb0hKaUFWRDlnWTVyVFY1c2U0ek1FZlhjM0RjejFWQkhBcGxqdXVRd2Jtb1Nvdk1hM0sxcHJTOGxyVmVj?oc=5",
-     "date": "2026-10-08T02:00:00+00:00",
-     "source": "ドリームニュース",
-     "snippet": "新規コース「【集合】生成AIを活用したデータ分析 -問いの設定から意思決定まで-」提供開始&nbsp;&nbsp;ドリームニュース",
-     "summary": "新規コース「生成AIを活用したデータ分析」が提供開始されたにゃ。このコースでは、問いの設定から意思決定までの過程を学ぶことができ、実務に役立つ内容となっているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "Defiosの生成AI活用ゲーム2作品が「東京ゲームショウ2026」出展を機に各種メディアで紹介されました！ - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ncE1Gb0p5UWh4MG1aUmoyVGdsUUszZmpDNnVfTWdpOG5EM0pHZHF1dG1jLXlyLUFnczJoZV9PWkx2WG9aTzJYY19XM01wREN4Sjd3dUNfc3BjeENRUGF2UmNlUHBKelZDZHc?oc=5",
-     "date": "2026-10-07T23:00:01+00:00",
-     "source": "PR TIMES",
-     "snippet": "Defiosの生成AI活用ゲーム2作品が「東京ゲームショウ2026」出展を機に各種メディアで紹介されました！&nbsp;&nbsp;PR TIMES",
-     "summary": "Defiosの生成AI活用ゲーム2作品が「東京ゲームショウ2026」に出展され、各種メディアで紹介されたにゃ。これにより、ゲーム業界における生成AIの活用が注目を集めているそうだにゃん。"
+     "summary": "最新の調査によると、BtoB企業の半数以上が生成AIへの引用や露出に効果を実感しているにゃ。さらに、8割以上が外部委託を活用していることがわかったにゃん。企業のマーケティング戦略におけるAIの重要性が高まっているにゃ。"
     }
    ]
   },
@@ -102,49 +102,49 @@
    "title": "🏘 地方創生×メディア",
    "items": [
     {
+     "type": "news",
+     "title": "地方企業のブランド力をアスリート肖像で底上げする新プロジェクト - Koubo",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5PLVgyQ3VmR1MyMnRFRDNPdzhtckxQTlBfRm1uQkJlOG5XSmZ3Vm05b3lIR0pOQkFkeFgwTzJ2UllRTDlYMlE?oc=5",
+     "date": "2026-10-10T21:04:32+00:00",
+     "source": "Koubo",
+     "snippet": "地方企業のブランド力をアスリート肖像で底上げする新プロジェクト&nbsp;&nbsp;Koubo",
+     "summary": "地方企業のブランド力を向上させる新プロジェクトが始まったにゃ。このプロジェクトでは、アスリートの肖像を活用して地域の企業を支援することを目指しているそうだにゃ。地域の特性を生かし、アスリートの影響力を通じて、企業の認知度や魅力を高めることが期待されているにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "安心安全なまちづくりへ 北海道警察などが「道民の集い」 - TBS NEWS DIG",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OU3JKN2Q2Qk5SMjAyQ3NuYy1DT29PS0xyTnB1TEZETFpuTlE4QTRsT2Eta0MtMjNjcjRwTF96V0RnNWdnNG92V2l1Z2FOR1FrY29hdUlXdjFEdw?oc=5",
+     "date": "2026-10-10T00:42:00+00:00",
+     "source": "TBS NEWS DIG",
+     "snippet": "安心安全なまちづくりへ 北海道警察などが「道民の集い」&nbsp;&nbsp;TBS NEWS DIG",
+     "summary": "北海道警察などが主催する「道民の集い」が開催され、安心安全なまちづくりについて議論されたにゃ。地域住民と警察が協力し、犯罪防止や地域の安全向上に向けた取り組みを強化することが目的だそうだにゃん。参加者は意見を交わし、地域の安全に対する意識を高める機会となったにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "安心安全なまちづくりへ 高校生も闇バイト加担防止策を発表 北海道警察などが「道民の集い」 - ｄメニューニュース",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpWlBGenlCWXR5a1ZRMGExMHEzY3VseEhnXy1YZXVRT01BUHBRbVczU2RqS3lqX3gwYnN6OTVwY1BkSHZoaWRJVThyLUdoNGNEd2tJREtkZUk1N19WU0tBOUs4UFNDanU3eWdDMmtkNNIBdEFVX3lxTE1SQ1kzOVYzNGM5QVVleEwtcXZRNXZTUmh4QldRbHZQMDROZDczYWpUMWxlRVh3ekNid1RuRnh6c09INXFEbVJqZXdZUGVMcWdmWUkyRTBuejQ2UmFqMHpCb3BWVWFfMWgxZ21NUEdhb2J4OU9B?oc=5",
+     "date": "2026-10-10T00:42:00+00:00",
+     "source": "ｄメニューニュース",
+     "snippet": "安心安全なまちづくりへ 高校生も闇バイト加担防止策を発表 北海道警察などが「道民の集い」&nbsp;&nbsp;ｄメニューニュース",
+     "summary": "北海道警察が「道民の集い」で、高校生による闇バイト加担防止策を発表したにゃ。若者が犯罪に巻き込まれないよう、教育や啓発活動を強化することが重要だとされているそうだにゃ。地域の安全を守るために、若者の意識向上が求められているにゃん。"
+    },
+    {
      "type": "gov",
      "title": "水田における温室効果ガス削減と生物多様性保全のトレードオフを超えて - J-Stage",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdWotTUViUDczVkFfRGw3RWpBX0hlRlgtdWZfRzhBUkVSczlBOU11Tk5SS18zWTJaODE2OVdZUDFETUt1VnJFRXViN1gzaXFNSTd2VVBqQkJuNi1fRWlPTTd1NHVPemh2bFBQTUh6SDlFTFBOYXlSOG5JYUdLTDZ0S1FDSDloQQ?oc=5",
      "date": "2026-10-09T22:52:19+00:00",
      "source": "J-Stage",
      "snippet": "水田における温室効果ガス削減と生物多様性保全のトレードオフを超えて&nbsp;&nbsp;J-Stage",
-     "summary": "水田における温室効果ガス削減と生物多様性保全のトレードオフを超えるための研究が進められているにゃ。これにより、持続可能な農業の実現を目指しているそうだにゃん。具体的には、温室効果ガスの排出を抑えつつ、生物多様性を保つ方法を探求しているんだにゃ。農業と環境の両立を図るための新たなアプローチが求められているにゃ。"
+     "summary": "水田における温室効果ガス削減と生物多様性保全のトレードオフを超える研究が進められているにゃ。この研究では、持続可能な農業を実現するための新たなアプローチが模索されており、環境保護と農業生産の両立を目指しているそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "静岡新聞SBSと三栄コーポレーション、県内企業のサステナブル実装支援で連携 - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGQkUwaUhVT1FpTjM2YkFOelJJeFVIekE2UndtZnpyUmMzeHNUcl82ZWtzME5rRDVGNF9ONmt3d2p0dXhiMS1CZkN0V1paanFxaXlQSG5kak01b3lYZW1jdlRSSmNOc1piajdVTjI5NENBaDRfVjQ3bjBqdw?oc=5",
-     "date": "2026-10-09T08:30:19+00:00",
+     "title": "地方から世界へ。Athlete Japan、地方中小企業のブランド価値を底上げする「アスリート肖像×地域活性」プロジェクトをリリース - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QUy00VUdQVlRWd0xTdUtVSlAzNmJHVnhzMTdYUktkYjFwNE5CRzEwNzFpZURpcUFqQnVFWEJXcl9POTgtVURsZk10dnBiZjZnSHgtOHhnczZLekdyVU43TzZUT3BHeUN0RllQdVRXVGt6Y3I0OTgyTVNmMA?oc=5",
+     "date": "2026-10-09T18:48:30+00:00",
      "source": "ニコニコニュース",
-     "snippet": "静岡新聞SBSと三栄コーポレーション、県内企業のサステナブル実装支援で連携&nbsp;&nbsp;ニコニコニュース",
-     "summary": "静岡新聞SBSと三栄コーポレーションが、県内企業のサステナブル実装支援で連携することを発表したにゃ。これにより、地域企業の持続可能な取り組みを促進し、環境への配慮を強化することを目指しているそうだにゃん。地域経済の活性化にも寄与することが期待されているにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "プレスリリース：地方から世界へ。Athlete Japan、地方中小企業のブランド価値を底上げする「アスリート肖像×地域活性」プロジェクトをリリース（PR TIMES） - 毎日新聞",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YRkduOE1rTW5vMU8zdlplejVyc056bnhTamg0LTBVZjQ4M0M1UjRtenhvV29CMEc3VUdBOXdCX2prMlJERTBRMWl6UjM2UjJ1UG1ua1laMjRYdWtDRF92b0xYZkxOR1Vm?oc=5",
-     "date": "2026-10-09T08:23:06+00:00",
-     "source": "毎日新聞",
-     "snippet": "プレスリリース：地方から世界へ。Athlete Japan、地方中小企業のブランド価値を底上げする「アスリート肖像×地域活性」プロジェクトをリリース（PR TIMES）&nbsp;&nbsp;毎日新聞",
-     "summary": "Athlete Japanが地方中小企業のブランド価値を向上させる「アスリート肖像×地域活性」プロジェクトを発表したにゃ。このプロジェクトは、地方から世界へと発信することを目的としており、地域の特性を活かした取り組みが行われるそうだにゃん。企業とアスリートのコラボレーションが新たな価値を生むことを期待しているにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "報道関係者の皆さまへ ―日本初「ふるさと納税の使い道」にスポットを当てる地方自治体を対象とした表彰イベント「ふるさと納税-未来創造AWARD」が昨年に引き続き開催決定！取材メディア募集中！ - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yNk1Pc3BoM0IxbWRWMnVaMU82bnlCZERXYjNIbWw5NG0wWGhWVzhEZnZuX04tZmpHakQ0eHEwZjZPYkRtbFVqWFpFcXZ2Uzl2eEg2eWY1ZDYyWDVPbjE3cFlVaWplazRKSmc?oc=5",
-     "date": "2026-10-09T04:00:01+00:00",
-     "source": "PR TIMES",
-     "snippet": "報道関係者の皆さまへ ―日本初「ふるさと納税の使い道」にスポットを当てる地方自治体を対象とした表彰イベント「ふるさと納税-未来創造AWARD」が昨年に引き続き開催決定！取材メディア募集中！&nbsp;&nbsp;PR TIMES",
-     "summary": "「ふるさと納税-未来創造AWARD」が昨年に続き開催されることが決定したにゃ。このイベントは、ふるさと納税の使い道に注目し、地方自治体を表彰するものだそうだにゃん。取材メディアも募集中で、地域の取り組みを広く伝える機会となることが期待されているにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "「BASE」、倉敷芸術科学大学と連携し、伝統を受け継ぐ瀬戸内市のやきものを現代の暮らしに届けるオンラインショップ「SE - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rZmZEczROR01OTjJvYW95czZTcm14TC1qajdSTnVibThNQk42dmFYZVZXS2hmRGpRd2s0OFlpTmlpQU1xdFYzQXN1N2pSVDZkVUJHYQ?oc=5",
-     "date": "2026-10-08T19:18:28+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "「BASE」、倉敷芸術科学大学と連携し、伝統を受け継ぐ瀬戸内市のやきものを現代の暮らしに届けるオンラインショップ「SE&nbsp;&nbsp;ニコニコニュース",
-     "summary": "「BASE」が倉敷芸術科学大学と連携し、瀬戸内市の伝統的なやきものを現代の暮らしに届けるオンラインショップ「SE」を開設することになったにゃ。この取り組みは、地域の文化を継承しつつ、現代のニーズに応えることを目指しているそうだにゃん。伝統と現代の融合が楽しみだにゃ。"
+     "snippet": "地方から世界へ。Athlete Japan、地方中小企業のブランド価値を底上げする「アスリート肖像×地域活性」プロジェクトをリリース&nbsp;&nbsp;ニコニコニュース",
+     "summary": "Athlete Japanが、地方中小企業のブランド価値を高める「アスリート肖像×地域活性」プロジェクトを発表したにゃ。このプロジェクトは、地域のアスリートを通じて企業の魅力を引き出し、地方から世界へ発信することを目指しているそうだにゃん。地域活性化に向けた新たな試みだにゃ。"
     }
    ]
   },
@@ -154,48 +154,48 @@
    "items": [
     {
      "type": "news",
-     "title": "第5回「起業家精神」アートフェスティバル2026 最終ラウンド - Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0pHMVZudnRHVHM5X1dIcW9zeXJHdFpKZkdsYjZTZEVKRFE1andKVDFUY29yU0dhOVNJcFJndFhoUHhCbTJBakp4QmpHdVNUOV9fNjlUWTIyRFFTMjBfQi11NG9EY3NxeUJLODljMEk0SmlXSmhWRE8wWkU3Qlg3Qm1SOW1vblY1Z3dBbUVjMEpHZkFrMGtMS2VGc2w?oc=5",
-     "date": "2026-10-09T16:29:40+00:00",
-     "source": "Vietnam.vn",
-     "snippet": "第5回「起業家精神」アートフェスティバル2026 最終ラウンド&nbsp;&nbsp;Vietnam.vn",
-     "summary": "第5回「起業家精神」アートフェスティバル2026の最終ラウンドが開催されるにゃ。このイベントは、起業家の創造性や革新性を称賛することを目的としているそうだにゃ。詳細はまだ発表されていないが、参加者たちの熱意が感じられるにゃん。"
+     "title": "NICT、CEATEC 2026で量子暗号・6G・生成AIなど展示 NHK Eテレでも研究現場を特集 - 電波タイムズ",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WWmV3UmxTZTZoYmRuUlFsamk4RlhCXzJWQW5qanRUZUc4djVFbE9VbklrYVdhMTBsSEFNUDYxQVV6Wi1sd0VBQTUzTklySU5VNXZ3RXVtQjlLVWRSQ3lmOUhleDI?oc=5",
+     "date": "2026-10-10T12:37:16+00:00",
+     "source": "電波タイムズ",
+     "snippet": "NICT、CEATEC 2026で量子暗号・6G・生成AIなど展示 NHK Eテレでも研究現場を特集&nbsp;&nbsp;電波タイムズ",
+     "summary": "NICTはCEATEC 2026で量子暗号、6G、生成AIなどの最新技術を展示する予定だにゃ。さらに、NHK Eテレでも研究現場を特集するとのことだにゃん。これにより、最新のテクノロジーに対する理解が深まることが期待されるにゃ。"
     },
     {
      "type": "news",
-     "title": "「10月のミーティング ― 希望の流れ」は、起業家を称えるイベントです。 - Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUI5TWZMdy1MeldfTVFzLTRneWlydDN1WmkwUDZPSXRjdl9naEU0SDQ0OUhpWERzWHdubXZySXU4NnBzWktZQldOLUxLQ1dIcEhpU1VaMnJZWEFFcGtGSUg4czU0RkNfRnBfU2lqSHRiam0yMV9SWWFEczlBVmVXRjJwakg2bmhv?oc=5",
-     "date": "2026-10-09T15:09:19+00:00",
+     "title": "ベトナムの起業家たちは、書籍を通して知識を広めている。 - Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYnZXYVFYcURTLXBxV0tQd0w5OTVla2N2OU13NTRpZzZhazZleHlmSUFxSEp1VW1PMl80OU9SSkhFWUxIcFpQVkNWc05tb0Q4ZmdiVFBnMXR5UXpOc1FHSnZsMjBkVnF5dE5uWENaMGJSZDBDdXBDZVR6cG9LQjEtY3U4WnlEZw?oc=5",
+     "date": "2026-10-10T10:15:05+00:00",
      "source": "Vietnam.vn",
-     "snippet": "「10月のミーティング ― 希望の流れ」は、起業家を称えるイベントです。&nbsp;&nbsp;Vietnam.vn",
-     "summary": "「10月のミーティング ― 希望の流れ」は、起業家を称えるイベントだにゃ。このイベントでは、成功した起業家たちの経験や知識を共有し、参加者たちにインスピレーションを与えることを目指しているそうだにゃん。"
+     "snippet": "ベトナムの起業家たちは、書籍を通して知識を広めている。&nbsp;&nbsp;Vietnam.vn",
+     "summary": "ベトナムの起業家たちは、書籍を通じて知識を広めているそうだにゃ。彼らは自身の経験や専門知識を活かし、書籍を執筆することで他の人々にインスピレーションを与えているにゃん。これにより、ビジネスの発展や社会全体の知識向上に寄与しているそうだにゃ。"
     },
     {
      "type": "news",
-     "title": "タイ・グエン新聞社および放送局：メディア協力の強化と企業とのパートナーシップ構築。 - Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDVWSmV5Wm8ydWR0eVNFbmZ2dE96VzNNTG1PbndKcjdSUFIwbERJOTZwejFvQXAwZTFuLUJnUXc2LVNqWEQ0QlhYVEhlLXh5aWtjVG1aSl9COWhDLVhqcjhtOHV3YVYtamRVdVZrcm9rTzdJdElfMk11YkdLLWFtcFVKOWkyUUJWQmNwdnBqWHNhdzZxLU9VSXE1aHZWelY1eUp3VDZOblF5YkxaZ2c?oc=5",
-     "date": "2026-10-09T14:24:05+00:00",
-     "source": "Vietnam.vn",
-     "snippet": "タイ・グエン新聞社および放送局：メディア協力の強化と企業とのパートナーシップ構築。&nbsp;&nbsp;Vietnam.vn",
-     "summary": "タイ・グエン新聞社と放送局は、メディア協力の強化と企業とのパートナーシップ構築を進めているにゃ。これにより、情報の流通やビジネスの発展が期待されているそうだにゃん。具体的な取り組みについては今後の発表を待つ必要があるにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "スタートアップと連携探る場に 10月13日に福山で「TSUNAGU広島2026」 - 47NEWS",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90Vk8ybm55RDRjV2kyaEtLdE9SX2J3MjdFaFVpUUU4WWlGTGtsMzVCN1FQdHdvSExfSWFPd3I1bXBqbzFlQlNSQ21ydw?oc=5",
-     "date": "2026-10-09T11:04:00+00:00",
+     "title": "事業強化へ社外の力 福山の企業、スタートアップとの連携探る - 47NEWS",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9teEhRcjM0WmlRN3lwd1NIbHJrV3BrelE5VTE2cE9ROE0tdVhIdm1VRGVyTHgyQUNGLXB4T2FkVm1aM1FVMkl4NUJiWQ?oc=5",
+     "date": "2026-10-10T07:42:00+00:00",
      "source": "47NEWS",
-     "snippet": "スタートアップと連携探る場に 10月13日に福山で「TSUNAGU広島2026」&nbsp;&nbsp;47NEWS",
-     "summary": "10月13日に福山で「TSUNAGU広島2026」が開催され、スタートアップとの連携を探る場となるにゃ。このイベントは、地域の企業や起業家が集まり、ネットワーキングやアイデアの共有を行う機会を提供するそうだにゃん。"
+     "snippet": "事業強化へ社外の力 福山の企業、スタートアップとの連携探る&nbsp;&nbsp;47NEWS",
+     "summary": "福山の企業が事業強化のために社外の力を活用し、スタートアップとの連携を探っているそうだにゃ。新しいアイデアや技術を取り入れることで、競争力を高めようとしているにゃん。これにより、地域経済の活性化にもつながることが期待されているにゃ。"
     },
     {
      "type": "news",
-     "title": "徳島 四国電力子会社社員死亡めぐり遺族が民事裁判準備進める - NHKニュース",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hTU9SbnJ6X19MQmxXaUtscXJHZDIxU1gyWjRIOEZXT25BejJhb1pSZWp3bjQ2U3NYeGVOTkJyem9rd1pxSVAzeFhQcVpkTzVVbFY3TXNHOUsxS0UxY3dv?oc=5",
-     "date": "2026-10-09T10:43:28+00:00",
-     "source": "NHKニュース",
-     "snippet": "徳島 四国電力子会社社員死亡めぐり遺族が民事裁判準備進める&nbsp;&nbsp;NHKニュース",
-     "summary": "徳島の四国電力子会社での社員死亡を巡り、遺族が民事裁判の準備を進めているにゃ。詳細な経緯や原因についてはまだ不明だが、遺族は正義を求める姿勢を示しているそうだにゃん。今後の進展に注目だにゃ。"
+     "title": "The Anime Man、NHK特番「Anime Journal」出演決定 - Koubo",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE04bGlRREg4QkhjUmNEOHRvSEJIdG9mbWh3QmNfZnVkRHR4eVRnazNCVTJOZGFTeGh2Qmtib0UwWnJXOTNLTEE?oc=5",
+     "date": "2026-10-10T06:05:02+00:00",
+     "source": "Koubo",
+     "snippet": "The Anime Man、NHK特番「Anime Journal」出演決定&nbsp;&nbsp;Koubo",
+     "summary": "人気アニメ系YouTuberのThe Anime ManがNHK特番「Anime Journal」に出演することが決定したそうだにゃ。この番組では、声優の下野紘さんと共に、日本アニメの魅力を深掘りする内容になるにゃん。視聴者にとって興味深い情報が得られることが期待されるにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "NHKワールド JAPAN特別番組「Anime Journal」海外の人気アニメ系YouTuber「The Anime Man」が出演決定 ～声優・下野紘らと、世界が注目する日本アニメの魅力を深掘り - イザ！",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvRUc1dmxtWlVweEdNaHZSRWw2WGpHOTNfQXhvMXF2WFpGS2Y4VDZhXzZkbFdQZm12ZE1WdFNtVUNVN2VLRENlN1FQWGxHRjdJRkJQQ0gzTGptRHpQX0RvUlZQY2JWbkdnMXAza3hoY1JTbF9vZHk2NV9B?oc=5",
+     "date": "2026-10-10T04:00:00+00:00",
+     "source": "イザ！",
+     "snippet": "NHKワールド JAPAN特別番組「Anime Journal」海外の人気アニメ系YouTuber「The Anime Man」が出演決定 ～声優・下野紘らと、世界が注目する日本アニメの魅力を深掘り&nbsp;&nbsp;イザ！",
+     "summary": "NHKワールド JAPANの特別番組「Anime Journal」に、海外の人気アニメ系YouTuber「The Anime Man」が出演することが決まったにゃん。声優の下野紘さんと共に、日本アニメの魅力を深掘りする内容になるそうだにゃ。世界中のアニメファンにとって、楽しみな番組になるにゃ。"
     }
    ]
   },
@@ -205,12 +205,30 @@
    "items": [
     {
      "type": "news",
+     "title": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yU1d6MTZqYnQwUzVsSW13TDQ5WXZyd3dnMTFGbmZWVDhhV1dYSDQtUWtOSE5Uc09hbmQxRmJTd1UzRDJWVENWd1luWXktWnJjZy1WSlE3YmxLVlpJUnBkWXZ4NXNPcnh1dFE?oc=5",
+     "date": "2026-10-10T16:18:45+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任&nbsp;&nbsp;ウォーカープラス",
+     "summary": "香川照之が国立科学博物館の「昆虫」展のサポーターに就任したにゃ。彼は昆虫の魅力を広める活動に参加し、来場者に楽しんでもらえるよう努めるそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "宇宙科学館で「理科作品展覧会」開催 12日まで、夏休み自由研究など紹介 - au Webポータル",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9raEhoT1JQNDh1RTdSQzdwWUxUZ05QWlE3Q3VqUGRVd2EtYmo1UllDc1kxSUNYdmdYaHlBZ2ZFVU1seVFFeDViMFJMd254elVTVF84TmpvenZOX0o2MUNITGxYa09qNVlBTjVfa05B?oc=5",
+     "date": "2026-10-10T01:09:00+00:00",
+     "source": "au Webポータル",
+     "snippet": "宇宙科学館で「理科作品展覧会」開催 12日まで、夏休み自由研究など紹介&nbsp;&nbsp;au Webポータル",
+     "summary": "宇宙科学館で「理科作品展覧会」が開催中だにゃ。12日までの期間、夏休みの自由研究などが紹介されていて、さまざまな作品が展示されているにゃ。"
+    },
+    {
+     "type": "news",
      "title": "【国立科学博物館 筑波実験植物園】企画展「きのこ展～驚きの菌食の世界～」開催および報道内覧会のご案内 - ニコニコニュース",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuNldLRzhpaXBSSjBDblJVR3R2bG0wSTEwM3F6a2dpRU9HR0pOdmVvN1czTE1QbjJpaUxidG90Z01feHlsdVBIWEh5MWY1RmMwQTQxV2lFMHh6SFBwYUtsRGF2Ym00am5DNW42QXBrb05kVGJFRXJnUkRIYw?oc=5",
      "date": "2026-10-09T14:30:34+00:00",
      "source": "ニコニコニュース",
      "snippet": "【国立科学博物館 筑波実験植物園】企画展「きのこ展～驚きの菌食の世界～」開催および報道内覧会のご案内&nbsp;&nbsp;ニコニコニュース",
-     "summary": "国立科学博物館の筑波実験植物園で、企画展「きのこ展～驚きの菌食の世界～」が開催されるにゃ。この展覧会では、きのこの多様性や食文化について学べる内容が盛りだくさんだにゃ。報道内覧会も行われるので、興味がある人はぜひ参加してみてほしいにゃん。詳細はニコニコニュースをチェックしてね！"
+     "summary": "国立科学博物館の筑波実験植物園で「きのこ展～驚きの菌食の世界～」が開催されるにゃ。報道内覧会も行われ、きのこの魅力を伝える展示が行われるそうだにゃん。"
     },
     {
      "type": "news",
@@ -219,7 +237,7 @@
      "date": "2026-10-09T11:15:00+00:00",
      "source": "佐賀新聞",
      "snippet": "色褪せない魚の剥製、6年がかりの酵母研究… ユニークな自由研究96点並ぶ「理科作品展覧会」 県立宇宙科学館で10月12日まで&nbsp;&nbsp;佐賀新聞",
-     "summary": "県立宇宙科学館で「理科作品展覧会」が開催中で、96点のユニークな自由研究が展示されているにゃ。特に、色褪せない魚の剥製や、6年がかりの酵母研究など、興味深い作品が並んでいるそうだにゃ。展示は10月12日まで続くので、科学に興味がある人はぜひ訪れてみてほしいにゃん。佐賀新聞からの情報だよ！"
+     "summary": "県立宇宙科学館で「理科作品展覧会」が開催中で、色褪せない魚の剥製や6年がかりの酵母研究など、ユニークな自由研究96点が並んでいるにゃ。10月12日まで見られるそうだにゃん。"
     },
     {
      "type": "news",
@@ -228,25 +246,7 @@
      "date": "2026-10-09T10:56:02+00:00",
      "source": "ウォーカープラス",
      "snippet": "画像3 / 12＞国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中！おすすめ展覧会グッズを一挙紹介&nbsp;&nbsp;ウォーカープラス",
-     "summary": "国立科学博物館では特別展「古代DNA―日本人のきた道―」が開催中だにゃ。この展覧会では、日本人の起源や古代のDNAに関する研究成果が紹介されているにゃ。さらに、展覧会グッズも販売されているので、興味がある人はぜひ足を運んでみてほしいにゃん。詳細はウォーカープラスで確認してね！"
-    },
-    {
-     "type": "news",
-     "title": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任 - ウォーカープラス",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yU1d6MTZqYnQwUzVsSW13TDQ5WXZyd3dnMTFGbmZWVDhhV1dYSDQtUWtOSE5Uc09hbmQxRmJTd1UzRDJWVENWd1luWXktWnJjZy1WSlE3YmxLVlpJUnBkWXZ4NXNPcnh1dFE?oc=5",
-     "date": "2026-10-09T06:28:03+00:00",
-     "source": "ウォーカープラス",
-     "snippet": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任&nbsp;&nbsp;ウォーカープラス",
-     "summary": "国立科学博物館の「昆虫」展に、俳優の香川照之がサポーターとして就任したにゃ。彼は昆虫の魅力を広めるために活動する予定で、展覧会を盛り上げる役割を果たすそうだにゃ。昆虫に興味がある人は、香川照之のサポートも楽しみにしてほしいにゃん。詳細はウォーカープラスをチェックしてね！"
-    },
-    {
-     "type": "news",
-     "title": "画像4 / 13＞まるで遊園地！体験アトラクションがいっぱいの「バンドー神戸青少年科学館」で遊んで学ぼう - ウォーカープラス",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YeHFXWHFJOEloOXhOM1dsR0tHdkd0WDNCZFdMTHlRQkhvOEZFNDBlcmxXc1Zac3hBVGJvTmxFd2N6cGMwR1FsdXk5TjBxMll1bFNQczdpeW1tUmRET1Zmczg3NWxfZjhuUlE?oc=5",
-     "date": "2026-10-09T04:59:52+00:00",
-     "source": "ウォーカープラス",
-     "snippet": "画像4 / 13＞まるで遊園地！体験アトラクションがいっぱいの「バンドー神戸青少年科学館」で遊んで学ぼう&nbsp;&nbsp;ウォーカープラス",
-     "summary": "「バンドー神戸青少年科学館」では、遊園地のような体験アトラクションがたくさん用意されているにゃ。遊びながら学べる工夫がされていて、子どもたちにとって楽しい学びの場になっているそうだにゃ。科学に興味がある人や家族連れにはぴったりのスポットだにゃん。詳細はウォーカープラスで確認してみてね！"
+     "summary": "国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中だにゃ。展覧会グッズも紹介されていて、来場者にとって興味深い内容になっているそうだにゃん。"
     }
    ]
   },
@@ -256,48 +256,48 @@
    "items": [
     {
      "type": "news",
-     "title": "環境に優しいからではなく楽しいから行く。蓼科の東京ドーム140個分の敷地にある超大規模リゾートに行ってみた - 現代ビジネス",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93QzkxRTFiUFFFRHJNaktQbjVaUkljeGYwSGc5LVNZNVRWOXdkMThlZkdGNnpIbG5NUjJld0NmZ25JZTYyTlQ4QThBUGg0NGtZN2prMXVab2E?oc=5",
-     "date": "2026-10-09T09:29:10+00:00",
-     "source": "現代ビジネス",
-     "snippet": "環境に優しいからではなく楽しいから行く。蓼科の東京ドーム140個分の敷地にある超大規模リゾートに行ってみた&nbsp;&nbsp;現代ビジネス",
-     "summary": "蓼科にある超大規模リゾートは、東京ドーム140個分の敷地を持つんだにゃ。環境への配慮よりも楽しさを重視した施設で、訪れる人々は多彩なアクティビティを楽しむことができるそうだにゃん。リゾートの魅力は、自然との調和を感じながらも、非日常的な体験を提供することにあるんだにゃ。"
+     "title": "10/12(月･祝)『2026 スカイフェスティバル in松本』信州まつもと空港とアイネットやまびこドームで、FDA4号機機体見学やVR体験、射的、木工教室などのイベントが多数開催＠長野県松本市 - Web-Komachi",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfZXdPczVPOVRublFlclJ4akhOREpEWEhPTUMzNGkyX25oZk1zR2RDNXQxaldoTHZIZTl3S2V1ZUNGNHNwTnJqdjEtaW43Zw?oc=5",
+     "date": "2026-10-10T21:03:17+00:00",
+     "source": "Web-Komachi",
+     "snippet": "10/12(月･祝)『2026 スカイフェスティバル in松本』信州まつもと空港とアイネットやまびこドームで、FDA4号機機体見学やVR体験、射的、木工教室などのイベントが多数開催＠長野県松本市&nbsp;&nbsp;Web-Komachi",
+     "summary": "10月12日（月・祝）に長野県松本市で『2026 スカイフェスティバル in松本』が開催されるにゃ。信州まつもと空港とアイネットやまびこドームで、FDA4号機の機体見学やVR体験、射的、木工教室など多彩なイベントが行われるそうだにゃん。家族連れや航空ファンにとって楽しめる機会になるだろうにゃ。"
     },
     {
      "type": "news",
-     "title": "ＳＢＳ東芝ロジ 「ＶＲフォークリフト安全教育」を社外にも展開 - カーゴニュースオンライン",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TTTNtM3JhczIzQmJWTjdlX0VrNDM2MkdjNV9feFdMSXg0b3RvUEhRbWxNRVViWVM0TS1uVkpDdzFUaXRrQzNPMEtrY1Z3cnhDMFktdmhROFBLeGFVUUdn?oc=5",
-     "date": "2026-10-09T07:00:00+00:00",
-     "source": "カーゴニュースオンライン",
-     "snippet": "ＳＢＳ東芝ロジ 「ＶＲフォークリフト安全教育」を社外にも展開&nbsp;&nbsp;カーゴニュースオンライン",
-     "summary": "ＳＢＳ東芝ロジは、VR技術を活用したフォークリフトの安全教育を社外に展開することを発表したんだにゃ。これにより、より多くの企業が安全な運転技術を学ぶ機会を得られるそうだにゃん。VR教育は、実践的な体験を提供し、事故防止に寄与することが期待されているんだにゃ。"
+     "title": "仮想現実広告市場トップ10企業 - pando.life",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vR0pxQ3hGODl5U3hoSkRIbmhNdlBLNFkyQTl3U1ZsWXd3Q2ZsRHFsNGpyZXVteGFMWGdtRTVRclNYZWZHRHFHb2VB?oc=5",
+     "date": "2026-10-10T19:39:30+00:00",
+     "source": "pando.life",
+     "snippet": "仮想現実広告市場トップ10企業&nbsp;&nbsp;pando.life",
+     "summary": "仮想現実広告市場のトップ10企業についての情報が紹介されているにゃ。具体的な企業名や市場動向についての詳細は記載されていないが、仮想現実技術が広告業界に与える影響が注目されていることが伺えるにゃん。今後の市場の成長が期待されるだろうにゃ。"
     },
     {
      "type": "news",
-     "title": "「サイエンスアゴラ2026」に出展しました - 理化学研究所",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0OUxNZmlMWjRoRWhXcUV2UzN1RE9VaFpKMXhPZnFnbVRUVW1wZFA2LWNvLXJOZTVoY0N1dEpIV1BsUWVrNXRtUVdyWGtTNFl0dWx1T0hmcHpDUmVjSWllbFlsckx4Zw?oc=5",
-     "date": "2026-10-09T06:40:26+00:00",
-     "source": "理化学研究所",
-     "snippet": "「サイエンスアゴラ2026」に出展しました&nbsp;&nbsp;理化学研究所",
-     "summary": "理化学研究所は、「サイエンスアゴラ2026」に出展したんだにゃ。このイベントでは、科学や技術に関する様々な展示や活動が行われ、参加者は最新の研究成果に触れることができるそうだにゃん。理化学研究所の出展は、科学の普及と理解を深めるための重要な機会なんだにゃ。"
+     "title": "電気工学専攻の学生の教育に、VR、3Dモデリング、AIを統合する。 - Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYmFxRVV3cWh4Vm9IZThCMGFkVWpmQTg3VzBhcml5SGVBdGtRdDdQOS1aUnl0cHdnRnA3aUF1TzVxWDR3ZU9Gc1hacUtmb1JBemczRXpEakhkN3ZsaHloa1loeTNCTlFfZEhZb2tETl85SldLMnp6U3V4b2VDMEozZF9Ga1UyZjhCdUstbTYyTQ?oc=5",
+     "date": "2026-10-10T10:33:09+00:00",
+     "source": "Vietnam.vn",
+     "snippet": "電気工学専攻の学生の教育に、VR、3Dモデリング、AIを統合する。&nbsp;&nbsp;Vietnam.vn",
+     "summary": "電気工学専攻の学生教育において、VR、3Dモデリング、AIを統合する取り組みが進められているにゃ。これにより、学生は最新の技術を学び、実践的なスキルを身につけることができるそうだにゃ。教育の質向上が期待される取り組みだにゃん。"
     },
     {
      "type": "news",
-     "title": "ロボットアーム・触覚VR・AI対話ロボットを体験できる「みんなの脳世界2026～超多様～」11/7-8に東京ポートシティ竹芝で開催予定 - au Webポータル",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HdGo1emZRR1NzOHhjaHc2LVktR1Y5Q1duakYyR3gxbTN2UFI0cnliazVGNHU3aGNiTFBpX053NGd5bDZJWE4zblJaUjI4bnYteXNFdTU2ZFpQdjR4dzRSTkNYYlZLTHRIMl9feDBn?oc=5",
-     "date": "2026-10-09T04:48:00+00:00",
-     "source": "au Webポータル",
-     "snippet": "ロボットアーム・触覚VR・AI対話ロボットを体験できる「みんなの脳世界2026～超多様～」11/7-8に東京ポートシティ竹芝で開催予定&nbsp;&nbsp;au Webポータル",
-     "summary": "「みんなの脳世界2026～超多様～」が11月7日から8日に東京ポートシティ竹芝で開催予定だにゃ。イベントでは、ロボットアームや触覚VR、AI対話ロボットなどの最新技術を体験できるんだにゃん。参加者は、これらの技術を通じて、未来の可能性を感じることができるそうだにゃ。"
+     "title": "1005_Honda-JMS-Biz2026_03 | Motor Fan｜自動車情報のモーターファン - Motor Fan",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03ZzlPWkU5T1RHOGpPd0ZMQUR1d1lPbnJrTWJDcGY2U1h4Y3VTNjNXRm0tWERjdk1ROHZLZlNyREdRYmVTbzlKU1VmaVBDWE9KWklnX2g0UUpqSHZkUUd0TmFVMU9CNmhuQ2RvMktWa3I?oc=5",
+     "date": "2026-10-10T00:59:17+00:00",
+     "source": "Motor Fan",
+     "snippet": "1005_Honda-JMS-Biz2026_03 | Motor Fan｜自動車情報のモーターファン&nbsp;&nbsp;Motor Fan",
+     "summary": "Hondaに関する情報が掲載されているが、具体的な内容は記載されていないにゃ。自動車情報を扱うモーターファンのサイトで、Hondaの最新技術やビジネス戦略についての詳細が期待されるにゃん。"
     },
     {
      "type": "news",
-     "title": "360Channel、全日本空輸の機材シート販売促進に向けたVRコンテンツ「ANA Virtual Ride Experience」の制作を担当 - PANORA",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtVHdNcllsYjQzUE5BZUtNTW4zQ3NMSWJJRlY2ajBpRG9rUXJVYUk5RnZJSERJOEZXVXpiSzRwVUw0dzhrd3I1dmhvYUs?oc=5",
-     "date": "2026-10-09T03:10:14+00:00",
-     "source": "PANORA",
-     "snippet": "360Channel、全日本空輸の機材シート販売促進に向けたVRコンテンツ「ANA Virtual Ride Experience」の制作を担当&nbsp;&nbsp;PANORA",
-     "summary": "360Channelは、全日本空輸の機材シート販売促進のために、VRコンテンツ「ANA Virtual Ride Experience」を制作したんだにゃ。これにより、利用者はシートの体験を仮想的に楽しむことができ、購入意欲を高める狙いがあるそうだにゃん。VR技術を活用した新しいマーケティング手法だにゃ。"
+     "title": "1005_Honda-JMS-Biz2026_05 | Motor Fan｜自動車情報のモーターファン - Motor Fan",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmMEZhUmZ3MXhZVlhRY3hNdFlTU1JTWXN4Yk5DVmg0ZHdNenUyRVZTVjVodGg3QlotWjFnSjJNcHNnU3kxQXNqdDQ1cEtKbHpYLVJUVktRc3FRN2ZxVjg1aVZYbmJuWlhFdHBTOGgtLTY?oc=5",
+     "date": "2026-10-10T00:19:01+00:00",
+     "source": "Motor Fan",
+     "snippet": "1005_Honda-JMS-Biz2026_05 | Motor Fan｜自動車情報のモーターファン&nbsp;&nbsp;Motor Fan",
+     "summary": "Hondaに関する情報が再度掲載されているが、具体的な内容は記載されていないにゃ。自動車情報を提供するモーターファンのサイトで、Hondaの最新動向や技術革新についての情報が期待されるだろうにゃん。"
     }
    ]
   }
