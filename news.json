@@ -1,61 +1,252 @@
 {
- "updated": "2026-10-11T23:58:38.664418+00:00",
+ "updated": "2026-10-12T01:48:42.139819+00:00",
  "categories": [
   {
    "id": "ai_media",
    "title": "🤖 AI×メディア研究（ニュース・論文・行政）",
    "items": [
     {
-     "type": "paper",
-     "title": "Narrow and Deep: An Ontology Tower as the Knowledge of an LLM Agent for an Industrial Equipment System",
-     "link": "https://arxiv.org/abs/2610.11768v1",
-     "date": "2026-10-08T11:50:51+00:00",
-     "source": "arXiv",
-     "snippet": "Large language model (LLM) agents are beginning to operate industrial energy equipment, and what they get right depends on what they are told about the plant. Established building ontologies name many kinds of points across many sites, whereas an industrial equipment system needs few entities with much knowledge about each. This study proposes the ontology tower, a narrow-and-deep ontology of a single equipment system whose knowledge deepens in two ways: through quantities derived from the measured points by physical relations, and through lessons from the operating journal incorporated as kno",
-     "summary": "この研究は、産業用エネルギー機器を操作する大規模言語モデル（LLM）エージェントの知識構造を提案するにゃ。従来のオントロジーは多くのポイントを網羅しているが、産業機器システムには少数のエンティティが必要で、各エンティティに関する知識が深いことが求められるにゃ。この「オントロジータワー」は、測定ポイントから得られる物理的関係による量や、運用日誌からの教訓を通じて知識を深める仕組みを持っているそうだにゃん。"
+     "type": "news",
+     "title": "「人工美学 生成AI・アート・ビジュアルメディア」より ｜ POSTS【ユーザー投稿】 - アートアジェンダ",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wcEVYLWVBcFpzQnAtZDFPbVdRMFpkcDJhVDhQc01iWmxSSWVmeWZyWWJ2SV9EaHdlLXBBTlBiNGJ3VVl5UFd4TlBydFNmNXZQMzdNbmtZZUM5dw?oc=5",
+     "date": "2026-10-11T18:16:34+00:00",
+     "source": "アートアジェンダ",
+     "snippet": "「人工美学 生成AI・アート・ビジュアルメディア」より ｜ POSTS【ユーザー投稿】&nbsp;&nbsp;アートアジェンダ",
+     "summary": "「人工美学 生成AI・アート・ビジュアルメディア」は、生成AIを用いたアートやビジュアルメディアの新たな可能性を探る内容だにゃ。アートアジェンダに掲載されており、生成AIがどのように美学に影響を与えるかについての議論が展開されているそうだにゃん。"
     },
     {
-     "type": "paper",
-     "title": "Large Language Model Turnover Undermines Screening for Artificial Intelligence-Assisted Scientific Writing",
-     "link": "https://arxiv.org/abs/2610.11599v1",
-     "date": "2026-10-08T09:44:08+00:00",
-     "source": "arXiv",
-     "snippet": "Journals and conferences have begun to screen submitted manuscripts for text written using large language models (LLMs). The reliability of this screening rests on benchmark evaluations against a fixed set of LLM versions, while the versions in actual use keep changing. Here we quantify how this LLM turnover affects the screening of scientific manuscripts. We paired 4,000 pre-ChatGPT abstracts from the Proceedings of the National Academy of Sciences with their rewrites by 23 LLM versions from three vendors, released between June 2023 and August 2026. We then trained detectors under maintenance",
-     "summary": "大規模言語モデル（LLM）を用いた科学論文の提出が増える中、ジャーナルや会議はそのテキストをスクリーニングし始めているにゃ。しかし、LLMのバージョンが常に変化するため、スクリーニングの信頼性が損なわれる可能性があるそうだにゃ。本研究では、4,000件の論文要約を23のLLMバージョンで再作成し、スクリーニングに与える影響を定量化したにゃ。これにより、科学論文の評価方法に新たな課題が浮かび上がるにゃん。"
+     "type": "news",
+     "title": "「IBJメンバーズ」が言及率100%を獲得！生成AIのおすすめ結婚相談所調査 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1eV8ySXFYekc5MXVlRjczMW9RUVVkMGdSb3AwQTZrVU9qejhpZ3N3ekcwTkVMc3lvaXRadkdmUEhLVmNHUXU4eW5nNFVldDNQQUdjeg?oc=5",
+     "date": "2026-10-09T16:18:40+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "「IBJメンバーズ」が言及率100%を獲得！生成AIのおすすめ結婚相談所調査&nbsp;&nbsp;ニコニコニュース",
+     "summary": "「IBJメンバーズ」が生成AIを活用した結婚相談所の調査で言及率100%を獲得したというニュースだにゃ。ニコニコニュースによると、生成AIの導入が結婚相談所の選択肢において重要な要素となっていることが示されているそうだにゃん。"
     },
     {
-     "type": "paper",
-     "title": "Generative AI in Publishing: An Editors' Panel on Ethics and Policies",
-     "link": "https://arxiv.org/abs/2610.10224v1",
-     "date": "2026-10-07T15:16:34+00:00",
-     "source": "arXiv",
-     "snippet": "Generative artificial intelligence (GenAI) is reshaping scholarly research faster than journals have developed stable norms for its use. This article presents an edited thematic account of a 2026 Joint Statistical Meetings panel that brought together editorial perspectives from mathematical statistics, data science, biomedical statistics, and general statistical scholarship. The discussion examines journal policies, disclosure, authorship and research integrity, peer-review confidentiality, researcher training, editorial workload, access, and possible future models of scholarly publishing. Pan",
-     "summary": "生成的人工知能（GenAI）が学術研究の進展を加速させているが、ジャーナルの利用規範はまだ確立されていないにゃ。この論文は、2026年の共同統計会議でのパネルディスカッションを基に、数学統計やデータサイエンスなどの編集者の視点をまとめているにゃ。議論では、ジャーナルのポリシー、著作権、研究の誠実性、ピアレビューの機密性、研究者のトレーニング、編集作業の負担などが検討され、今後の学術出版モデルについても考察されているそうだにゃん。"
+     "type": "gov",
+     "title": "2026年１０月９日 事 務 局 利用者情報の取扱いに関するモニタリング（2026年度） 事業者回答概 - 総務省",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95N0tCSzJNQ1QwOGtDekdBY05qYkN0LWZQSnNyb2JoemJja2FPdVBFMHI2SEpKOFRxYzRzN2xkZGdOQmdVMVREMU05Z0Jzb1R5ckNfbUdiUzExVFJGV0k4?oc=5",
+     "date": "2026-10-09T12:30:23+00:00",
+     "source": "総務省",
+     "snippet": "2026年１０月９日 事 務 局 利用者情報の取扱いに関するモニタリング（2026年度） 事業者回答概&nbsp;&nbsp;総務省",
+     "summary": "総務省が発表した2026年度のモニタリングに関する情報では、利用者情報の取扱いについての事業者の回答がまとめられているにゃ。具体的な内容は示されていないが、利用者のプライバシー保護に関する取り組みが重要視されていることが伺えるだにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "AI半導体向け先端実装技術をテーマに「IMAPS 2026」が開催(日本、米国) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pSFRyV0kzSjFmWjJEZEpiTGlqRmNYdEhPQWR2cGJoWFFSR0JNSzJyVGltN1dqTC1UeEJOZE9ob3dzZFNrRGJHRURERlk4UnJYT04zdDdWTlZ1TnpVaTQ4RVVaSVNpV3YtOVdJenJn?oc=5",
+     "date": "2026-10-09T11:12:03+00:00",
+     "source": "ジェトロ（日本貿易振興機構）",
+     "snippet": "AI半導体向け先端実装技術をテーマに「IMAPS 2026」が開催(日本、米国) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
+     "summary": "「IMAPS 2026」が日本と米国で開催され、AI半導体向けの先端実装技術がテーマにされるそうだにゃ。ジェトロによると、最新の技術動向や研究成果が発表され、業界の発展に寄与することが期待されているにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "10/15（木）西武信用金庫主催「BUSINESS FAIR 26TH」にブース出展 - AIsmiley",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fS0NpOUxfZFpkLTBQNWNjaHBBTUlZSTA0YVl0d0szMHUwRG94MW05a2NlN0N0ZGtHSS03WEJMYXhkVnpjVVNZSmJ0d3pMb3hnTnlaSmJJcGZxWTN5WkFWendMU0RvUQ?oc=5",
+     "date": "2026-10-09T11:03:24+00:00",
+     "source": "AIsmiley",
+     "snippet": "10/15（木）西武信用金庫主催「BUSINESS FAIR 26TH」にブース出展&nbsp;&nbsp;AIsmiley",
+     "summary": "10月15日（木）に西武信用金庫が主催する「BUSINESS FAIR 26TH」にAIsmileyがブース出展するにゃ。イベントでは、最新のビジネス情報やサービスが紹介される予定だそうだにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "ベトナム消費市場、成熟化する消費者像とデジタル消費 ベトナム（1） - ジェトロ（日本貿易振興機構）",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV3daMFhiS1BkMzF6R0VSNWJMbHlvT0FKNVRNUmlwUTdxcGdmSWxxaGxCWDBvSHo1c2hRSDdrUHc3b3FMZk81ODBuZUVaV3UyeWxVTWE2eEVKaTgzNHZFYkNadG5DMkRiLTBCZUM2a285MVVpSGJscjh5Um1mZGxDVld6WGVJUQ?oc=5",
+     "date": "2026-10-09T09:31:30+00:00",
+     "source": "ジェトロ（日本貿易振興機構）",
+     "snippet": "ベトナム消費市場、成熟化する消費者像とデジタル消費 ベトナム（1）&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
+     "summary": "ベトナムの消費市場が成熟化し、デジタル消費が進展しているという内容だにゃ。ジェトロによると、消費者のニーズが多様化しており、企業はデジタル戦略を強化する必要があるとされているにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "AI検索対策（AIO/LLMO）ツール「DolphinX AIO」、生成AIが回答の根拠にしたページを自動で分類する「引用ソース分析」を提供開始 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ya0JhRG91MmFYN3B2dm90T3pCaERBTTF0UE1ZVTZESU93T2YzNk5CamhvMTRNQmx4SS1FOUtBVmZIdmpCMVZzNDhZSXQwczdJZW1XaDZpUTBpbHFYdWJsRk8xc2MzWmtzWlE?oc=5",
+     "date": "2026-10-09T03:54:00+00:00",
+     "source": "PR TIMES",
+     "snippet": "AI検索対策（AIO/LLMO）ツール「DolphinX AIO」、生成AIが回答の根拠にしたページを自動で分類する「引用ソース分析」を提供開始&nbsp;&nbsp;PR TIMES",
+     "summary": "AI検索対策ツール「DolphinX AIO」が新たに「引用ソース分析」機能を提供開始したにゃ。この機能では、生成AIが回答の根拠にしたページを自動で分類することができ、情報の信頼性向上に寄与することが期待されているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "富士通ラーニングメディア、「【集合】生成AIを活用したデータ分析 -問いの設定から意思決定まで-」提供開始 - ICT教育ニュース",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UYlc5ZXpheEJxT0R2ZUpodjFMcEQ0dG1NT1d1UktvcS1mWnFkYU9PRW5YRXZKd2VrRTh6NWR1YklDUVUwek1ySmhkWlk5dzVSUVRxQg?oc=5",
+     "date": "2026-10-09T00:25:02+00:00",
+     "source": "ICT教育ニュース",
+     "snippet": "富士通ラーニングメディア、「【集合】生成AIを活用したデータ分析 -問いの設定から意思決定まで-」提供開始&nbsp;&nbsp;ICT教育ニュース",
+     "summary": "富士通ラーニングメディアが「生成AIを活用したデータ分析」に関する新しいプログラムを提供開始したにゃ。これは、問いの設定から意思決定までのプロセスを学ぶ内容で、教育現場でのAI活用が進むことが期待されているにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "グーグル、AI生成物の判定ツール「SynthID Detector」を全世界に公開、他社製も対象 - ビジネス+IT",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaaGVBblJwNHByZWdTRjdDYmlYd2hReGQzUFd5bVhJc29mRS1Xa0szSWZMVVhvZDNfeWo3V2NyU2pob2N3ZXN6d3REbnVjaU5wOUpJ?oc=5",
+     "date": "2026-10-08T06:27:00+00:00",
+     "source": "ビジネス+IT",
+     "snippet": "グーグル、AI生成物の判定ツール「SynthID Detector」を全世界に公開、他社製も対象&nbsp;&nbsp;ビジネス+IT",
+     "summary": "グーグルがAI生成物の判定ツール「SynthID Detector」を全世界に公開したにゃ。このツールは他社製の生成物にも対応しており、AIによるコンテンツの識別が容易になることが期待されているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "【最新｜BtoB企業のプレスリリース活用実態】半数以上が「生成AIへの引用・露出」に効果を実感。8割以上が外部委託を活 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02MHE3cUJ0LVZJQlVJUWxlNlprU1plWUg3M2NQN203RWN5WVlFdXc0RTV0U3FKemhOeG1sNVRmTVF2dkVtT2dfRHhSdWpuT3RWaGN2eg?oc=5",
+     "date": "2026-10-08T04:00:54+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "【最新｜BtoB企業のプレスリリース活用実態】半数以上が「生成AIへの引用・露出」に効果を実感。8割以上が外部委託を活&nbsp;&nbsp;ニコニコニュース",
+     "summary": "BtoB企業のプレスリリース活用実態に関する調査では、半数以上が生成AIへの引用・露出に効果を実感しているという結果が出たにゃ。ニコニコニュースによると、8割以上が外部委託を活用していることも明らかになっているそうだにゃん。"
     }
    ]
   },
   {
    "id": "regional",
    "title": "🏘 地方創生×メディア",
-   "items": []
+   "items": [
+    {
+     "type": "news",
+     "title": "公民連携推進機構、「地方創生Award2026」を開催 垂水市など14自治体を表彰 - 千葉テレビ放送",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mUFR3dDc2OXlDNTdLUEdOT1JqRGVHX09OVjFVT1JOUmFNVUwyS0RpUW05eVR2RlU4QlBCUnptZUdZZ3dVWGNjek4wMXB0NUl4d19nVXdtRjY3d3dJcWNj?oc=5",
+     "date": "2026-10-11T19:12:00+00:00",
+     "source": "千葉テレビ放送",
+     "snippet": "公民連携推進機構、「地方創生Award2026」を開催 垂水市など14自治体を表彰&nbsp;&nbsp;千葉テレビ放送",
+     "summary": "公民連携推進機構が「地方創生Award2026」を開催し、垂水市など14の自治体が表彰されたにゃ。地域の活性化を目指す取り組みが評価され、各自治体の努力が認められたことが伝えられているですにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "地方企業のブランド力をアスリート肖像で底上げする新プロジェクト - Koubo",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5PLVgyQ3VmR1MyMnRFRDNPdzhtckxQTlBfRm1uQkJlOG5XSmZ3Vm05b3lIR0pOQkFkeFgwTzJ2UllRTDlYMlE?oc=5",
+     "date": "2026-10-10T21:04:32+00:00",
+     "source": "Koubo",
+     "snippet": "地方企業のブランド力をアスリート肖像で底上げする新プロジェクト&nbsp;&nbsp;Koubo",
+     "summary": "地方企業のブランド力を向上させるため、アスリートの肖像を活用した新しいプロジェクトが始まったにゃ。この取り組みは、地域の魅力を引き出し、企業の認知度を高めることを目的としているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "安心安全なまちづくりへ 高校生も闇バイト加担防止策を発表 北海道警察などが「道民の集い」 - TBS NEWS DIG",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OU3JKN2Q2Qk5SMjAyQ3NuYy1DT29PS0xyTnB1TEZETFpuTlE4QTRsT2Eta0MtMjNjcjRwTF96V0RnNWdnNG92V2l1Z2FOR1FrY29hdUlXdjFEdw?oc=5",
+     "date": "2026-10-10T00:42:00+00:00",
+     "source": "TBS NEWS DIG",
+     "snippet": "安心安全なまちづくりへ 高校生も闇バイト加担防止策を発表 北海道警察などが「道民の集い」&nbsp;&nbsp;TBS NEWS DIG",
+     "summary": "北海道警察などが「道民の集い」を開催し、高校生が闇バイトへの加担防止策を発表したにゃ。安心安全なまちづくりを目指し、若者の意識を高めるための取り組みが進められているですにゃ。"
+    },
+    {
+     "type": "gov",
+     "title": "水田における温室効果ガス削減と生物多様性保全のトレードオフを超えて - J-Stage",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdWotTUViUDczVkFfRGw3RWpBX0hlRlgtdWZfRzhBUkVSczlBOU11Tk5SS18zWTJaODE2OVdZUDFETUt1VnJFRXViN1gzaXFNSTd2VVBqQkJuNi1fRWlPTTd1NHVPemh2bFBQTUh6SDlFTFBOYXlSOG5JYUdLTDZ0S1FDSDloQQ?oc=5",
+     "date": "2026-10-09T22:52:19+00:00",
+     "source": "J-Stage",
+     "snippet": "水田における温室効果ガス削減と生物多様性保全のトレードオフを超えて&nbsp;&nbsp;J-Stage",
+     "summary": "水田における温室効果ガス削減と生物多様性保全のトレードオフを超えるための研究が進められているにゃ。この研究は、持続可能な農業の実現に向けた重要なステップとして注目されているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "静岡新聞SBSと三栄コーポレーション、県内企業のサステナブル実装支援で連携 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RSDdGdnFIZEpFZ3c2U25EeE1vWDU2RzhBOWZEMHhQS2pIdDV4UGMxQzRCUVdTYl9KZ01IM1Rmd0tNYUp5SGluMDFJRGlBXzktOEVZMw?oc=5",
+     "date": "2026-10-09T08:30:19+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "静岡新聞SBSと三栄コーポレーション、県内企業のサステナブル実装支援で連携&nbsp;&nbsp;ニコニコニュース",
+     "summary": "静岡新聞SBSと三栄コーポレーションが連携し、県内企業のサステナブルな実装を支援する取り組みを始めたにゃ。この協力により、地域企業の持続可能性向上が期待されているですにゃ。"
+    }
+   ]
   },
   {
    "id": "media_biz",
    "title": "📺 NHK・テレビ制作・新聞社のメディア起業動向",
-   "items": []
+   "items": [
+    {
+     "type": "news",
+     "title": "ＶＲ活用の安全教育提案 販促・ＤＸ支援の西川コミュニケーションズ リアルな訓練へ現場再現 - 47NEWS",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFByaXJVWkgzOXVoeVFrNEJBek9RLUJrZTVjdTQ1eUctWUsyRXFCTXRISl9oU3A5eXI5YkFVM3dtbVRBZkFBSlpSNXpsdw?oc=5",
+     "date": "2026-10-11T20:16:54+00:00",
+     "source": "47NEWS",
+     "snippet": "ＶＲ活用の安全教育提案 販促・ＤＸ支援の西川コミュニケーションズ リアルな訓練へ現場再現&nbsp;&nbsp;47NEWS",
+     "summary": "西川コミュニケーションズは、VRを活用した安全教育の提案を行ったにゃ。これにより、リアルな訓練が可能となり、現場の再現が実現するそうだにゃん。DX支援や販促活動も行っており、企業の安全意識向上に寄与することを目指しているにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "(株)フジ・メディア・ホールディングス【4676】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45TTR4QlRUNTdvUXBNdzBrUEpWWEh1eHhFcHB5RnNRLWpJOUFYdlFGTUE2VklGbzVaVDEtTTNKbEE4RDRQSmNJdUU1T2pyYVZsVlE?oc=5",
+     "date": "2026-10-11T19:24:44+00:00",
+     "source": "Yahoo!ファイナンス",
+     "snippet": "(株)フジ・メディア・ホールディングス【4676】：株価・株式情報（夜間PTS含む）&nbsp;&nbsp;Yahoo!ファイナンス",
+     "summary": "フジ・メディア・ホールディングスの株価情報がYahoo!ファイナンスで提供されているにゃ。夜間PTSを含む株式情報が掲載されており、投資家にとって重要なデータとなっているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "受信料、軍艦島、外部会長頼み…NHKは3年前の「検証」からどう変わったか（産経新聞） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0FRR01oRFBQcFliaFcxUzFsNF85bXNzX1JwNG5kVzhqVFNhOThSaVJvQUpvNWEwSEdsenl4dTJTRjJYLXVFSTZGa3ZmNTBKMmpVM1FsX29CdElLNVBmTDRmUEhhSDhQOU1icno5eTJUQjNtdUI3a1RHNjNpdzMtU19FSDRBMXB0?oc=5",
+     "date": "2026-10-11T10:00:00+00:00",
+     "source": "Yahoo!ニュース",
+     "snippet": "受信料、軍艦島、外部会長頼み…NHKは3年前の「検証」からどう変わったか（産経新聞）&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "NHKの受信料や軍艦島に関する問題について、3年前の検証からの変化を産経新聞が報じたにゃ。外部会長の影響なども取り上げられ、NHKの運営や透明性についての議論が続いているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "受信料、軍艦島、外部会長頼み…NHKは本紙3年前の「検証」からどう変わったか - 産経ニュース",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UdldWY3dGamRidVhKQlhBVEpKS1JJbGpPZ3MxcDdFMzR4UDZvM1YzWGNOcFUzb0lWb09qVnQ4eVg2aGl2MXdNcF91TXBqQl9IeG5oYjI2enpRV1J3cEJSLWpkUm5VUng0cTJCaUFuMkNrX1JXQ1E?oc=5",
+     "date": "2026-10-11T01:00:00+00:00",
+     "source": "産経ニュース",
+     "snippet": "受信料、軍艦島、外部会長頼み…NHKは本紙3年前の「検証」からどう変わったか&nbsp;&nbsp;産経ニュース",
+     "summary": "産経ニュースもNHKの受信料や軍艦島問題について、3年前の検証からの変化を分析しているにゃ。外部会長の頼みや運営方針の見直しが焦点となっており、視聴者との信頼関係構築が求められているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "【DX時代の現場改革】形骸化したQCサークル活動！なぜ今「課題達成型QCストーリー」なのか？｜濱田金男 - JIJICO",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGUEJYbnNQTy1LZ0c5bnIxYUxqUlludFRsUG5UM3hxWVdJTUg5bkphM1NjVHpIVFI4VGc1NVhJQmVYc3M2amtfU1B0UUxkbllneFpXd2R2cFVocXlFM2NlbWltd1RjaHAzTk81OHFNZWU?oc=5",
+     "date": "2026-10-11T00:42:29+00:00",
+     "source": "JIJICO",
+     "snippet": "【DX時代の現場改革】形骸化したQCサークル活動！なぜ今「課題達成型QCストーリー」なのか？｜濱田金男&nbsp;&nbsp;JIJICO",
+     "summary": "濱田金男氏が、DX時代におけるQCサークル活動の形骸化について言及しているにゃ。現在は「課題達成型QCストーリー」が重要視されており、現場改革に向けた新しいアプローチが求められているそうだにゃん。"
+    }
+   ]
   },
   {
    "id": "museum",
    "title": "🦕 自然博物館・科学博物館",
    "items": [
     {
-     "type": "paper",
-     "title": "Muon Bulb: A Cosmic-Ray Detector Inside a Light Bulb",
-     "link": "https://arxiv.org/abs/2609.35784v2",
-     "date": "2026-08-14T05:53:58+00:00",
-     "source": "arXiv",
-     "snippet": "Cosmic-ray muons are among the most abundant high-energy particles reaching Earth's surface, with a flux of approximately one muon per square centimeter per minute at sea level, yet they remain entirely invisible to the naked eye, posing a persistent challenge for public engagement in particle physics. We present the Muon Bulb, a self-contained cosmic ray muon detector built within the enclosure of a standard commercial LED bulb, designed to produce a vivid and immediate visible light flash upon the passage of a cosmic-ray muon. The detector integrates a plastic scintillator tile coupled to a ",
-     "summary": "宇宙線ミューオンは地球の表面に到達する高エネルギー粒子の中で最も豊富で、海面でのフラックスは約1平方センチメートルあたり1分に1個だにゃ。しかし、目には見えないため、粒子物理学の一般向けの理解を深めるのは難しいにゃ。そこで、ミューオンバルブという装置が開発されたにゃ。この装置は、一般的なLED電球の中に組み込まれた自己完結型の宇宙線ミューオン検出器で、ミューオンが通過すると鮮やかな光を発する仕組みだにゃ。"
+     "type": "news",
+     "title": "＜画像4 / 5＞自宅が国立科学博物館に大変身！3Dビュー&VR映像で常設展示を無料公開 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40dGlYbDVjZDNaMUZBbmUyenE0LWlvVU14Smh4Nkpja3Y0MGMwY3dxZndTT1E4ZTIyRmNrNVNEd2NyOXkxTm9KR0x0eGxOeWppUTZkU2ZzXzNzOG0wclRvRklzQmcwUkF0alBOdkJ1VHF2TE56LVVDc3MwSk5MZ3c?oc=5",
+     "date": "2026-10-11T05:47:40+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "＜画像4 / 5＞自宅が国立科学博物館に大変身！3Dビュー&amp;VR映像で常設展示を無料公開&nbsp;&nbsp;ウォーカープラス",
+     "summary": "自宅が国立科学博物館に変身するプロジェクトが始まったにゃ。3DビューやVR映像を使って、常設展示を無料で公開するんだにゃ。これにより、自宅にいながら博物館の展示を楽しめる機会が提供されるにゃん。特に、科学や自然に興味がある人には嬉しい取り組みだと思うにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "ノーベル賞で注目の「アイスキューブ」 千葉市科学館で展示 - 朝日新聞",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBVXcxUG1ZQkg5M3hoRVRmQk1BZGtBajNRbnRRUDU0Y3JPWXViN2pzUzNfc0ZPaDZ0cXNMZG5HZG0zZHAwWTY5OTdoNWZnWlNHeDF3RVZqUGNkWmx4SzlZTGR1MVFRY2c?oc=5",
+     "date": "2026-10-11T02:15:00+00:00",
+     "source": "朝日新聞",
+     "snippet": "ノーベル賞で注目の「アイスキューブ」 千葉市科学館で展示&nbsp;&nbsp;朝日新聞",
+     "summary": "千葉市科学館で、ノーベル賞に関連する「アイスキューブ」が展示されることになったにゃ。アイスキューブは、科学の進歩を象徴する重要な展示品で、多くの来場者が注目しているそうだにゃん。科学館では、さまざまな体験を通じて科学の魅力を伝えているにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "画像8 / 12＞国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中！おすすめ展覧会グッズを一挙紹介 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IWmRxNnZqb2ZTWUd1WG1mVGVqbWpPSEJSZVlCdjlzcXJWN2Y5dWZrUkJVcUZEZWtxd3hkQ19sa2duUTEyOHZFcXFBZkhObVpRem9KSm15eTUwUjRJSkRZcGktd1VVYkpsRDVDcGt3?oc=5",
+     "date": "2026-10-10T21:53:53+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "画像8 / 12＞国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中！おすすめ展覧会グッズを一挙紹介&nbsp;&nbsp;ウォーカープラス",
+     "summary": "国立科学博物館では、特別展「古代DNA―日本人のきた道―」が開催中だにゃ。この展覧会では、日本人の祖先や古代のDNAに関する研究成果が紹介されているにゃん。来場者は、展示を通じて日本の歴史や文化に触れることができる貴重な機会だと思うにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yU1d6MTZqYnQwUzVsSW13TDQ5WXZyd3dnMTFGbmZWVDhhV1dYSDQtUWtOSE5Uc09hbmQxRmJTd1UzRDJWVENWd1luWXktWnJjZy1WSlE3YmxLVlpJUnBkWXZ4NXNPcnh1dFE?oc=5",
+     "date": "2026-10-10T16:18:45+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任&nbsp;&nbsp;ウォーカープラス",
+     "summary": "香川照之さんが国立科学博物館の「昆虫」展のサポーターに就任したにゃ。彼の知識や魅力を活かして、昆虫の魅力を広める活動が期待されているそうだにゃん。昆虫展は、子どもから大人まで楽しめる内容になっているにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "画像2 / 3＞国立科学博物館のアンモナイト研究者とコラボ！各種の特徴をわかりやすく表現したアンモナイト型クッキー9種が登場 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LNUw4a3BGd19zNEFGV3hjbVVpV2VzWm1VdldVcTFGZURUaGdfN2pSVndnMDBWYjNNWTdBSVdyWGZESGVMTXh6RXVscG9CdjBpLUVueEx1MDN0YUw1VnJVMlFtNEhLazBGMTZqZU9R?oc=5",
+     "date": "2026-10-10T14:28:42+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "画像2 / 3＞国立科学博物館のアンモナイト研究者とコラボ！各種の特徴をわかりやすく表現したアンモナイト型クッキー9種が登場&nbsp;&nbsp;ウォーカープラス",
+     "summary": "国立科学博物館のアンモナイト研究者とコラボした、アンモナイト型クッキーが9種類登場したにゃ。各種の特徴をわかりやすく表現したクッキーは、見た目も楽しめる美味しいお菓子だにゃん。博物館の魅力を味わいながら、科学への興味を深めることができるにゃ。"
     }
    ]
   },
@@ -64,13 +255,49 @@
    "title": "🥽 VR・AR・プロジェクションマッピング",
    "items": [
     {
-     "type": "paper",
-     "title": "Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting",
-     "link": "https://arxiv.org/abs/2610.12455v1",
-     "date": "2026-10-08T17:59:11+00:00",
-     "source": "arXiv",
-     "snippet": "On a film set, the camera move is committed during a take. Generative video reshooting lets filmmakers change it afterward, but may require hallucinating unrecorded content, a gap sometimes discovered only after leaving the set. We present Hybrid Cinematography, a workflow that bridges physical capture and generative reshooting to manage hallucination risk while filmmakers can still act on it. Using an editable 3D shot plan and a proxy of the take, our previsualization evaluates hallucination risk in real time. Seeing where the take lacks support, filmmakers can iteratively adjust the plan, ex",
-     "summary": "「ハイブリッドシネマトグラフィー」は、映画撮影現場において、撮影後にカメラの動きを変更するための新しいワークフローだにゃ。生成的ビデオリシューティングを活用し、未記録の内容を想像するリスクを管理することができるにゃ。この手法では、編集可能な3Dショットプランとプロキシを使用して、リアルタイムでハルシネーションリスクを評価するにゃ。撮影のサポートが不足している箇所を確認することで、 filmmakersはプランを逐次調整できるんだにゃん。"
+     "type": "news",
+     "title": "ＶＲ活用の安全教育提案 販促・ＤＸ支援の西川コミュニケーションズ リアルな訓練へ現場再現 - 中部経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40SkVvYWV5OXd2d0lGV2JxaXQ0VHRWa3NtWEJqYV9mek1sLXJmdnIxdUlLdTdteWxkcHlla0thNWJWQk1sWVVLQ2JsbGFTbVB2dVp1bkR0TnNXVU14N1JkV2tqVmNqRHQyWDI5NFBTVjR4Zjg?oc=5",
+     "date": "2026-10-11T20:00:00+00:00",
+     "source": "中部経済新聞",
+     "snippet": "ＶＲ活用の安全教育提案 販促・ＤＸ支援の西川コミュニケーションズ リアルな訓練へ現場再現&nbsp;&nbsp;中部経済新聞",
+     "summary": "西川コミュニケーションズが提案するVRを活用した安全教育は、リアルな訓練を実現するためのものだにゃ。これにより、現場の状況を再現し、より効果的な教育が可能になるそうだにゃん。企業の販促やDX支援にも寄与する取り組みとして注目されているにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "仮想現実広告市場トップ10企業 - pando.life",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vR0pxQ3hGODl5U3hoSkRIbmhNdlBLNFkyQTl3U1ZsWXd3Q2ZsRHFsNGpyZXVteGFMWGdtRTVRclNYZWZHRHFHb2VB?oc=5",
+     "date": "2026-10-10T19:39:30+00:00",
+     "source": "pando.life",
+     "snippet": "仮想現実広告市場トップ10企業&nbsp;&nbsp;pando.life",
+     "summary": "仮想現実広告市場のトップ10企業についての情報が紹介されているにゃ。具体的な企業名や市場の動向は記載されていないが、仮想現実の広告利用が進んでいることが伺えるにゃん。今後の市場の成長が期待されるにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "電気工学専攻の学生の教育に、VR、3Dモデリング、AIを統合する。 - Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYmFxRVV3cWh4Vm9IZThCMGFkVWpmQTg3VzBhcml5SGVBdGtRdDdQOS1aUnl0cHdnRnA3aUF1TzVxWDR3ZU9Gc1hacUtmb1JBemczRXpEakhkN3ZsaHloa1loeTNCTlFfZEhZb2tETl85SldLMnp6U3V4b2VDMEozZF9Ga1UyZjhCdUstbTYyTQ?oc=5",
+     "date": "2026-10-10T10:33:09+00:00",
+     "source": "Vietnam.vn",
+     "snippet": "電気工学専攻の学生の教育に、VR、3Dモデリング、AIを統合する。&nbsp;&nbsp;Vietnam.vn",
+     "summary": "ベトナムの電気工学専攻の学生に対して、VR、3Dモデリング、AIを統合した教育が行われることが発表されたにゃ。これにより、学生は最新の技術を学び、実践的なスキルを身につけることができるそうだにゃん。教育の質向上が期待されているにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "ハンセン隔離政策象徴をＶＲ体験 東京・東村山の資料館 - 山陽新聞",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9URVM2RXpFWUlOSUtfRWI5bkszb0tLLWFyWEhBX1habjJsVWRrOEk2WDZLbUJOX2tiakdYbUpnOVA4RXQ0d01xSVBDVFFGY0FiUldiZndBb2FsUlJGYVN3a0Z5VDZNVDg?oc=5",
+     "date": "2026-10-10T07:00:00+00:00",
+     "source": "山陽新聞",
+     "snippet": "ハンセン隔離政策象徴をＶＲ体験 東京・東村山の資料館&nbsp;&nbsp;山陽新聞",
+     "summary": "東京・東村山の資料館では、ハンセン病隔離政策の象徴をVR体験として提供しているにゃ。この体験を通じて、過去の歴史を学ぶことができ、理解を深めることが目的だそうだにゃん。VR技術を活用した新しい形の教育として注目されているにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "1005_Honda-JMS-Biz2026_03 | Motor Fan｜自動車情報のモーターファン - Motor Fan",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03ZzlPWkU5T1RHOGpPd0ZMQUR1d1lPbnJrTWJDcGY2U1h4Y3VTNjNXRm0tWERjdk1ROHZLZlNyREdRYmVTbzlKU1VmaVBDWE9KWklnX2g0UUpqSHZkUUd0TmFVMU9CNmhuQ2RvMktWa3I?oc=5",
+     "date": "2026-10-10T00:59:17+00:00",
+     "source": "Motor Fan",
+     "snippet": "1005_Honda-JMS-Biz2026_03 | Motor Fan｜自動車情報のモーターファン&nbsp;&nbsp;Motor Fan",
+     "summary": "Motor Fanの記事では、ホンダに関する情報が掲載されているにゃ。具体的な内容は不明だが、自動車情報に特化した媒体であり、ホンダの最新の動向や技術についての情報が期待されるにゃん。"
     }
    ]
   }
