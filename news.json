@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T00:24:53.009561+00:00",
+ "updated": "2026-10-18T22:35:09.140807+00:00",
  "categories": [
   {
    "id": "ai_media",
@@ -7,12 +7,57 @@
    "items": [
     {
      "type": "news",
+     "title": "AIと育つ子どもたち。α世代が描く、生活者とAIの未来 @メ環研フォーラム2026 レポートvol.3｜The H Magazine - www.hakuhodo.co.jp",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhU3NGY2lHaGxBSlNsWWJIcXV1cnFYV0VObUx2N25FTFVTSHZvN0V5aEN6LXc2ZjI3dFN5dW1saEFDR1NUQzJkWWZuVXVZbDAzbWp0SWh3?oc=5",
+     "date": "2026-10-18T22:04:19+00:00",
+     "source": "www.hakuhodo.co.jp",
+     "snippet": "AIと育つ子どもたち。α世代が描く、生活者とAIの未来 @メ環研フォーラム2026 レポートvol.3｜The H Magazine&nbsp;&nbsp;www.hakuhodo.co.jp",
+     "summary": "AIと育つα世代の子どもたちが描く未来について、メ環研フォーラム2026でのレポートが紹介されているにゃ。彼らはAIと共に生活し、どのように社会が変わるのかを考えているそうだにゃ。AIが日常生活に溶け込む中で、子どもたちの価値観や行動がどのように影響を受けるのか、興味深い議論が展開されているにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "AIが答えを出す時代に、あなたは何を生み出す？ 農業を舞台に挑戦する学生インターン募集 - 山陽新聞",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MWnBpSU0ybzYxRnNBa0cwRy1xU3pqdlBXYVRudU51LUpIdzRad1I1NGpjNTA1LUZ5VTB3QTI3Z19vYnlJenZGSS1vSmdzdVg3Vnc?oc=5",
+     "date": "2026-10-18T01:12:03+00:00",
+     "source": "山陽新聞",
+     "snippet": "AIが答えを出す時代に、あなたは何を生み出す？ 農業を舞台に挑戦する学生インターン募集&nbsp;&nbsp;山陽新聞",
+     "summary": "農業を舞台にした学生インターンの募集が行われているにゃ。AIが答えを出す時代に、学生たちがどのような新しいアイデアやプロジェクトを生み出すのかが期待されているそうだにゃ。農業分野での挑戦を通じて、実践的な経験を積む機会が提供されているにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "Google、AI向けニュース提携が400社超に拡大 CNNも参加 - 디지털투데이",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNXktcjNsUVY5a1FlMkV1alRIQXYtMl8xb0Z0Y1IxaTBJbnFGc3MtRTVGU0p1VWJ2cElTOW83TTM2MGJjS0RwSkM1TWVsRm93V3FVNmFHaVB5RThvQ0pRWTIybEhGYWl0c1IzQmNqVTdWYlF5Z3ZXeUZSbjZLR0IzQjA4T3B0YUotVDU1eTAtRXFRNGdNRnZjVDFCLUwzMHI0U2c?oc=5",
+     "date": "2026-10-17T23:24:56+00:00",
+     "source": "디지털투데이",
+     "snippet": "Google、AI向けニュース提携が400社超に拡大 CNNも参加&nbsp;&nbsp;디지털투데이",
+     "summary": "GoogleがAI向けのニュース提携を400社以上に拡大したことが報じられているにゃ。新たにCNNも参加し、AIを活用したニュース配信が進化しているそうだにゃ。これにより、情報の提供方法が変わり、報道機関との関係も新たな形に変わっていくかもしれないにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "【AI生成動画調査】よく見る人の約7割が「AI生成」の表示を希望！6,559人に聞いてみた【SEO・AIO時代に効く一次データ・アンケート調査受託】 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80WVpSUGFkSzlndkJ4SmdiWXk2ZkRRM3pKSzhUbEI2UUJyQUdJUEdRTndHSEhudzZZdVhNbTJLSmxyTjN6SUh2dEtKSFhpNUl6aFFQVGFFU2Fucy1TdDhpNkpreWl3WDNRRlE?oc=5",
+     "date": "2026-10-17T23:00:01+00:00",
+     "source": "PR TIMES",
+     "snippet": "【AI生成動画調査】よく見る人の約7割が「AI生成」の表示を希望！6,559人に聞いてみた【SEO・AIO時代に効く一次データ・アンケート調査受託】&nbsp;&nbsp;PR TIMES",
+     "summary": "AI生成動画に関する調査結果が発表されたにゃ。調査によれば、視聴者の約7割が「AI生成」の表示を希望しているそうだにゃ。この結果は、視聴者がAI技術に対してどのように感じているのかを示しており、今後のコンテンツ制作に影響を与えるかもしれないにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "AIで性的画像が「指定どおり」に作れる時代、摘発が相次ぐ理由と線引きを整理する（Masumi｜ライター） - エキスパート - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUVVNzh2TnJHQ0ZkN3U2UnozWER4QzJBSFBnQjJjQklYcVRCTVQyZXFqbnMzcXkzRWU3WW1ranJRWEtTcENFSXo2MzFkenFicGNhOWNQWUMtSUxFSm5uVGtTWThjTno3Tlo0NFlqTmhqZlhFLVV1ZHd2SVd0dFZFZWxxOWRiMzVH?oc=5",
+     "date": "2026-10-17T10:01:16+00:00",
+     "source": "Yahoo!ニュース",
+     "snippet": "AIで性的画像が「指定どおり」に作れる時代、摘発が相次ぐ理由と線引きを整理する（Masumi｜ライター） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "AIを利用して性的画像が簡単に作成できる時代に、摘発が相次いでいる理由とその線引きについて整理されているにゃ。AI技術の進化がもたらす倫理的な問題や法的な課題が浮き彫りになっており、社会的な議論が必要とされているそうだにゃん。"
+    },
+    {
+     "type": "news",
      "title": "SEO外注費、まだ払い続けますか？生成AIでコスト1/10を目指すSEO対策勉強会を11月4日(水)に新宿で開催 - ニコニコニュース",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxdGFXYkptNjFfRlJyZ0VZVDd0N1V4cEhIaFUyb2hvVEdjdlhQOU9vVHlfaWtXZDNHUWxnVmx2bTh6UVh3Zmxxd1RZOTAzWHF3WUV2Mg?oc=5",
      "date": "2026-10-17T05:30:16+00:00",
      "source": "ニコニコニュース",
      "snippet": "SEO外注費、まだ払い続けますか？生成AIでコスト1/10を目指すSEO対策勉強会を11月4日(水)に新宿で開催&nbsp;&nbsp;ニコニコニュース",
-     "summary": "SEO外注費を削減するため、生成AIを活用したSEO対策の勉強会が11月4日に新宿で開催されるにゃ。コストを1/10に抑えることを目指しているそうだにゃん。参加者は最新の技術を学び、実践的な知識を得るチャンスだにゃ。興味がある方は参加してみると良いかもしれないにゃん。"
+     "summary": "SEO外注費を削減するため、生成AIを活用したSEO対策の勉強会が新宿で開催されるにゃ。コストを1/10に抑えることを目指しており、参加者には新しい知識や技術を学ぶ機会が提供されるそうだにゃん。生成AIの活用がSEO業界に与える影響が注目されているにゃ。"
     },
     {
      "type": "gov",
@@ -21,7 +66,7 @@
      "date": "2026-10-17T01:23:11+00:00",
      "source": "財務省",
      "snippet": "外交・デジタル&nbsp;&nbsp;財務省",
-     "summary": "財務省の外交・デジタルに関する情報が掲載されているにゃ。具体的な内容は記載されていないが、外交とデジタル技術の関連についての情報が提供されていると思われるにゃ。詳細は財務省の公式サイトを確認すると良いかもしれないにゃん。"
+     "summary": "財務省の外交・デジタルに関する情報が紹介されているにゃ。具体的な内容は明示されていないが、外交とデジタル技術の関連性が議論されている可能性があるそうだにゃん。今後の政策や取り組みに注目が集まるにゃ。"
     },
     {
      "type": "news",
@@ -30,7 +75,7 @@
      "date": "2026-10-16T20:00:00+00:00",
      "source": "読売新聞",
      "snippet": "米グーグルがニュース配信サービスを拡充、報道機関の記事を生成ＡＩで要約…ＣＮＮなどと契約「対価支払う」&nbsp;&nbsp;読売新聞",
-     "summary": "米グーグルがニュース配信サービスを拡充し、報道機関の記事を生成AIで要約する取り組みを始めたにゃ。CNNなどと契約を結び、対価を支払うことで質の高い情報を提供することを目指しているそうだにゃん。これにより、ニュースのアクセスがさらに便利になるかもしれないにゃ。"
+     "summary": "米グーグルがニュース配信サービスを拡充し、報道機関の記事を生成AIで要約する取り組みを進めているにゃ。CNNなどと契約し、対価を支払うことで、より多様な情報提供が実現されるそうだにゃ。この動きは、ニュースの消費方法に変化をもたらすかもしれないにゃん。"
     },
     {
      "type": "gov",
@@ -39,7 +84,7 @@
      "date": "2026-10-16T16:08:34+00:00",
      "source": "J-Stage",
      "snippet": "生成 AI との対話はプログラミング学習を促進するか？ ―SSMMD を用いた援助要請行動と効率のパ&nbsp;&nbsp;J-Stage",
-     "summary": "生成AIとの対話がプログラミング学習を促進するかどうかを探る研究が行われたにゃ。SSMMDを用いて援助要請行動とその効率を分析しているそうだにゃん。AIとのインタラクションが学習に与える影響についての知見が得られるかもしれないにゃ。"
+     "summary": "生成AIとの対話がプログラミング学習を促進するかについての研究が行われているにゃ。SSMMDを用いた援助要請行動と効率のパフォーマンスが検討されており、AIとのインタラクションが学習に与える影響が探求されているそうだにゃん。"
     },
     {
      "type": "gov",
@@ -48,52 +93,7 @@
      "date": "2026-10-16T11:15:41+00:00",
      "source": "財務省",
      "snippet": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月16日(金曜日))&nbsp;&nbsp;財務省",
-     "summary": "片山財務大臣が閣議後に記者会見を行った内容がまとめられているにゃ。具体的な議題や発言内容は記載されていないが、財務政策や経済に関する重要な情報が含まれている可能性があるにゃん。詳細は財務省の公式発表をチェックするのが良いかもしれないにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "CNN、Googleと生成AI活用で複数年のパートナーシップを締結 - RTB SQUARE",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPbmRvc1pWNEhtRDhVbk16RXQ1c1BhOGN0X0RMOUpTQVRUb3VtMVo1ZkV3eFRBVS1XTE43LV82dS1EVU9QZTQtM01ZeWtpQQ?oc=5",
-     "date": "2026-10-16T01:34:22+00:00",
-     "source": "RTB SQUARE",
-     "snippet": "CNN、Googleと生成AI活用で複数年のパートナーシップを締結&nbsp;&nbsp;RTB SQUARE",
-     "summary": "CNNがグーグルと生成AIを活用した複数年のパートナーシップを締結したにゃ。これにより、ニュース配信や情報提供の質を向上させることを目指しているそうだにゃん。AI技術を利用することで、より効率的な報道が期待されるかもしれないにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "GMOメディア、AIを活用して作問した「情報Ⅰ」デジタル模試を無料開催 - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBESHdoYXQ2cWFKbS1FNDdtZ2Nfcy15VjJRNkI5azh1UWx4eGI1aGtBeElsZE5CdVFFWHo5NDhmX3pFWm83NmNfQnNWaDlaZ3VzSUNQZzhFWXNiX0VTeVg2dVF1eUVJLUNkelE?oc=5",
-     "date": "2026-10-16T01:00:01+00:00",
-     "source": "PR TIMES",
-     "snippet": "GMOメディア、AIを活用して作問した「情報Ⅰ」デジタル模試を無料開催&nbsp;&nbsp;PR TIMES",
-     "summary": "GMOメディアがAIを活用して作問した「情報Ⅰ」のデジタル模試を無料で開催するにゃ。参加者はAIによる問題を通じて学習効果を高めることができるそうだにゃん。興味のある方はぜひ参加してみると良いかもしれないにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "グーグル、AI向けに対価を払う「News AI」の参加媒体が400超に CNNなどが新規参加 - ビジネス+IT",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkUWxtbE5aRVA0Wmtfb3lFMU4zS1pGejV3eWZ6SkVDZldEZ0czcF85cnFPRkhNWmU5NklVVFpSOTd0dFl3RHZQSnhfS1VJVEpyZ0Fz?oc=5",
-     "date": "2026-10-16T00:35:00+00:00",
-     "source": "ビジネス+IT",
-     "snippet": "グーグル、AI向けに対価を払う「News AI」の参加媒体が400超に CNNなどが新規参加&nbsp;&nbsp;ビジネス+IT",
-     "summary": "グーグルがAI向けに対価を支払う「News AI」の参加媒体が400を超えたにゃ。新たにCNNなども参加し、ニュース提供の質が向上することが期待されるそうだにゃん。多くのメディアが参加することで、情報の多様性が増すかもしれないにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "グーグルＡＩ向けニュース提供、ＣＮＮやアクシオスなど新たに参加 - Reuters",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EY0dXY0xsVFJza2RfSG5NS25COGZmZi1NUVJZT05OZVdFbUhjcjFTUGNQdkRhVW5rb0RVanVLdlZzdVFISzRVQXBPVV92cjNsdlRBVURhVXpPTkI1bE05OGhmQjY0TzF0RHd0QTl0cmFZaWJlRUdYMWloeWRYZw?oc=5",
-     "date": "2026-10-15T22:59:43+00:00",
-     "source": "Reuters",
-     "snippet": "グーグルＡＩ向けニュース提供、ＣＮＮやアクシオスなど新たに参加&nbsp;&nbsp;Reuters",
-     "summary": "グーグルのAI向けニュース提供に、CNNやアクシオスなどが新たに参加したにゃ。これにより、AIによる情報収集や提供がさらに進化することが期待されるそうだにゃん。多くのメディアが協力することで、質の高いニュースが提供されるかもしれないにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "声優の野沢雅子さん “声の生成AI利用”について語る | NHKニュース | 文化・芸術・エンタメ、ＡＩ・ネット・ＩＴ、メディア - NHKニュース",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FVGVyaUJoZDd3MFlzUkFQeDl4YWxqTlZORTBYaWJPZUp2S29kUDFpRHpiU2hxS3lWVWVyZ0VrWTg5UmVpYlFVaXBUeE5CUkZLdGI3bjRiNW9SZS01YVRv?oc=5",
-     "date": "2026-10-15T09:55:00+00:00",
-     "source": "NHKニュース",
-     "snippet": "声優の野沢雅子さん “声の生成AI利用”について語る | NHKニュース | 文化・芸術・エンタメ、ＡＩ・ネット・ＩＴ、メディア&nbsp;&nbsp;NHKニュース",
-     "summary": "声優の野沢雅子さんが、声の生成AI利用について語ったにゃ。AI技術が声優業界に与える影響や、今後の展望についての考えを述べているそうだにゃん。声の生成AIがどのように活用されるのか、興味深い話題だと思うにゃ。"
+     "summary": "片山財務大臣が閣議後に記者会見を行った内容が報じられているにゃ。具体的な議題や発言内容は明示されていないが、財務省の政策や方針についての重要な情報が提供されている可能性があるにゃん。今後の動向に注目が必要だにゃ。"
     }
    ]
   },
@@ -103,21 +103,12 @@
    "items": [
     {
      "type": "news",
-     "title": "広報おおだい10月号の特集は… - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqYzUxMXpvSk9yTTc4al8wT0VSREttZFFIejFkaVZPUXFxRGRZLTk4S0d3ZnV0UE1abXFpWFRVOVZ1Ykx0R1MyREdDeV9hMktYclJZamt4OTh5blJCSmdNSTQ0TERTd2owUVEyamxEUVJNNGliNnRhRlZKTQ?oc=5",
-     "date": "2026-10-16T16:30:24+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "広報おおだい10月号の特集は…&nbsp;&nbsp;ニコニコニュース",
-     "summary": "広報おおだい10月号の特集についての情報が掲載されているにゃ。具体的な内容は記載されていないけれど、地域のニュースやイベントなどが取り上げられている可能性が高いにゃん。広報誌は地域住民に重要な情報を提供する役割を果たしているんだにゃ。"
-    },
-    {
-     "type": "news",
      "title": "安心して暮らせる福祉のまちづくりへ 青森市社会福祉協議会などの75回目大会で61人と54団体表彰（青森放送） - Yahoo!ニュース",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94M2ZQN3RXQzJuVWF3Z0V2TmZGRm1JZS05OXpJck1EMTc0azh3V3c4anRnZkZ6QVZmc0tBZUMyS1p3LWNsRUFsSThhSXZQYWpiMmJVN2RydFRiT0RYOXdNSkNmT0ZNU1pJVjlGM1BnODlPY0RZa1lJZUhRODFHOGs?oc=5",
      "date": "2026-10-16T10:38:01+00:00",
      "source": "Yahoo!ニュース",
      "snippet": "安心して暮らせる福祉のまちづくりへ 青森市社会福祉協議会などの75回目大会で61人と54団体表彰（青森放送）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "青森市社会福祉協議会が開催した75回目の大会で、61人と54団体が表彰されたにゃ。表彰の目的は、安心して暮らせる福祉のまちづくりを推進することだにゃ。地域の福祉活動が評価され、さらなる発展が期待されるんだにゃん。"
+     "summary": "青森市社会福祉協議会は、75回目の大会で61人と54団体を表彰したにゃ。この表彰は、地域の福祉向上に貢献した人々や団体を称えるもので、安心して暮らせるまちづくりを目指しているそうだにゃん。今後も地域の福祉活動が活発になることが期待されるにゃ。"
     },
     {
      "type": "news",
@@ -126,16 +117,16 @@
      "date": "2026-10-16T09:23:11+00:00",
      "source": "Yahoo!ニュース",
      "snippet": "岡山・美咲町の「賢く収縮するまちづくり」がマニフェスト大賞の優秀賞を受賞 未来に残るまちへ公共施設再編など&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "岡山県美咲町が「賢く収縮するまちづくり」でマニフェスト大賞の優秀賞を受賞したにゃ。この取り組みでは、公共施設の再編成などが行われ、未来に残るまちづくりを目指しているんだにゃ。地域の持続可能な発展に向けた努力が評価されたんだにゃん。"
+     "summary": "岡山県美咲町が「賢く収縮するまちづくり」でマニフェスト大賞の優秀賞を受賞したにゃ。この取り組みは、公共施設の再編などを通じて未来に残るまちを目指すもので、地域の持続可能な発展を促進することが目的だそうだにゃん。"
     },
     {
      "type": "gov",
-     "title": "葉梨大臣記者会見（令和8年10月16日） - 政府広報オンライン",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVVCZi1Sd19IWnhLTFlXYUdRbmlsNURDZmJ1MXloM21ZU3Q2VzZreGJnWERCYnB3eTg2bXFGSXFUS0pHTGc5RTRhWi1HT0l5cWlFUVBidktOSkZERnVybERfNVdqU1J6QzZ5YVcybjVYOVhtNjRPeC1zSVpqVnd2MWp2dEY2bDdXNGhVVWVVWDBWems?oc=5",
-     "date": "2026-10-16T06:57:46+00:00",
+     "title": "小野田大臣記者会見（令和8年10月16日） - 政府広報オンライン",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXhRSElDTUxFTUJuZ2ljOFBaZGw4Z2FCQ3BjbFFNbE9yNWtVNFA5Q3FiRkljclB5b3RhOG93X1dBQUw2MnA0S1VQNjR3bUpHbjVEUGMzRzd1cnJCQUZYdDRqcG9sVC1iTDhDQi1YNG5vNGsyTVN2bHBiZU1ENk5PTnUwcGR4aEVRN0pjYWw1OGVVeVU?oc=5",
+     "date": "2026-10-16T06:53:23+00:00",
      "source": "政府広報オンライン",
-     "snippet": "葉梨大臣記者会見（令和8年10月16日）&nbsp;&nbsp;政府広報オンライン",
-     "summary": "葉梨大臣が令和8年10月16日に記者会見を行ったにゃ。会見の内容は具体的には記載されていないけれど、政府の方針や施策についての重要な情報が発表された可能性があるにゃん。記者会見は政策の透明性を高めるために重要な場だにゃ。"
+     "snippet": "小野田大臣記者会見（令和8年10月16日）&nbsp;&nbsp;政府広報オンライン",
+     "summary": "小野田大臣が令和8年10月16日に記者会見を行ったにゃ。会見の内容は詳細には記載されていないが、政府の重要な方針や施策についての情報が発表されたと考えられるにゃ。今後の政策に注目が集まるだにゃ。"
     },
     {
      "type": "news",
@@ -144,7 +135,16 @@
      "date": "2026-10-16T05:44:05+00:00",
      "source": "PR TIMES",
      "snippet": "広報おおだい10月号の特集は…&nbsp;&nbsp;PR TIMES",
-     "summary": "広報おおだい10月号の特集についての情報がPR TIMESに掲載されているにゃ。具体的な内容は不明だけれど、地域のニュースやイベントが特集されていることが予想されるにゃん。広報誌は地域住民にとって重要な情報源だにゃ。"
+     "summary": "広報おおだいの10月号では特集が組まれているにゃ。具体的な内容は記載されていないが、地域の情報やイベントなどが紹介されている可能性が高いにゃん。地域住民にとって有益な情報が提供されることが期待されるにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "テレビ東京ダイレクトと山形県米沢市が包括連携協定を締結 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIQ0NzVjFTOVJfbUdmVnlPOWF6VlAwNFF5eEtlbzk1T0IzSEU1UFVtX2ZfdXhILUNHSmJqRmp1QW90alYyR2pRV2VGcW1WMXB6NzRveg?oc=5",
+     "date": "2026-10-15T22:51:29+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "テレビ東京ダイレクトと山形県米沢市が包括連携協定を締結&nbsp;&nbsp;ニコニコニュース",
+     "summary": "テレビ東京ダイレクトと山形県米沢市が包括連携協定を締結したにゃ。この協定により、両者は様々な分野での協力を強化し、地域の発展を目指すことになるそうだにゃん。地域活性化に向けた新たな取り組みが始まるにゃ。"
     }
    ]
   },
@@ -154,12 +154,21 @@
    "items": [
     {
      "type": "news",
-     "title": "株式会社マプリィ、「第6回 建設DX展」に出展（8月26日～28日・インテックス大阪） - 朝日新聞",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qczVaNHpOUTNZQWVIREllUEpJWFJfSkRPbk0xWUFTRmlBU0xwdFBJOHdkcF9COGRkV1VTNzF2TlpaeHRRNWpkck9MTnkwMmh0M3Y0OHR4VFZJM0E?oc=5",
-     "date": "2026-10-16T21:19:26+00:00",
+     "title": "「運行管理DXフェア2026」無料ウェビナーを9月10日開催 運送会社が今知るべき最新制度・点呼DX・健康管理DXを完全解説 - 朝日新聞",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIS3pIZGlMc3dBSXBKOUw3VWJzWE5DOUxhODZUR3owYkdROHlzNlhnanBPY2xNSEFsV1hzaTAzWFAwZFFnMVJaa2lIUzB5R1FVb3lvc2xCOVBvQUk?oc=5",
+     "date": "2026-10-18T06:53:22+00:00",
      "source": "朝日新聞",
-     "snippet": "株式会社マプリィ、「第6回 建設DX展」に出展（8月26日～28日・インテックス大阪）&nbsp;&nbsp;朝日新聞",
-     "summary": "株式会社マプリィが「第6回 建設DX展」に出展することが決まったにゃ。展示会は8月26日から28日まで、インテックス大阪で開催されるそうだにゃ。マプリィは建設業界のデジタルトランスフォーメーションを推進する企業で、最新の技術やサービスを紹介する予定だにゃん。"
+     "snippet": "「運行管理DXフェア2026」無料ウェビナーを9月10日開催 運送会社が今知るべき最新制度・点呼DX・健康管理DXを完全解説&nbsp;&nbsp;朝日新聞",
+     "summary": "「運行管理DXフェア2026」の無料ウェビナーが9月10日に開催されるにゃ。このウェビナーでは、運送会社が知っておくべき最新の制度や点呼DX、健康管理DXについて詳しく解説するそうだにゃ。運送業界のデジタルトランスフォーメーションに関心がある方には、非常に有益な内容だと思うにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "着物業界初、株式会社鈴花が経済産業省が定める「DX認定事業者」に認定 - 朝日新聞",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHaVc3bkxUNV9BVUVzZ29xOFdhcDVCVk12WHlSbHJaZlZTVS1WV0FydUZfa01XeHdaV1VCTWN2YktiZEx3LXJ3ZDJ4SU5VSXg1S0lpUmFzTmVURlU?oc=5",
+     "date": "2026-10-17T16:44:30+00:00",
+     "source": "朝日新聞",
+     "snippet": "着物業界初、株式会社鈴花が経済産業省が定める「DX認定事業者」に認定&nbsp;&nbsp;朝日新聞",
+     "summary": "株式会社鈴花が着物業界で初めて経済産業省の「DX認定事業者」に認定されたにゃ。これはデジタルトランスフォーメーションの推進を目的としたもので、業界全体のデジタル化を促進する重要な一歩だにゃん。鈴花の取り組みが他の企業にも良い影響を与えることを期待しているにゃ。"
     },
     {
      "type": "news",
@@ -168,7 +177,7 @@
      "date": "2026-10-16T21:03:00+00:00",
      "source": "ニュースイッチ by 日刊工業新聞社",
      "snippet": "防衛装備品にスタートアップ技術取り込む、始動した新たな調達制度「防衛省版SBIR」の全容&nbsp;&nbsp;ニュースイッチ by 日刊工業新聞社",
-     "summary": "防衛省が新たな調達制度「防衛省版SBIR」を始動したにゃ。この制度は、防衛装備品にスタートアップの技術を取り込むことを目的としているそうだにゃ。これにより、革新的な技術が迅速に導入されることが期待されているにゃん。"
+     "summary": "防衛省が新たな調達制度「防衛省版SBIR」を始動したにゃ。この制度は、防衛装備品にスタートアップの技術を取り込むことを目的としているそうだにゃ。これにより、革新的な技術が防衛分野に活用されることが期待されているにゃん。"
     },
     {
      "type": "news",
@@ -177,7 +186,7 @@
      "date": "2026-10-16T13:11:00+00:00",
      "source": "Excite エキサイト",
      "snippet": "三菱電機、鴻海と車機器で提携＝子会社に５０％出資受け入れ&nbsp;&nbsp;Excite エキサイト",
-     "summary": "三菱電機が鴻海と提携し、車機器分野での協力を強化することになったにゃ。三菱電機は子会社に50％の出資を受け入れる形で、両社の技術やリソースを活用して新たな製品開発を進める予定だにゃん。"
+     "summary": "三菱電機が鴻海と車機器分野で提携し、子会社に50％の出資を受け入れることが決まったにゃ。この提携により、両社は車載機器の開発や生産においてシナジーを生むことを目指しているそうだにゃん。今後の展開が楽しみだにゃ。"
     },
     {
      "type": "news",
@@ -186,16 +195,7 @@
      "date": "2026-10-16T10:33:33+00:00",
      "source": "NHKニュース",
      "snippet": "FIFAが出場停止猶予手続き見直しへ 会長は子会社計画を謝罪&nbsp;&nbsp;NHKニュース",
-     "summary": "FIFAが出場停止猶予手続きの見直しを行うことを発表したにゃ。会長は、関連する子会社計画について謝罪し、透明性を高めるための措置を講じる意向を示したそうだにゃん。今後の対応が注目されるにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "ファンケル 不正アクセスで個人情報78万人余が外部流出 - NHKニュース",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ycFlSTmw1bEN5TmdRU1hmX3h3R2lJZ2VMMlByQi1FSTVsdVd4ZS1fR002S3dOYXlzeVlrSjVRdDhxS2VwaE1tc3BkNEVzZHNobWpJdTA0Z01pWWpXSXkw?oc=5",
-     "date": "2026-10-16T09:00:59+00:00",
-     "source": "NHKニュース",
-     "snippet": "ファンケル 不正アクセスで個人情報78万人余が外部流出&nbsp;&nbsp;NHKニュース",
-     "summary": "ファンケルが不正アクセスを受け、78万人以上の個人情報が外部に流出したことが報告されたにゃ。企業はこの事態を重く受け止め、再発防止策を講じるとともに、影響を受けた顧客への対応を進める必要があるにゃん。"
+     "summary": "FIFAが出場停止猶予手続きの見直しを行うことを発表したにゃ。また、会長は子会社計画について謝罪したそうだにゃ。この見直しがどのような影響をもたらすのか、今後の動向に注目が集まっているにゃん。"
     }
    ]
   },
@@ -207,46 +207,46 @@
      "type": "news",
      "title": "＜画像9 / 13＞国立科学博物館の特別展「昆虫」がスタート！見逃したくないポイントはここだ - ウォーカープラス",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5eVhIcm9RaDhUSWwxaC1zWENzbjVkWkhoY3NFSTBJcE9TdEJ1NkQ5YXczbkxFeU9Demc2MndoYmthNG5Pbkhvd0dieU9Na0VjS2Z0bnVsQ0tTSVo0MVFFYkJ2V3M0YmNrRlE?oc=5",
-     "date": "2026-10-17T17:49:11+00:00",
+     "date": "2026-10-18T15:34:58+00:00",
      "source": "ウォーカープラス",
      "snippet": "＜画像9 / 13＞国立科学博物館の特別展「昆虫」がスタート！見逃したくないポイントはここだ&nbsp;&nbsp;ウォーカープラス",
-     "summary": "国立科学博物館で特別展「昆虫」が始まったにゃ。この展覧会では、昆虫の多様性や生態について学べるポイントがたくさんあるそうだにゃん。特に、珍しい昆虫の標本やインタラクティブな展示が見どころだにゃ。昆虫の世界に触れる絶好の機会だから、ぜひ訪れてみてほしいにゃん！"
+     "summary": "国立科学博物館で特別展「昆虫」が始まったにゃ。この展覧会では、昆虫の多様性や生態系における役割について学べるポイントがたくさんあるそうだにゃ。特に、実物標本やインタラクティブな展示が見どころだにゃん。昆虫好きにはたまらない内容になっているにゃ。"
     },
     {
      "type": "news",
-     "title": "2027年1月 福岡市科学館にて開催決定！『リカちゃんのON/OFF展』 - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LQ1FmcWdROVFBRDRvN0VjdTBqZ3M3MEtKbV91VUpKWTc2SkNnT0JBMGdtRUt1YThxWWUtMUlKVU5JTmZfYS1fODRMZkJra0dvaHhMdw?oc=5",
-     "date": "2026-10-16T22:15:10+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "2027年1月 福岡市科学館にて開催決定！『リカちゃんのON/OFF展』&nbsp;&nbsp;ニコニコニュース",
-     "summary": "2027年1月に福岡市科学館で『リカちゃんのON/OFF展』が開催されることが決まったにゃ。この展覧会では、リカちゃんの魅力や歴史を紹介し、さまざまな体験ができる内容になるそうだにゃ。リカちゃんファンにはたまらないイベントになるだろうから、楽しみにしていてほしいにゃん！"
-    },
-    {
-     "type": "news",
-     "title": "福井市・エルパ2,000円分お買物券が当たる！マグロ解体ショー、原子力科学館の企画展など10月もイベント目白押し♪【エルパ通信】 - ふーぽ",
-     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zdWZIMGhKRVFYaGZUZUpKanByYXdVWlpoNTQ1UUFSTFM2eTRSQzBhX3dzUXpuMzFpNWM5REdtY1YyVlUzZTZn?oc=5",
-     "date": "2026-10-16T21:05:27+00:00",
-     "source": "ふーぽ",
-     "snippet": "福井市・エルパ2,000円分お買物券が当たる！マグロ解体ショー、原子力科学館の企画展など10月もイベント目白押し♪【エルパ通信】&nbsp;&nbsp;ふーぽ",
-     "summary": "福井市のエルパでは、2,000円分のお買物券が当たるイベントや、マグロ解体ショー、原子力科学館の企画展など、10月も多くのイベントが開催されるにゃん。地域の活性化を目指して、さまざまな楽しみが用意されているから、ぜひ参加してみてほしいにゃ！"
-    },
-    {
-     "type": "news",
-     "title": "ノーベル賞「アイスキューブ」知る展示、見学者増 千葉市科学館 - 毎日新聞",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQjJ5ZDkwTGx3V0dha1BiZFhVM2g1ZWFnbHZrcjJMTjU1aC16VElVbl9yS2dWSGRvZENMQzdmOFM0NEFtQURmRzNicEFEV2hYMm00MUxsZWJmdFU4LUV5ZmtUMVdFZzlr?oc=5",
-     "date": "2026-10-16T20:45:00+00:00",
-     "source": "毎日新聞",
-     "snippet": "ノーベル賞「アイスキューブ」知る展示、見学者増 千葉市科学館&nbsp;&nbsp;毎日新聞",
-     "summary": "千葉市科学館では、ノーベル賞に関連する「アイスキューブ」の展示が行われており、見学者が増えているそうだにゃ。この展示では、アイスキューブの科学的な背景やその重要性について学ぶことができるにゃん。科学に興味がある人には、ぜひ訪れてほしい展示だにゃ！"
-    },
-    {
-     "type": "news",
-     "title": "画像37 / 42＞上野・国立科学博物館で「大絶滅展」が開催中！生命のピンチと進化の歴史「ビッグファイブ」に迫る - ウォーカープラス",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNOWVRNS11UFlmdEpBUWIyclRjbnczaWtpZWk4TTZHNlBsR0NmeGNLeHhLYUtIejMwRXVJZXBnd0swcEhzbzZSSE1zMWFJblYwdWhTTVJLRkJpaDd4OUNSeFJYTmYtenJUUHk4Z0tB?oc=5",
-     "date": "2026-10-16T18:53:14+00:00",
+     "title": "画像2 / 3＞国立科学博物館のアンモナイト研究者とコラボ！各種の特徴をわかりやすく表現したアンモナイト型クッキー9種が登場 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LNUw4a3BGd19zNEFGV3hjbVVpV2VzWm1VdldVcTFGZURUaGdfN2pSVndnMDBWYjNNWTdBSVdyWGZESGVMTXh6RXVscG9CdjBpLUVueEx1MDN0YUw1VnJVMlFtNEhLazBGMTZqZU9R?oc=5",
+     "date": "2026-10-18T13:35:35+00:00",
      "source": "ウォーカープラス",
-     "snippet": "画像37 / 42＞上野・国立科学博物館で「大絶滅展」が開催中！生命のピンチと進化の歴史「ビッグファイブ」に迫る&nbsp;&nbsp;ウォーカープラス",
-     "summary": "上野の国立科学博物館で「大絶滅展」が開催中だにゃ。この展覧会では、生命の危機と進化の歴史に焦点を当て、「ビッグファイブ」と呼ばれる大絶滅イベントについて学べるそうだにゃん。過去の絶滅を通じて、現在の生態系の重要性を考える良い機会になるだろうにゃ。"
+     "snippet": "画像2 / 3＞国立科学博物館のアンモナイト研究者とコラボ！各種の特徴をわかりやすく表現したアンモナイト型クッキー9種が登場&nbsp;&nbsp;ウォーカープラス",
+     "summary": "国立科学博物館がアンモナイト研究者とコラボした特別なクッキーが登場したにゃ。9種類のアンモナイト型クッキーは、それぞれの特徴をわかりやすく表現しているそうだにゃ。お菓子を通じて、古生物学に触れることができる楽しい企画だにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "画像4 / 13＞まるで遊園地！体験アトラクションがいっぱいの「バンドー神戸青少年科学館」で遊んで学ぼう - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YeHFXWHFJOEloOXhOM1dsR0tHdkd0WDNCZFdMTHlRQkhvOEZFNDBlcmxXc1Zac3hBVGJvTmxFd2N6cGMwR1FsdXk5TjBxMll1bFNQczdpeW1tUmRET1Zmczg3NWxfZjhuUlE?oc=5",
+     "date": "2026-10-18T03:02:51+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "画像4 / 13＞まるで遊園地！体験アトラクションがいっぱいの「バンドー神戸青少年科学館」で遊んで学ぼう&nbsp;&nbsp;ウォーカープラス",
+     "summary": "「バンドー神戸青少年科学館」では、遊園地のような体験アトラクションがたくさんあるにゃ。科学を楽しく学べる環境が整っていて、子どもたちにとっても大変魅力的な場所だそうだにゃ。遊びながら学ぶことができるので、家族連れにもおすすめだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "満月が照らす“非日常” 石川賢治さん“月光写真”特別展 福岡市科学館で１０月２５日まで開催 福岡市 - FNNプライムオンライン",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CSWlwWmpBSUJDVlRSTjVYZFlidkxCcVpSZEhPYUkyeFNkcDFQdzVwb0t6QTlBMktBazhtNGQyaXYxZkRoNUxyZlJyR2g5dw?oc=5",
+     "date": "2026-10-18T03:00:00+00:00",
+     "source": "FNNプライムオンライン",
+     "snippet": "満月が照らす“非日常” 石川賢治さん“月光写真”特別展 福岡市科学館で１０月２５日まで開催 福岡市&nbsp;&nbsp;FNNプライムオンライン",
+     "summary": "福岡市科学館では、石川賢治さんの月光写真特別展が開催中だにゃ。満月が照らす幻想的な作品が展示されており、10月25日まで楽しむことができるそうだにゃ。非日常的な世界に浸れる貴重な機会だにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "画像3 / 12＞国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中！おすすめ展覧会グッズを一挙紹介 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43UnNXbjg3RUkta3Y0QUFjSUFIek1vMllnbUJPNVBHN2gxYXZkTmkyRHd3TFYzQWRfU21qWWwwT1ZNb0gzakFnOHlrSll6RDZMc0tSUmhWT0xjYUZiREZBWkxrUFJDbmZtZ1NNVE53?oc=5",
+     "date": "2026-10-17T17:10:19+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "画像3 / 12＞国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中！おすすめ展覧会グッズを一挙紹介&nbsp;&nbsp;ウォーカープラス",
+     "summary": "国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中だにゃ。この展覧会では、日本人の起源や古代DNAの研究成果が紹介されているそうだにゃ。おすすめの展覧会グッズも販売されているので、訪れる際にはチェックしてみると良いにゃん。"
     }
    ]
   },
@@ -256,48 +256,48 @@
    "items": [
     {
      "type": "news",
+     "title": "VR体験イベント「メタとら LEVEL.2」開催報告！大阪・梅田に190人が来場 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PRnlhZnEyQmFsb2w2NGt1eVdQUGNvR0NGWFNER0xrVkw3SGtpTWlOdzR4R055eHZYMW5HNW9XSi11N0J1azlaT1l3N2lPTXVFcHBwOW9HNXc1UER4aDdlekhSNmp6UkYwTEE?oc=5",
+     "date": "2026-10-18T10:07:31+00:00",
+     "source": "PR TIMES",
+     "snippet": "VR体験イベント「メタとら LEVEL.2」開催報告！大阪・梅田に190人が来場&nbsp;&nbsp;PR TIMES",
+     "summary": "VR体験イベント「メタとら LEVEL.2」が大阪・梅田で開催され、190人が来場したにゃ。参加者はVR技術を使ったさまざまな体験を楽しんだそうだにゃん。イベントは多くの人々に新しい体験を提供し、VRの魅力を広める場となったにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "鹿児島空港、空の日フェスティバル10/24開催 滑走路VRや制服体験 - Aviation Wire",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wbFZRUXE5UFhnZGJaRFlvV1FiVFptbEIwWnh3RW94aVNxTjNFaFFWaURYNmx0MTk1WnN6R25jeTVwaWZUeC10cVE2ZEpST1JxUmh5QmJB?oc=5",
+     "date": "2026-10-18T03:50:00+00:00",
+     "source": "Aviation Wire",
+     "snippet": "鹿児島空港、空の日フェスティバル10/24開催 滑走路VRや制服体験&nbsp;&nbsp;Aviation Wire",
+     "summary": "鹿児島空港で「空の日フェスティバル」が10月24日に開催されるにゃ。イベントでは滑走路のVR体験や制服試着が行われる予定だにゃ。空港の魅力を伝える機会として、多くの来場者が楽しむことが期待されているそうだにゃん。"
+    },
+    {
+     "type": "news",
      "title": "豊中市-光る泥団子やVR建築体験も 女子小中高生向け科学イベント「明石高専×すてっぷサイエンスイベント～科学好き女子集まれ～！工学の世界を体験しよう～」開催 11月7日（土） - シティライフニュース",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVcngyTXNlY0hndno2ZDJiWXBHa0lHcE5TWVpWbGdUMEQ4X25rbDF5UG5OTFY5RXA3MGVQYno2TmFCT2J4Z0taSThsY0lSUTE5UWc?oc=5",
      "date": "2026-10-17T23:34:33+00:00",
      "source": "シティライフニュース",
      "snippet": "豊中市-光る泥団子やVR建築体験も 女子小中高生向け科学イベント「明石高専×すてっぷサイエンスイベント～科学好き女子集まれ～！工学の世界を体験しよう～」開催 11月7日（土）&nbsp;&nbsp;シティライフニュース",
-     "summary": "豊中市で女子小中高生向けの科学イベント「明石高専×すてっぷサイエンスイベント」が11月7日に開催されるにゃ。光る泥団子やVR建築体験など、工学の世界を楽しく学べる内容が盛りだくさんだにゃ。科学好きな女子たちが集まり、興味を深める良い機会になると思うにゃん。"
+     "summary": "豊中市で女子小中高生向けの科学イベント「明石高専×すてっぷサイエンスイベント」が11月7日に開催されるにゃ。光る泥団子やVR建築体験など、工学の世界を体験できる内容が盛りだくさんだそうだにゃ。科学好きな女子たちが集まることを楽しみにしているにゃん。"
     },
     {
      "type": "news",
-     "title": "早期避難の重要性を体感 リビングショウ「防災フェア」で津波などVR体験 ○×クイズや備蓄食展示で防災周知 - 47NEWS",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HS095ZjN1Qk9FNmhTaTZ2RV9WdWlEM3BZVkJ5cVg1YUFtOERZWjFOYnJTT0IwVG1sX0ZkbnJoLVZhQ05hR2lVdG9qaw?oc=5",
-     "date": "2026-10-17T21:49:00+00:00",
-     "source": "47NEWS",
-     "snippet": "早期避難の重要性を体感 リビングショウ「防災フェア」で津波などVR体験 ○×クイズや備蓄食展示で防災周知&nbsp;&nbsp;47NEWS",
-     "summary": "リビングショウで開催された「防災フェア」では、早期避難の重要性を体感できるVR体験が行われたにゃ。津波などのシミュレーションを通じて、参加者は防災についての理解を深めることができたそうだにゃ。クイズや備蓄食の展示もあり、防災意識を高める良いイベントだったにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "災害時の避難 体感 リビングショウ きょうまで 仮想映像で理解深める - 沖縄タイムス社",
+     "title": "早期避難の重要性を体感 リビングショウ「防災フェア」で津波などVR体験 ○×クイズや備蓄食展示で防災周知 - 沖縄タイムス社",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zTkFnazVlWjYwek94TUw1M2p0MzNtdWhWelczcUF0eDBKdHVWRHJlMHZJT2FQdTZRNHZyVUNRYmY5R0RmWnpoUmZxbUlVTUxUZGRSMXd4bE5nb3FtRWc?oc=5",
-     "date": "2026-10-17T19:00:00+00:00",
+     "date": "2026-10-17T21:49:00+00:00",
      "source": "沖縄タイムス社",
-     "snippet": "災害時の避難 体感 リビングショウ きょうまで 仮想映像で理解深める&nbsp;&nbsp;沖縄タイムス社",
-     "summary": "沖縄タイムス社によると、リビングショウでの災害時の避難体感イベントが開催され、参加者は仮想映像を通じて避難の重要性を理解する機会を得たにゃ。体験を通じて、実際の災害時にどう行動すべきかを学ぶことができたそうだにゃん。"
+     "snippet": "早期避難の重要性を体感 リビングショウ「防災フェア」で津波などVR体験 ○×クイズや備蓄食展示で防災周知&nbsp;&nbsp;沖縄タイムス社",
+     "summary": "リビングショウで開催される「防災フェア」では、津波などのVR体験を通じて早期避難の重要性を体感できるにゃ。○×クイズや備蓄食の展示も行われ、防災に関する知識を広める機会となるそうだにゃん。多くの人々が参加し、防災意識を高めることが期待されているにゃ。"
     },
     {
      "type": "news",
-     "title": "【画像】劉慈欣さん作品「火守」のVR体験空間、上海科技館で一般公開 1/4 - ライブドアニュース",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95YkkxVldOclRMNTk0dWZEYzY4Q2trMkhFSWcyYzdXMDlsM1lyQ3lKTm5ZWVd6VDRqSEZiRW90bEdyMkppcldjR0ZLUFVFbW1UcXBwbHRHMHFyUTFKRlNzWGY1R0ZhZlM5OElXNGFjcnlZY3lKMENaTFZqRGs?oc=5",
-     "date": "2026-10-17T13:35:32+00:00",
-     "source": "ライブドアニュース",
-     "snippet": "【画像】劉慈欣さん作品「火守」のVR体験空間、上海科技館で一般公開 1/4&nbsp;&nbsp;ライブドアニュース",
-     "summary": "劉慈欣さんの作品「火守」のVR体験空間が上海科技館で一般公開されたにゃ。1月4日から始まるこの展示では、作品の世界観をVRで体験できる機会が提供されるそうだにゃ。ファンにとっては、作品を新たな形で楽しむことができる良いチャンスだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "劉慈欣さん作品「火守」のVR体験空間、上海科技館で一般公開 - ｄメニューニュース",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdnJINHV2Mzl3TUdZQkI5NmpnUFBEZFp3YlZjZ1paMF9UdTI2RG9PUC10RzNlR1BTZGNTOGVTTS1JOTZQNnJlQ1hMOS1rdGFrRVRfWXdHVzhOWldBY2FFRG1TcnZYZnotbEwxRzB6Ym5GLTNNb19oVV8tMUo3UHh6cnVtRXZ1MGZ3dzFiS3JObzDSAZABQVVfeXFMTXZySDR1djM5d01HWUJCOTZqZ1BQRGRad2JWY2daWjBfVHUyNkRvT1AtdEczZUdQU2RjUzhlU00tSTk2UDZyZUNYTDkta3Rha0VUX1l3R1c4TlpXQWNhRURtU3J2WGZ6LWxMMUcwemJuRi0zTW9faFVfLTFKN1B4enJ1bUV2dTBmd3cxYktyTm8w?oc=5",
-     "date": "2026-10-17T13:35:00+00:00",
-     "source": "ｄメニューニュース",
-     "snippet": "劉慈欣さん作品「火守」のVR体験空間、上海科技館で一般公開&nbsp;&nbsp;ｄメニューニュース",
-     "summary": "上海科技館で劉慈欣さんの作品「火守」のVR体験空間が一般公開されるにゃ。これにより、訪れる人々は作品の魅力をVRで体感できるようになるそうだにゃ。新しい技術を使った展示が、作品への理解を深める手助けになると思うにゃん。"
+     "title": "リンケージ、ツムラ主催の展示会で生理痛VR体験装置ピリオノイドを提供へ - Dellows News",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PZ3M0bnB2U1hKU1I3R1FSQTVtZHA1V2FiYVVPTjZsZ0tYWndWV2VYTXk0N0N4bGJONklYR21QQ3A4R2Y5VjFnc3U1Z01DLXB5d3FoMDVqTm9PR1I4OFZRSFNOdmEzR3pu?oc=5",
+     "date": "2026-10-17T16:39:07+00:00",
+     "source": "Dellows News",
+     "snippet": "リンケージ、ツムラ主催の展示会で生理痛VR体験装置ピリオノイドを提供へ&nbsp;&nbsp;Dellows News",
+     "summary": "リンケージは、ツムラ主催の展示会で生理痛を体験できるVR装置「ピリオノイド」を提供するにゃ。この装置は生理痛の理解を深めるためのもので、参加者に新たな視点を提供することを目指しているそうだにゃん。"
     }
    ]
   }
