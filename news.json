@@ -1,54 +1,63 @@
 {
- "updated": "2026-10-21T01:00:34.964162+00:00",
+ "updated": "2026-10-21T23:36:49.586765+00:00",
  "categories": [
   {
    "id": "ai_media",
    "title": "🤖 AI×メディア研究（ニュース・論文・行政）",
    "items": [
     {
+     "type": "gov",
+     "title": "英ファンド・ヘリオスCOOが語る、アフリカ成長市場への投資戦略 日本企業・機関とも連携 - ジェトロ（日本貿易振興機構）",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZjdSTmluMzFYNFdTb3hTekRoTndBQ0RZQU5MaE9EUTdUZ1dycGNqMzNycTNnSFVTRnE1ZFJfQ1Fnc3Jvdk83S0dsYWYwcng0ak1vRU9aTDZTUXVyTTM1NEdqcm95ck9zSW9JSnQ0UWxfN2dZUDJ5U3V0TVduTm02SVlReEtmUQ?oc=5",
+     "date": "2026-10-21T20:24:45+00:00",
+     "source": "ジェトロ（日本貿易振興機構）",
+     "snippet": "英ファンド・ヘリオスCOOが語る、アフリカ成長市場への投資戦略 日本企業・機関とも連携&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
+     "summary": "英ファンド・ヘリオスのCOOがアフリカの成長市場への投資戦略について語ったにゃ。日本企業や機関との連携を強調し、アフリカの経済成長の可能性を示唆しているそうだにゃん。特に、インフラやテクノロジー分野での投資機会が注目されているにゃ。"
+    },
+    {
+     "type": "gov",
+     "title": "JICAウェブサイト一部メンテナンスのお知らせ ｜ ニュース・広報 - JICA - 国際協力機構",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ydXYxT1RYajdxWHU5alpMdHcyMzJHUVVQNGEzeE5Ydll0MjZFYnp6MGJsRWR6LTNBN2Y1WlpKNkw3aXZ6V25odGQ2elhBZHhDWjNSWWlLM1hGUzlzcXQzb1g4SElHWTFSVzFkQjE1QUIzQQ?oc=5",
+     "date": "2026-10-21T16:01:58+00:00",
+     "source": "JICA - 国際協力機構",
+     "snippet": "JICAウェブサイト一部メンテナンスのお知らせ ｜ ニュース・広報&nbsp;&nbsp;JICA - 国際協力機構",
+     "summary": "JICAのウェブサイトが一部メンテナンスを行うお知らせだにゃ。具体的なメンテナンスの内容や期間については記載されていないが、利用者には影響が出る可能性があるので注意が必要だにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "中国商務部など、輸出を制限・禁止する技術目録の第5次改正草案を公表、AI関連技術などを追加(中国) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yNm8xaFhfUzAwNTE4V0laMEVZeUxNZ2hNSFJkRG50eU9aOUxyOGtEcDc4MThWODU3OFlVT25CVGdiVGNJWmx6di1ib2lIcml4Tzd4T2djMi1RWDBGLW91cDI5cElvVm9sVGkxcmRB?oc=5",
+     "date": "2026-10-21T15:57:01+00:00",
+     "source": "ジェトロ（日本貿易振興機構）",
+     "snippet": "中国商務部など、輸出を制限・禁止する技術目録の第5次改正草案を公表、AI関連技術などを追加(中国) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
+     "summary": "中国商務部が輸出を制限・禁止する技術目録の第5次改正草案を公表したにゃ。新たにAI関連技術が追加され、これにより国際的な技術競争が激化する可能性があるそうだにゃん。特に、戦略的な技術の管理が強化される見込みだにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "メディアジーンとインフォバーン、人とAIの双方に届ける「AIコンテンツマーケティング支援事業」に向けた取り組みを開始 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ManJqTy1tNF9WWUJBRzdWYnZtbEJVRUhrRWptNThRRDVyeFFaRjFkWWZETWNZLTF3ZlZCSkhYeW5RbzZpNF94TllEVEJ4WmlKRDdQVWlDbjB2NXVJRGZpR0FYSFVHUERNa0E?oc=5",
+     "date": "2026-10-21T02:00:02+00:00",
+     "source": "PR TIMES",
+     "snippet": "メディアジーンとインフォバーン、人とAIの双方に届ける「AIコンテンツマーケティング支援事業」に向けた取り組みを開始&nbsp;&nbsp;PR TIMES",
+     "summary": "メディアジーンとインフォバーンが「AIコンテンツマーケティング支援事業」を開始するにゃ。人とAIの双方に向けたマーケティング支援を行い、企業の成長をサポートすることを目指しているそうだにゃん。新しい取り組みが期待されるにゃ。"
+    },
+    {
      "type": "news",
      "title": "AIが答えを出す時代に、あなたは何を生み出す？ 農業を舞台に挑戦する学生インターン募集 - 山陽新聞",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MWnBpSU0ybzYxRnNBa0cwRy1xU3pqdlBXYVRudU51LUpIdzRad1I1NGpjNTA1LUZ5VTB3QTI3Z19vYnlJenZGSS1vSmdzdVg3Vnc?oc=5",
-     "date": "2026-10-20T18:09:13+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fUmtPMWJnX2VTb0lmOEFlRTh5Rk1pS3o4QVBtYXduQWlWR2ZRS00wSmk4cm1EV0VWOFpaaTBKVjJ6cWpzcWtnQUFjUnpJV0phMWdxWHcyNklKLWhzYWF6SUtGcGFvVTB3?oc=5",
+     "date": "2026-10-21T01:23:01+00:00",
      "source": "山陽新聞",
      "snippet": "AIが答えを出す時代に、あなたは何を生み出す？ 農業を舞台に挑戦する学生インターン募集&nbsp;&nbsp;山陽新聞",
-     "summary": "AIが進化する中、農業分野での挑戦を求める学生インターンを募集しているにゃ。新しいアイデアや技術を生み出す機会が提供され、未来の農業を支える人材を育成することを目指しているそうだにゃん。興味のある学生はぜひ応募してみてほしいにゃ！"
+     "summary": "AIの時代に挑戦する学生インターンを募集しているにゃ。農業を舞台に、AIを活用した新しいアイデアやプロジェクトを生み出すことが求められているそうだにゃん。学生にとって貴重な経験となるだろうにゃ。"
     },
     {
      "type": "news",
-     "title": "Spotifyの進捗報告：AI生成のスロップ楽曲5,000万曲超をおすすめ欄から排除 - Unite.AI",
+     "title": "Spotifyの進捗報告：スロップとスパムの楽曲5,000万曲超をおすすめから排除 - Unite.AI",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdW4xajU1X2VWQjRxVVZ3STNpR1VTcERJYWYxSUJpYWI4UklNVHRjaEtVTE5iTW5vZ3AwUWRHdUc0MU9fczloRkZFdFZrYUxoVGlNT2daM0ZKMEF5MmkxMi1MZWlYUDczcmwwV3hadTQ3ODZubGJqS1RJZHVLcFNtVFFWbGhadzVYc1pGM1IzLVA5c2dCVG9DdThvS21qaEU?oc=5",
-     "date": "2026-10-20T14:44:24+00:00",
+     "date": "2026-10-20T14:39:15+00:00",
      "source": "Unite.AI",
-     "snippet": "Spotifyの進捗報告：AI生成のスロップ楽曲5,000万曲超をおすすめ欄から排除&nbsp;&nbsp;Unite.AI",
-     "summary": "Spotifyが進捗報告を行い、AI生成のスロップ楽曲が5,000万曲を超え、おすすめ欄から排除されることを発表したにゃ。これにより、ユーザーにより質の高い音楽体験を提供することを目指しているそうだにゃん。音楽の選択肢が広がる中、どのような影響が出るか注目だにゃ。"
-    },
-    {
-     "type": "gov",
-     "title": "Dcycle、AI活用でPPWRの包装データを一元管理（EU） - ジェトロ（日本貿易振興機構）",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbnV2ZHQ1OHV5ekkxYmdVN2ZLbnkwcG1acElQNzEzUXlVT0pnUnZ6RkhDanJkVTJIUUNZZzdKdk1RU1U0QjlKTkJlWGpIOUdfMGFtS2xKNjVLTDVBRkhDaktPS2p0WTRVUng1QVowOUtIS1dFS2dOZUdfeU1FczZmNlJpR0tLZw?oc=5",
-     "date": "2026-10-20T10:36:17+00:00",
-     "source": "ジェトロ（日本貿易振興機構）",
-     "snippet": "Dcycle、AI活用でPPWRの包装データを一元管理（EU）&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "DcycleがEUにおいて、PPWRの包装データをAIを活用して一元管理する取り組みを始めたにゃ。これにより、包装データの効率的な管理が可能になり、持続可能な包装の実現に向けた一歩を踏み出したそうだにゃん。環境への配慮が求められる中、重要な動きだにゃ。"
-    },
-    {
-     "type": "gov",
-     "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月20日(火曜日)) - 財務省",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MczJVZGJXZm55MFdtSGdpb1hsMWl2cG1qTEtnUU1abHZNZW4tTmJCVzF5WVk3RGtLSTVTY0VNN1lvMWtFQzRtaDFCWlZOcFE2Z0IzNGxEMkV5Z082NTRYVS02emwyRmc4MmdwZlFEVW9DRUE?oc=5",
-     "date": "2026-10-20T09:21:12+00:00",
-     "source": "財務省",
-     "snippet": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月20日(火曜日))&nbsp;&nbsp;財務省",
-     "summary": "片山財務大臣が閣議後の記者会見で、最新の財政状況や政策について説明したにゃ。具体的な内容は公開されていないが、今後の経済政策に関する重要な情報が含まれていると考えられるにゃん。国民の関心が高いテーマだけに、注目される会見だったそうだにゃ。"
-    },
-    {
-     "type": "gov",
-     "title": "SHEET BOXING—ボクシングには書き言葉がない - メディア芸術クリエイター育成支援事業",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QZ2hKWFZCNUxDek9zb3lIZ0dVT1JKdDRUaThKYUJNQkFyQTBVNkE3ZkRyMmdaRlB5YUw2UllDLWhULWRVWmU0eUJBeXBEdFgtT0NOWV9sTUJOb2VzRzVYSlNudUNVX040dlE?oc=5",
-     "date": "2026-10-20T08:16:17+00:00",
-     "source": "メディア芸術クリエイター育成支援事業",
-     "snippet": "SHEET BOXING—ボクシングには書き言葉がない&nbsp;&nbsp;メディア芸術クリエイター育成支援事業",
-     "summary": "「SHEET BOXING」というプロジェクトが、ボクシングにおける言葉の表現の難しさをテーマにしているにゃ。ボクシングは視覚的なスポーツであり、言葉での表現が難しいため、独自のアプローチが求められているそうだにゃん。新たな視点からの創作が期待されるにゃ。"
+     "snippet": "Spotifyの進捗報告：スロップとスパムの楽曲5,000万曲超をおすすめから排除&nbsp;&nbsp;Unite.AI",
+     "summary": "Spotifyが進捗報告を行い、スロップやスパムの楽曲を5,000万曲以上おすすめから排除したにゃ。これにより、ユーザーにより良い音楽体験を提供することを目指しているそうだにゃん。音楽の質を高める取り組みが進んでいるにゃ。"
     },
     {
      "type": "news",
@@ -57,16 +66,7 @@
      "date": "2026-10-20T07:47:46+00:00",
      "source": "PR TIMES",
      "snippet": "AIアニメ制作プラットフォーム「PopPixs」、公認クリエイター制度を始動！第1期5名程度を募集&nbsp;&nbsp;PR TIMES",
-     "summary": "AIアニメ制作プラットフォーム「PopPixs」が公認クリエイター制度を始動したにゃ。第1期として約5名のクリエイターを募集しており、AI技術を活用したアニメ制作の新たな可能性を広げることを目指しているそうだにゃん。クリエイターたちの活躍が楽しみだにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "IDEATECHとトドオナダ、生成AIとPRに関する無料セミナーを9月24日に共催へ - Dellows News",
-     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1NblFoVmt5azY4M3N0a3hVQXRGSnltVEdlcEhaRXBISFRxemdyRWttTkpXX3RINUFKOXNyaHRyYk9ZY2lLRFE?oc=5",
-     "date": "2026-10-20T06:27:19+00:00",
-     "source": "Dellows News",
-     "snippet": "IDEATECHとトドオナダ、生成AIとPRに関する無料セミナーを9月24日に共催へ&nbsp;&nbsp;Dellows News",
-     "summary": "IDEATECHとトドオナダが、生成AIとPRに関する無料セミナーを9月24日に共催するにゃ。最新のAI技術をPRにどのように活用するかを学ぶ機会であり、多くの参加者が集まることが期待されているそうだにゃん。興味のある人はぜひ参加してみてほしいにゃ。"
+     "summary": "AIアニメ制作プラットフォーム「PopPixs」が公認クリエイター制度を始動したにゃ。第1期として約5名のクリエイターを募集しており、AIを活用した新しいアニメーション制作の可能性が広がることが期待されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -75,7 +75,7 @@
      "date": "2026-10-20T02:21:44+00:00",
      "source": "Dellows News",
      "snippet": "電通デジタルら、メディア露出と生成AI言及の相関調査を発表 支援策も開始&nbsp;&nbsp;Dellows News",
-     "summary": "電通デジタルが、メディア露出と生成AIに関する相関調査を発表し、支援策も開始したにゃ。生成AIがメディア戦略に与える影響を分析し、企業のマーケティング活動を支援することを目指しているそうだにゃん。新たな時代のマーケティング手法が注目されているにゃ。"
+     "summary": "電通デジタルがメディア露出と生成AIの言及の相関調査を発表したにゃ。調査結果を基に、企業への支援策も開始するとのことだにゃ。AIの活用がメディア戦略に与える影響が注目されているにゃん。"
     },
     {
      "type": "news",
@@ -84,16 +84,16 @@
      "date": "2026-10-19T20:00:00+00:00",
      "source": "読売新聞",
      "snippet": "報道 ＡＩは代替できず…ニューズ・コーポレーションＣＥＯ ロバート・トムソン氏&nbsp;&nbsp;読売新聞",
-     "summary": "ニューズ・コーポレーションのCEO、ロバート・トムソン氏が、AIは報道を代替できないと発言したにゃ。人間の判断や倫理が必要な報道の重要性を強調し、AIの限界についても言及しているそうだにゃん。今後の報道の在り方に影響を与える発言だにゃ。"
+     "summary": "ニューズ・コーポレーションのCEOロバート・トムソン氏が、AIは報道を代替できないと述べたにゃ。人間の判断や感情が重要であり、AIには限界があることを強調しているそうだにゃん。報道の質を維持するための重要な視点だにゃ。"
     },
     {
      "type": "news",
-     "title": "生成AIで検索行動に変化、SEOに加えGEOが重要に - 디지털투데이",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQkNDVlp6ODh5dTdNaFNzVks5RHlNclFZX01xR2FtVUtXcEwwY2hVZ1owNklJYkhTRmNQMi1hd3V2bERkU1ZnSzRtMzczMktFQl9xeGptUmhsa3RvTVI0X1FiS2RpYUtldzVoWXZhNDgwMFdzeUsybkhBWVBOS2JOaEpTdm9QaFV2QlZnVmxfcmx2ZmdiRGxEZG4zRmtUaVU0RnlmZlZKY2p4STdPMEY2UQ?oc=5",
-     "date": "2026-10-19T05:15:55+00:00",
-     "source": "디지털투데이",
-     "snippet": "生成AIで検索行動に変化、SEOに加えGEOが重要に&nbsp;&nbsp;디지털투데이",
-     "summary": "生成AIの普及により、検索行動に変化が見られ、SEOに加えてGEO（地理的最適化）が重要になってきているにゃ。ユーザーの検索ニーズに応じた情報提供が求められ、マーケティング戦略に新たな視点が必要とされているそうだにゃん。これからのトレンドに注目だにゃ。"
+     "title": "AI生成コンテンツ を好む層は26％に急減？ ブランドがあえて手作りの不完全さを選ぶ理由 - DIGIDAY［日本版］",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN0Rmc2xlSEVFMGV4UWkwYUluQ212NXVXallaN0poRTdmbmdibTJhZWV5TGNnWmRtRzhWQVlvMEQ5Umx0dUR6UmhrOC1hN0NFR1FDdVQ1SmZBS3dOSThsUVlfVTc2ZmpsTEs5YWZnMjFnS2R4VUxqOThNWi05aXdwd2gteWJCeTNrOXJsUUdLYUlWMVFOT0stc1JsbnVPN1FUTVZPRjlsQ2NZWGxHZ2l6RzVVNlVYcHdWcDRrMlNtc25HZ2FmTFdCb1RWd1ZWUHJqM2c?oc=5",
+     "date": "2026-10-19T07:00:00+00:00",
+     "source": "DIGIDAY［日本版］",
+     "snippet": "AI生成コンテンツ を好む層は26％に急減？ ブランドがあえて手作りの不完全さを選ぶ理由&nbsp;&nbsp;DIGIDAY［日本版］",
+     "summary": "AI生成コンテンツを好む層が26％に急減したとのことだにゃ。ブランドが手作りの不完全さを選ぶ理由について考察されており、消費者の価値観の変化が影響しているそうだにゃん。人間らしさが求められる時代になっているにゃ。"
     }
    ]
   },
@@ -102,49 +102,49 @@
    "title": "🏘 地方創生×メディア",
    "items": [
     {
-     "type": "gov",
-     "title": "最高裁判決を踏まえた保護費の追加給付について 対象世帯や申出方法をご確認ください - 政府広報オンライン",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yeGNidWpRTjJTNkwtTU5INGVLYW1YNmdTVTA5d1c2LTUwMEI1LTRSUGRmTTRrUGJSOTFXRXpPbl9CeVFLa0dsYjJXbVFQZE1WR1hVbUxxR19BTW5lSXFvaDJoOXhOOThJNk1DcQ?oc=5",
-     "date": "2026-10-20T15:04:39+00:00",
-     "source": "政府広報オンライン",
-     "snippet": "最高裁判決を踏まえた保護費の追加給付について 対象世帯や申出方法をご確認ください&nbsp;&nbsp;政府広報オンライン",
-     "summary": "最高裁判決を受けて、保護費の追加給付に関する情報が発表されたにゃ。対象となる世帯や申出方法について詳しく確認することが求められているそうだにゃん。政府広報オンラインでの案内に基づき、必要な手続きを行うことが大切だにゃ。"
+     "type": "news",
+     "title": "空き家メディア運営のタウンライフ、北海道雨竜郡幌加内町と「空き家問題解決および地方創生と地域活性化を目的とした包括連携協定」を締結 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UR2M1QkxWdy1XYXZHUzVIVDRuWEJNSUNJTXN5dlNvOWEtbnBKbnFORWVCOFRqZzVldnVZQjNlSy1uOTd0Q3U5cXlPWVpMNzVOUzJUQlhOclhQMHlOVm1BODNQLUU2dDd2dFE?oc=5",
+     "date": "2026-10-21T23:00:01+00:00",
+     "source": "PR TIMES",
+     "snippet": "空き家メディア運営のタウンライフ、北海道雨竜郡幌加内町と「空き家問題解決および地方創生と地域活性化を目的とした包括連携協定」を締結&nbsp;&nbsp;PR TIMES",
+     "summary": "空き家メディアを運営するタウンライフが、北海道雨竜郡の幌加内町と包括連携協定を締結したにゃ。この協定は、空き家問題の解決や地方創生、地域活性化を目的としているそうだにゃん。タウンライフは、地域の魅力を引き出し、空き家の活用を促進する取り組みを進める予定だにゃ。"
     },
     {
      "type": "news",
-     "title": "外食業界支援、対象限定を - 葛飾経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93WmxzTnFUbUl4OTJmREN6amFNZVlPRkk3ZTZTQk5uZmtlbWluN0FOel9ybjBXYkE5dVFGRE1leEJLeFptU1lORHZyWnd6WjRrTi03MG0tdXo?oc=5",
-     "date": "2026-10-20T10:56:28+00:00",
-     "source": "葛飾経済新聞",
-     "snippet": "外食業界支援、対象限定を&nbsp;&nbsp;葛飾経済新聞",
-     "summary": "外食業界への支援が行われるが、対象が限定されることが発表されたにゃ。具体的な支援内容や対象となる業者については、葛飾経済新聞での情報をもとに確認する必要があるそうだにゃん。"
+     "title": "グリーエックス、群馬県上野村・上野村産業情報センターと「観光・魅力発信に関する連携協定」を締結 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwWmdZbV85YzJkNEFxdXRVVl9oTTBZOUNhZ1BkbGFfRXhWY0ZOMks1eTUxSXEyUWVsUm1MVHp3ZmVUTTNrUHBuQWVoaWExamZpdzJuMEFPaXV4OWhocjBNVV9JbERtRjRqcG1zUG12a1lLVWE5eXcyR0FvQQ?oc=5",
+     "date": "2026-10-21T14:15:23+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "グリーエックス、群馬県上野村・上野村産業情報センターと「観光・魅力発信に関する連携協定」を締結&nbsp;&nbsp;ニコニコニュース",
+     "summary": "グリーエックスが群馬県上野村と上野村産業情報センターとの間で、観光や魅力発信に関する連携協定を締結したにゃ。この協定により、上野村の観光資源や地域の魅力を広めるための協力が進むそうだにゃん。地域の活性化に向けた取り組みが期待されているにゃ。"
     },
     {
      "type": "news",
-     "title": "平良、米挑戦の意向伝える プロ野球 - 葛飾経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2Y3M3QTJBWnlZMHRxdFhZanVMaDNJV0I0V0pRbDZoY1BfQTlfa3VXRXMxNGZlNWtVRGY5VkQ3N0R6WHNrMnVMalJINWx5cGFPWDRPVzFVeU8?oc=5",
-     "date": "2026-10-20T10:56:28+00:00",
+     "title": "準決勝進出の小田凱人 アジアパラ大会 - 葛飾経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HMGhBeEdSeUNLZWh6MWFrRmYyTEZpYVB2MFEwSHVEQWJ6X09vckNvU1FRdUFFRVNxaTlrTkNfWlduaEVGNjdBM3BMR1licU1LTWdKQnBRZEg?oc=5",
+     "date": "2026-10-21T12:58:08+00:00",
      "source": "葛飾経済新聞",
-     "snippet": "平良、米挑戦の意向伝える プロ野球&nbsp;&nbsp;葛飾経済新聞",
-     "summary": "プロ野球選手の平良選手が、アメリカでの挑戦の意向を伝えたにゃ。これにより、彼の今後のキャリアに注目が集まることが予想されるそうだにゃん。葛飾経済新聞での報道によると、平良選手の決断がどのような影響をもたらすかが気になるところだにゃ。"
+     "snippet": "準決勝進出の小田凱人 アジアパラ大会&nbsp;&nbsp;葛飾経済新聞",
+     "summary": "アジアパラ大会で、小田凱人選手が準決勝に進出したにゃ。彼の活躍が注目されており、今後の試合でのさらなる成果が期待されるそうだにゃん。大会でのパフォーマンスが、彼の成長につながることを願っているにゃ。"
     },
     {
      "type": "news",
-     "title": "空海ゆかりの霊火堂、再建へＣＦ - 葛飾経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4dVR0d1FZTlZySXFjWDZSUjktUkVLQ3BiZ2NjbkpUVTFBUHhaaTBiMDdhdFdKQTBoWkhSczd2NFd1REpYRUhrZmZUdS1hMjJUeUpSbkx0TW8?oc=5",
-     "date": "2026-10-20T10:46:26+00:00",
+     "title": "Ｆ東京引き分け Ｊリーグ - 葛飾経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90ME9sVXZoc0YwdENWbWl3SmlWblpZclpyc2RFb0xvOUp2QWxQUTlZOTMtVHg1OFBrX3BUb3JoTHVhejQ4dVIzdlAxUklBLXc5bGw1c2ZtclQ?oc=5",
+     "date": "2026-10-21T12:58:08+00:00",
      "source": "葛飾経済新聞",
-     "snippet": "空海ゆかりの霊火堂、再建へＣＦ&nbsp;&nbsp;葛飾経済新聞",
-     "summary": "空海ゆかりの霊火堂が再建されることになり、クラウドファンディングが始まるにゃ。地域の文化財としての重要性を考慮し、多くの支援が期待されているそうだにゃん。葛飾経済新聞からの情報だにゃ。"
+     "snippet": "Ｆ東京引き分け Ｊリーグ&nbsp;&nbsp;葛飾経済新聞",
+     "summary": "Jリーグの試合で、FC東京が引き分けに終わったにゃ。試合の詳細は不明だけど、引き分けはチームにとって重要なポイントになるかもしれないそうだにゃん。今後の試合での巻き返しに期待したいにゃ。"
     },
     {
      "type": "news",
-     "title": "「ＡＩ改革会議」月内に初会合 - 葛飾経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lWWE4enhaZHZxRDROLWJzeEwySTVwN2lwMXJqS0NtMkczSFBPWURpVE55c0lKckJFaUhoVGVhd3lzX1dJUUpuVzZzOXBwZGxjMkNROVctMnU?oc=5",
-     "date": "2026-10-20T08:11:56+00:00",
+     "title": "プーチン氏、収監の米国人釈放 - 葛飾経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYS3ZERGgxMlRFYmRIXzVyOFZONDJLOGdtRXRneUk5a011UFo3a1VrRVVUNUNLNmNvM2VYWlBmSUtkcEI5SnYyQVg3dFFTZVFYRl9STWRkZmQ?oc=5",
+     "date": "2026-10-21T12:58:08+00:00",
      "source": "葛飾経済新聞",
-     "snippet": "「ＡＩ改革会議」月内に初会合&nbsp;&nbsp;葛飾経済新聞",
-     "summary": "「ＡＩ改革会議」が今月中に初会合を開くことが決まったにゃ。AI技術の進展に伴い、さまざまな分野での議論が行われる予定だそうだにゃん。葛飾経済新聞によると、会議の内容が注目されるにゃ。"
+     "snippet": "プーチン氏、収監の米国人釈放&nbsp;&nbsp;葛飾経済新聞",
+     "summary": "プーチン氏が、収監されていた米国人を釈放したというニュースが報じられたにゃ。この動きは国際的な関係に影響を与える可能性があるそうだにゃん。今後の展開に注目が集まっているにゃ。"
     }
    ]
   },
@@ -154,48 +154,48 @@
    "items": [
     {
      "type": "news",
-     "title": "宿泊DXカンファレンス2026【10/22・オンライン】｜株式会社Growth DX - www.event-marketing.co.jp",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UczlVTFNfTjNIajlwYjc3QkplNXJqUzdLUGgxUlZVMlNFUkdpWGlUTlJxZVQxd2FRcS1ZTzlGN1Y4NFRma1AyVEpWVWtpVXpEODNQZEw0a0ViLUtDUkxPTlItdlVpeGJzMnctOVFIVzVQWFpBMC1uUW1PeHU?oc=5",
-     "date": "2026-10-20T17:58:25+00:00",
-     "source": "www.event-marketing.co.jp",
-     "snippet": "宿泊DXカンファレンス2026【10/22・オンライン】｜株式会社Growth DX&nbsp;&nbsp;www.event-marketing.co.jp",
-     "summary": "宿泊DXカンファレンス2026が10月22日にオンラインで開催されるにゃ。主催は株式会社Growth DXで、宿泊業界のデジタルトランスフォーメーションに関する最新情報やトレンドが共有される予定だにゃん。参加者は業界の専門家や関係者で、ネットワーキングの機会もあるそうだにゃ。"
+     "title": "精神障害男性がUBEの特例子会社を“パワハラ”で提訴 山口 - NHKニュース",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nUVVMaVVVRlJZdVY2ZEhKTzVQRkZfdHRBMzV1SW1MaHgyMTBFNlhWTXBGRFZDdUJOXzdOMzhSeE56TDFpMmVIbE1lMnN5S1dHTnk1RmVCVXNyRkh1RjI0?oc=5",
+     "date": "2026-10-21T08:34:32+00:00",
+     "source": "NHKニュース",
+     "snippet": "精神障害男性がUBEの特例子会社を“パワハラ”で提訴 山口&nbsp;&nbsp;NHKニュース",
+     "summary": "精神障害を持つ男性がUBEの特例子会社をパワハラで提訴したにゃ。提訴の背景には、職場での不当な扱いや精神的苦痛があるとされているにゃん。詳細はまだ明らかではないが、今後の展開が注目されるだにゃ。"
     },
     {
      "type": "news",
-     "title": "タイニン省の新聞社、ラジオ局、テレビ局が、地方政治アカデミーIIと協力協定を締結した。 - Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNDMyMy03LTVObElEUTIwQzI4b2FUM3VlSXdXb2pHMFdOdVBaTFNQdGtGeWVGMUQ3cXN1THB5UEV6V3lDZ0ZIdGZrUzlMVEN5T1YwSEtKeklLMmMzakhSZ1Mtc0lhdVNKZ0dnUk9XT2ZIWUhXZDNseUowNkNKVmt4VHNtbjZuQXNoVl80dkdwRHExdlhWb0ozdkZBbkJnckFtVjFUVEo3Vy0tUzVoWC1Nam1taHRubmRQUG81TGYtSEhQdw?oc=5",
-     "date": "2026-10-20T15:09:07+00:00",
-     "source": "Vietnam.vn",
-     "snippet": "タイニン省の新聞社、ラジオ局、テレビ局が、地方政治アカデミーIIと協力協定を締結した。&nbsp;&nbsp;Vietnam.vn",
-     "summary": "タイニン省の新聞社、ラジオ局、テレビ局が地方政治アカデミーIIと協力協定を締結したにゃ。この協定により、地方政治に関する教育や情報提供が強化される見込みだにゃん。具体的な取り組み内容はまだ明らかにされていないが、地域の発展に寄与することが期待されているそうだにゃ。"
+     "title": "豊田通商、米スタートアップに出資 - ｄメニューニュース",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCQ1ZaTFV3ODIzYTRzcGxBNEFjRE5QbjRQeUtqNTNsSFZrdEdtRWo2dmtMRm00Y1V4TUtyUy1NTGptQmdobk5tZE9fYi1ncjBqZWpEUC1OTDk5QmdKVGJLNnIwUGp6RTREZ1Q4NWRva1pEMVBUb2NReExuSdIBgAFBVV95cUxPRFBhR0c5ck9ueVBkRWJ6MFY1ZjNKcVZlb3FBeG10WFRQak42SjdieUk4MFc0Tmx5T1FvTVo0aXFNcXJmRHdmYUVPdG5wdFV6VHFTRkxPNDBSN3VJNnR2ZXNJZkhMSnVRLTRBNld6UXVNeWZfYXJNVXg0OGNLTVdvcA?oc=5",
+     "date": "2026-10-21T06:39:00+00:00",
+     "source": "ｄメニューニュース",
+     "snippet": "豊田通商、米スタートアップに出資&nbsp;&nbsp;ｄメニューニュース",
+     "summary": "豊田通商が米国のスタートアップに出資したことが報じられたにゃ。具体的な出資額やスタートアップの詳細は不明だが、国際的なビジネス展開を目指す動きの一環と考えられるにゃん。今後の成長が期待されるだにゃ。"
     },
     {
      "type": "news",
-     "title": "タイニン省の新聞社、ラジオ局、テレビ局は、10月20日のベトナム女性の日を祝うための会合を開催した。 - Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPczBubFVRTEFlVklIX3d2WTNzNHdac2UwVWZXZG40LTV1U0VpTnN5b2Nobk5zaEQ4YjBQRFBFd3UwVEZFeGJfMG5YeWZQNml1MGpIRGtSam45QUhkNzZJSTA5WEN2SmUzVkh3WVQwOHdEd3JIMFBaN3J4Uk1Rc1JnSHFPS21yRlhabG1GWkVUaUNkU0RsZ0RTcjNnQnlBbENUWnhxVVdRQzhWOXM?oc=5",
-     "date": "2026-10-20T12:50:19+00:00",
-     "source": "Vietnam.vn",
-     "snippet": "タイニン省の新聞社、ラジオ局、テレビ局は、10月20日のベトナム女性の日を祝うための会合を開催した。&nbsp;&nbsp;Vietnam.vn",
-     "summary": "タイニン省の新聞社、ラジオ局、テレビ局は、10月20日のベトナム女性の日を祝う会合を開催したにゃ。この会合では、女性の地位向上や貢献についての議論が行われ、地域社会における女性の役割が強調されたそうだにゃん。参加者は多く、盛況だったとのことだにゃ。"
+     "title": "草原が真っ赤に延焼》日本企業幹部が乗った車両から出火か…モンゴル東部の自然保護区で大規模火災「東京都の2倍超が焼失」中国も3000人以上を派遣する事態に（NEWSポストセブン - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LZlNuaFV0cUVOUlBnRzBlZ1NmYm1sZnZiTXdCRHV3QzdDZVRMamhhNlJQVFlraHkxMm1IaGloMHNVT1VKencyT0pZWE5TY1pPY3JwUENMWm5mOTBIZF80a1NGdk03RU5XbHJ5YUVjVTVWOTNvRmRmdDdhREpNRnc?oc=5",
+     "date": "2026-10-21T02:15:00+00:00",
+     "source": "Yahoo!ニュース",
+     "snippet": "草原が真っ赤に延焼》日本企業幹部が乗った車両から出火か…モンゴル東部の自然保護区で大規模火災「東京都の2倍超が焼失」中国も3000人以上を派遣する事態に（NEWSポストセブン&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "モンゴル東部の自然保護区で大規模な火災が発生したにゃ。日本企業の幹部が乗った車両から出火した可能性があるとのことだにゃ。火災によって東京都の2倍以上の面積が焼失し、中国からも3000人以上が消火活動に派遣される事態になったそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "イメージ情報開発＜3803＞、コンタクトセンター運営のクラッド大分を子会社化 - Excite エキサイト",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TRkt2M0VTa01JMmRadkxvaklpUzVFamVsbUY2NFhUa1p2TFlOQ01wVm5ZNnAtVDljMkpNQVktTXlYS2tjRTRyVW9fTDBGZDZTMVZnTmdkcTRPaDVsWDlfa3g2RHVJcHc?oc=5",
-     "date": "2026-10-20T11:51:00+00:00",
-     "source": "Excite エキサイト",
-     "snippet": "イメージ情報開発＜3803＞、コンタクトセンター運営のクラッド大分を子会社化&nbsp;&nbsp;Excite エキサイト",
-     "summary": "イメージ情報開発が、コンタクトセンターを運営するクラッド大分を子会社化したにゃ。この買収により、同社のサービスの強化や事業拡大が期待されるそうだにゃん。具体的な戦略や今後の展望については、今後の発表を待つ必要があるにゃ。"
+     "title": "ATCエイジレスセンターで「介護DX実装支援フォーラム」を11月24日（火）に開催！ - 東大阪経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WdUJBcHBFd2ZfQldHS25QanZSbWxXTTdQUlRwcUx0eWluZDB1UjR0Qk85UzRXZ1JQNnNZclltYnptX2duc1VqYVpnUE45NHM2RmFvejZKTklkU0k?oc=5",
+     "date": "2026-10-21T01:45:55+00:00",
+     "source": "東大阪経済新聞",
+     "snippet": "ATCエイジレスセンターで「介護DX実装支援フォーラム」を11月24日（火）に開催！&nbsp;&nbsp;東大阪経済新聞",
+     "summary": "ATCエイジレスセンターで「介護DX実装支援フォーラム」が11月24日に開催されるにゃ。介護業界のデジタルトランスフォーメーションを支援するためのフォーラムで、参加者には最新の情報や技術が提供される予定だにゃん。"
     },
     {
      "type": "news",
-     "title": "ネオジャパン、Japan DX & AX Week「社内業務DX EXPO【秋】」に出展 - 朝日新聞",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWTWNVNUw3d1dsanN3NkNrVEJ0SWxhUTBQbXQ1Sm1xa08zOGY4X0JfTjdsN1VJN2dORm1mMTNQdElZcDJ1NkpYdWFYLVBHVHh0NWZFSllUeW43TGs?oc=5",
-     "date": "2026-10-20T08:43:45+00:00",
-     "source": "朝日新聞",
-     "snippet": "ネオジャパン、Japan DX & AX Week「社内業務DX EXPO【秋】」に出展&nbsp;&nbsp;朝日新聞",
-     "summary": "ネオジャパンがJapan DX & AX Weekの「社内業務DX EXPO【秋】」に出展するにゃ。このイベントでは、企業のデジタルトランスフォーメーションに関する最新技術やサービスが紹介される予定だにゃん。参加者は業界の専門家や企業関係者で、情報交換の場となるそうだにゃ。"
+     "title": "津別町・幸町通りで「幸祭2026」 ネットテレビ局主催、フードや物販など - ｄメニューニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSdUNMeTgwWXBnYjBrNTB4cGNSdVlaemluM1MwYWZ4b3lwZUNaWnBXckpZVUJDRFZoSFRXQTVJYTRCS2VqSFVoRnpERkV1ZjFSSC1GT2dsLWNxVEtyZDIwOUVHYXRrbkdYbnkxOGJSSWlkRE9DNW9vaVdsRmFNWm_SAX9BVV95cUxQUnVDTHk4MFlwZ2IwazUweHBjUnVZWnppbjNTMGFmeG95cGVDWlpwV3JKWVVCQ0RWaEhUV0E1SWE0QktlakhVaEZ6REZFdWYxUkgtRk9nbC1jcVRLcmQyMDlFR2F0a25HWG55MThiUklpZERPQzVvb2lXbEZhTVpv?oc=5",
+     "date": "2026-10-21T01:42:00+00:00",
+     "source": "ｄメニューニュース",
+     "snippet": "津別町・幸町通りで「幸祭2026」 ネットテレビ局主催、フードや物販など&nbsp;&nbsp;ｄメニューニュース",
+     "summary": "津別町の幸町通りで「幸祭2026」が開催されるにゃ。ネットテレビ局が主催し、フードや物販など多彩なイベントが予定されているそうだにゃん。地域の活性化を目指す取り組みとして注目されるだにゃ。"
     }
    ]
   },
@@ -205,48 +205,48 @@
    "items": [
     {
      "type": "news",
-     "title": "＜画像9 / 13＞国立科学博物館の特別展「昆虫」がスタート！見逃したくないポイントはここだ - ウォーカープラス",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5eVhIcm9RaDhUSWwxaC1zWENzbjVkWkhoY3NFSTBJcE9TdEJ1NkQ5YXczbkxFeU9Demc2MndoYmthNG5Pbkhvd0dieU9Na0VjS2Z0bnVsQ0tTSVo0MVFFYkJ2V3M0YmNrRlE?oc=5",
-     "date": "2026-10-20T21:39:53+00:00",
-     "source": "ウォーカープラス",
-     "snippet": "＜画像9 / 13＞国立科学博物館の特別展「昆虫」がスタート！見逃したくないポイントはここだ&nbsp;&nbsp;ウォーカープラス",
-     "summary": "国立科学博物館で特別展「昆虫」が始まったにゃ。この展覧会では、昆虫の多様性や生態系における役割を紹介しているそうだにゃ。訪れる人々は、昆虫の魅力を再発見できるポイントがたくさんあるので、見逃さないように注意するにゃん。特に、インタラクティブな展示や珍しい標本が楽しめるにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "画像2 / 3＞国立科学博物館のアンモナイト研究者とコラボ！各種の特徴をわかりやすく表現したアンモナイト型クッキー9種が登場 - ウォーカープラス",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LNUw4a3BGd19zNEFGV3hjbVVpV2VzWm1VdldVcTFGZURUaGdfN2pSVndnMDBWYjNNWTdBSVdyWGZESGVMTXh6RXVscG9CdjBpLUVueEx1MDN0YUw1VnJVMlFtNEhLazBGMTZqZU9R?oc=5",
-     "date": "2026-10-20T13:02:45+00:00",
-     "source": "ウォーカープラス",
-     "snippet": "画像2 / 3＞国立科学博物館のアンモナイト研究者とコラボ！各種の特徴をわかりやすく表現したアンモナイト型クッキー9種が登場&nbsp;&nbsp;ウォーカープラス",
-     "summary": "国立科学博物館がアンモナイト研究者とコラボし、アンモナイト型クッキー9種を販売することになったにゃ。これらのクッキーは、各種の特徴をわかりやすく表現しているそうだにゃ。美味しさと学びを同時に楽しめるユニークな商品だにゃん。"
-    },
-    {
-     "type": "news",
      "title": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任 - ウォーカープラス",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yU1d6MTZqYnQwUzVsSW13TDQ5WXZyd3dnMTFGbmZWVDhhV1dYSDQtUWtOSE5Uc09hbmQxRmJTd1UzRDJWVENWd1luWXktWnJjZy1WSlE3YmxLVlpJUnBkWXZ4NXNPcnh1dFE?oc=5",
-     "date": "2026-10-20T00:30:48+00:00",
+     "date": "2026-10-21T14:53:26+00:00",
      "source": "ウォーカープラス",
      "snippet": "＜画像3 / 3＞香川照之が国立科学博物館「昆虫」展のサポーター就任&nbsp;&nbsp;ウォーカープラス",
-     "summary": "俳優の香川照之が国立科学博物館の「昆虫」展のサポーターに就任したにゃ。彼の参加により、展覧会の魅力がさらに引き立つことが期待されているそうだにゃん。昆虫の重要性を広めるための活動にも力を入れていくにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "国立科学博物館、野口英世生誕150年記念企画展を2026年10月から開催へ - Dellows News",
-     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1tVTN4UWFIWGlmNVdZRmRGeG9Wa2pKNmFpNWVQMFpXU01uTThIZ1RvOXdDN0RtWWwwOUppOW9xM0VhYU9NcWc?oc=5",
-     "date": "2026-10-19T21:49:39+00:00",
-     "source": "Dellows News",
-     "snippet": "国立科学博物館、野口英世生誕150年記念企画展を2026年10月から開催へ&nbsp;&nbsp;Dellows News",
-     "summary": "国立科学博物館が、野口英世生誕150年を記念した企画展を2026年10月から開催することを発表したにゃ。野口英世の業績や生涯を振り返る内容になる予定で、多くの人々に彼の偉大さを伝える機会となるだろうにゃん。"
+     "summary": "香川照之が国立科学博物館の「昆虫」展のサポーターに就任したにゃ。彼は昆虫の魅力を広めるために活動するそうだにゃん。展覧会では様々な昆虫の展示が行われる予定で、香川の参加が注目されているにゃ。"
     },
     {
      "type": "news",
      "title": "早稲田アカデミー、国立科学博物館の特別展生きものたちの性に協賛へ - Dellows News",
      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaeEpOc2tPR3BZZ3dCQjh2Rm5DOURUaml1eEJ0bDBIN1M1TE5mSTM0M0h2dm52dXE3VHBQRDZGRmlCRG5CYWc?oc=5",
-     "date": "2026-10-19T21:35:54+00:00",
+     "date": "2026-10-21T14:40:16+00:00",
      "source": "Dellows News",
      "snippet": "早稲田アカデミー、国立科学博物館の特別展生きものたちの性に協賛へ&nbsp;&nbsp;Dellows News",
-     "summary": "早稲田アカデミーが国立科学博物館の特別展「生きものたちの性」に協賛することが決まったにゃ。この展覧会では、生物の性に関する多様な視点を提供し、教育的な価値が高い内容になるそうだにゃ。協賛により、より多くの人々にこのテーマを知ってもらえるといいにゃん。"
+     "summary": "早稲田アカデミーが国立科学博物館の特別展「生きものたちの性」に協賛することが決まったにゃ。展覧会では生物の性に関する多様なテーマが取り上げられる予定で、教育機関としての役割を果たすことを目指しているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "市川の現代産業科学館で新素材展 ピーナツのレザーなど体験展示も（みんなの経済新聞ネットワーク） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94Wmk5b2Z1a3VwV3RsdnhRVjE2SDlnTmRLWXo3UjhqaTlJLVpQZlZPT3lrbXBXaXdVaU4zdVlOakRmMGE4bGlHRzN4MU4xTjlXTWZsVmEzMHFWNFgydmJqOFJwZFBsTy04ekdlYlRJV1JrMURwamFQNW45MlBFU0E?oc=5",
+     "date": "2026-10-21T10:00:00+00:00",
+     "source": "Yahoo!ニュース",
+     "snippet": "市川の現代産業科学館で新素材展 ピーナツのレザーなど体験展示も（みんなの経済新聞ネットワーク）&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "市川の現代産業科学館で新素材展が開催されるにゃ。ピーナツのレザーなど、体験展示も行われる予定で、来場者は新しい素材の魅力を直接体験できるそうだにゃ。新しい技術や素材に興味がある人にはぴったりのイベントだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "画像37 / 42＞上野・国立科学博物館で「大絶滅展」が開催中！生命のピンチと進化の歴史「ビッグファイブ」に迫る - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNOWVRNS11UFlmdEpBUWIyclRjbnczaWtpZWk4TTZHNlBsR0NmeGNLeHhLYUtIejMwRXVJZXBnd0swcEhzbzZSSE1zMWFJblYwdWhTTVJLRkJpaDd4OUNSeFJYTmYtenJUUHk4Z0tB?oc=5",
+     "date": "2026-10-21T05:04:23+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "画像37 / 42＞上野・国立科学博物館で「大絶滅展」が開催中！生命のピンチと進化の歴史「ビッグファイブ」に迫る&nbsp;&nbsp;ウォーカープラス",
+     "summary": "上野の国立科学博物館で「大絶滅展」が開催中だにゃ。この展覧会では、生命の危機や進化の歴史に関する「ビッグファイブ」に迫る内容が展示されているにゃ。多くの人にとって、進化の過程を学ぶ良い機会になるそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "航空機かっこかわいく描く 「やまもとみずき展」 芝山町・航空科学博物館 - NEWSjp",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKTkMyclUtc2RnTVhjMmZ3Sm9sREZFbjZRRm1aZm1xbTllU3g4SXR0SDc0QWZyc0hJTU9yWUU3Mk5mM0Y0TnJvWHlETFNlZw?oc=5",
+     "date": "2026-10-21T01:32:00+00:00",
+     "source": "NEWSjp",
+     "snippet": "航空機かっこかわいく描く 「やまもとみずき展」 芝山町・航空科学博物館&nbsp;&nbsp;NEWSjp",
+     "summary": "芝山町の航空科学博物館で「やまもとみずき展」が開催されるにゃ。展示では、航空機をかわいく描いた作品が紹介され、訪れる人々に楽しんでもらえる内容になっているそうだにゃん。航空機ファンには見逃せないイベントだにゃ。"
     }
    ]
   },
@@ -256,48 +256,48 @@
    "items": [
     {
      "type": "news",
-     "title": "サンディスク、Meta VR Glassesの独占パートナーに選定 - Dellows News",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUYS1ZTUNMMnBpU05hZjBZdzB5MzdUQkR0OW9YeTI5ZEYxaHp2dG5rNDdwcU9EcmdyMkdEVkJBWWFXd3ppc0g3UTZ5VzRIMW9HMzRhbVpiMVRkbUlQaXZUV2RtRTVOREc0?oc=5",
-     "date": "2026-10-20T17:31:58+00:00",
-     "source": "Dellows News",
-     "snippet": "サンディスク、Meta VR Glassesの独占パートナーに選定&nbsp;&nbsp;Dellows News",
-     "summary": "サンディスクがMeta VR Glassesの独占パートナーに選ばれたにゃ。これにより、サンディスクはMetaのVRデバイス向けに特別なストレージソリューションを提供することになるそうだにゃん。"
+     "title": "博多のNCBホールでデジタル技術体験イベント AIやAR、VR体験など（みんなの経済新聞ネットワーク） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9manBHTUhmZHgwVlZjakg4MWwtVmNFWkFZLTRsdmhJMFJzcFFoVGRyNkllc1lqZXhqTVllNHdETF9ENHVBdkFpcEhTX1l5R3VudUZqR2JGWFRSbGNWellGR2dyc0lxcmdEaHlIeEhVb0p2bWZycHZvSHRULUVyX2s?oc=5",
+     "date": "2026-10-21T09:36:27+00:00",
+     "source": "Yahoo!ニュース",
+     "snippet": "博多のNCBホールでデジタル技術体験イベント AIやAR、VR体験など（みんなの経済新聞ネットワーク）&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "博多のNCBホールでデジタル技術体験イベントが開催されたにゃ。AIやAR、VRなどの最新技術を体験できる機会で、多くの参加者が訪れたそうだにゃん。参加者は新しい技術に触れ、楽しみながら学ぶことができたにゃ。今後もこうしたイベントが増えるといいにゃね。"
     },
     {
      "type": "news",
-     "title": "小説×VRの相性の良さを鮮烈に体現した快作！ 中村文則の小説を原作とした異色のVR映画『列』体験レポート - Mogura VR",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yWFRsYzdYbFRobkxuNFMzUGV2dnlpOTEyWnVWTW5telR5SVdaTElQdjl0QUx2aG5TTmNxT2ZhRjQxRlVIVFBEOGY4Q0tmcktYNkNz?oc=5",
-     "date": "2026-10-20T10:02:35+00:00",
+     "title": "ロバート・ダウニー・Jr.、ARグラス「SPECS」の最高顧客体験責任者に就任 - Mogura VR",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wY2NRTnVpSExncDZHdjVoc3M1Q0U0Vllsd2QyUzNMSDMyc3VuVERIXzJXQ1lBczJkM1loQnJmNDRfUVNqOW0zZFlrY2JVUHZwTmp3ZmZlUW5mZzU1cHdaZFkyWVRQMkFCRUE?oc=5",
+     "date": "2026-10-21T06:03:40+00:00",
      "source": "Mogura VR",
-     "snippet": "小説×VRの相性の良さを鮮烈に体現した快作！ 中村文則の小説を原作とした異色のVR映画『列』体験レポート&nbsp;&nbsp;Mogura VR",
-     "summary": "中村文則の小説を原作としたVR映画『列』が、小説とVRの相性の良さを見事に表現した作品として評価されているにゃ。体験レポートでは、視覚的な表現や没入感が強調され、観客に新たな体験を提供しているそうだにゃん。"
+     "snippet": "ロバート・ダウニー・Jr.、ARグラス「SPECS」の最高顧客体験責任者に就任&nbsp;&nbsp;Mogura VR",
+     "summary": "ロバート・ダウニー・Jr.がARグラス「SPECS」の最高顧客体験責任者に就任したにゃ。彼の豊富な経験と影響力を活かし、製品の魅力を高めることが期待されているそうだにゃん。ダウニー・Jr.はテクノロジーとエンターテインメントの融合を推進する意向を示しているにゃ。"
     },
     {
      "type": "news",
-     "title": "港区立みなと芸術センター「m〜m（むーむ）」が開館1年前イベントを開催。SIDE COREのウォーキングツアーや手話で楽しむ落語、VR体験も - Tokyo Art Beat",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR01JWXl0ZWdzdFRrdVR3TUVpeTAxR1RQR1k3NHdoMmdSMTNzZE43SEx6TENTOU5QQjNCN3QyQjdEUWlCSnNwWVBick5EOUVxakRrNkltY3FhOXdzVWhnOVpLakVXLVJyLW83U25HX0RTMzc3djFPTU5HMkZhNDMwR0JR?oc=5",
-     "date": "2026-10-20T07:41:23+00:00",
-     "source": "Tokyo Art Beat",
-     "snippet": "港区立みなと芸術センター「m〜m（むーむ）」が開館1年前イベントを開催。SIDE COREのウォーキングツアーや手話で楽しむ落語、VR体験も&nbsp;&nbsp;Tokyo Art Beat",
-     "summary": "港区立みなと芸術センター「m〜m（むーむ）」が開館1年前のイベントを開催したにゃ。SIDE COREによるウォーキングツアーや手話で楽しむ落語、VR体験など多彩なプログラムが用意され、地域の文化活動を盛り上げることを目指しているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "ゆはらかずき監督のXRアニメ『First Virtual Suit』、台湾の高雄映画祭でアワードを受賞 - Mogura VR",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JVmdhYTJhTWZPRWo3b2EybDlNWE1leGpLdV9IYWxib0x1NHZoMXNMYW5PREM5NUJLdW1nd1BXekpyc2gtYTVDakpBVTk1Q3NUbDFDZ2txNFhON2cyQjMwRTJ3TW5iWGU4UkQ1V3JST3FqQkdnVkFrcGZ6Y0dLOXc?oc=5",
-     "date": "2026-10-20T07:07:35+00:00",
+     "title": "富士フイルム「VR PHOTO COMPETITION 2026」開催決定、六本木のフォトサロンで展示 - Mogura VR",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IeU1NTXJtU3RiT0gyUkpQX1pHYU13TlZMRmFlN25pMVZ4WWhuRVNBY2N2Zm9veE5nV0dTWmtQMDJzVjd0X2p2T1REak5OUlZ3YjEyN0ZRZjJFWERST1ZTTQ?oc=5",
+     "date": "2026-10-21T06:03:40+00:00",
      "source": "Mogura VR",
-     "snippet": "ゆはらかずき監督のXRアニメ『First Virtual Suit』、台湾の高雄映画祭でアワードを受賞&nbsp;&nbsp;Mogura VR",
-     "summary": "ゆはらかずき監督のXRアニメ『First Virtual Suit』が台湾の高雄映画祭でアワードを受賞したにゃ。この作品は新しい技術を駆使したアニメーションで、国際的な評価を得ているそうだにゃん。"
+     "snippet": "富士フイルム「VR PHOTO COMPETITION 2026」開催決定、六本木のフォトサロンで展示&nbsp;&nbsp;Mogura VR",
+     "summary": "富士フイルムが「VR PHOTO COMPETITION 2026」を開催することを発表したにゃ。六本木のフォトサロンでの展示も予定されており、参加者はVRを通じて新たな視点で写真を楽しむことができるそうだにゃん。競技の詳細や応募方法については、今後の発表を待つ必要があるにゃ。"
     },
     {
      "type": "news",
-     "title": "全身で動くVRトレッドミル「Omni One」、Meta Quest 3とのセット販売が開始 - Mogura VR",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BN0JxREhvYjNEcTJCT0tvb0N0aHVseFlSd2Y1T0t6M3RpY3p6azh5NVY5VU52azJ1MmFlTDJmaVZJLW1NT0lBWG1wRTEwSTJIUW4ycFp1SXFRc1NIaHptNkRZSVNQYnp1ajd0Zg?oc=5",
-     "date": "2026-10-20T06:42:35+00:00",
-     "source": "Mogura VR",
-     "snippet": "全身で動くVRトレッドミル「Omni One」、Meta Quest 3とのセット販売が開始&nbsp;&nbsp;Mogura VR",
-     "summary": "全身で動くVRトレッドミル「Omni One」が、Meta Quest 3とのセット販売を開始したにゃ。このデバイスは、ユーザーがVR空間でより自然に動けるように設計されており、没入感を高めることが期待されているそうだにゃん。"
+     "title": "豪雨や巨大地震 ＶＲで体験 福山市で防災ワークショップ - 山陽新聞デジタル｜さんデジ",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tOWFRdl85MW55cEJYWjRqR3UzdlNjQ0NCX0pRWU14SS1MUjlGR2tOa1ZMbFRjZ2J5SXQtbTU3VFRGaG5aSF92dGxWTVZmZkFrTDRBVWJFcFZrLTRLS1VIdVNTRC1WUWktamdHQVNBTlhmMk93WVA0?oc=5",
+     "date": "2026-10-21T05:00:22+00:00",
+     "source": "山陽新聞デジタル｜さんデジ",
+     "snippet": "豪雨や巨大地震 ＶＲで体験 福山市で防災ワークショップ&nbsp;&nbsp;山陽新聞デジタル｜さんデジ",
+     "summary": "福山市で豪雨や巨大地震をVRで体験する防災ワークショップが行われたにゃ。参加者はリアルなシミュレーションを通じて、災害時の行動を学び、備えの重要性を再認識したそうだにゃん。このような取り組みは地域の防災意識を高めるために大切だにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "『光の国ミュージアム ウルトラマンXRジャーニー』マレーシア・クアラルンプール開催「COS-MIC2026」に出展！3日間で500名以上が体験。11月は中東進出！ - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pWEhjbkhRczdWdjdsMWx3c05MRnQwa2xTQkRlN0JxN19vRExtMW1UeXE2Y0FfTDJZN21DLXd6M0FpZUZCV2lnblhkMXpGaE1HVTc1UFota0lzMjJDc09PM0RTZHA4VlBQQUE?oc=5",
+     "date": "2026-10-21T04:30:02+00:00",
+     "source": "PR TIMES",
+     "snippet": "『光の国ミュージアム ウルトラマンXRジャーニー』マレーシア・クアラルンプール開催「COS-MIC2026」に出展！3日間で500名以上が体験。11月は中東進出！&nbsp;&nbsp;PR TIMES",
+     "summary": "『光の国ミュージアム ウルトラマンXRジャーニー』がマレーシア・クアラルンプールで開催される「COS-MIC2026」に出展したにゃ。3日間で500名以上が体験し、好評を博したそうだにゃん。11月には中東進出も予定されており、さらなる展開が期待されるにゃ。"
     }
    ]
   }
