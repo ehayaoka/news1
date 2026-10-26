@@ -1,61 +1,252 @@
 {
- "updated": "2026-10-25T22:47:49.886292+00:00",
+ "updated": "2026-10-26T00:44:09.227335+00:00",
  "categories": [
   {
    "id": "ai_media",
    "title": "🤖 AI×メディア研究（ニュース・論文・行政）",
    "items": [
     {
-     "type": "paper",
-     "title": "Africa-Papers: A 10-Billion-Token Multi-Domain Academic Corpus for African Foundation Language Models",
-     "link": "https://arxiv.org/abs/2610.28173v1",
-     "date": "2026-10-20T13:14:58+00:00",
-     "source": "arXiv",
-     "snippet": "Large Language Models (LLMs) depend fundamentally on the diversity, depth, and factual rigor of their pre-training corpora. However, contemporary foundational pre-training datasets (such as The Pile, S2ORC, and Dolma) exhibit a severe structural omission: African scientific, medical, legal, and agricultural scholarship constitutes less than 0.5% of global pre-training tokens. Consequently, state-of-the-art models suffer from systematic failure modes when reasoning about tropical epidemiology, localized smallholder agro-ecologies, regional economic governance, and indigenous linguistic structur",
-     "summary": "アフリカの科学、医療、法律、農業に関する研究は、現在の大規模言語モデルの前提データセットにおいて0.5%未満しか含まれていないのだにゃ。このため、最先端のモデルは熱帯疫学や地域経済ガバナンスなどに関する推論で体系的な失敗を引き起こしてしまうのだにゃん。アフリカの基盤言語モデルのための多領域学術コーパス「Africa-Papers」は、これらの問題を解決するために設計されたのだにゃ。"
+     "type": "news",
+     "title": "【掲載情報】NewsPicksの特集「AI時代の勝ち馬 note」でCEO加藤のインタビューが掲載されました - note株式会社",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5mWjRwVHNnV1VkeUtybW03bUl4eDE2RWRkVldteUoxRWNyQWIwTEE1M0ExaU5ZNjVuZ2FWTzladUk0M1o0cVE?oc=5",
+     "date": "2026-10-26T00:21:03+00:00",
+     "source": "note株式会社",
+     "snippet": "【掲載情報】NewsPicksの特集「AI時代の勝ち馬 note」でCEO加藤のインタビューが掲載されました&nbsp;&nbsp;note株式会社",
+     "summary": "note株式会社のCEO加藤氏が、NewsPicksの特集「AI時代の勝ち馬 note」にインタビューを受けた内容が掲載されたにゃ。インタビューでは、AIの進化がもたらすビジネスの変化や、noteの取り組みについて語られているそうだにゃん。"
     },
     {
-     "type": "paper",
-     "title": "Are explicit novelty claims in research abstracts associated with higher ChatGPT scores?",
-     "link": "https://arxiv.org/abs/2610.26947v1",
-     "date": "2026-10-18T06:53:26+00:00",
-     "source": "arXiv",
-     "snippet": "Large Language Models (LLMs) such as ChatGPT can estimate research quality from article titles and abstracts, and decision makers may increasingly use LLM scores to support research assessment. In this context, it is a concern that LLM scores may be influenced by linguistic signals rather than the quality of the research described. This study investigates whether explicit novelty claims in research abstracts are associated with higher ChatGPT scores. Using 99,245 journal articles submitted to the UK Research Excellence Framework (REF) 2021, ChatGPT scores and percentile rank gains relative to ",
-     "summary": "研究の質を評価するために、ChatGPTなどの大規模言語モデルが利用されることが増えているのだにゃ。しかし、研究の質ではなく言語的な信号に影響される可能性があるのだにゃ。この研究では、研究の要約における明示的な新規性の主張がChatGPTのスコアに関連しているかを調査したのだにゃ。99,245件の論文を用いて、スコアとパーセンタイルランクの変化を分析した結果が示されているのだにゃん。"
+     "type": "gov",
+     "title": "中国、「新質生産力の発展に関する意見」を発表、伝統産業の高度化も重視(中国) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJNUVIVjFDWmNIZjNHTFNWVlZmdVdsMGNGa2dGRC1sRUVWR00ydVNyZ01yRjFIUnFucGZ5RnJkaEY2RlNBczV2d3VHMDdUNlNmTHp4Yi12Wktwd09sd2hYTG9lcVdKYWZnQ2t5ak5n?oc=5",
+     "date": "2026-10-25T15:35:39+00:00",
+     "source": "ジェトロ（日本貿易振興機構）",
+     "snippet": "中国、「新質生産力の発展に関する意見」を発表、伝統産業の高度化も重視(中国) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
+     "summary": "中国が「新質生産力の発展に関する意見」を発表したにゃ。この意見では、伝統産業の高度化を重視し、新しい生産力の育成を目指す方針が示されているそうだにゃ。経済の発展に向けた重要なステップだにゃん。"
     },
     {
-     "type": "paper",
-     "title": "The Many Morals of AI: The cautionary bias of North American news narratives in global perspective",
-     "link": "https://arxiv.org/abs/2610.18573v1",
-     "date": "2026-10-13T15:40:19+00:00",
-     "source": "arXiv",
-     "snippet": "The stories told about artificial intelligence (AI) play a central role in shaping public understanding, policy debates, and expectations about technological change. News media are especially influential in this process. Using a cross-regional corpus of 12,924 English-language news articles about AI published since 2022, we examine how storytelling about AI varies across media systems in four regions: North America, China, India, and the Middle East. Leveraging large language models, we extract the implicit narrative lessons conveyed by each article---commonly known as story morals---capturing",
-     "summary": "人工知能（AI）に関する物語は、公共の理解や政策議論、技術変化に対する期待を形成する重要な役割を果たしているのだにゃ。特にニュースメディアはこの過程で影響力が大きいのだにゃ。この研究では、2022年以降に発表された12,924件の英語のニュース記事を分析し、北米、中国、インド、中東のメディアシステム間でのAIに関する物語の違いを探ったのだにゃ。各記事が伝える暗黙の教訓を抽出し、物語の道徳を捉えたのだにゃん。"
+     "type": "gov",
+     "title": "くにおとたみよの政府広報 - 政府広報オンライン",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oQnhjMUU2akNoUHlqdGtuYlRzekRwc0czSUw2Zy1vUzQzTW9vOTRZSWIzT0ZtLXJRNVl2b0tpX2F5UXFQZlh1bC1ONVdhWUtQeU9WMzZKSE9MaUEyeE9IeA?oc=5",
+     "date": "2026-10-25T15:26:56+00:00",
+     "source": "政府広報オンライン",
+     "snippet": "くにおとたみよの政府広報&nbsp;&nbsp;政府広報オンライン",
+     "summary": "政府広報オンラインにて、くにおとたみよの政府広報が紹介されているにゃ。具体的な内容は記載されていないが、政府の広報活動に関する情報が提供されているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "Owned、オリコンニュースと共同で生成AI対策の「AIOパッケージ」提供開始 - Media Innovation",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tMWdMZjBvQ0VMOVRsN2pyanV3ckRXZExLSm1KU2dyMGlEYjN6Q0NvVmllZFNTU2pIc0JUbWNZejd2dTVzel9IamhYQWNfd2tWVE5LNVNuZENaS1dzSGIwRGRjX2hBN3JuVXc?oc=5",
+     "date": "2026-10-25T00:00:02+00:00",
+     "source": "Media Innovation",
+     "snippet": "Owned、オリコンニュースと共同で生成AI対策の「AIOパッケージ」提供開始&nbsp;&nbsp;Media Innovation",
+     "summary": "Ownedがオリコンニュースと共同で、生成AI対策の「AIOパッケージ」を提供開始したにゃ。このパッケージは、生成AIに関連する課題に対処するためのもので、メディア業界における新たな取り組みとなるそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "一人一人が編集部に 『ロッキング・オン』共同創刊者、橘川幸夫氏が語る生成AI時代のメディア - JBpress",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WT2RaOWhScVBObVByRXZtaUVkQ0YyVmJ0QUZYN29GT3N5QjB0V0FPVEhFNW9mQmpPODVBUzNQbURLZ3N5bHg5azg1dzhGM05fa3VTY3pR?oc=5",
+     "date": "2026-10-23T21:00:00+00:00",
+     "source": "JBpress",
+     "snippet": "一人一人が編集部に 『ロッキング・オン』共同創刊者、橘川幸夫氏が語る生成AI時代のメディア&nbsp;&nbsp;JBpress",
+     "summary": "『ロッキング・オン』の共同創刊者、橘川幸夫氏が生成AI時代のメディアについて語ったにゃ。個々のユーザーが編集部に参加する新しいメディアの形が提案されており、時代の変化に対応した取り組みが求められているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "ナウア株式会社、3,600本以上のAI論文を日本語で紹介する研究メディア「超・人工知能研究所」を公開 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kNnhBdWpIQWwyb0t5OGZHdng3c0VBZE9BWmZuUm13TXVDREJMeEJsajNhd1JiUmc1Q041TDZ1VFJxQ002aXR4TlFZLVhHbHp1NDJ2dnZvYTFneEw5U2RNMEtoTVNIMkdfenR0VmZIN2lxYUNMVUE?oc=5",
+     "date": "2026-10-23T13:21:29+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "ナウア株式会社、3,600本以上のAI論文を日本語で紹介する研究メディア「超・人工知能研究所」を公開&nbsp;&nbsp;ニコニコニュース",
+     "summary": "ナウア株式会社が、3,600本以上のAI論文を日本語で紹介する研究メディア「超・人工知能研究所」を公開したにゃ。このメディアは、AIに関する研究を広く知ってもらうことを目的としているそうだにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月23日(金曜日)) - 財務省",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hQi0wdTJRVDlqeXFVMWZ4a2l3UjZNNEgtSDBweHZRVVZjTnFKVHoxTGRJOUs4dlZ6eVJSdUNnOE80LWc1MGduTzNJbWtnOTBRa3ZuQ1NxS2lPeEltS2lGN1JqbFNRTDhfS1E1MDFQVDhMQWc?oc=5",
+     "date": "2026-10-23T10:46:54+00:00",
+     "source": "財務省",
+     "snippet": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月23日(金曜日))&nbsp;&nbsp;財務省",
+     "summary": "片山財務大臣が、閣議後の記者会見での概要を発表したにゃ。具体的な内容は記載されていないが、財務省の重要な情報が提供されているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "朝日新聞社とメディアジーンが語る ジャーナリズム の未来 生成AI時代、メディアの価値とは - DIGIDAY［日本版］",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zV3pKc3F2MVdZZWczTTdkNHV2N2s5ZVV4dnRVeDZ2VnNxcWZ4RlBUWDZMTEtmcWd3d3d0a09jMEtsS0EzaVJQbnFmaXIwdE9KNEpmZG00UzR4NHl3YkZwZ0s4MFJnMVFSR2F4Q3prODdNemU3LV9wREplRmc?oc=5",
+     "date": "2026-10-23T05:00:18+00:00",
+     "source": "DIGIDAY［日本版］",
+     "snippet": "朝日新聞社とメディアジーンが語る ジャーナリズム の未来 生成AI時代、メディアの価値とは&nbsp;&nbsp;DIGIDAY［日本版］",
+     "summary": "朝日新聞社とメディアジーンが、生成AI時代におけるジャーナリズムの未来について語ったにゃ。メディアの価値や役割が変わる中で、どのようにジャーナリズムが進化していくかが議論されているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "電通デジタルら、メディア露出と生成AI言及の相関調査を発表 支援策も開始 - Dellows News",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9OQWpROVV2SWNkRzhtNXd5QURVYUtUalZOYjRYTGo1YVBQVU40bUdDY2E3MTBpbzVmcjJJejVTaHJlRF9yQ0E?oc=5",
+     "date": "2026-10-23T01:29:50+00:00",
+     "source": "Dellows News",
+     "snippet": "電通デジタルら、メディア露出と生成AI言及の相関調査を発表 支援策も開始&nbsp;&nbsp;Dellows News",
+     "summary": "電通デジタルが、メディア露出と生成AI言及の相関調査を発表したにゃ。これに基づく支援策も開始され、メディア戦略におけるAIの影響を探る取り組みが進められているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "【オフラインイベント開催】2027年、広報の新常識。AI活用とAI検索で変わるPR戦略 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TdE03TlBhZWpoQnpNZGdGNlhGSWt2b2tXZTlDdTJOOHk1bkMwRU1lOHZhcXVYYV9QMUY3alBoMVFjT1NTS1hBeUotRWFIenN1Y3JfUA?oc=5",
+     "date": "2026-10-22T16:30:33+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "【オフラインイベント開催】2027年、広報の新常識。AI活用とAI検索で変わるPR戦略&nbsp;&nbsp;ニコニコニュース",
+     "summary": "2027年に向けて、AI活用とAI検索が広報戦略を変える新常識についてのオフラインイベントが開催されるにゃ。このイベントでは、PR戦略の未来について議論される予定だそうだにゃん。"
     }
    ]
   },
   {
    "id": "regional",
    "title": "🏘 地方創生×メディア",
-   "items": []
+   "items": [
+    {
+     "type": "gov",
+     "title": "くにおとたみよの政府広報 - 政府広報オンライン",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oQnhjMUU2akNoUHlqdGtuYlRzekRwc0czSUw2Zy1vUzQzTW9vOTRZSWIzT0ZtLXJRNVl2b0tpX2F5UXFQZlh1bC1ONVdhWUtQeU9WMzZKSE9MaUEyeE9IeA?oc=5",
+     "date": "2026-10-25T15:26:56+00:00",
+     "source": "政府広報オンライン",
+     "snippet": "くにおとたみよの政府広報&nbsp;&nbsp;政府広報オンライン",
+     "summary": "「くにおとたみよの政府広報」は、政府の情報を提供するためのオンラインプラットフォームだにゃ。最新の政策や施策について、国民に分かりやすく伝えることを目的としているにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "米沢友翔「チームの顔に」 プロ野球 - 葛飾経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LejU4TVRXVTJsVWtUWF81ZnpoMzdxTVlhLTBGc2luWVBGTkNISF9wamZzUzJ3LWZ2YnNZSDlJUWVQSHlrOVN5RmstTGxEMkZuVkQ0N1JVaEE?oc=5",
+     "date": "2026-10-23T19:31:29+00:00",
+     "source": "葛飾経済新聞",
+     "snippet": "米沢友翔「チームの顔に」 プロ野球&nbsp;&nbsp;葛飾経済新聞",
+     "summary": "米沢友翔選手がプロ野球で「チームの顔」としての役割を果たすことを目指しているにゃ。彼の活躍がチームの士気を高め、ファンとの絆を深めることに期待されているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "真っ赤に染まったコキア - 葛飾経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YVzdfY1ZmOF9IMmJ2d3F5bGY5X0E4X2RKR2NjOTlBVEFYSzdBZ1IydWpzc2ZCQ29pWEg1ckJhVmI2YnQ2LXpnRVlGemx2SEtaRDBtdk9KSVc?oc=5",
+     "date": "2026-10-23T19:11:28+00:00",
+     "source": "葛飾経済新聞",
+     "snippet": "真っ赤に染まったコキア&nbsp;&nbsp;葛飾経済新聞",
+     "summary": "葛飾経済新聞によると、真っ赤に染まったコキアが美しい景観を作り出しているにゃ。この季節の風物詩として、多くの人々が訪れ、自然の美しさを楽しんでいるそうだにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "株式会社テレコメディアが徳島県那賀町と包括連携協定を締結｜Infoseekニュース - Infoseek",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tVTZLZ0NoMEFra2pyNDlZa2hPQXJ0LVlySmFkbmY2RUd6ajNYUHRlOExueDkwUkVaOGVaMWxnbjN1UjdDTGE5R0hXMnl2OEhtMUhNd0VmNDVRYVNkNC1DbWJsa3FhV3BHMVJQYks1c3FtZw?oc=5",
+     "date": "2026-10-23T19:10:00+00:00",
+     "source": "Infoseek",
+     "snippet": "株式会社テレコメディアが徳島県那賀町と包括連携協定を締結｜Infoseekニュース&nbsp;&nbsp;Infoseek",
+     "summary": "株式会社テレコメディアが徳島県那賀町と包括連携協定を締結したにゃ。この協定により、地域振興や情報発信の強化を図り、双方にとって有益な関係を築くことを目指しているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "５市町にポケモンマンホール - 葛飾経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaQXRWeTR3ejJTMTNPRXU5a3hoU3J0QUhnc3NGRm1obUpaVlpzb1RRRFFseERJMzEzMHNISGRvcHBBNDUzRVpkdWx4UnhaTHpGVUZUUlY2MUw?oc=5",
+     "date": "2026-10-23T13:51:18+00:00",
+     "source": "葛飾経済新聞",
+     "snippet": "５市町にポケモンマンホール&nbsp;&nbsp;葛飾経済新聞",
+     "summary": "葛飾経済新聞によると、５市町にポケモンマンホールが設置されることになったにゃ。地域の魅力を高めるための取り組みとして、観光客やファンに楽しんでもらえることを期待しているそうだにゃん。"
+    }
+   ]
   },
   {
    "id": "media_biz",
    "title": "📺 NHK・テレビ制作・新聞社のメディア起業動向",
-   "items": []
+   "items": [
+    {
+     "type": "news",
+     "title": "”軍用犬”記事に抱いたあまりにも強い不快感…10月26日付イマオトについて｜Kei - Howl.Link",
+     "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1sVU85ZklqSnJtV1poTzRPMUpLQnlRVlpCOVRhNnVOX2ppdUtpMUN2Q1hXWXZNblZRUTVz?oc=5",
+     "date": "2026-10-25T22:18:39+00:00",
+     "source": "Howl.Link",
+     "snippet": "”軍用犬”記事に抱いたあまりにも強い不快感…10月26日付イマオトについて｜Kei&nbsp;&nbsp;Howl.Link",
+     "summary": "「軍用犬」に関する記事に対して、強い不快感を抱いたという内容だにゃ。記事は、軍用犬の役割や扱いについての議論を引き起こすもので、特にその倫理的な側面が問題視されているにゃ。読者は、動物の扱いについて再考する必要があると感じているようだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "ＤＸ推進へ あすフェア 福島 - 47NEWS",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ibXJDc3lSQ1dlOUFyTmhvVFI2aGpyVU5GRVNMdGZoUWpUSnZ0bjJ4clFPM21fMzh3Z2hjQkNBSFQxV0JUR0NjWHFIMA?oc=5",
+     "date": "2026-10-25T20:14:00+00:00",
+     "source": "47NEWS",
+     "snippet": "ＤＸ推進へ あすフェア 福島&nbsp;&nbsp;47NEWS",
+     "summary": "福島でデジタルトランスフォーメーション（DX）推進のためのフェアが開催される予定だにゃ。イベントでは、最新の技術や取り組みが紹介され、地域の企業や団体がDXの重要性を理解し、実践に向けた情報交換が行われるそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "明治電機工業 知立に共創ラボ 工場物流などＤＸ化支援 - 中部経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LTlItWm50MHR0VEp3Y3lUNE9pTnJQdUtUVDljTGZEb2tHU05NZGVQNXFRSHA0eXZRRU5HRjJFWGJVYVcxN3VaYi1lNm5YM1puTnNCY2NpWTN3Zi1lTzZKNlFjY1RfS2ZBWlloRVlxUUxBNFU?oc=5",
+     "date": "2026-10-25T20:00:00+00:00",
+     "source": "中部経済新聞",
+     "snippet": "明治電機工業 知立に共創ラボ 工場物流などＤＸ化支援&nbsp;&nbsp;中部経済新聞",
+     "summary": "明治電機工業が知立に共創ラボを設立し、工場や物流のDX化を支援する取り組みを始めるそうだにゃ。このラボでは、最新の技術を活用して効率化を図り、地域の産業の発展に寄与することを目指しているにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "決算検証！数カ月で資金枯渇？計算したら厳しい結果に…【ジャングリア】 Heather Watson (zG0FBNoWAt) - Unisba Media",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yR2ctcF9ZV1Z1b1ByS2QxVWc1QVpBdklRV09vTFdQLUhjejhTTVRoWjZsbVR0dU1KbXlqc0JQZ1VmXzJBN0ZyUm9odjRIQ2pHTnhoSS1XNTJKc0RxNHdGTUN3REc5Zk10TGFhbw?oc=5",
+     "date": "2026-10-25T12:55:00+00:00",
+     "source": "Unisba Media",
+     "snippet": "決算検証！数カ月で資金枯渇？計算したら厳しい結果に…【ジャングリア】 Heather Watson (zG0FBNoWAt)&nbsp;&nbsp;Unisba Media",
+     "summary": "「ジャングリア」の決算が厳しい結果になったという内容だにゃ。数カ月で資金が枯渇する可能性があると計算されたようで、今後の運営に影響を及ぼす懸念が示されているにゃ。経営戦略の見直しが求められる状況だにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "伊藤有希が優勝 ＮＨＫ杯ジャンプ - 岡山経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04RlVfdHVJR1QtWkVSdUdMWVdaTVA4dnJoZGNrd2dIN1dsQ3RnckxBU0xXV1NjY1NOTDhZWFczWGJUZTVoR3ZvYmo3TU5xcTdWdEhKRA?oc=5",
+     "date": "2026-10-25T12:06:14+00:00",
+     "source": "岡山経済新聞",
+     "snippet": "伊藤有希が優勝 ＮＨＫ杯ジャンプ&nbsp;&nbsp;岡山経済新聞",
+     "summary": "伊藤有希選手がNHK杯ジャンプで優勝したという嬉しいニュースだにゃ。彼女の素晴らしいパフォーマンスが評価され、今後の活躍が期待されるにゃん。日本のジャンプ界にとっても大きな励みになる結果だにゃ。"
+    }
+   ]
   },
   {
    "id": "museum",
    "title": "🦕 自然博物館・科学博物館",
    "items": [
     {
-     "type": "paper",
-     "title": "From Prefabricated Content to Situated Generation: A Four-Wave Longitudinal Study of AI-Mediated Museum Surfaces and Spaces",
-     "link": "https://arxiv.org/abs/2610.24076v1",
-     "date": "2026-10-16T18:02:56+00:00",
-     "source": "arXiv",
-     "snippet": "Generative AI changes a basic condition of interactive surfaces and spaces (ISS): visitor-facing content can be produced during interaction rather than fully authored before it. We report a longitudinal qualitative study with 23 Chinese science museum practitioners, interviewed annually from 2023 to 2026 (retention 23 to 19) and analyzed using reflexive thematic analysis. Participants' accounts moved from anticipated epistemic and operational risks, through backstage experimentation and visitor-facing trials, toward situated governance and renewed questions about the purpose of museum interact",
-     "summary": "生成AIは、訪問者向けのコンテンツが事前に完全に作成されるのではなく、インタラクション中に生成されることで、インタラクティブな表面や空間の基本的な条件を変えるだにゃ。2023年から2026年にかけて、23人の中国の科学博物館の実践者を対象に行った縦断的な質的研究を報告するにゃ。参加者の意見は、予想されるリスクから実験、訪問者向けの試行を経て、博物館のインタラクションの目的に関する新たな疑問へと移行したそうだにゃん。"
+     "type": "news",
+     "title": "＜画像9 / 13＞国立科学博物館の特別展「昆虫」がスタート！見逃したくないポイントはここだ - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5eVhIcm9RaDhUSWwxaC1zWENzbjVkWkhoY3NFSTBJcE9TdEJ1NkQ5YXczbkxFeU9Demc2MndoYmthNG5Pbkhvd0dieU9Na0VjS2Z0bnVsQ0tTSVo0MVFFYkJ2V3M0YmNrRlE?oc=5",
+     "date": "2026-10-25T05:02:37+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "＜画像9 / 13＞国立科学博物館の特別展「昆虫」がスタート！見逃したくないポイントはここだ&nbsp;&nbsp;ウォーカープラス",
+     "summary": "国立科学博物館で特別展「昆虫」が始まったにゃ。この展覧会では、様々な昆虫の生態や特徴を紹介しているそうだにゃ。昆虫の多様性や重要性について学べる貴重な機会だにゃん。特に、見逃せないポイントがいくつかあるので、興味がある方はぜひ足を運んでみてほしいにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "腹面が黒いクマゼミ発見 玉島西中１年福森さん ２６日から展示 倉敷市立自然史博物館 - 山陽新聞",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zR3ZwMVpLNERheGdrVXNJQVdLMURmdVJTZWxVYkJKb3FYZkIyMWZYZjU5WWZIVGxEaUoxUmZLaTdoT1JIaDFlTTQxU1NBODZieUdVOUVrNGNldngwQjZWT25wdVhrbjhz?oc=5",
+     "date": "2026-10-25T01:39:04+00:00",
+     "source": "山陽新聞",
+     "snippet": "腹面が黒いクマゼミ発見 玉島西中１年福森さん ２６日から展示 倉敷市立自然史博物館&nbsp;&nbsp;山陽新聞",
+     "summary": "倉敷市立自然史博物館で、腹面が黒いクマゼミが発見されたにゃ。この発見は、玉島西中学校の福森さんによるもので、26日から展示されるそうだにゃ。珍しい昆虫の展示は、訪れる人々にとって新たな発見となるだろうにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "画像37 / 42＞上野・国立科学博物館で「大絶滅展」が開催中！生命のピンチと進化の歴史「ビッグファイブ」に迫る - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNOWVRNS11UFlmdEpBUWIyclRjbnczaWtpZWk4TTZHNlBsR0NmeGNLeHhLYUtIejMwRXVJZXBnd0swcEhzbzZSSE1zMWFJblYwdWhTTVJLRkJpaDd4OUNSeFJYTmYtenJUUHk4Z0tB?oc=5",
+     "date": "2026-10-24T22:47:58+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "画像37 / 42＞上野・国立科学博物館で「大絶滅展」が開催中！生命のピンチと進化の歴史「ビッグファイブ」に迫る&nbsp;&nbsp;ウォーカープラス",
+     "summary": "上野の国立科学博物館で「大絶滅展」が開催中だにゃ。この展覧会では、生命の危機と進化の歴史における「ビッグファイブ」に焦点を当てているそうだにゃ。過去の大絶滅イベントを通じて、生命の多様性や進化の重要性を学べる貴重な展示だにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "【家族でおでかけ】親子で楽しく不思議体験！関西の学べる科学館＆博物館11選 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVOWh1QlJ3NFpOMU1SUGRpVHlnLUFhYWFOMjNwbGJya3J2dzh0eGQ5MzlnajVkTWRVdWVqcDFDZ1oxbVF4YzZYQVQzRzFPQ2Y2NFlQNNIBWkFVX3lxTFBhalhucUZEQ054V0dtUnNiOTJGaGlFdmNDelFCS2k3RlBFa0p3YUhqNE0yVUdwOTExZkRvd1N0b2pna1hNcWRjNzVyMHN0RkRTX1E4RVpMQUQ4UQ?oc=5",
+     "date": "2026-10-24T21:26:05+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "【家族でおでかけ】親子で楽しく不思議体験！関西の学べる科学館＆博物館11選&nbsp;&nbsp;ウォーカープラス",
+     "summary": "関西の学べる科学館や博物館を親子で楽しむための11選が紹介されているにゃ。家族での不思議な体験を通じて、科学への興味を深めることができるスポットが盛りだくさんだそうだにゃん。おでかけの計画に役立つ情報が満載だにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "目指せ”いきものハンター”、福岡県久留米市の福岡県青少年科学館で「いきものハンター」が開催中 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fZUZPYjhMaXVFRm5zS3dsS0FocUFDdHV4OUJXeFpvanFZZ2NfV0dMOElYOUN4STRJLS1JaVdxLUNSWjFSSFF5cFUxTHAwZUhHWXdiTFhn0gFbQVVfeXFMTmhwMjFrdzR6Tkl2UDRRRUFETW1Jb2xQTkhxUVhVeW04Y2lhejYzT1B0azZYZERIeEpnQmhnQ2VJemRheVRqaFJiaWZOVUZ6RnlwUzEzREU3WXl6dw?oc=5",
+     "date": "2026-10-24T21:24:47+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "目指せ”いきものハンター”、福岡県久留米市の福岡県青少年科学館で「いきものハンター」が開催中&nbsp;&nbsp;ウォーカープラス",
+     "summary": "福岡県久留米市の福岡県青少年科学館で「いきものハンター」が開催中だにゃ。このイベントでは、参加者がいきものを観察し、探求する体験ができるそうだにゃ。自然に親しむ良い機会なので、興味のある方はぜひ参加してみてほしいにゃん。"
     }
    ]
   },
@@ -64,13 +255,49 @@
    "title": "🥽 VR・AR・プロジェクションマッピング",
    "items": [
     {
-     "type": "paper",
-     "title": "Exploring spatial configuration and group familiarity when co-watching 360-degree stories in social virtual reality",
-     "link": "https://arxiv.org/abs/2610.30353v1",
-     "date": "2026-10-21T19:11:45+00:00",
-     "source": "arXiv",
-     "snippet": "While traditional cinematic viewing is often characterized as a social experience, engaging with immersive stories is predominantly researched as an individual activity. This mismatch becomes increasingly problematic in social virtual reality (VR), where features designed for typical social activities (e.g., virtual locomotion, spatial and social context) can become meaningful levers for shaping the user experience. To address our limited understanding of these effects, we conducted three exploratory experiments (N$_1$=109, N$_2$=116, N$_3$=88) examining how spatial boundary type, size of allo",
-     "summary": "この研究は、ソーシャルVRにおける360度ストーリーの共同視聴時の空間構成とグループの親しみについて探求したにゃ。従来の映画視聴は社会的な体験とされているが、没入型ストーリーは個人の活動として研究されることが多いにゃ。このギャップは、特にVRにおいて問題となるため、空間の境界タイプやグループのサイズがユーザー体験に与える影響を調査するために、3つの実験を実施したそうだにゃん。"
+     "type": "news",
+     "title": "ロンドン・ニューヨーク・上海を席巻した話題の没入型VR体験「タイタニック 〜時を越えた残響〜」が日本初上陸！VRシアター「Storydive Theater WAHHHP」で10月23日（金）より公開 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPR1dLdzFBQTd5d1g4ZXk1cnc2U1h3ODFnbGZ6cmpNbmRudnlpWEdvY1NrVV9ZYXJIWkEzSmhaOFExS2N0QldFbmJIY2xLZzNiZGl4MTNNQVVreWdVT0ppQk4wZk9aQjlIQUE?oc=5",
+     "date": "2026-10-25T23:00:02+00:00",
+     "source": "PR TIMES",
+     "snippet": "ロンドン・ニューヨーク・上海を席巻した話題の没入型VR体験「タイタニック 〜時を越えた残響〜」が日本初上陸！VRシアター「Storydive Theater WAHHHP」で10月23日（金）より公開&nbsp;&nbsp;PR TIMES",
+     "summary": "ロンドンやニューヨーク、上海で話題の没入型VR体験「タイタニック 〜時を越えた残響〜」が日本に初上陸するにゃ。VRシアター「Storydive Theater WAHHHP」で10月23日から公開されるそうだにゃ。観客はタイタニック号の歴史を体験し、感情豊かなストーリーに没入できる機会が得られるんだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "VR体験イベントのメタとら LEVEL.2が大阪で開催 190人が来場 - Dellows News",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNUE55ZjVUcVNYTjVIWml4ejZTSS1DREFQckU5UTRNRTk4M29LOTZPQ3pzX2tBSmtOV3dYOE0xcHpfZm1HOUpKaWh1VnN3U0hTSWVTMEp0dVJwX21PQ0EtVDY4djdldFdR?oc=5",
+     "date": "2026-10-25T20:14:10+00:00",
+     "source": "Dellows News",
+     "snippet": "VR体験イベントのメタとら LEVEL.2が大阪で開催 190人が来場&nbsp;&nbsp;Dellows News",
+     "summary": "大阪でVR体験イベント「メタとら LEVEL.2」が開催され、190人が来場したにゃ。参加者は最新のVR技術を体験し、さまざまなコンテンツを楽しんだそうだにゃ。イベントは多くの人々に支持され、VRの魅力を広める場となったんだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "MayTreeが慶尚北道聞慶を訪問、VR体験や石炭博物館を巡る - www.famtimes.co.kr",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE01dDNlZ2VYSE9hTndZRGxEVWR4bUJyOGFXSnl3YWIwTjY1cVdWdEpCdEVQaFdEUFFrUFd5TjVMSGRWb3ZDQW92T1Y5TlE2ZHRJZEVGUjVld3VOOFNmd1dkMm45aDZ0NThNUDFpd2lnU0RGQQ?oc=5",
+     "date": "2026-10-25T07:37:30+00:00",
+     "source": "www.famtimes.co.kr",
+     "snippet": "MayTreeが慶尚北道聞慶を訪問、VR体験や石炭博物館を巡る&nbsp;&nbsp;www.famtimes.co.kr",
+     "summary": "MayTreeが慶尚北道の聞慶を訪れ、VR体験や石炭博物館を巡ったにゃ。訪問を通じて、地域の文化や歴史を学ぶ機会を得たそうだにゃ。VR体験は特に人気で、参加者は新しい技術を通じて楽しんだんだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "NHK VR「サムライの見た夢～幻の豊臣大坂城～」大阪会場(大阪府)の情報 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1scUlaLU0tbzNLbnMwcUpzeGduWngtRXQ2Y0EwcU5mWUtqYW11SGwwcVNsSlhHejMyWEtGcDBtVEwwcG4tLUJhSXExa3Iya1F6RFJrTmVvSDNoelU?oc=5",
+     "date": "2026-10-25T04:13:45+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "NHK VR「サムライの見た夢～幻の豊臣大坂城～」大阪会場(大阪府)の情報&nbsp;&nbsp;ウォーカープラス",
+     "summary": "NHKのVR体験「サムライの見た夢～幻の豊臣大坂城～」が大阪で開催されるにゃ。大阪府内で行われるこのイベントでは、参加者が豊臣大坂城の歴史を体験できるそうだにゃ。詳細な情報はウォーカープラスで確認できるんだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "ラリーカーの運転席に子どもたち大興奮 あいにくの雨でもVRで迫力の走り体感 富山・高岡市 - ｄメニューニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RNXdhZ1RTMHN4Yy1kOXZ4cDlORE9qMUpnbHVBQS10RDIzcGdpV2VEV0RUa3kwVW5FRGVCcTFWd0ZiR1NUblhza21OYTBHV1hFYUpzdm1ySDhUNEdiR2MxXzE1SDB6emZCQldBanpUQmNkOWx6NHlCWGFfRGRoMnPSAX9BVV95cUxNUTV3YWdUUzBzeGMtZDl2eHA5TkRPajFKZ2x1QUEtdEQyM3BnaVdlRFdEVGt5MFVuRURlQnExVndGYkdTVG5Yc2ttTmEwR1dYRWFKc3Ztckg4VDRHYkdjMV8xNUgwenpmQkJXQWp6VEJjZDlsejR5QlhhX0RkaDJz?oc=5",
+     "date": "2026-10-25T03:39:00+00:00",
+     "source": "ｄメニューニュース",
+     "snippet": "ラリーカーの運転席に子どもたち大興奮 あいにくの雨でもVRで迫力の走り体感 富山・高岡市&nbsp;&nbsp;ｄメニューニュース",
+     "summary": "富山・高岡市で、子どもたちがラリーカーの運転席に座り、VRを通じて迫力の走りを体感したにゃ。あいにくの雨にもかかわらず、子どもたちは大興奮だったそうだにゃ。VR技術を利用した新しい体験が提供されたんだにゃん。"
     }
    ]
   }
