@@ -1,10 +1,46 @@
 {
- "updated": "2026-10-29T00:23:53.689326+00:00",
+ "updated": "2026-10-29T01:56:57.303691+00:00",
  "categories": [
   {
    "id": "ai_media",
    "title": "🤖 AI×メディア研究（ニュース・論文・行政）",
    "items": [
+    {
+     "type": "gov",
+     "title": "第4回日越学長会議が大阪大学で開催(ベトナム、日本) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TbnhsXzkwMllQcVZnSzFnZUlfdHRGMUxlUXB2ck56TVlXeEpkcXFVVU5lRk1CVy1zbjFYY2g5Ymx2V3FNQUtYbmszMFY4Rm5Kd0JaNUV3WDZsNnU1WjE2ZXFUZWNFekdpSGdhVGxB?oc=5",
+     "date": "2026-10-29T01:34:47+00:00",
+     "source": "ジェトロ（日本貿易振興機構）",
+     "snippet": "第4回日越学長会議が大阪大学で開催(ベトナム、日本) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
+     "summary": "第4回日越学長会議が大阪大学で開催されたにゃ。日本とベトナムの高等教育機関の連携を強化するための重要なイベントだにゃん。参加者は、教育の質向上や研究協力について意見交換を行ったそうだにゃ。"
+    },
+    {
+     "type": "gov",
+     "title": "オックスフォード大学で日英医療・ヘルスケアのフォーラムが開催(日本、英国) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83V3huaFdjamdUanVlVzh6V2NheW9CUzBXcUhYSVhYTllVNjBxaXVQXzRaSDBlSll2UUxyVS1kNHdIak5laXpKUDdKMGdDUFVyaE9FREIxeGE4NXVrZks1cmNUVjRkd0hQaGZhNmdB?oc=5",
+     "date": "2026-10-29T01:34:44+00:00",
+     "source": "ジェトロ（日本貿易振興機構）",
+     "snippet": "オックスフォード大学で日英医療・ヘルスケアのフォーラムが開催(日本、英国) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
+     "summary": "オックスフォード大学で日英医療・ヘルスケアのフォーラムが開催されたにゃ。日本と英国の医療分野における協力を促進するための場で、最新の医療技術や研究成果について議論されたそうだにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "創薬の最前線「湘南アイパーク」 - 政府広報オンライン",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96Y0w1eFNYbEFWQVpsN0JjcjdGMG1sTU5DSkZqN2hpY2pUZlZZYXh2WFlKaW9ZcHdGbklQenNmZTc1QXc2VDljTGNZMF9zZC1qN0VhUlROSEp1ZFBPTmlEMTduWlF6eTQ?oc=5",
+     "date": "2026-10-29T01:04:30+00:00",
+     "source": "政府広報オンライン",
+     "snippet": "創薬の最前線「湘南アイパーク」&nbsp;&nbsp;政府広報オンライン",
+     "summary": "湘南アイパークでは創薬の最前線が進行中だにゃ。新しい医薬品の開発に向けた研究が行われており、企業や研究機関が連携して新たな治療法を模索しているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "アドバンスト・メディア、通話内容から後続業務を自動実行する「AmiVoice Mobile Genie」 - クラウド Watch",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1bjhCeWFBRDRwa1Atc0pvYW1FWjRXbW9UVDVJT2ZLNWFyYTNsNEJFb2NhWmlkYUJTamxFY3FnZDI1ckdzNTF4ckp5TFcySWR1Mm1peWlweFVIcFdwbVBBOVZWcWZ3ZE0?oc=5",
+     "date": "2026-10-29T00:00:00+00:00",
+     "source": "クラウド Watch",
+     "snippet": "アドバンスト・メディア、通話内容から後続業務を自動実行する「AmiVoice Mobile Genie」&nbsp;&nbsp;クラウド Watch",
+     "summary": "アドバンスト・メディアが「AmiVoice Mobile Genie」を発表したにゃ。このシステムは、通話内容をもとに後続業務を自動で実行する機能を持ち、業務効率化に貢献することを目指しているそうだにゃん。"
+    },
     {
      "type": "news",
      "title": "ディズニーは「夢のつくり方」をどう変えるのか 生成AIで進化する体験づくりと事業戦略 - JBpress",
@@ -12,7 +48,7 @@
      "date": "2026-10-28T21:00:00+00:00",
      "source": "JBpress",
      "snippet": "ディズニーは「夢のつくり方」をどう変えるのか 生成AIで進化する体験づくりと事業戦略&nbsp;&nbsp;JBpress",
-     "summary": "ディズニーは生成AIを活用して、体験づくりや事業戦略を進化させる計画を進めているにゃ。これにより、より個別化された体験を提供し、顧客の期待に応えることを目指しているそうだにゃん。新しい技術を取り入れることで、夢のつくり方が変わる可能性があるにゃ。"
+     "summary": "ディズニーは生成AIを活用して「夢のつくり方」を進化させる取り組みを行っているにゃ。新しい体験づくりや事業戦略において、AI技術がどのように役立つかが注目されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -21,25 +57,7 @@
      "date": "2026-10-28T19:55:54+00:00",
      "source": "Dellows News",
      "snippet": "博報堂、メディアの編集力を生成AI時代に生かすShomei AIOを始動&nbsp;&nbsp;Dellows News",
-     "summary": "博報堂は生成AIを活用した新しいメディア編集ツール「Shomei AIO」を始動したにゃ。このツールは、AIの力を借りてメディアの編集力を強化し、効率的なコンテンツ制作を実現することを目指しているそうだにゃん。これにより、メディア業界の変革が期待されるにゃ。"
-    },
-    {
-     "type": "gov",
-     "title": "中国初のAI制作劇場映画「三星堆：未来往事」が公開(中国) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wQWNqWko3RWFfci01WDk4UU4zbVZXRC1ySWwzcGJmc0VramJyMWlwV2tFc0RvZ3dHN09rVTVwSm5GQV9FTEt5US0wR2xqUmZYQ0pObUFMZWRZYklZejJCUHlLVks2LUJackxGeGln?oc=5",
-     "date": "2026-10-28T15:49:49+00:00",
-     "source": "ジェトロ（日本貿易振興機構）",
-     "snippet": "中国初のAI制作劇場映画「三星堆：未来往事」が公開(中国) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "中国初のAI制作劇場映画「三星堆：未来往事」が公開されたにゃ。この映画は、AI技術を駆使して制作され、観客に新しい体験を提供することを目指しているそうだにゃん。中国のエンターテインメント業界におけるAIの活用が進む中、注目される作品だにゃ。"
-    },
-    {
-     "type": "gov",
-     "title": "シンガポールとUAE、包括的経済連携協定の交渉開始に合意(シンガポール、アラブ首長国連邦) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oeWhUMm45Mm1lRndZRHFVSi1qX2oxYnBiQWZXcjZvOUs3Ni1IcDczTnNYR21pNkhpRWtxOUV5Yjc3NkYyY3V5ZXNyd0RRYXVMZWZqX2NTSzdUVXJnWnpRXzNWSHZNS0Q1TnBzeGd3?oc=5",
-     "date": "2026-10-28T15:32:58+00:00",
-     "source": "ジェトロ（日本貿易振興機構）",
-     "snippet": "シンガポールとUAE、包括的経済連携協定の交渉開始に合意(シンガポール、アラブ首長国連邦) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "シンガポールとアラブ首長国連邦（UAE）は、包括的経済連携協定の交渉開始に合意したにゃ。この協定は、両国の経済関係を強化し、貿易や投資の促進を目指すものだそうだにゃん。新たな経済連携が期待されるにゃ。"
+     "summary": "博報堂が生成AI時代に対応した新サービス「Shomei AIO」を始動したにゃ。メディアの編集力を生かし、AIを活用してより効果的なコンテンツ制作を目指す取り組みだそうだにゃん。"
     },
     {
      "type": "news",
@@ -48,16 +66,7 @@
      "date": "2026-10-28T13:23:35+00:00",
      "source": "AINOW",
      "snippet": "国内で公表された生成AIの事案18件から考える、社内ルールで防げるリスクと仕組みで防ぐリスク&nbsp;&nbsp;AINOW",
-     "summary": "国内で公表された生成AIに関する事案18件を分析し、社内ルールで防げるリスクと仕組みで防ぐリスクについて考察したにゃ。生成AIの利用が進む中、企業はリスク管理を強化する必要があると指摘されているそうだにゃん。"
-    },
-    {
-     "type": "gov",
-     "title": "出馬表 - 地方競馬",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGF1R3k4WjdoTFRDRlQ1SDUyVk5jcU1MM1ZILUprOWxocFI2cVR6N2ZwSlFsM05LUlVKVmRkbWh6YThncFNwUUlhSk1uSDUxc0pwZGRHUUpUT2NKbEpfT3M0dGg1cVpRS0lXMjRVRGl3Z1JZcTRjQU92dVo1NVRGRUgweUNqSm5SXzdKa01RdGNwSjVxV3JLTXdmX296aGtxeE4wZHNoa1R1UWM?oc=5",
-     "date": "2026-10-28T10:50:43+00:00",
-     "source": "地方競馬",
-     "snippet": "出馬表&nbsp;&nbsp;地方競馬",
-     "summary": "出馬表に関する情報が掲載されているにゃ。地方競馬の出馬情報は、競馬ファンにとって重要なデータだそうだにゃん。詳細については、出馬表を確認することが必要だにゃ。"
+     "summary": "国内で公表された生成AIの事案18件を分析し、社内ルールで防げるリスクと仕組みで防ぐリスクについて考察されているにゃ。企業が生成AIを導入する際の注意点が示されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -66,7 +75,7 @@
      "date": "2026-10-28T07:48:00+00:00",
      "source": "ITmedia",
      "snippet": "携帯で通話するだけでAIが業務代行、カスハラ判定も アドバンスト・メディアが「AmiVoice Mobile Genie」発表（1/2 ページ） - ITmedia Mobile&nbsp;&nbsp;ITmedia",
-     "summary": "アドバンスト・メディアは「AmiVoice Mobile Genie」を発表したにゃ。このAIは、携帯電話での通話を通じて業務を代行し、カスハラ判定も行うことができるそうだにゃん。業務効率化が期待される新しいサービスだにゃ。"
+     "summary": "アドバンスト・メディアが「AmiVoice Mobile Genie」を発表したにゃ。通話を通じてAIが業務を代行し、カスハラ判定も行う機能を搭載しているそうだにゃん。業務の効率化が期待されているにゃ。"
     },
     {
      "type": "news",
@@ -75,7 +84,7 @@
      "date": "2026-10-28T05:40:00+00:00",
      "source": "CodeZine",
      "snippet": "メシウス、「ActiveReportsJS V6.2J」で生成AIによるレポート作成支援機能を追加&nbsp;&nbsp;CodeZine",
-     "summary": "メシウスは「ActiveReportsJS V6.2J」に生成AIによるレポート作成支援機能を追加したにゃ。この機能により、ユーザーはより効率的にレポートを作成できるようになるそうだにゃん。AIの活用が進む中、業務の効率化が期待されるにゃ。"
+     "summary": "メシウスが「ActiveReportsJS V6.2J」に生成AIによるレポート作成支援機能を追加したにゃ。これにより、ユーザーはより効率的にレポートを作成できるようになるそうだにゃん。"
     },
     {
      "type": "news",
@@ -84,16 +93,7 @@
      "date": "2026-10-28T00:30:00+00:00",
      "source": "Excite エキサイト",
      "snippet": "日本メディア・エンターテインメント分野における生成AI市場：AIを活用したコンテンツ制作、ゲーム、デジタルプロダクションが業界を変革&nbsp;&nbsp;Excite エキサイト",
-     "summary": "日本のメディア・エンターテインメント分野における生成AI市場が拡大しているにゃ。AIを活用したコンテンツ制作やゲーム、デジタルプロダクションが業界を変革しつつあるそうだにゃん。今後の展開が注目されるにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "「検索・UGC・広告」連携で集客と売上を最大化する次世代リテールメディア、AI時代に選ばれるECになる戦略【11/5・6 リアルセミナー開催】 - Web担当者Forum",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DLWlGOEJxQm1mX244TVNMRU53ZGRPVlM2c3BHZGxHamlERmpsTDlIVHBPdnNGRzFleVpfQUpRQVlzQW13cUtHdlQ2a0NmVEdPaEdHSy04M20tUjg?oc=5",
-     "date": "2026-10-27T21:50:00+00:00",
-     "source": "Web担当者Forum",
-     "snippet": "「検索・UGC・広告」連携で集客と売上を最大化する次世代リテールメディア、AI時代に選ばれるECになる戦略【11/5・6 リアルセミナー開催】&nbsp;&nbsp;Web担当者Forum",
-     "summary": "次世代リテールメディアに関するセミナーが開催されるにゃ。「検索・UGC・広告」の連携を通じて、集客と売上を最大化する戦略が提案されるそうだにゃん。AI時代に選ばれるECになるためのヒントが得られるかもしれないにゃ。"
+     "summary": "日本のメディア・エンターテインメント分野における生成AI市場が注目されているにゃ。AIを活用したコンテンツ制作やゲーム、デジタルプロダクションが業界を変革する可能性があるそうだにゃん。"
     }
    ]
   },
@@ -102,13 +102,22 @@
    "title": "🏘 地方創生×メディア",
    "items": [
     {
+     "type": "gov",
+     "title": "創薬の最前線「湘南アイパーク」 - 政府広報オンライン",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96Y0w1eFNYbEFWQVpsN0JjcjdGMG1sTU5DSkZqN2hpY2pUZlZZYXh2WFlKaW9ZcHdGbklQenNmZTc1QXc2VDljTGNZMF9zZC1qN0VhUlROSEp1ZFBPTmlEMTduWlF6eTQ?oc=5",
+     "date": "2026-10-29T01:04:30+00:00",
+     "source": "政府広報オンライン",
+     "snippet": "創薬の最前線「湘南アイパーク」&nbsp;&nbsp;政府広報オンライン",
+     "summary": "湘南アイパークは創薬の最前線として注目されている施設だにゃ。政府広報オンラインによると、ここでは新しい医薬品の開発が進められており、産学官の連携が強化されているそうだにゃん。研究者たちは、革新的な治療法を模索し、地域の医療向上にも寄与しているにゃ。"
+    },
+    {
      "type": "news",
      "title": "スペイン高速列車衝突、６４人死亡 - 葛飾経済新聞",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qTmxTS1ZoMjVRS2RDMWdpanJ5U2RBZlZHMjZTcEZqZUpzVlNhbUQxSjVCNzBmT2NZYUJCakR3THVtc3k2cjV6NldzaUdTTkp0Z0x5TTB0S3g?oc=5",
      "date": "2026-10-28T15:02:24+00:00",
      "source": "葛飾経済新聞",
      "snippet": "スペイン高速列車衝突、６４人死亡&nbsp;&nbsp;葛飾経済新聞",
-     "summary": "スペインで高速列車が衝突し、64人が死亡したという悲惨な事故が発生したにゃ。詳細な原因はまだ明らかになっていないが、多くの人々が犠牲になったことは確かだにゃん。今後の調査が待たれるにゃ。"
+     "summary": "スペインで発生した高速列車の衝突事故により、64人が亡くなったそうだにゃ。葛飾経済新聞によると、事故の原因はまだ調査中で、現地では多くの人々が悲しみに暮れているにゃん。安全対策の強化が求められる状況だにゃ。"
     },
     {
      "type": "news",
@@ -117,16 +126,7 @@
      "date": "2026-10-28T11:37:22+00:00",
      "source": "葛飾経済新聞",
      "snippet": "ガソリン補助、段階縮小へ&nbsp;&nbsp;葛飾経済新聞",
-     "summary": "政府はガソリン補助を段階的に縮小する方針を発表したにゃ。これにより、燃料価格の変動が家庭や企業に与える影響が懸念されているそうだにゃ。今後の経済状況に注目が集まるにゃん。"
-    },
-    {
-     "type": "gov",
-     "title": "スリランカ向け無償資金協力贈与契約の締結：ケラニ川流域の洪水対策を強化し、コロンボ都市圏の防災能力向上に貢献 - JICA - 国際協力機構",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SMklxb2dJMWJQUTN3RXJIWWFFR0M4U1pJbEMzWWJQeE5yVmRiLXpubzhDU1VRN1hpYldaemZWN2J4WlBma3dHRmhhbms2Y2xMd0t4RTE5aWw4Qnl5RUljOWNRMk9uSWxCUWdZeUE0UQ?oc=5",
-     "date": "2026-10-28T10:38:36+00:00",
-     "source": "JICA - 国際協力機構",
-     "snippet": "スリランカ向け無償資金協力贈与契約の締結：ケラニ川流域の洪水対策を強化し、コロンボ都市圏の防災能力向上に貢献&nbsp;&nbsp;JICA - 国際協力機構",
-     "summary": "スリランカ向けに無償資金協力贈与契約が締結されたにゃ。この契約はケラニ川流域の洪水対策を強化し、コロンボ都市圏の防災能力向上に寄与することを目的としているそうだにゃん。"
+     "summary": "政府はガソリン補助を段階的に縮小する方針を示したにゃ。葛飾経済新聞によると、これは経済状況の変化に対応するための措置であり、国民への影響が懸念されているそうだにゃん。今後の動向に注目が集まるにゃ。"
     },
     {
      "type": "news",
@@ -135,7 +135,7 @@
      "date": "2026-10-28T07:35:00+00:00",
      "source": "京都新聞デジタル",
      "snippet": "京都府綾部市「演劇まちづくりの会」ラジオドラマ制作 、放送へ ワークショップも「参加しやすい」&nbsp;&nbsp;京都新聞デジタル",
-     "summary": "京都府綾部市の「演劇まちづくりの会」がラジオドラマを制作し、放送することになったにゃ。ワークショップも参加しやすい形で行われる予定で、地域の文化振興に寄与することを目指しているそうだにゃん。"
+     "summary": "京都府綾部市では「演劇まちづくりの会」がラジオドラマを制作し、放送することになったにゃ。京都新聞デジタルによると、ワークショップも開催され、参加しやすい環境が整えられているそうだにゃん。地域の文化振興に寄与する取り組みだにゃ。"
     },
     {
      "type": "news",
@@ -144,7 +144,7 @@
      "date": "2026-10-28T03:15:27+00:00",
      "source": "Infoseek",
      "snippet": "【地方創生×SNSマーケティング】群馬県片品村「片品土出温泉 旅館うめや」の魅力を全国へ。2026年10月26日より情報発信・集客支援を開始&nbsp;&nbsp;Infoseek",
-     "summary": "群馬県片品村の「片品土出温泉 旅館うめや」が、2026年10月26日からSNSマーケティングを通じて魅力を全国に発信し、集客支援を開始するにゃ。地方創生に向けた取り組みが期待されているそうだにゃん。"
+     "summary": "群馬県片品村の「片品土出温泉 旅館うめや」が、2026年10月26日からSNSマーケティングを通じて魅力を全国に発信することになったにゃ。Infoseekによると、地方創生を目指したこの取り組みは、観光客の集客支援を目的としているそうだにゃん。"
     }
    ]
   },
@@ -159,7 +159,7 @@
      "date": "2026-10-28T21:10:31+00:00",
      "source": "アゴラ 言論プラットフォーム",
      "snippet": "日本ではほぼ報じられない大問題。KDDI子会社社長が関わったモンゴル大火災とは&nbsp;&nbsp;アゴラ 言論プラットフォーム",
-     "summary": "KDDIの子会社社長が関与したモンゴルの大火災について、日本ではほとんど報じられていない問題があるにゃ。火災の影響やその背景について、詳細な情報が求められているんだにゃ。"
+     "summary": "KDDIの子会社社長が関与したモンゴルの大火災について、日本ではほとんど報じられていない問題があるにゃ。火災の影響やその背景についての詳細は不明だが、関係者の行動が注目されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -168,7 +168,7 @@
      "date": "2026-10-28T11:57:00+00:00",
      "source": "NHKニュース",
      "snippet": "ベトナムの公務員に賄賂 メーカー子会社の元社長を略式起訴&nbsp;&nbsp;NHKニュース",
-     "summary": "ベトナムで、メーカー子会社の元社長が公務員に賄賂を渡したとして略式起訴されたにゃ。賄賂問題は国際的にも注目されており、今後の展開が気になるところだにゃん。"
+     "summary": "ベトナムで、公務員に賄賂を渡したとして、あるメーカー子会社の元社長が略式起訴されたにゃ。賄賂の金額や具体的な内容は明らかにされていないが、法的な問題が浮上していることは確かだにゃん。"
     },
     {
      "type": "news",
@@ -177,7 +177,7 @@
      "date": "2026-10-28T11:03:00+00:00",
      "source": "ニッキンONLINE",
      "snippet": "足利銀、下野新聞社と連携協定 生成AI活用支援で&nbsp;&nbsp;ニッキンONLINE",
-     "summary": "足利銀行が下野新聞社と連携協定を結び、生成AIの活用支援を行うことになったにゃ。これにより、地域の情報発信やビジネスの発展が期待されているそうだにゃ。"
+     "summary": "足利銀行が下野新聞社と連携協定を結び、生成AIの活用支援を行うことになったにゃ。この協力により、地域の情報発信やビジネス支援が期待されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -186,7 +186,7 @@
      "date": "2026-10-28T11:00:00+00:00",
      "source": "PRESIDENT Online（プレジデントオンライン）",
      "snippet": "大河ドラマに10作以上登場したのに､一度も主役になれない…信長･秀吉に仕えた｢戦国の名脇役｣の名前&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）",
-     "summary": "大河ドラマに10作以上登場しながら、一度も主役になれない戦国時代の名脇役についての話題だにゃ。信長や秀吉に仕えた彼の存在は、ドラマの中で重要な役割を果たしているんだにゃん。"
+     "summary": "大河ドラマに10作以上登場しながら、一度も主役になれない戦国時代の名脇役について紹介されているにゃ。信長や秀吉に仕えた彼の存在は重要だが、主役にはなれない運命にあるそうだにゃん。"
     },
     {
      "type": "news",
@@ -195,7 +195,7 @@
      "date": "2026-10-28T09:20:04+00:00",
      "source": "日本経済新聞",
      "snippet": "「信州パートナーVC」に22社登録 スタートアップ支援&nbsp;&nbsp;日本経済新聞",
-     "summary": "「信州パートナーVC」に22社が登録され、スタートアップ支援が強化されることになったにゃ。これにより、地域の起業家支援が進むことが期待されているそうだにゃ。"
+     "summary": "「信州パートナーVC」に22社が登録され、スタートアップ支援が強化されることになったにゃ。この取り組みは、地域の企業の成長を促進することを目的としているそうだにゃん。"
     }
    ]
   },
@@ -210,7 +210,7 @@
      "date": "2026-10-28T12:04:10+00:00",
      "source": "いこーよニュース",
      "snippet": "ロケットの断面をのぞける！中学生以下無料の企画展「カガクノミカタ」大阪市立科学館&nbsp;&nbsp;いこーよニュース",
-     "summary": "大阪市立科学館で、中学生以下が無料で入場できる企画展「カガクノミカタ」が開催されるにゃ。ロケットの断面を見学できる特別な展示があり、科学に対する興味を引き出す内容になっているそうだにゃん。子どもたちが科学の不思議を体験できる貴重な機会だにゃ。"
+     "summary": "大阪市立科学館で、中学生以下が無料で楽しめる企画展「カガクノミカタ」が開催されるにゃ。展示ではロケットの断面を見学できるほか、身近な物の不思議を発見することができる内容になっているそうだにゃん。科学の楽しさを体験できる良い機会だと思うにゃ！"
     },
     {
      "type": "news",
@@ -219,7 +219,7 @@
      "date": "2026-10-28T09:32:10+00:00",
      "source": "UUUM",
      "snippet": "【はじめまして松尾です】国立科学博物館 特別展「生きものたちの性」にスペシャルコラボクリエイターとして参加&nbsp;&nbsp;UUUM",
-     "summary": "国立科学博物館で特別展「生きものたちの性」が開催され、松尾さんがスペシャルコラボクリエイターとして参加するにゃ。この展覧会では、生物の性に関するさまざまな視点が紹介される予定で、来場者にとって興味深い内容になりそうだにゃん。"
+     "summary": "国立科学博物館で特別展「生きものたちの性」が開催されるにゃ。ここにスペシャルコラボクリエイターとして松尾さんが参加するそうだにゃん。生き物の性に関する新しい視点を提供する展示になると思うにゃ。興味深い内容が期待できるにゃ！"
     },
     {
      "type": "news",
@@ -228,7 +228,7 @@
      "date": "2026-10-27T20:10:00+00:00",
      "source": "神戸新聞",
      "snippet": "イトカワなど3小惑星の実物サンプル展示 明石市立天文科学館 11月8日に講演会も|明石&nbsp;&nbsp;神戸新聞",
-     "summary": "明石市立天文科学館で、イトカワなど3つの小惑星の実物サンプルが展示されるにゃ。展示は11月8日から始まり、同日に講演会も行われる予定だそうだにゃん。宇宙に興味がある人には見逃せないイベントだにゃ。"
+     "summary": "明石市立天文科学館では、イトカワなどの3つの小惑星の実物サンプルが展示されるにゃ。11月8日には関連する講演会も開催されるそうだにゃん。宇宙に興味がある人にとって、貴重な体験ができるイベントだと思うにゃ！"
     },
     {
      "type": "news",
@@ -237,7 +237,7 @@
      "date": "2026-10-27T18:40:22+00:00",
      "source": "姫路市",
      "snippet": "所蔵資料の調査・普及・研究&nbsp;&nbsp;姫路市",
-     "summary": "姫路市では、所蔵資料の調査・普及・研究が進められているにゃ。地域の歴史や文化を深く知るための取り組みが行われており、資料の価値を広める活動が重要視されているそうだにゃん。"
+     "summary": "姫路市では、所蔵資料の調査や普及、研究が行われているにゃ。地域の文化や歴史を深く知るための重要な活動だと思うにゃ。市民にとっても、身近な資料を通じて新たな発見があるかもしれないにゃん。"
     },
     {
      "type": "news",
@@ -246,7 +246,7 @@
      "date": "2026-10-27T16:18:49+00:00",
      "source": "ニコニコニュース",
      "snippet": "「あたりまえ」「ふつう」の中にフシギを見つけよう！企画展「カガクノミカタ - 身近なモノにフシギがいっぱい！ -」開催&nbsp;&nbsp;ニコニコニュース",
-     "summary": "企画展「カガクノミカタ - 身近なモノにフシギがいっぱい！ -」が開催されるにゃ。「あたりまえ」や「ふつう」の中に潜む不思議を探る内容で、科学の面白さを再発見できる機会になるそうだにゃん。"
+     "summary": "企画展「カガクノミカタ - 身近なモノにフシギがいっぱい！」が開催されるにゃ。「あたりまえ」や「ふつう」の中に隠れた不思議を見つけることができる内容になっているそうだにゃん。科学の面白さを再発見できる良い機会だと思うにゃ！"
     }
    ]
   },
@@ -256,12 +256,30 @@
    "items": [
     {
      "type": "news",
+     "title": "【B.B.S. Event Dining】約300インチの巨大映像で能の世界へ。伝統芸能×VR×実物展示「MEET NOH-能-」大阪で3日間限定開催 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SQzJ3QkRQTjRGdE51WktPM29HWkd2cGVoeVFJZF9ZNExnSGZfMnJzNG5NTkYtWm1YaXNkaWZpR3YtekZNeE5RMXlyU2czMEdpaUluR1dWRDBLUGZCNVRic0NXSkdlQjVERnc?oc=5",
+     "date": "2026-10-29T01:30:01+00:00",
+     "source": "PR TIMES",
+     "snippet": "【B.B.S. Event Dining】約300インチの巨大映像で能の世界へ。伝統芸能×VR×実物展示「MEET NOH-能-」大阪で3日間限定開催&nbsp;&nbsp;PR TIMES",
+     "summary": "大阪で開催される「MEET NOH-能-」は、約300インチの巨大映像を使用して能の世界を体験できるイベントだにゃ。伝統芸能とVR、実物展示が融合し、来場者は新しい形で能を楽しむことができるにゃ。このイベントは3日間限定で行われるので、興味がある人はぜひ足を運んでみてほしいにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "SUSHI TOP MARKETING、創業5周年。感謝を込めて「AR体験付きNFT」を配布 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HSDc3VVk5Mzg3a2Z5Mkg2QVc3YjAwT2pKbXNVN0laVlZhc3kwck45bHhYakx0UDFrUXFEQjFKbkdDOEh6dW9KWk9jMFNTQVlGcmkxaW5RYWRVSG9ocHN2SkpzYWdTanNrM0E?oc=5",
+     "date": "2026-10-29T01:29:41+00:00",
+     "source": "PR TIMES",
+     "snippet": "SUSHI TOP MARKETING、創業5周年。感謝を込めて「AR体験付きNFT」を配布&nbsp;&nbsp;PR TIMES",
+     "summary": "SUSHI TOP MARKETINGが創業5周年を迎え、感謝の気持ちを込めて「AR体験付きNFT」を配布することを発表したにゃ。これにより、ユーザーは新たな体験を楽しむことができるにゃん。AR技術を活用したこの取り組みは、今後のビジネス展開にも期待が持てるにゃ。"
+    },
+    {
+     "type": "news",
      "title": "【レポ】東京国際フォーラムで無料アートイベント開催！VR体験やワークショップで「ともに生きる文化」を体感 - ｄメニューニュース",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwb1M0QjNQOTU0dzFkRE9OSVRtOElfS3ZVRnVvLW1GYWZNMmc0VkxTa0dDTC0xek43V01zUXcwREJ0LVhMUXFqaWZPRzVLMWRILU5jcHVqbEJwNWlKMzVZRVFjcUt6QVhONFhCd0dEaFJqd9IBd0FVX3lxTE1DTFdFa2RsM1B6dlVvQmYwVmQwRHNyQ3VjamtWS3RxQ2hoWFZFRE5odm9BM1dOTV9aeWJvaWZ2Z2xTSTJFcUp3Zzh5Vm9pc3hmN3JyRDBNdDYwRUx1MzRzM1BHN2QzTTNTeXRma1JRQ2JfUEt6dVdB?oc=5",
      "date": "2026-10-29T00:00:00+00:00",
      "source": "ｄメニューニュース",
      "snippet": "【レポ】東京国際フォーラムで無料アートイベント開催！VR体験やワークショップで「ともに生きる文化」を体感&nbsp;&nbsp;ｄメニューニュース",
-     "summary": "東京国際フォーラムで無料のアートイベントが開催されたにゃ。参加者はVR体験やワークショップを通じて「ともに生きる文化」を体感できたそうだにゃ。多様なアートが展示され、来場者は新たな視点を得ることができたにゃん。"
+     "summary": "東京国際フォーラムで開催された無料アートイベントでは、VR体験やワークショップを通じて「ともに生きる文化」を体感することができたにゃ。このイベントは多くの人々に参加され、アートを通じた交流が促進されたそうだにゃん。文化の多様性を感じる良い機会だったにゃ。"
     },
     {
      "type": "news",
@@ -270,34 +288,16 @@
      "date": "2026-10-28T10:55:39+00:00",
      "source": "株式会社インプレス",
      "snippet": "雑談できるAIアンドロイド、手ぶらで記録できるARグラス、AI生成ARなど、楽しめる展示が盛りだくさんの「KDDI SUMMIT 2026」&nbsp;&nbsp;株式会社インプレス",
-     "summary": "「KDDI SUMMIT 2026」では、雑談ができるAIアンドロイドや、手ぶらで記録可能なARグラス、AI生成のARなど、楽しめる展示がたくさんあったにゃ。最新技術を体験できる貴重な機会だったそうだにゃん。"
+     "summary": "「KDDI SUMMIT 2026」では、雑談できるAIアンドロイドや手ぶらで記録できるARグラス、AI生成ARなど、様々な楽しめる展示が行われているにゃ。このイベントは最新技術を体験できる場として注目されており、来場者は未来の技術に触れることができるにゃん。"
     },
     {
      "type": "news",
-     "title": "ナウシカの「腐海」表現 圧巻の造形、王蟲など展示 専用アプリでAR体験も 金曜ロードショーとジブリ展 - 佐賀新聞",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tUkxYRTVuanlaY2ZUcVVyOGZtWUM3SGtZRE41aUhRSTdBUktGZHhYajNCNEl2RUF6MDFVY3J0Q2VQRXZRcndNcFd3NnViY3pnQjZzem1n?oc=5",
-     "date": "2026-10-28T06:30:00+00:00",
-     "source": "佐賀新聞",
-     "snippet": "ナウシカの「腐海」表現 圧巻の造形、王蟲など展示 専用アプリでAR体験も 金曜ロードショーとジブリ展&nbsp;&nbsp;佐賀新聞",
-     "summary": "ナウシカの「腐海」をテーマにした展示が行われ、圧巻の造形や王蟲が紹介されたにゃ。専用アプリを使ったAR体験も可能で、金曜ロードショーと連動したジブリ展として多くのファンを魅了したそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "東京科学大学の内視鏡手術システム研究にARグラスが採用 - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vejY5UXk4cE1sLU13c2Jtbm9YTUI3anFITDk3aUZoM1hiLXR1MWJVdTViamNVeU5kbWI2Q3FQZjl0dFlyVlJaYzNQZmZuRXEya2dULU1pczlZYW02RlBzcXlhWFF4bnJKenRlWXdrN28zR29tZElj?oc=5",
-     "date": "2026-10-28T05:30:19+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "東京科学大学の内視鏡手術システム研究にARグラスが採用&nbsp;&nbsp;ニコニコニュース",
-     "summary": "東京科学大学の内視鏡手術システム研究にARグラスが採用されたにゃ。この技術により、手術の精度や効率が向上することが期待されているそうだにゃ。医療分野でのARの活用が進んでいるにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "タイタニック号をVRで再現 30人同時体験、ハンドトラッキングで1912年の船内へ (電波タイムズ) - Yahoo!ニュース",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2VvVEEtU1dYOFNJME53ZlRUbWpoVTBuWlFkTDF4dEdMTkFzWVRSRlBPb2J1TFhSMmxCQ3llSktOQ081YmpnUFZ0d1pFdE5FODJabVp0dV9hMXllcEVVMmgzdE1lR2xBalI1eHk5UTNscWMzR0ZKRWJ6Q0ctSnJHdFd4M1hiUVlzN21rMjJn?oc=5",
-     "date": "2026-10-28T01:30:40+00:00",
-     "source": "Yahoo!ニュース",
-     "snippet": "タイタニック号をVRで再現 30人同時体験、ハンドトラッキングで1912年の船内へ (電波タイムズ)&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "タイタニック号をVRで再現した体験が提供され、30人が同時に1912年の船内を体感できるそうだにゃ。ハンドトラッキング技術を用いて、リアルな体験が可能になっているにゃん。多くの人々が歴史を感じる機会となったにゃ。"
+     "title": "VR市場のCAGR 6%分析：2026年から2033年にかけての驚異的な発展を予測する - pando.life",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tcEozZVcwZEhha2FQMDEtM21xc0swLUdMak5qY2I5UWMyaHhvWDdfY25HanBoVEM0SHZxdENkM3pJY3NHX1N2dnp3?oc=5",
+     "date": "2026-10-28T08:03:13+00:00",
+     "source": "pando.life",
+     "snippet": "VR市場のCAGR 6%分析：2026年から2033年にかけての驚異的な発展を予測する&nbsp;&nbsp;pando.life",
+     "summary": "VR市場は2026年から2033年にかけて、年平均成長率（CAGR）6%で驚異的な発展が予測されているにゃ。これにより、VR技術の普及が進み、様々な分野での活用が期待されているそうだにゃん。今後の市場動向に注目が集まるにゃ。"
     }
    ]
   }
