@@ -1,10 +1,46 @@
 {
- "updated": "2026-10-30T02:09:57.228029+00:00",
+ "updated": "2026-10-31T00:03:07.744970+00:00",
  "categories": [
   {
    "id": "ai_media",
    "title": "🤖 AI×メディア研究（ニュース・論文・行政）",
    "items": [
+    {
+     "type": "gov",
+     "title": "演劇公演関連ニュース - 新国立劇場",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsdE1mcmVVUV9pNHM2dTg0cGdEZm5Za0p6RzI0LXh4WkhYbzRibVJyX3VhOEdzV0FCM3A5LUtYa1dNV3dBS2l1LUxQMVZ1alFpN0dyTzdSeWszZFFyRHFfYU10TUVIUU9Lb2c?oc=5",
+     "date": "2026-10-30T20:37:11+00:00",
+     "source": "新国立劇場",
+     "snippet": "演劇公演関連ニュース&nbsp;&nbsp;新国立劇場",
+     "summary": "新国立劇場からの演劇公演関連ニュースが発表されたにゃ。具体的な内容は記載されていないが、今後の公演情報や関連イベントについての詳細が期待されるにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "米FRBは政策金利を据え置き、前回引き上げの影響を見極め(米国) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6U0tXaWJPdDV0VUFuT181ZEhraG8xMUNPZjVzY1FLS0Y0QWhXazNCS0FOdW5Sb2RRa01NNnp1aWZGVTRRMnJWWngyWUVxVjYtMFBNSXNpa1NqNlJRUy1Xd3hiV0Vjc19tVkxzTzRR?oc=5",
+     "date": "2026-10-30T08:34:16+00:00",
+     "source": "ジェトロ（日本貿易振興機構）",
+     "snippet": "米FRBは政策金利を据え置き、前回引き上げの影響を見極め(米国) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
+     "summary": "米国のFRBは政策金利を据え置くことを決定したにゃ。これは前回の金利引き上げの影響を見極めるための措置で、経済の動向を注視しながら慎重に進める姿勢を示しているそうだにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "持続可能な包装材への移行が進むルーマニア市場 中・東欧の生産・供給拠点としての可能性 - ジェトロ（日本貿易振興機構）",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLXdhZnpwY1BRclZXMHpuZkpEXzlrQ19FREtpRHctMkRSUzdFQ0ZGN0RuLThQSGJFbFExcjhzOV9yUW0wTEpHU3BtVmtGcEF1N3IyTHI3dF9GOU4ydjJYWlIwOFJKSnlCVV9RdDN4RjR2a3RON1lHazZ4YTNhc284bmxnWE5RZw?oc=5",
+     "date": "2026-10-30T07:39:12+00:00",
+     "source": "ジェトロ（日本貿易振興機構）",
+     "snippet": "持続可能な包装材への移行が進むルーマニア市場 中・東欧の生産・供給拠点としての可能性&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
+     "summary": "ルーマニア市場では持続可能な包装材への移行が進んでいるにゃ。中・東欧の生産・供給拠点としての可能性が高まっており、環境に配慮したビジネスの展開が期待されるそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "朝日新聞社、「取材・報道とAI利用の指針」まとめる - 朝日新聞",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sbHlpeDVXdlVrQlVkRFg5MUgzSUdJWDdaSWdhQ2JLTGtrcVhBUTFlQ0dmTW40SjZOLTNNMFZxZDVhTlhvZnhNekwwRE10WlVGcFUtRUN6cWNJVGNNcTRYZE9QUERpaVU?oc=5",
+     "date": "2026-10-30T07:00:00+00:00",
+     "source": "朝日新聞",
+     "snippet": "朝日新聞社、「取材・報道とAI利用の指針」まとめる&nbsp;&nbsp;朝日新聞",
+     "summary": "朝日新聞社が「取材・報道とAI利用の指針」をまとめたにゃ。これはAI技術を活用した報道のあり方についてのガイドラインで、今後のメディアの在り方に影響を与える可能性があるにゃん。"
+    },
     {
      "type": "news",
      "title": "博報堂、メディアの編集力を生成AI時代に生かすShomei AIOを始動 - Dellows News",
@@ -12,88 +48,52 @@
      "date": "2026-10-29T21:47:35+00:00",
      "source": "Dellows News",
      "snippet": "博報堂、メディアの編集力を生成AI時代に生かすShomei AIOを始動&nbsp;&nbsp;Dellows News",
-     "summary": "博報堂は、生成AI時代におけるメディアの編集力を活用する新プロジェクト「Shomei AIO」を始動したにゃ。この取り組みは、AI技術を駆使して、より効果的なコンテンツ制作や情報発信を目指すもので、メディア業界における新たな可能性を探るものだにゃん。"
-    },
-    {
-     "type": "gov",
-     "title": "総統がGX移行支援を強調、半導体産業の電力消費量は2035年に倍増へ(台湾) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHdDlsek9BRHU4aWFKM09GU2tEbWFnVlZ2Ty0teWt5QjZsRUpENXM3bEtCTV85NGw4TmJRYktqb2R0NDJUT0llMElKRFIyUUdxWTBub3JvTW92cTRtM1QzY2hzYzkyUWhwVTR1RXhn?oc=5",
-     "date": "2026-10-29T15:33:58+00:00",
-     "source": "ジェトロ（日本貿易振興機構）",
-     "snippet": "総統がGX移行支援を強調、半導体産業の電力消費量は2035年に倍増へ(台湾) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "台湾の総統は、GX（グリーントランスフォーメーション）移行支援の重要性を強調したにゃ。特に半導体産業の電力消費量が2035年までに倍増する見込みで、持続可能なエネルギー政策の必要性が増していることを示唆しているにゃ。"
-    },
-    {
-     "type": "gov",
-     "title": "GITEX Expand North Star 2026 パネルセッション登壇企業募集 | イベント情報 - ジェトロ（日本貿易振興機構）",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HX3ZtZ1A4TmViQXI0WC0zR2VjUWE5UkctVzZIUDdLU2xldlBHZS1YTDdYb1phekgzVHpvdDBuTi1LX0VWU0tlX2RYRGhLTWFVMklidVRkSHVneUlqb3U0WGlfTEpra28?oc=5",
-     "date": "2026-10-29T15:32:44+00:00",
-     "source": "ジェトロ（日本貿易振興機構）",
-     "snippet": "GITEX Expand North Star 2026 パネルセッション登壇企業募集 | イベント情報&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "GITEX Expand North Star 2026では、パネルセッションに登壇する企業を募集しているにゃ。このイベントは、最新のテクノロジーやビジネスのトレンドを共有する場であり、参加企業にとって貴重な機会となるだろうにゃん。"
+     "summary": "博報堂が生成AI時代におけるメディアの編集力を活かす新プロジェクト「Shomei AIO」を始動したにゃ。これにより、AIを活用した新たなコンテンツ制作が進むことが期待されるそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "サンメディア、米Cashmereと提携し、生成AI向け高品質な専門コンテンツの利用ライセンス事業を展開 - Infoseek",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TTlB0Q3lYQmdsRnAxMDFReUhKR1hsMFBleVNyZ194M2FpbWdPcmhOd190WWt4Q1dHeEVGazVIVmZzeUthb0NzQUxKWkQxUElSS0pPRlFOX3VuUkM3RTVJY2R1SWg1VjVJcW1RdUdKQ29mQQ?oc=5",
-     "date": "2026-10-29T14:40:02+00:00",
-     "source": "Infoseek",
-     "snippet": "サンメディア、米Cashmereと提携し、生成AI向け高品質な専門コンテンツの利用ライセンス事業を展開&nbsp;&nbsp;Infoseek",
-     "summary": "サンメディアは、米国のCashmereと提携し、生成AI向けの高品質な専門コンテンツの利用ライセンス事業を展開することを発表したにゃ。この提携により、両社は新たなビジネスチャンスを創出し、コンテンツ制作の質を向上させることを目指すにゃん。"
-    },
-    {
-     "type": "gov",
-     "title": "AI・デジタル政策について - 内閣府ホームページ",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuTnFCTHJQc0s3STYzTFlBendJRlZkQUowWnNUV3VNeDAySUZlaUdxOGNLSUd0RThuc0pFZ3hYUnEwdUdoei1Nbm5xZ190aEJpa1M2ZThEQ19FSFFBQ1NpZDZ2WWdNcXZ6MFN1ZVZuZ0RUZ29DMXRYVFRPX2U0UQ?oc=5",
-     "date": "2026-10-29T11:50:33+00:00",
-     "source": "内閣府ホームページ",
-     "snippet": "AI・デジタル政策について&nbsp;&nbsp;内閣府ホームページ",
-     "summary": "内閣府のホームページでは、AI・デジタル政策に関する情報が提供されているにゃ。これにより、政府のデジタル化推進やAI技術の活用に関する方針が明らかにされ、国民の理解を深めることが期待されているにゃん。"
+     "title": "視覚障害者が生成AIでポーカー オープンAI「人工知能を全ての方へ」 - FNNプライムオンライン",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zMnpWakZWaFNwQUJKLUYzVFdIVmNGMzYzRG0yaklMcFNpR2xjUUREUHVTMVhXTDlCc2E2REh5dVRLcWJVYTVaYUtRYlFxdw?oc=5",
+     "date": "2026-10-29T15:47:00+00:00",
+     "source": "FNNプライムオンライン",
+     "snippet": "視覚障害者が生成AIでポーカー オープンAI「人工知能を全ての方へ」&nbsp;&nbsp;FNNプライムオンライン",
+     "summary": "視覚障害者が生成AIを利用してポーカーを楽しむ取り組みが行われているにゃ。オープンAIは「人工知能を全ての方へ」という理念のもと、誰もが楽しめる技術の普及を目指しているそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "アドバンスト・メディア、コンタクトセンター向け「業務支援AI」市場でシェアNo.1（※1）を獲得 - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zYTczVUpVRXpsblpnR2o3V0VVWDY5ZjFTUzdwSzVueEVIbTJYV2xDdFBiVHVRblBFX0hDaENfSGt3XzA0b05iYXdDd0xrMmtmVUxyN0N0WW8tcUxfbjdpdDNCQnowaDVtaWc?oc=5",
-     "date": "2026-10-29T05:00:01+00:00",
+     "title": "科学普及書籍にAIで生成した「頭が2つあるエビ」画像を掲載、出版社が回収へ―中国メディア - Record China",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XMHBLLTl5dUU0MWZQQkVlaTJZNlNnVkR0M1NfQWphLWdmU2w3MmNuNm5OYXd5N090Sms1bllwUmR1dGdzNHFTYVZYSFNOdEVMSnl5cGtkNVNMUExzNmZUX3BSNmgyQlU?oc=5",
+     "date": "2026-10-29T13:00:01+00:00",
+     "source": "Record China",
+     "snippet": "科学普及書籍にAIで生成した「頭が2つあるエビ」画像を掲載、出版社が回収へ―中国メディア&nbsp;&nbsp;Record China",
+     "summary": "中国の出版社が科学普及書籍にAIで生成した「頭が2つあるエビ」の画像を掲載したが、問題が発生し回収することになったにゃ。AIによるコンテンツの信頼性が問われる事例となったそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "サンメディア、米Cashmereと提携し、生成AI向け高品質な専門コンテンツの利用ライセンス事業を展開 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FbjZvNXAyRmtfajNzb0pDblJZSlZVZktvN1Q2SkJobEwzWnNERy14SWJLVU13MWxTaXdXQ1lhMW1WQmlsS21NUEpwX25ZR2RlNHhqTg?oc=5",
+     "date": "2026-10-29T11:18:30+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "サンメディア、米Cashmereと提携し、生成AI向け高品質な専門コンテンツの利用ライセンス事業を展開&nbsp;&nbsp;ニコニコニュース",
+     "summary": "サンメディアが米Cashmereと提携し、生成AI向けの高品質な専門コンテンツの利用ライセンス事業を展開することを発表したにゃ。これにより、AI関連のコンテンツ制作がさらに進化することが期待されるそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "Uravation、AI検索対策の実務メディア「AI検索攻略」が公開記事200本・業種別LLMO対策100業種を突破。10月23日時点で228本・125業種、公開開始から約4か月で到達 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yQ0Q3dkx4ZFJPb040S2RTVnU1ME5ybXhFVS1FWF82WkNPT05GbE1RRk5aaTRfd3ZRMkhkZ2swMGdKSlZPUVJfdkQ0d25hdGR4X0E4UDFuNXZ5QlZUQlA3RHppdXdTT2NZd1E?oc=5",
+     "date": "2026-10-29T07:00:02+00:00",
      "source": "PR TIMES",
-     "snippet": "アドバンスト・メディア、コンタクトセンター向け「業務支援AI」市場でシェアNo.1（※1）を獲得&nbsp;&nbsp;PR TIMES",
-     "summary": "アドバンスト・メディアは、コンタクトセンター向けの「業務支援AI」市場でシェアNo.1を獲得したと発表したにゃ。この成果は、同社の技術力とサービスの質の高さを示しており、今後の成長が期待されるにゃん。"
+     "snippet": "Uravation、AI検索対策の実務メディア「AI検索攻略」が公開記事200本・業種別LLMO対策100業種を突破。10月23日時点で228本・125業種、公開開始から約4か月で到達&nbsp;&nbsp;PR TIMES",
+     "summary": "UravationがAI検索対策の実務メディア「AI検索攻略」を公開し、記事数が228本、業種別LLMO対策が125業種を突破したにゃ。約4か月での到達で、AI関連の情報提供が進んでいるそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "サンメディアと米Cashmere、生成AI向けコンテンツライセンスで戦略提携 - Dellows News",
-     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA5N2VRRVJaUzcxUUVjN05JZ3BkRUJBNTlOajYydXEtajVaWldhZ3RwQ3gzRldocm1SNGRRZXF4amt3WTlkS3c?oc=5",
-     "date": "2026-10-29T03:41:33+00:00",
-     "source": "Dellows News",
-     "snippet": "サンメディアと米Cashmere、生成AI向けコンテンツライセンスで戦略提携&nbsp;&nbsp;Dellows News",
-     "summary": "サンメディアと米Cashmereは、生成AI向けのコンテンツライセンスで戦略的提携を結んだにゃ。この提携により、両社は高品質なコンテンツを提供し、生成AIの活用を促進することを目指しているにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "ディズニーは「夢のつくり方」をどう変えるのか 生成AIで進化する体験づくりと事業戦略 - JBpress",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTXlicDNHek5vT3lyeFdiSGNadjVmRGJaM2g2Q2hrQ3ByejNzNXpsY3BUclRxSHo0aUZkWERsQ0FIZlNZWnAySzk5WXVVc1pzcU5fRjdB?oc=5",
-     "date": "2026-10-28T21:00:00+00:00",
-     "source": "JBpress",
-     "snippet": "ディズニーは「夢のつくり方」をどう変えるのか 生成AIで進化する体験づくりと事業戦略&nbsp;&nbsp;JBpress",
-     "summary": "ディズニーは、生成AIを活用して「夢のつくり方」を進化させる取り組みを進めているにゃ。新たな体験づくりや事業戦略を通じて、より魅力的なコンテンツを提供し、顧客の期待に応えることを目指しているにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "Muck Rackの「What Is AI Reading?」レポート、報道分野のAI引用シェアが22%に低下したと報告 - Unite.AI",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnRuMHVrdFdIcTdETUlUWU53WGFlcHc4R3pWYnQtcFdsM0pEaHFZckpHMVVjZFBzUmhXWWFsNW9sd0dYYTYzd2MyRjFTQVhkM20wSkVhQ2VrdmlIeDh3MGhPM2JiejVZYVFDNTJDZlhuSVNQbF8zWGthN3RzQmZhTU9CUk0tb3h2QnVTMmNqYmdYTjZnMjBKYTlzSQ?oc=5",
-     "date": "2026-10-28T16:23:26+00:00",
-     "source": "Unite.AI",
-     "snippet": "Muck Rackの「What Is AI Reading?」レポート、報道分野のAI引用シェアが22%に低下したと報告&nbsp;&nbsp;Unite.AI",
-     "summary": "Muck Rackのレポートによると、報道分野におけるAI引用シェアが22%に低下したことが報告されたにゃ。この傾向は、AIの利用が進む中で、報道の質や信頼性に対する懸念を反映していると考えられるにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "国内で公表された生成AIの事案18件から考える、社内ルールで防げるリスクと仕組みで防ぐリスク - AINOW",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PalJvYW9kMF9NcW41ZGtFb1o1MW40LUxDOFg5RTBkVURBLWFfSjM2ZXljWUN2TUp6VEZVa2FjTE9VbW96NFQ4V1pxdw?oc=5",
-     "date": "2026-10-28T13:23:35+00:00",
-     "source": "AINOW",
-     "snippet": "国内で公表された生成AIの事案18件から考える、社内ルールで防げるリスクと仕組みで防ぐリスク&nbsp;&nbsp;AINOW",
-     "summary": "国内で公表された生成AIに関する18件の事案を分析し、社内ルールで防げるリスクと仕組みで防ぐリスクについて考察したにゃ。企業はこれらのリスクを理解し、適切な対策を講じることが求められているにゃん。"
+     "title": "アドバンスト・メディア、通話内容から後続業務を自動実行する「AmiVoice Mobile Genie」 - クラウド Watch",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1bjhCeWFBRDRwa1Atc0pvYW1FWjRXbW9UVDVJT2ZLNWFyYTNsNEJFb2NhWmlkYUJTamxFY3FnZDI1ckdzNTF4ckp5TFcySWR1Mm1peWlweFVIcFdwbVBBOVZWcWZ3ZE0?oc=5",
+     "date": "2026-10-29T00:00:00+00:00",
+     "source": "クラウド Watch",
+     "snippet": "アドバンスト・メディア、通話内容から後続業務を自動実行する「AmiVoice Mobile Genie」&nbsp;&nbsp;クラウド Watch",
+     "summary": "アドバンスト・メディアが通話内容から後続業務を自動実行する「AmiVoice Mobile Genie」を発表したにゃ。これにより、業務効率が向上し、コミュニケーションの質が改善されることが期待されるそうだにゃん。"
     }
    ]
   },
@@ -105,46 +105,46 @@
      "type": "gov",
      "title": "過去の新着情報一覧 - 厚生労働省",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JSDFtNm9QUmc2aU4yRTJLalU0Yk43eFpKbmQ5czFfb3Z6SVpNQkRGdE5NVDVkY1JfQkp3bFNpTmlpN01BUU9uS0xUcXIzQlpVSXUxbURmLUYzZw?oc=5",
-     "date": "2026-10-30T01:49:01+00:00",
+     "date": "2026-10-30T23:25:28+00:00",
      "source": "厚生労働省",
      "snippet": "過去の新着情報一覧&nbsp;&nbsp;厚生労働省",
-     "summary": "厚生労働省の過去の新着情報一覧が掲載されているにゃ。最新の情報を確認することができるので、興味がある方はぜひチェックしてみてほしいにゃん。"
+     "summary": "厚生労働省の過去の新着情報一覧が掲載されているにゃ。具体的な内容は示されていないが、厚生労働省の公式情報を確認するためのページだにゃん。"
     },
     {
      "type": "news",
-     "title": "株式会社リーピー、管理部マネージャーの長屋秀成が取締役に就任。さらなる事業成長に向けて経営体制を強化いたします。 - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rTUdVdEF2VTVuNjJiaUFLdEgyalFQWDVqb0lEcTk2OUxMTVVhclF0bEN4RENHU3k0TzNBSDB5ZnFTX2wzVjFfLUVBT3VzZFBzUFFXV2c0c1lzNXJTYk83TkV6dkZTWm1FYzZoVUU3b25OaUljdm9EbzJCVQ?oc=5",
-     "date": "2026-10-30T01:21:16+00:00",
+     "title": "宿泊施設のインバウンド集客を、市場・顧客戦略から実行まで。Hinotoriの総合マーケティング支援 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91Njd0Qko3QUEyYUtneU82eDgxUXVIQjNLNXZNRXhBaHJrdXk3bWw4aXhjeE03MVNsdXhoeG5KdHhjN3V5MmhKVnhuZUhsS3hOVHRTQWtxZjl0MXBfcmJPUlBmbnFYN3drY0NOVk13LUx3SERjT29IOHA1Zw?oc=5",
+     "date": "2026-10-30T17:18:29+00:00",
      "source": "ニコニコニュース",
-     "snippet": "株式会社リーピー、管理部マネージャーの長屋秀成が取締役に就任。さらなる事業成長に向けて経営体制を強化いたします。&nbsp;&nbsp;ニコニコニュース",
-     "summary": "株式会社リーピーの管理部マネージャー、長屋秀成が取締役に就任したにゃ。これにより、さらなる事業成長を目指して経営体制を強化する方針だそうだにゃん。"
+     "snippet": "宿泊施設のインバウンド集客を、市場・顧客戦略から実行まで。Hinotoriの総合マーケティング支援&nbsp;&nbsp;ニコニコニュース",
+     "summary": "宿泊施設のインバウンド集客を支援するHinotoriのマーケティングサービスについて紹介されているにゃ。市場や顧客戦略から実行まで幅広くサポートする内容だそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "50歳、改めて「自分は何者か」を言葉に。地域や組織の「人」の課題に向き合う、カクナル代表ナカシマアツシがnoteを開始 - 時事ドットコム",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43MDRYaE5VZ0VmWmptMks3a3dJOHFOVlVIX2lNSlRweHA4SnlpYnJOM3RrTF9tR0JWV1N3Qy1ib00yVVlTcjVWU09YNURURG5kUGFUTDd1NVBNOTRxbWNqalVpeUNTQTl6TDg4?oc=5",
-     "date": "2026-10-29T06:46:00+00:00",
-     "source": "時事ドットコム",
-     "snippet": "50歳、改めて「自分は何者か」を言葉に。地域や組織の「人」の課題に向き合う、カクナル代表ナカシマアツシがnoteを開始&nbsp;&nbsp;時事ドットコム",
-     "summary": "カクナルの代表、ナカシマアツシが50歳を迎え、自身の存在意義を見つめ直すnoteを開始したにゃ。地域や組織の「人」に関する課題に向き合う姿勢が注目されているにゃん。"
+     "title": "沖縄の魅力を発信する新番組『アソガク！沖縄校』11月7日より沖縄テレビで放送開始 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aX2FkQ0IyOFlHOUc2amJHQjNxN0dQLWszSTRtV2VBZUxGRGEyMVdSVlE3N3dmMEcwN0RiZVUtMHBsREtwbXpwUGpOOWtKQ3RhT2ppLVl6dzhKVUJHZWZVcjRUMlc0YVBQZXlKdUZPdEFLclNqUkdWdDVxWQ?oc=5",
+     "date": "2026-10-30T12:18:27+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "沖縄の魅力を発信する新番組『アソガク！沖縄校』11月7日より沖縄テレビで放送開始&nbsp;&nbsp;ニコニコニュース",
+     "summary": "沖縄の魅力を伝える新番組『アソガク！沖縄校』が11月7日から沖縄テレビで放送開始されるにゃ。この番組を通じて、沖縄の魅力を多くの人に届けることを目指しているそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "合同会社LCB、A+E Networksと連携し、日本のローカルテレビ局コンテンツを世界へ届ける海外向け「FASTチャンネル」を開設 - 新Screens",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81ZmNCZ1lTNExrQU93Y3Z1WnpLb3VDYW1PM3lfWEdURFdib1BBeVozRzZIUE82TlgzRGJTWTUtVFljME5qQkx0dzI4bGxQTnFlMlHSAVdBVV95cUxNYTQ3akc1VkxMcEhZT3VzbHUyQ2ExMkxtVE5aTFQwX2p0cHpPRjRUanRCVkUtalpyVjN6aDg3VkN2TXFkdlp4aFpBTnF2aUowaGhXQk01aUE?oc=5",
-     "date": "2026-10-29T06:00:00+00:00",
-     "source": "新Screens",
-     "snippet": "合同会社LCB、A+E Networksと連携し、日本のローカルテレビ局コンテンツを世界へ届ける海外向け「FASTチャンネル」を開設&nbsp;&nbsp;新Screens",
-     "summary": "合同会社LCBがA+E Networksと連携し、日本のローカルテレビ局のコンテンツを世界に届ける「FASTチャンネル」を開設したにゃ。これにより、海外市場への展開が期待されるにゃん。"
+     "title": "山形市役所前の通りが一方通行に 文翔館周辺で歩行者中心のまちづくり目指す大規模社会実験（YBC山形放送） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6dnZDdWFUbl9xUDJQUlE4UFFWVWNsUEk3X3RzZVp2M2pVUUhpckFkaXM1b0JjdGJVRkpGbVBxeVRqX1IwZzF4NnViZ0R1ajFJeHZNeXRnUFV6eW5PLUhzVkt4S0QtWkJLM2ZhamVUWVVMTUF3ZERrNjF0N2lGT0E?oc=5",
+     "date": "2026-10-30T09:26:00+00:00",
+     "source": "Yahoo!ニュース",
+     "snippet": "山形市役所前の通りが一方通行に 文翔館周辺で歩行者中心のまちづくり目指す大規模社会実験（YBC山形放送）&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "山形市役所前の通りが一方通行に変更され、文翔館周辺で歩行者中心のまちづくりを目指す大規模な社会実験が行われるにゃ。これにより、地域の活性化を図る狙いがあるそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "ORENDA WORLD（オレンダワールド）、農林水産省『AI×「農山漁村」インパクト創出ソリューション実装プログラム』に選定 - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GbURlMDNlYXlwODZ1dDlCQ1hfNkxuWlpTZ3UtdTlVeWR0ckNqRGlkWGhxSmxNbXZJUkNZWEktVG90OFAxcFg5X0VuR2tfeUZOOUdERFBaR2RLWTZPTWlJV1NyUktVVDE4S3c?oc=5",
-     "date": "2026-10-29T02:00:03+00:00",
-     "source": "PR TIMES",
-     "snippet": "ORENDA WORLD（オレンダワールド）、農林水産省『AI×「農山漁村」インパクト創出ソリューション実装プログラム』に選定&nbsp;&nbsp;PR TIMES",
-     "summary": "ORENDA WORLDが農林水産省の『AI×「農山漁村」インパクト創出ソリューション実装プログラム』に選定されたにゃ。このプログラムを通じて、農山漁村の発展に寄与することが期待されているにゃん。"
+     "title": "橋本夏子が導くメディア共創型プロモーションの新たな価値創造 - ニュースメディアVOIX",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SNlpCQ2RldEozaDRNdVMwSjVKN2o5X0RqQWFEenl5QVRRazF5ZV9fd05PeFJmSXF6UF9mN2ZaY3BTbjdDX1daQ3NkaEZQV0lHblNpRWJxYTBHT0U2VzVKQzlUa1hiTVBW?oc=5",
+     "date": "2026-10-30T08:43:30+00:00",
+     "source": "ニュースメディアVOIX",
+     "snippet": "橋本夏子が導くメディア共創型プロモーションの新たな価値創造&nbsp;&nbsp;ニュースメディアVOIX",
+     "summary": "橋本夏子がメディア共創型プロモーションの新たな価値を創造する取り組みについて紹介されているにゃ。新しい形のプロモーションがどのように展開されるのか、注目されているそうだにゃん。"
     }
    ]
   },
@@ -154,48 +154,48 @@
    "items": [
     {
      "type": "news",
-     "title": "【弊社登壇リポート】【MBSE Leaning Journey Showcase 2026 Autumn】MBSEを『正しく』知り、『本当の』価値を知る！ - JIJICO",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByM3ZaNXF5X2dPbVIwc1FMWVdqZ1lYR0FZSVlZamlMRVdoYlJXTXhDSWsxUHIzQUdTb1NNYjFKTzZzSy1mb1dkWk9pNUFHM3daSkFnbDA2bmViYXNN?oc=5",
-     "date": "2026-10-30T01:18:28+00:00",
-     "source": "JIJICO",
-     "snippet": "【弊社登壇リポート】【MBSE Leaning Journey Showcase 2026 Autumn】MBSEを『正しく』知り、『本当の』価値を知る！&nbsp;&nbsp;JIJICO",
-     "summary": "MBSE（モデルベースシステムエンジニアリング）に関するイベント「MBSE Leaning Journey Showcase 2026 Autumn」が開催されたにゃ。ここでは、MBSEの正しい理解とその真の価値について議論されたそうだにゃん。参加者は、MBSEの導入や活用方法についての知見を深め、実践的な知識を得ることを目指したみたいだにゃ。"
+     "title": "行政のDX推進支援 北上市とベリーグッド 起業人制度で協定締結 - au Webポータル",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MaS10MkI5czdnMmNnYm5pNkZYVm8zQjFDUGhXZzNKaE9lRlEweFNROGxCeHNIOVV0OS1nNHJ4SHFQalBqejdURWVQeTEwVGZSV1V0VmIyUjd3U05qbUxaNnJmdXNDWGVJS2NaVEZ3?oc=5",
+     "date": "2026-10-30T20:48:00+00:00",
+     "source": "au Webポータル",
+     "snippet": "行政のDX推進支援 北上市とベリーグッド 起業人制度で協定締結&nbsp;&nbsp;au Webポータル",
+     "summary": "北上市とベリーグッドが、行政のデジタルトランスフォーメーション（DX）推進を支援するために起業人制度に関する協定を締結したにゃ。この協定により、地域のDXを進める取り組みが強化されることが期待されているそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "ANA エア・ドゥ ソラシドエア完全子会社化へ ブランド統合視野 - NHKニュース",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vbVlwd0otXzF0Tm45SXRpUnBXOGgyTzhZVE05U1hia3BVSjNaMjhrUDR0RURabHkzSUs2VDBLVXhVcUp6M2FRVlJsaUdnU3JxSnd5OHFOOW5yTmFwaDdJ?oc=5",
-     "date": "2026-10-29T08:58:34+00:00",
-     "source": "NHKニュース",
-     "snippet": "ANA エア・ドゥ ソラシドエア完全子会社化へ ブランド統合視野&nbsp;&nbsp;NHKニュース",
-     "summary": "ANAがエア・ドゥを完全子会社化する計画を発表したにゃ。これにより、ブランド統合を視野に入れた戦略が進められるそうだにゃん。ANAは、エア・ドゥの運営をより効率的に行うことで、競争力を高める狙いがあるみたいだにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "ANA ソラシドエア等を傘下に持つ会社を完全子会社化へ - NHKニュース",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oMndVOGFrYUU3ZVFLTDdFUHpqb05pcl9nVjhSWDE1SGc4c3NNbXVic29XQXcwNWtZNTc0cHJJRC1wZHNhQzBzOS04cjlJSGJMLXRJMTVfZkdZTEJHX1p3?oc=5",
-     "date": "2026-10-29T08:34:00+00:00",
-     "source": "NHKニュース",
-     "snippet": "ANA ソラシドエア等を傘下に持つ会社を完全子会社化へ&nbsp;&nbsp;NHKニュース",
-     "summary": "ANAがソラシドエアを含む関連会社を完全子会社化する方針を示したにゃ。これにより、ANAグループ全体のブランド力を強化し、経営の効率化を図ることが期待されているそうだにゃん。ANAは、航空業界での競争において優位性を確保するための重要なステップと考えているみたいだにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "100社を一挙公開〉「すごいベンチャー」2026年最新版 選別の時代を勝ち抜くスタートアップはどこか（東洋経済オンライン - Yahoo!ニュース",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uSmptUjdSam9kVTVweFdZSTJ4WHM1ZFhBM1U4MWZaLTQ0N0xibUJFREx2VVhYRkUtSjkxcmp3QTh1TlVONWtZeDBtcTVuX3JPZlVmT2UxQ1BWZEIxZWFPWExwb0ZlWFZRWm1ZUEc0T1pQbnBhNGVlVUtsSVNZNFE?oc=5",
-     "date": "2026-10-29T03:00:00+00:00",
+     "title": "企業や団体、DXの進め方学ぶ 茨城・水戸でセミナー 先進事例を紹介（茨城新聞クロスアイ） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zRnNBTkRnNl8tbEtQUTRjZnBQdFY1bmZpRXZySWxJR1kyNWxjTUJkekRMdExNeTJhMmlhaVFldDZ2UlNFZVg5QTk1dmdKZm01VHhMWkZldDVJX1YyNWhyc2xqV3J4VkZGekpFakszRjFRYlZUeGJYTTRNNWtmb3M?oc=5",
+     "date": "2026-10-30T19:09:23+00:00",
      "source": "Yahoo!ニュース",
-     "snippet": "100社を一挙公開〉「すごいベンチャー」2026年最新版 選別の時代を勝ち抜くスタートアップはどこか（東洋経済オンライン&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "「すごいベンチャー」2026年最新版が発表され、選ばれた100社のスタートアップが紹介されたにゃ。これらの企業は、厳しい選別の時代を勝ち抜くための革新的なビジネスモデルや技術を持っているそうだにゃん。各社の取り組みや成長戦略が注目されているみたいだにゃ。"
+     "snippet": "企業や団体、DXの進め方学ぶ 茨城・水戸でセミナー 先進事例を紹介（茨城新聞クロスアイ）&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "茨城県水戸市で、企業や団体向けにデジタルトランスフォーメーション（DX）の進め方を学ぶセミナーが開催されたにゃ。参加者は先進的な事例を通じて、DXの実践方法を学び、地域の企業の競争力向上を目指しているそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "日立、米DX子会社2社を統合し「Hitachi Digital」を発足へ AI実装を一貫支援 - 月刊「事業構想」オンライン",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSzBhcVJwM3RrQmFUTlQ3XzNGUHUyZDdwXzVxOEkyUWMzb2tUNUFLZmVfYndsa21PdDBxWUNxZGZmT1o5czFPWWNWS09HQ3M5LUhXRHBzblZPSWc0VUhaN0dJVTNudDFYQjBhVFhBTzRCYUIzbVBxVnZReGdxSVNlZHc0WWQwZw?oc=5",
-     "date": "2026-10-29T01:35:19+00:00",
-     "source": "月刊「事業構想」オンライン",
-     "snippet": "日立、米DX子会社2社を統合し「Hitachi Digital」を発足へ AI実装を一貫支援&nbsp;&nbsp;月刊「事業構想」オンライン",
-     "summary": "日立が米国のDX子会社2社を統合し、「Hitachi Digital」を設立することを発表したにゃ。この新会社は、AI実装を一貫して支援することを目的としているそうだにゃん。日立は、デジタルトランスフォーメーションの推進を強化し、顧客に対するサービス向上を目指すみたいだにゃ。"
+     "title": "生中継：ラジオ放送70周年、ゲアン新聞社創刊65周年、テレビ放送50周年を祝う会合：同じ流れを共有し、揺るぎない信念を持つ。 - Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZERYcWZ0enhjVU1yV0xtN0h5VGxEMDlYNDdwbTVJRUZIbHAzZ2tIbjBkVHpTalY3dFdRTk1TcTRRSWg4bW5kSGFpX19UYUgtbm5TVG5GR1c1NHdwd0tLY3Z4Wmh0SXROcGJHZlljRU1GLTZYQVlkM0N5U20xbTQ5QW5ZZWNNVmJxemlYNzhHaWp2aTFxOTJfbGZscGhlZW9DZHA3LWY2WkJWbUlHRTYwNkk1dzU5WW40Yk1JRVRvMzk5cmZkS0tuU0VaNV83cVduUXFHLUpRRQ?oc=5",
+     "date": "2026-10-30T10:59:33+00:00",
+     "source": "Vietnam.vn",
+     "snippet": "生中継：ラジオ放送70周年、ゲアン新聞社創刊65周年、テレビ放送50周年を祝う会合：同じ流れを共有し、揺るぎない信念を持つ。&nbsp;&nbsp;Vietnam.vn",
+     "summary": "ラジオ放送70周年、ゲアン新聞社創刊65周年、テレビ放送50周年を祝う会合が行われたにゃ。参加者は、メディアの発展を振り返り、同じ流れを共有し、揺るぎない信念を持つことの重要性を再確認したそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "地元企業にDX活用事例を紹介 茨城新聞と総務省がセミナー - Excite エキサイト",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kTjBWdW1IUkFncWkyV2VnZDI5WFI3T3BtQzdmd1VHU29QaU5lRERpOUl4R3FPdnZDUmU5OExFVUpmaDlXd3hfVEVKcENJNUotdVhzd1BiaTVSSHRkdW9rc0gyZnVVS1MwMG1BbW5QZWg?oc=5",
+     "date": "2026-10-30T10:20:00+00:00",
+     "source": "Excite エキサイト",
+     "snippet": "地元企業にDX活用事例を紹介 茨城新聞と総務省がセミナー&nbsp;&nbsp;Excite エキサイト",
+     "summary": "茨城新聞と総務省が共催したセミナーで、地元企業にデジタルトランスフォーメーション（DX）の活用事例が紹介されたにゃ。参加者は、実際の成功事例を通じて、DXの導入や活用の具体的な方法を学ぶ機会を得たそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "地元企業にＤＸ活用事例を紹介 - 京都新聞デジタル",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qRHNOVVFWcEp0X1FNbTNxTkptZjJlaHF1R0hORU5ZemtoZFg5MlZYUVRVYXpHeHFIT1NrMTBlZU5VOVhiNVUySGRVdGlYeEtMcUFNUzdmUDZKaUk?oc=5",
+     "date": "2026-10-30T10:19:54+00:00",
+     "source": "京都新聞デジタル",
+     "snippet": "地元企業にＤＸ活用事例を紹介&nbsp;&nbsp;京都新聞デジタル",
+     "summary": "地元企業に向けて、デジタルトランスフォーメーション（DX）の活用事例が紹介されたにゃ。これにより、地域の企業がDXを通じて業務改善や効率化を図ることが期待されているそうだにゃん。"
     }
    ]
   },
@@ -205,48 +205,48 @@
    "items": [
     {
      "type": "news",
-     "title": "【多摩六都科学館】JAXA研究者ら第一線の研究者が登壇 講演と館長との対談で宇宙研究の最前線に迫る「宇宙の最新研究2026」を開催 - Infoseek",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56OXJqR1MzV2lLLURwZXptcU9BVU9nM2dPeHZJbmlKVVFlRlFxbHRmUXp0bW56M0Z4VndJb1ZBcDVrMExWN1lMem8zODJCZW11ckQwdmM3OE52MzItUGNPTzRXYTZaVjdlM3h5aHJuVmlxUQ?oc=5",
-     "date": "2026-10-30T01:00:00+00:00",
-     "source": "Infoseek",
-     "snippet": "【多摩六都科学館】JAXA研究者ら第一線の研究者が登壇 講演と館長との対談で宇宙研究の最前線に迫る「宇宙の最新研究2026」を開催&nbsp;&nbsp;Infoseek",
-     "summary": "多摩六都科学館で「宇宙の最新研究2026」が開催されるにゃ。JAXAの研究者や第一線の研究者が登壇し、宇宙研究の最前線について講演や館長との対談が行われるそうだにゃ。最新の宇宙研究に興味がある人には、貴重な機会になるだろうにゃん。"
+     "title": "【開幕】特別展「生きものたちの性」国立科学博物館で2027年2月21日まで 「いのち」をつなぐための戦略 多様な性の理由を知る - 美術展ナビ",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyX29wUS1fWTViTzFnUnZQU0ItUk9xRzBkSGdjVzBxSWs2d3p0djc4bDlINXMxSUJxT3JqV244SDlhZVZoaGw1T2h2MFI2c2tnQ2thSDNRM19vb05Xb1hwTXd1LXd3bkxE?oc=5",
+     "date": "2026-10-30T12:40:59+00:00",
+     "source": "美術展ナビ",
+     "snippet": "【開幕】特別展「生きものたちの性」国立科学博物館で2027年2月21日まで 「いのち」をつなぐための戦略 多様な性の理由を知る&nbsp;&nbsp;美術展ナビ",
+     "summary": "国立科学博物館で特別展「生きものたちの性」が開催されるにゃ。この展覧会は2027年2月21日まで続く予定で、「いのち」をつなぐための戦略や多様な性の理由について探求する内容だにゃ。生物の性に関する理解を深めることを目的としているにゃん。"
     },
     {
      "type": "news",
-     "title": "「ビワアンコウはニシダ」ラランドが語る驚きの生態！ 国立科学博物館 特別展「生きものたちの性」親子で学ぶ多様な「性」教育 - 講談社コクリコ",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rY091NEg2Ui1nb3JEeURfZFc2anM4SU9lTXY3eHFvZFFmeTdUZ21uS2NicWRGeEVSN2hDWW94MFl3RjFWZFAtdkQ0UlMtRjVpYnFfbnJZSUl6SzMtMmFHT2hMaDJ2NzZZ?oc=5",
-     "date": "2026-10-29T21:00:00+00:00",
-     "source": "講談社コクリコ",
-     "snippet": "「ビワアンコウはニシダ」ラランドが語る驚きの生態！ 国立科学博物館 特別展「生きものたちの性」親子で学ぶ多様な「性」教育&nbsp;&nbsp;講談社コクリコ",
-     "summary": "国立科学博物館で特別展「生きものたちの性」が開催され、ラランドがビワアンコウの驚きの生態について語るにゃ。親子で多様な「性」教育を学ぶことができる展示が特徴で、興味深い内容が盛りだくさんだそうだにゃん。"
+     "title": "国立科学博物館の特別展「生きものたちの性」＝30日午後、東京・上野 - 「性」テーマに初の特別展 上野の国立科学博物館 - 写真・画像(2/2) - 西日本新聞me",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9manU0bklpYVREdTNFQ1Y0UlNYVlBLcE5ZM21QV1RPQjZKTG5Jci1FY1hGRmtKcjhGcDM0VlpwSV9GN3RoSi1hMlFWMkFBQVhvZ0Y1NzNGYw?oc=5",
+     "date": "2026-10-30T12:04:03+00:00",
+     "source": "西日本新聞me",
+     "snippet": "国立科学博物館の特別展「生きものたちの性」＝30日午後、東京・上野 - 「性」テーマに初の特別展 上野の国立科学博物館 - 写真・画像(2/2)&nbsp;&nbsp;西日本新聞me",
+     "summary": "国立科学博物館で初めて「性」をテーマにした特別展「生きものたちの性」が開催されたにゃ。展示内容は多様な生物の性に関する情報を提供し、来場者に新たな視点を与えることを目指しているそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "【国立科学博物館 筑波実験植物園】ミニ企画展「学習マンガがえがく植物の世界」開催および報道内覧会のご案内 - イザ！",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RVFh6Rnp3dEdCckFmd1czbVBIVXFRSk5zVWFKQ1dvamtIYmtLV3dZTFZja0VKeEtma3ZmdTFnR3VHU05BajZmMC1kYmhiMDM2Z3BPR1Z4b3ktV0sxN0s5b1VlQ3doTm1UczNjSmhUWXNtZHNFeXVDRll3?oc=5",
-     "date": "2026-10-29T05:00:00+00:00",
-     "source": "イザ！",
-     "snippet": "【国立科学博物館 筑波実験植物園】ミニ企画展「学習マンガがえがく植物の世界」開催および報道内覧会のご案内&nbsp;&nbsp;イザ！",
-     "summary": "国立科学博物館筑波実験植物園でミニ企画展「学習マンガがえがく植物の世界」が開催されるにゃ。報道内覧会も行われる予定で、植物についての学びをマンガを通じて楽しむことができる展示になるそうだにゃん。"
+     "title": "国立科学博物館の特別展「生きものたちの性」で展示されたミナミゾウアザラシの剥製。雄の体重は雌の3倍以上にもなる＝30日午後、東京・上野 - 「性」テーマに初の特別展 上野の国立科学博物館 - 写真・画像(1/2) - 西日本新聞me",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ILTlsVGpCWFliMzJsTXYxUFRKNzQzWVowbDdfZ0I3djZMWVZPNGlYMFJzYmhVaXNGS3l0WG9RRjF1TS11VElQREE3TkRJVzl3QXR2b21pbw?oc=5",
+     "date": "2026-10-30T12:04:03+00:00",
+     "source": "西日本新聞me",
+     "snippet": "国立科学博物館の特別展「生きものたちの性」で展示されたミナミゾウアザラシの剥製。雄の体重は雌の3倍以上にもなる＝30日午後、東京・上野 - 「性」テーマに初の特別展 上野の国立科学博物館 - 写真・画像(1/2)&nbsp;&nbsp;西日本新聞me",
+     "summary": "特別展「生きものたちの性」では、ミナミゾウアザラシの剥製が展示されているにゃ。雄の体重は雌の3倍以上にもなることが特徴で、性による体の違いを示しているにゃん。この展示を通じて、性に関する理解を深めることができるにゃ。"
     },
     {
      "type": "news",
-     "title": "【はじめまして松尾です】国立科学博物館 特別展「生きものたちの性」にスペシャルコラボクリエイターとして参加 - UUUM",
-     "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9BdGY5SmI2VlpCRWN5LUhVUVRraElIUW9tdTNWcndSUlhTd09BYnhVU2VJYmdLTzdGWnNvYjBXSDdQQ3M?oc=5",
-     "date": "2026-10-28T09:32:10+00:00",
-     "source": "UUUM",
-     "snippet": "【はじめまして松尾です】国立科学博物館 特別展「生きものたちの性」にスペシャルコラボクリエイターとして参加&nbsp;&nbsp;UUUM",
-     "summary": "国立科学博物館の特別展「生きものたちの性」に、スペシャルコラボクリエイターとして松尾が参加するにゃ。多様な生き物の性に関する展示が行われ、観客に新たな視点を提供することが期待されているそうだにゃん。"
+     "title": "「性」テーマに初の特別展 - 福井新聞社",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LWlVHSTE0dC1YZjdVNUU2bEtSSUJsdmFONXdMbnVlQkdIVTJ0QjU1Zjc0UXNCa3lITE5sdFBtU25kMXY2UWJlSl9VT0tOSVlzMEFUVXNuSlR4YWNEb19JYnNkZkRFcHdjaFM5aQ?oc=5",
+     "date": "2026-10-30T11:44:22+00:00",
+     "source": "福井新聞社",
+     "snippet": "「性」テーマに初の特別展&nbsp;&nbsp;福井新聞社",
+     "summary": "国立科学博物館で「性」をテーマにした初の特別展が開催されるにゃ。この展覧会は多様な生物の性についての理解を深めることを目的としているそうだにゃん。来場者は新たな知識を得ることができるにゃ。"
     },
     {
      "type": "news",
-     "title": "イトカワなど3小惑星の実物サンプル展示 明石市立天文科学館 11月8日に講演会も|明石 - 神戸新聞",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPLXM2RExrdGhfVWpBNDJqNUpwNHdMZFdENnVpbDNNSUdLc0tLNFEtOE5wclUwV2JwTmRpX2RmVERjWm9zMldBcTF6cC1XbDhEQzFGRHlldFhQaEZUTlJYejloNGwtak5WZnFNQg?oc=5",
-     "date": "2026-10-27T20:10:00+00:00",
-     "source": "神戸新聞",
-     "snippet": "イトカワなど3小惑星の実物サンプル展示 明石市立天文科学館 11月8日に講演会も|明石&nbsp;&nbsp;神戸新聞",
-     "summary": "明石市立天文科学館でイトカワなど3小惑星の実物サンプル展示が行われるにゃ。11月8日には講演会も予定されており、宇宙に関する貴重な情報を得ることができる機会になるだろうにゃん。"
+     "title": "「性」テーマに初の特別展 上野の国立科学博物館 - 北海道新聞デジタル",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSXNVMUY4d1lRUFI1dUhSZnR6ZE5yNXdVTm9zaGFFbWd1cUZ3Qk9LeG91bnpJdXMwWkkwbUI2Sm9VLWxkWTVLSzI5S1F5ZGtuX2taRWRFblh1WF9Mbl9QdnNiMmw0LVlQa2oxdVlVUXA2NkdEaUZrSHB6Sm1BSXpPNXFYcGlvYXJZLVptanlvOXFnaEpDSFhheWI0TUR3Nm10dzY0RkxObmF1S0poUDdvZkR4N01fcFBONHc?oc=5",
+     "date": "2026-10-30T11:18:43+00:00",
+     "source": "北海道新聞デジタル",
+     "snippet": "「性」テーマに初の特別展 上野の国立科学博物館&nbsp;&nbsp;北海道新聞デジタル",
+     "summary": "上野の国立科学博物館で「性」をテーマにした特別展が行われるにゃ。この展覧会は生物の性に関する多様な視点を提供し、来場者に新しい発見を促す内容になっているそうだにゃん。"
     }
    ]
   },
@@ -256,48 +256,48 @@
    "items": [
     {
      "type": "news",
-     "title": "終活フェス「坊ロック in 二子玉川」を11月21日・22日に開催 - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KSkJWcF9teGIwN1VSYVd0aEpOc3B2Qmx5XzlEY2RheTZrRElhUi1hckdnTmUtdzl3djZpREJkNGhOQVlXUFBibEs5eWVpOFoxcWEwc3ppUjk1eGpFZUp6VnNnSHNzZFE1?oc=5",
-     "date": "2026-10-29T17:18:23+00:00",
+     "title": "バルーン広場にボートレースからつ特設ブース 競技の臨場感、VRで体験 バルーンフェスタ開幕 | まちの話題 | 佐賀県のニュース - 佐賀新聞",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0NWZjTGxhTFlDVk84bWpXZHgwejRtNmFIUHEzZGNGX0xZRUZYRzJVSlRSMGtWZndyWHpYT0l3TmpPVjBMY2tOQnZLdG9QYUJqeG9mdzFB?oc=5",
+     "date": "2026-10-30T21:00:00+00:00",
+     "source": "佐賀新聞",
+     "snippet": "バルーン広場にボートレースからつ特設ブース 競技の臨場感、VRで体験 バルーンフェスタ開幕 | まちの話題 | 佐賀県のニュース&nbsp;&nbsp;佐賀新聞",
+     "summary": "佐賀県のバルーンフェスタが開幕し、バルーン広場にボートレースからつの特設ブースが設置されたにゃ。このブースでは、VR技術を使って競技の臨場感を体験できるそうだにゃん。来場者は、リアルなレースの雰囲気を楽しむことができるにゃ。イベントは多くの人々に賑わいをもたらしているにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "DPVR、P1 MAX向け新型VRヘッドホンを発表 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FcXVuLWNmUExkNVIxT2dFNVc1YzUwaFlXRXV2dHF6aUR6WXNSa0FncHNtdTBseHg5SzBENklmbEU0TDVYcDBIVExrRWxjWThSNTVkWmJCUGtXMThldWFrNFZBSGYzOHo5TnRCRDNDVHQ1cFJTNXc?oc=5",
+     "date": "2026-10-30T19:18:17+00:00",
      "source": "ニコニコニュース",
-     "snippet": "終活フェス「坊ロック in 二子玉川」を11月21日・22日に開催&nbsp;&nbsp;ニコニコニュース",
-     "summary": "終活フェス「坊ロック in 二子玉川」が11月21日・22日に開催されるにゃ。終活に関する情報や体験を提供するイベントで、参加者が自分の人生を振り返るきっかけになることを目指しているそうだにゃん。さまざまなブースや講演が予定されているにゃ。"
+     "snippet": "DPVR、P1 MAX向け新型VRヘッドホンを発表&nbsp;&nbsp;ニコニコニュース",
+     "summary": "DPVRがP1 MAX向けの新型VRヘッドホンを発表したにゃ。これにより、ユーザーはより高品質な音響体験を得られるそうだにゃ。新型ヘッドホンは、VR体験をさらに向上させるために設計されているにゃん。詳細なスペックや機能については、今後の発表を待つ必要があるにゃ。"
     },
     {
      "type": "news",
-     "title": "TKPやGENDA参入、35万人超え施設登場 今のVR体験ブームもバブル？ - 日経クロストレンド",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbS1sYmZHZ1VUV1UzRzZLM1cxWjlwMjZ4bEF0cXp5WGZheFRLcFc2dFJKV1QxMzFhZTRnakMzX3UwS0lRdkdRY1dJUm1LbDdPWUYzYmNxV3FzeDBiMzRwSnh5bXhveWxRRXAwTTlpdDZuR2VBV2dyUVRiUGotQlNhb2RzME84dTNkdng0?oc=5",
-     "date": "2026-10-29T15:00:00+00:00",
-     "source": "日経クロストレンド",
-     "snippet": "TKPやGENDA参入、35万人超え施設登場 今のVR体験ブームもバブル？&nbsp;&nbsp;日経クロストレンド",
-     "summary": "TKPやGENDAが参入し、35万人以上の来場者を見込むVR体験施設が登場したにゃ。現在のVR体験ブームはバブルの可能性も指摘されているそうだにゃ。市場の動向や消費者の反応が注目されているにゃん。"
+     "title": "紅葉の森で宝探し＆斧で薪割りや焚き火も！愛媛の「オモフェス2026秋〜ソトアソビ〜」 - いこーよニュース",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55Tkt0N3lPeXBLV1Z4R1pSb0RybFBOcTVMY2pXSm5EekVRNmR4SnNTSXhuaG1QSUhyeG1GTUtaOFRxbVFxdXZYQjJvb0g4aXNRckE?oc=5",
+     "date": "2026-10-30T12:01:33+00:00",
+     "source": "いこーよニュース",
+     "snippet": "紅葉の森で宝探し＆斧で薪割りや焚き火も！愛媛の「オモフェス2026秋〜ソトアソビ〜」&nbsp;&nbsp;いこーよニュース",
+     "summary": "愛媛で開催される「オモフェス2026秋〜ソトアソビ〜」では、紅葉の森で宝探しや斧での薪割り、焚き火体験ができるにゃ。このイベントは自然の中でのアクティビティを楽しむことができ、参加者にとって特別な体験になるそうだにゃん。秋の美しい風景を楽しみながら、さまざまな遊びが待っているにゃ。"
     },
     {
      "type": "news",
-     "title": "大阪南港で能の特別展示が2026年11月開催へ 巨大LED映像やVR体験も - Dellows News",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VU3NHTVBaWnBCeW55QnRaaVNzalQxdVFtZGxUTi1uV0RpT3BsVnZGZkVOa3k1SUFxTlBIdEJTLW41MTRvSEZsX3FmM1FVZ0RSUVV1U1NOZnJ2MHlCZjNaUng2Nkk?oc=5",
-     "date": "2026-10-29T13:40:03+00:00",
-     "source": "Dellows News",
-     "snippet": "大阪南港で能の特別展示が2026年11月開催へ 巨大LED映像やVR体験も&nbsp;&nbsp;Dellows News",
-     "summary": "大阪南港で2026年11月に能の特別展示が開催されるにゃ。巨大LED映像やVR体験が取り入れられ、伝統文化を新しい形で楽しむことができるそうだにゃ。観光や文化振興にも寄与するイベントになるだろうにゃん。"
+     "title": "恋人と手をつないで、あの タイタニック号 を歩けるらしい。 そんなロマンチックなVR 体験に、ひとりで行ってきた。 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52OEpsNVVVQS11akVwZTdUbFQyUDhXOG84RG4tNS10dDBfT25oNjB1ZlJVZ1VPVEtNSmVyTVcyYjRoenBZSVNqTS12NlZXZ0xFeXA3WEVZWGh1NDVveXhUbzhNWm1xUWpES3dXdkpTaw?oc=5",
+     "date": "2026-10-30T09:06:17+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "恋人と手をつないで、あの タイタニック号 を歩けるらしい。 そんなロマンチックなVR 体験に、ひとりで行ってきた。&nbsp;&nbsp;ニコニコニュース",
+     "summary": "タイタニック号を舞台にしたロマンチックなVR体験が話題になっているにゃ。参加者は恋人と手をつないで船内を歩くことができるそうだにゃん。筆者は一人でこの体験を楽しんできたとのことで、感想や雰囲気についても触れられているにゃ。VR技術を使った新しいデートスポットとして注目されているにゃ。"
     },
     {
      "type": "news",
-     "title": "迫力のVR体験ができる施設「VR ZONE OSAKA」が梅田に誕生！ ゴジラ、川下り、ホラーVR体験してきた。 - ウォーカープラス",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZenlMSFpwT2R3WXp4dmNNakxiRHFPemxZcDNCQTUyYmstWEZ3aXBORjRKWXhBT3d0eFFKd1pkd1p3STJieng4WkkzdjFrRE9lRDhJcNIBWkFVX3lxTE9KdTB6WjVzZXNYMnBzOUpnN3RsS0QtTUVOQmhXaUNETUJhaWtDRWY5WHl6TkhpMEJOekNvOGdlWlVzcjVpZi05djhCejBERkRuZ3NIU0ZPTTlLZw?oc=5",
-     "date": "2026-10-29T09:22:57+00:00",
-     "source": "ウォーカープラス",
-     "snippet": "迫力のVR体験ができる施設「VR ZONE OSAKA」が梅田に誕生！ ゴジラ、川下り、ホラーVR体験してきた。&nbsp;&nbsp;ウォーカープラス",
-     "summary": "梅田に迫力のVR体験施設「VR ZONE OSAKA」がオープンしたにゃ。ゴジラや川下り、ホラー体験など多彩なアトラクションが楽しめるそうだにゃ。新しいエンターテインメントとして注目されているにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "2025年にはヴェネツィア国際映画祭でも展示されたFZMZ １st LIVE「DEEP:DAWN」がVRChatにて再演決定。11月5日・7日の2日間 – メタカル最前線 - メタカル最前線",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OMzRwR2taYVROTGNFTXp2QVkwa0d3aXlXVkxPZWNyYVhxb0tEaVM1UXpydTRKeHdZSlFMX285SVluTWpoYy0xdldOVXU5QQ?oc=5",
-     "date": "2026-10-29T09:00:00+00:00",
-     "source": "メタカル最前線",
-     "snippet": "2025年にはヴェネツィア国際映画祭でも展示されたFZMZ １st LIVE「DEEP:DAWN」がVRChatにて再演決定。11月5日・7日の2日間 – メタカル最前線&nbsp;&nbsp;メタカル最前線",
-     "summary": "2025年にヴェネツィア国際映画祭で展示されたFZMZ １st LIVE「DEEP:DAWN」が、VRChatにて11月5日・7日の2日間再演されるにゃ。新しい形でのパフォーマンスが期待されているそうだにゃん。"
+     "title": "VRアトラクション施設「VR BASE TOKYO」が11月1日より浅草に登場！ - VR Inside",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96eUtTQml3ejJkVElldmFiTHdNUHl1cUxBMk5RY3FncE1vdlJoYi1OMlU2NTZvcmoyY1JfbFpjQk42RV9pWnhwVHIzZXJwZw?oc=5",
+     "date": "2026-10-30T09:00:00+00:00",
+     "source": "VR Inside",
+     "snippet": "VRアトラクション施設「VR BASE TOKYO」が11月1日より浅草に登場！&nbsp;&nbsp;VR Inside",
+     "summary": "VRアトラクション施設「VR BASE TOKYO」が11月1日に浅草にオープンするにゃ。この施設では、さまざまなVR体験が楽しめるそうだにゃん。新しいエンターテインメントの場として、多くの人々に利用されることが期待されているにゃ。詳細なアトラクション内容はオープン後に明らかになるだろうにゃ。"
     }
    ]
   }
