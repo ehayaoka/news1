@@ -1,252 +1,61 @@
 {
- "updated": "2026-10-31T23:43:25.257831+00:00",
+ "updated": "2026-11-01T01:29:53.545784+00:00",
  "categories": [
   {
    "id": "ai_media",
    "title": "🤖 AI×メディア研究（ニュース・論文・行政）",
    "items": [
     {
-     "type": "news",
-     "title": "Uravation、60代・70代向けのAI入門メディア「シニアAIガイド」が公開記事300本を突破。2026年5月の開設から約5か月、10月23日時点で312本を無料公開 - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBd3hvOEpyd0pZVHZCcTc0NXV2bVBuZG9BSExiZ2RhOXNUWnNWQ2hGQVVBSjMtYXQ2SGRlSXRxcHByeXZCV1BLZ3NuXy0zMkFMbV95UE1lZmcwQ3p4bnMtdV9BUXV0cjBpc0E?oc=5",
-     "date": "2026-10-31T08:00:02+00:00",
-     "source": "PR TIMES",
-     "snippet": "Uravation、60代・70代向けのAI入門メディア「シニアAIガイド」が公開記事300本を突破。2026年5月の開設から約5か月、10月23日時点で312本を無料公開&nbsp;&nbsp;PR TIMES",
-     "summary": "Uravationが60代・70代向けのAI入門メディア「シニアAIガイド」を開設し、公開記事数が312本に達したにゃ。2026年5月から約5か月で、無料で提供されている記事は、シニア層がAIを理解する手助けを目的としているそうだにゃん。"
+     "type": "paper",
+     "title": "Beyond Correctness: How Novice Software Engineering Students Exercise Oversight of Generative AI",
+     "link": "https://arxiv.org/abs/2610.32118v2",
+     "date": "2026-10-23T03:38:17+00:00",
+     "source": "arXiv",
+     "snippet": "Generative AI (GenAI) is shifting software engineering students' work from producing artefacts towards evaluating and supervising AI-generated outputs. However, little is known about what characteristics students identify in outputs when reporting interventions, or how they exercise oversight during authentic software engineering work. We analysed 962 student-AI interaction turns documented by 145 first-year software engineering students through structured AI Journals, including 172 student-declared interventions. Using a multi-dimensional coding framework, we characterised the output characte",
+     "summary": "生成AI（GenAI）は、ソフトウェア工学の学生が成果物を作成するのではなく、AI生成の出力を評価し監督する方向にシフトしているにゃ。しかし、学生が介入を報告する際にどのような特徴を出力に見出すのか、また実際のソフトウェア工学の作業中にどのように監督を行うのかはあまり知られていないにゃ。145人の1年生の学生が記録した962回の学生とAIのインタラクションを分析し、172件の学生による介入を含む構造化されたAIジャーナルを通じて、出力の特性を多次元的なコーディングフレームワークで特徴づけたにゃ。"
     },
     {
-     "type": "news",
-     "title": "出典を見せること、読者との習慣をつくること【今週のメディアニュースレターひとまとめ】10/31号 - Media Innovation",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ib3N3ZE1zSzR2RHVvc3VrU3kyeW1Hdy1QMUhoVG5xdnpwc2FLWC1nNGd0UmF0UlZIdWg5TkIyUjNaSzhEcm1fMTA2VDNjMnRabU5QZlp0azVZNVdDX056eFFJWExjWVNCdVE?oc=5",
-     "date": "2026-10-31T00:00:03+00:00",
-     "source": "Media Innovation",
-     "snippet": "出典を見せること、読者との習慣をつくること【今週のメディアニュースレターひとまとめ】10/31号&nbsp;&nbsp;Media Innovation",
-     "summary": "今週のメディアニュースレターでは、出典を示すことや読者との習慣を築く重要性が強調されているにゃ。これにより、信頼性の高い情報提供が可能になると考えられているそうだにゃん。"
+     "type": "paper",
+     "title": "Africa-Papers: A 10-Billion-Token Multi-Domain Academic Corpus for African Foundation Language Models",
+     "link": "https://arxiv.org/abs/2610.28173v1",
+     "date": "2026-10-20T13:14:58+00:00",
+     "source": "arXiv",
+     "snippet": "Large Language Models (LLMs) depend fundamentally on the diversity, depth, and factual rigor of their pre-training corpora. However, contemporary foundational pre-training datasets (such as The Pile, S2ORC, and Dolma) exhibit a severe structural omission: African scientific, medical, legal, and agricultural scholarship constitutes less than 0.5% of global pre-training tokens. Consequently, state-of-the-art models suffer from systematic failure modes when reasoning about tropical epidemiology, localized smallholder agro-ecologies, regional economic governance, and indigenous linguistic structur",
+     "summary": "大規模言語モデル（LLMs）は、その前訓練コーパスの多様性、深さ、事実の厳密さに依存しているにゃ。しかし、現代の基盤的な前訓練データセットは、アフリカの科学、医療、法律、農業の学問が全体の0.5%未満を占めるという深刻な構造的欠陥を抱えているにゃ。そのため、最先端のモデルは熱帯疫学や地域経済ガバナンスに関する推論で体系的な失敗を引き起こすことがあるにゃん。"
     },
     {
-     "type": "gov",
-     "title": "演劇公演関連ニュース - 新国立劇場",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsdE1mcmVVUV9pNHM2dTg0cGdEZm5Za0p6RzI0LXh4WkhYbzRibVJyX3VhOEdzV0FCM3A5LUtYa1dNV3dBS2l1LUxQMVZ1alFpN0dyTzdSeWszZFFyRHFfYU10TUVIUU9Lb2c?oc=5",
-     "date": "2026-10-30T20:37:11+00:00",
-     "source": "新国立劇場",
-     "snippet": "演劇公演関連ニュース&nbsp;&nbsp;新国立劇場",
-     "summary": "新国立劇場からの演劇公演関連ニュースが発表されたにゃ。詳細は不明だけれど、演劇に関する最新情報が提供されていると思われるにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "Aurora Mobileの「Modellix.ai」、ComfyUIに対応 複数の画像・動画・音声AIモデルをビジュアルワークフローから利用可能に - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2OHZZb256TUpyWjhSWHQ0MWpwS05qTHprRWlfQ1doaEs4R3JVT3FDS0J5UVBHZHpMNFJtY0JvUVlCMVc1aXdYaUdEVUxUZG5fQ0t3NGRrVnpVQUpPb2JILVNZblJRZDdjUkE?oc=5",
-     "date": "2026-10-30T10:39:29+00:00",
-     "source": "PR TIMES",
-     "snippet": "Aurora Mobileの「Modellix.ai」、ComfyUIに対応 複数の画像・動画・音声AIモデルをビジュアルワークフローから利用可能に&nbsp;&nbsp;PR TIMES",
-     "summary": "Aurora Mobileの「Modellix.ai」がComfyUIに対応したにゃ。これにより、複数の画像、動画、音声AIモデルをビジュアルワークフローから利用できるようになったそうだにゃん。"
-    },
-    {
-     "type": "gov",
-     "title": "米FRBは政策金利を据え置き、前回引き上げの影響を見極め(米国) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6U0tXaWJPdDV0VUFuT181ZEhraG8xMUNPZjVzY1FLS0Y0QWhXazNCS0FOdW5Sb2RRa01NNnp1aWZGVTRRMnJWWngyWUVxVjYtMFBNSXNpa1NqNlJRUy1Xd3hiV0Vjc19tVkxzTzRR?oc=5",
-     "date": "2026-10-30T08:34:16+00:00",
-     "source": "ジェトロ（日本貿易振興機構）",
-     "snippet": "米FRBは政策金利を据え置き、前回引き上げの影響を見極め(米国) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "米FRBは政策金利を据え置く決定をしたにゃ。前回の引き上げの影響を見極めるための措置であり、今後の経済動向に注目が集まっているそうだにゃん。"
-    },
-    {
-     "type": "gov",
-     "title": "持続可能な包装材への移行が進むルーマニア市場 中・東欧の生産・供給拠点としての可能性 - ジェトロ（日本貿易振興機構）",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLXdhZnpwY1BRclZXMHpuZkpEXzlrQ19FREtpRHctMkRSUzdFQ0ZGN0RuLThQSGJFbFExcjhzOV9yUW0wTEpHU3BtVmtGcEF1N3IyTHI3dF9GOU4ydjJYWlIwOFJKSnlCVV9RdDN4RjR2a3RON1lHazZ4YTNhc284bmxnWE5RZw?oc=5",
-     "date": "2026-10-30T07:39:12+00:00",
-     "source": "ジェトロ（日本貿易振興機構）",
-     "snippet": "持続可能な包装材への移行が進むルーマニア市場 中・東欧の生産・供給拠点としての可能性&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "ルーマニア市場では持続可能な包装材への移行が進んでいるにゃ。中・東欧の生産・供給拠点としての可能性も高まっているとされ、注目されているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "朝日新聞社、「取材・報道とAI利用の指針」まとめる - 朝日新聞",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sbHlpeDVXdlVrQlVkRFg5MUgzSUdJWDdaSWdhQ2JLTGtrcVhBUTFlQ0dmTW40SjZOLTNNMFZxZDVhTlhvZnhNekwwRE10WlVGcFUtRUN6cWNJVGNNcTRYZE9QUERpaVU?oc=5",
-     "date": "2026-10-30T07:00:00+00:00",
-     "source": "朝日新聞",
-     "snippet": "朝日新聞社、「取材・報道とAI利用の指針」まとめる&nbsp;&nbsp;朝日新聞",
-     "summary": "朝日新聞社が「取材・報道とAI利用の指針」をまとめたにゃ。これにより、AIを活用した報道のあり方が示されることになると思われるそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "博報堂、メディアの編集力を生成AI時代に生かすShomei AIOを始動 - Dellows News",
-     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9PSU9UOFBpekRkLWVHSm03UTJpeC1BM05MUl9WUnJJQTFYNFpxTnJ4VFNDb0IwVi11a0tXVF9TVlE1WDVTZmc?oc=5",
-     "date": "2026-10-29T21:47:35+00:00",
-     "source": "Dellows News",
-     "snippet": "博報堂、メディアの編集力を生成AI時代に生かすShomei AIOを始動&nbsp;&nbsp;Dellows News",
-     "summary": "博報堂が生成AI時代にメディアの編集力を活かす「Shomei AIO」を始動したにゃ。これにより、編集プロセスの効率化や新しいコンテンツの創出が期待されているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "視覚障害者が生成AIでポーカー オープンAI「人工知能を全ての方へ」 - FNNプライムオンライン",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zMnpWakZWaFNwQUJKLUYzVFdIVmNGMzYzRG0yaklMcFNpR2xjUUREUHVTMVhXTDlCc2E2REh5dVRLcWJVYTVaYUtRYlFxdw?oc=5",
-     "date": "2026-10-29T15:47:00+00:00",
-     "source": "FNNプライムオンライン",
-     "snippet": "視覚障害者が生成AIでポーカー オープンAI「人工知能を全ての方へ」&nbsp;&nbsp;FNNプライムオンライン",
-     "summary": "視覚障害者が生成AIを使ってポーカーを楽しむ取り組みが紹介されたにゃ。オープンAIは「人工知能を全ての方へ」という理念のもと、アクセシビリティの向上を目指しているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "サンメディア、米Cashmereと提携し、生成AI向け高品質な専門コンテンツの利用ライセンス事業を展開 - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FbjZvNXAyRmtfajNzb0pDblJZSlZVZktvN1Q2SkJobEwzWnNERy14SWJLVU13MWxTaXdXQ1lhMW1WQmlsS21NUEpwX25ZR2RlNHhqTg?oc=5",
-     "date": "2026-10-29T11:18:30+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "サンメディア、米Cashmereと提携し、生成AI向け高品質な専門コンテンツの利用ライセンス事業を展開&nbsp;&nbsp;ニコニコニュース",
-     "summary": "サンメディアが米Cashmereと提携し、生成AI向けの高品質な専門コンテンツの利用ライセンス事業を展開することを発表したにゃ。これにより、専門的な情報提供が強化される見込みだにゃん。"
+     "type": "paper",
+     "title": "Are explicit novelty claims in research abstracts associated with higher ChatGPT scores?",
+     "link": "https://arxiv.org/abs/2610.26947v1",
+     "date": "2026-10-18T06:53:26+00:00",
+     "source": "arXiv",
+     "snippet": "Large Language Models (LLMs) such as ChatGPT can estimate research quality from article titles and abstracts, and decision makers may increasingly use LLM scores to support research assessment. In this context, it is a concern that LLM scores may be influenced by linguistic signals rather than the quality of the research described. This study investigates whether explicit novelty claims in research abstracts are associated with higher ChatGPT scores. Using 99,245 journal articles submitted to the UK Research Excellence Framework (REF) 2021, ChatGPT scores and percentile rank gains relative to ",
+     "summary": "大規模言語モデル（LLMs）であるChatGPTは、記事のタイトルや要約から研究の質を推定できるにゃ。最近、LLMスコアが研究の質ではなく、言語的な信号に影響される可能性が懸念されているにゃ。この研究では、研究の要約における明示的な新規性の主張が、ChatGPTスコアと関連しているかを調査したにゃ。UKの研究卓越性フレームワーク（REF）2021に提出された99,245件の学術論文を用いて、ChatGPTスコアとパーセンタイルランクの向上を分析したにゃん。"
     }
    ]
   },
   {
    "id": "regional",
    "title": "🏘 地方創生×メディア",
-   "items": [
-    {
-     "type": "gov",
-     "title": "令和8年版 食育白書 - 政府広報オンライン",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUSDRySV9hVHFNdHdYM2YwaVlsTFpyc19OVGVRMHFNRW9peERvUFMxczdmUmx6OGFpTWk4YUF6UFdlVXNqS2lXTnBKZXgtLVlaQTlnTjFwOXdQbzNENjd6aTBZMGFnWk9kMEg2NnlNRmRHYUhkRUVCSV9hVWw2QQ?oc=5",
-     "date": "2026-10-31T19:11:16+00:00",
-     "source": "政府広報オンライン",
-     "snippet": "令和8年版 食育白書&nbsp;&nbsp;政府広報オンライン",
-     "summary": "令和8年版の食育白書が発表されたにゃ。政府広報オンラインで公開されており、食育の重要性や施策についてまとめられているそうだにゃ。食育は子どもたちの健全な成長に欠かせない要素であり、家庭や学校、地域社会での取り組みが強調されているにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "目指すは「ランニングの聖地」仙台駅東まちづくり協議会が活性化に向け新たなイベント〈宮城〉（仙台放送） - Yahoo!ニュース",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Mbkk0Z1hvZ2VwV2dURWZaRE9TT3lFR21WRWpQN0NmU3V6Mzh5ZGdTZHp3U2NLbEkxUUY5UmVoU29SZkJ4dHhyNklScHRnc3ZiMXIxLVFyekl6TllweWVLelBzMTJ2TlA5ZUVINnRpdEVUdEVkUF9uMWRGYVpiSEk?oc=5",
-     "date": "2026-10-31T09:16:01+00:00",
-     "source": "Yahoo!ニュース",
-     "snippet": "目指すは「ランニングの聖地」仙台駅東まちづくり協議会が活性化に向け新たなイベント〈宮城〉（仙台放送）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "仙台駅東まちづくり協議会が「ランニングの聖地」を目指して新たなイベントを企画したにゃ。地域活性化を図るための取り組みで、ランニングを通じて地域の魅力を発信することを目的としているそうだにゃん。市民や観光客の参加を促進し、地域の活性化に寄与することを期待されているにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "片山さつき財務相が安倍元首相の墓参り「アベノミクスの継承でもある『責任ある積極財政』を大臣として実施」と報告 - ｄメニューニュース",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XMHdpcnJpZng2dk9zOHBYS2lzOWZXNXRWbnpYSFBMb0R1NVRFN3k3U0hSYUVjelVlWmN2SHRlcE4xQlVUZm12TjdRcTBHSEgzT0FzREFPS0h2RV9lMXJ6YVZucG5QUExiaU13NVRXRUVJNUlzSUxNY2hKSdIBgAFBVV95cUxQazlFcnBnYU5KUlp4SFJMc2xQSktrdTJiV3JNM0J0ZExhNFhKVHIwRmRXMXpCZGdZLXloRzVWT0htVFlEMUNKcGpFalM1NXBCd0t1dFVkWE92cl9PZ3k0Y1cweFBSOXo4bjZUWEZPWGdfdnVISldzZ0ZCamRXN014Uw?oc=5",
-     "date": "2026-10-31T07:49:00+00:00",
-     "source": "ｄメニューニュース",
-     "snippet": "片山さつき財務相が安倍元首相の墓参り「アベノミクスの継承でもある『責任ある積極財政』を大臣として実施」と報告&nbsp;&nbsp;ｄメニューニュース",
-     "summary": "片山さつき財務相が安倍元首相の墓参りを行い、「アベノミクスの継承」として『責任ある積極財政』を実施する意向を報告したにゃ。安倍元首相の政策を引き継ぎ、経済の安定を図る姿勢が示されているそうだにゃん。財務相としての責任を果たす決意が感じられるにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "ローカル局の地域映像を世界へ、LCBとA+E Networksが海外向けFASTチャンネル開設で合意 - Brand New Creativity",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fU1lnelBzQkJTcHUwY2xTS3o0emVWbUVkRnRCUXdkNHgtdGxjZTlBMlVGZE54T2QwYVlGRUR1OWktdW9IbXVSdmR5M0l0V2dBY3I0UExwdUg?oc=5",
-     "date": "2026-10-31T01:30:03+00:00",
-     "source": "Brand New Creativity",
-     "snippet": "ローカル局の地域映像を世界へ、LCBとA+E Networksが海外向けFASTチャンネル開設で合意&nbsp;&nbsp;Brand New Creativity",
-     "summary": "LCBとA+E Networksが提携し、ローカル局の地域映像を海外向けに配信するFASTチャンネルを開設することが合意されたにゃ。これにより、地域の魅力を世界に発信し、国際的な視野を広げることが期待されているそうだにゃん。地域の文化や情報がグローバルに広がるチャンスだにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "地方創生応援税制(企業版ふるさと納税) - 前橋市",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMUptSUNVTWxnV1JsV2Z0NkZ2dUZpRV9KOUYzN3RjTGI2dk1jVVVXb2loVkE0dG1Ic2pNaXRoUWtDX1JzRXNsV1d5azJBdElTMXNEcTJCNXpXNnRzRmNTb1NZbTg0QWZZTEh6YTllMFhKaHZsNVpwUXVORmk2ck5oT3BXVjc?oc=5",
-     "date": "2026-10-29T07:00:00+00:00",
-     "source": "前橋市",
-     "snippet": "地方創生応援税制(企業版ふるさと納税)&nbsp;&nbsp;前橋市",
-     "summary": "前橋市では地方創生応援税制、いわゆる企業版ふるさと納税を導入しているにゃ。この制度は企業が地域振興に寄付を行うことで、税の優遇措置を受けられる仕組みだにゃ。地域の活性化を図るため、企業の参加が促されているそうだにゃん。地域の発展に寄与する重要な施策だにゃ。"
-    }
-   ]
+   "items": []
   },
   {
    "id": "media_biz",
    "title": "📺 NHK・テレビ制作・新聞社のメディア起業動向",
-   "items": [
-    {
-     "type": "news",
-     "title": "【解説】GMO、2年前に子会社イエラエが見直しを求めていたと報道 被害者を集めるサイトも公表前に準備か、11月2日に会見 - innovaTopia",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2WVR3R0R2dG5jd3NOaWl4V2xJQWxQNjIzdDR2SkxvVmZ3aVFmOHJtY2x1aHFwQzRTQy0wZHFFWjFUNXdUNVZHREdNTVBZNzBSZnlxZzBnck5iazZWNUs4WnhPNHNsVjdJTW9BZXJQaXZTekE?oc=5",
-     "date": "2026-10-31T23:10:58+00:00",
-     "source": "innovaTopia",
-     "snippet": "【解説】GMO、2年前に子会社イエラエが見直しを求めていたと報道 被害者を集めるサイトも公表前に準備か、11月2日に会見&nbsp;&nbsp;innovaTopia",
-     "summary": "GMOの子会社イエラエが、2年前にシステムの脆弱性を指摘していたことが報道されたにゃ。この問題に関連して、被害者を集めるサイトが公表前に準備されていた可能性もあるそうだにゃ。GMO社長は11月2日に会見を開く予定で、詳細が明らかになることが期待されているにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "GMO 子会社が2年前にシステムのぜい弱性を指摘 社長あす会見へ - NHKニュース",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1UThpaFpSWVI3YjRJanB4LTFvRlRrajF5WExXd1NhaDZBT21CbHpwZmNJQUR3a1dUZHBOV09XVTEyT0xJRXo5TzBXX1VFZ0UxYnJ6ajc1MndsN3haWlRB?oc=5",
-     "date": "2026-10-31T20:09:50+00:00",
-     "source": "NHKニュース",
-     "snippet": "GMO 子会社が2年前にシステムのぜい弱性を指摘 社長あす会見へ&nbsp;&nbsp;NHKニュース",
-     "summary": "GMOの子会社が、2年前にシステムの脆弱性を指摘していたことが明らかになったにゃ。これに関連して、社長が11月2日に会見を行う予定だそうだにゃ。システムの問題がどのように影響を及ぼしたのか、今後の説明に注目が集まるにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "「どうして公務員をやめて起業したんですか？」起業家教育出前授業を開催します - 山陽新聞",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01d3J0aEhiczlDb2NnLXgxdVBjcEJNYlRwN2otV0xfUFVCaUcwTGs3a2JYWGZKODJpdk55ZU95RmwyUHZzaXFNbVJBRThqOUhITUlyMWhENWVhbW9qalh5bkRYdUVzUW9UQ3VXNkhxaFY?oc=5",
-     "date": "2026-10-31T17:16:40+00:00",
-     "source": "山陽新聞",
-     "snippet": "「どうして公務員をやめて起業したんですか？」起業家教育出前授業を開催します&nbsp;&nbsp;山陽新聞",
-     "summary": "公務員から起業家への転身に関する出前授業が開催されるにゃ。授業では、起業の理由や経験を共有し、参加者に起業家精神を育むことを目的としているそうだにゃ。これにより、若者たちが新たな挑戦を考えるきっかけになると期待されているにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "2026年ユーススタートアップ賞：未来都市のためのイノベーションを発表します - Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcG9vUVE1b014VzNMMEUzcnIzVmUyMWVhTGNhcUJYSjNUYnVrOVdacFRTZk13ak1tOE1PcDJTY0xDdGVGdWdwRGZKNGloRlc0Rk0yU3FCRXlvbGt6ZW1VWWM2X2Q0b29zOW15XzNBUU9ibElCQzRxalZ2ZXBia3Q1aDJlNGZHUjRmQXZ4S2p5RlB1bWY3QlRITw?oc=5",
-     "date": "2026-10-31T15:30:11+00:00",
-     "source": "Vietnam.vn",
-     "snippet": "2026年ユーススタートアップ賞：未来都市のためのイノベーションを発表します&nbsp;&nbsp;Vietnam.vn",
-     "summary": "2026年ユーススタートアップ賞が、未来都市のためのイノベーションを発表するにゃ。若者たちが新しいアイデアを提案し、未来の都市づくりに貢献することを目指しているそうだにゃ。この賞は、次世代の起業家やイノベーターを支援する重要な機会になるにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "GMO 子会社がシステムぜい弱性を2年前に指摘 来週2日に会見へ | NHKニュース | サイバー攻撃、ＡＩ・ネット・ＩＴ、企業・経営 - NHKニュース",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkVUJaTTNvM2p0dlpPZWZPc2F3YU04VVhNODNUVmNNZjdhaWdVQ3BiWmt5Q29XMWFTSXp6UU1kWVpoQ1JOcVBQOHUzUU9yRUJZVFZlWGh4ZldVdjd3NkRB?oc=5",
-     "date": "2026-10-31T11:55:00+00:00",
-     "source": "NHKニュース",
-     "snippet": "GMO 子会社がシステムぜい弱性を2年前に指摘 来週2日に会見へ | NHKニュース | サイバー攻撃、ＡＩ・ネット・ＩＴ、企業・経営&nbsp;&nbsp;NHKニュース",
-     "summary": "GMOの子会社が2年前にシステムの脆弱性を指摘していたことが報じられたにゃ。来週の2日に社長が会見を開く予定で、詳細な説明が行われる見込みだそうだにゃ。この問題がどのように解決されるのか、注目が集まっているにゃん。"
-    }
-   ]
+   "items": []
   },
   {
    "id": "museum",
    "title": "🦕 自然博物館・科学博物館",
    "items": [
     {
-     "type": "news",
-     "title": "画像3 / 12＞国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中！おすすめ展覧会グッズを一挙紹介 - ウォーカープラス",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43UnNXbjg3RUkta3Y0QUFjSUFIek1vMllnbUJPNVBHN2gxYXZkTmkyRHd3TFYzQWRfU21qWWwwT1ZNb0gzakFnOHlrSll6RDZMc0tSUmhWT0xjYUZiREZBWkxrUFJDbmZtZ1NNVE53?oc=5",
-     "date": "2026-10-31T03:06:26+00:00",
-     "source": "ウォーカープラス",
-     "snippet": "画像3 / 12＞国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中！おすすめ展覧会グッズを一挙紹介&nbsp;&nbsp;ウォーカープラス",
-     "summary": "国立科学博物館で特別展「古代DNA―日本人のきた道―」が開催中だにゃ。この展覧会では、日本人の祖先や古代のDNAに関する研究成果が紹介されているにゃ。さらに、展覧会に関連したグッズも販売されているので、訪れる際にはチェックしてみるといいかもしれないにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "＜画像9 / 13＞国立科学博物館の特別展「昆虫」がスタート！見逃したくないポイントはここだ - ウォーカープラス",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5eVhIcm9RaDhUSWwxaC1zWENzbjVkWkhoY3NFSTBJcE9TdEJ1NkQ5YXczbkxFeU9Demc2MndoYmthNG5Pbkhvd0dieU9Na0VjS2Z0bnVsQ0tTSVo0MVFFYkJ2V3M0YmNrRlE?oc=5",
-     "date": "2026-10-31T02:44:21+00:00",
-     "source": "ウォーカープラス",
-     "snippet": "＜画像9 / 13＞国立科学博物館の特別展「昆虫」がスタート！見逃したくないポイントはここだ&nbsp;&nbsp;ウォーカープラス",
-     "summary": "国立科学博物館で特別展「昆虫」が始まったにゃ。この展覧会では、昆虫の多様性や生態についての見どころが紹介されているそうだにゃ。特に、昆虫の不思議な世界を体験できるポイントがあるので、昆虫好きにはたまらない内容になっているにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "ギャラリー：特別展「生きものたちの性」の見どころ 写真15点 - ナショナルジオグラフィック日本版",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6QzZhRm9MbW9jUEw1dkpKdmE1V2h0U2F1aDU4VllUanZzUVJFeHFUbDJBXzliZnBnNnBVR1JjMHlCX0hteHdzY1dDS0xNYWJIZ19lZ3dEZzFiSkl3TWJRN2U3WQ?oc=5",
-     "date": "2026-10-31T02:00:00+00:00",
-     "source": "ナショナルジオグラフィック日本版",
-     "snippet": "ギャラリー：特別展「生きものたちの性」の見どころ 写真15点&nbsp;&nbsp;ナショナルジオグラフィック日本版",
-     "summary": "特別展「生きものたちの性」では、さまざまな生き物の性に関する興味深い展示が行われているにゃ。写真15点を通じて、生き物たちの多様な性の戦略やその理由が探求されているそうだにゃん。これは、生命のつながりを理解するための重要なテーマになっているにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "「性」テーマに初の特別展 上野の国立科学博物館 - 北海道新聞デジタル",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeEFiakc4Y3FfQ1ZJSjhKTkhRa1VmXzdfcXZPYlE5Rk1uVVJBY0NyREpBWGM4VDZMaEVUcFgzMVplb3R6TXY3WEEybTYwbFZtdDkzUFlmYmEtT2x5Um5udWc5MXhWbGJHT3VEWU1CX0JsdXV1OHlYRHJOT29xQ2dvS0Fha1l6X2Vw?oc=5",
-     "date": "2026-10-30T23:50:09+00:00",
-     "source": "北海道新聞デジタル",
-     "snippet": "「性」テーマに初の特別展 上野の国立科学博物館&nbsp;&nbsp;北海道新聞デジタル",
-     "summary": "上野の国立科学博物館で初の特別展「性」が開催されるにゃ。この展覧会では、性に関するさまざまな視点が紹介され、観客に新たな知見を提供することを目指しているそうだにゃん。生き物の性に関する理解を深める良い機会になるだろうにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "【開幕】特別展「生きものたちの性」国立科学博物館で2027年2月21日まで 「いのち」をつなぐための戦略 多様な性の理由を知る - 美術展ナビ",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyX29wUS1fWTViTzFnUnZQU0ItUk9xRzBkSGdjVzBxSWs2d3p0djc4bDlINXMxSUJxT3JqV244SDlhZVZoaGw1T2h2MFI2c2tnQ2thSDNRM19vb05Xb1hwTXd1LXd3bkxE?oc=5",
-     "date": "2026-10-30T12:40:59+00:00",
-     "source": "美術展ナビ",
-     "snippet": "【開幕】特別展「生きものたちの性」国立科学博物館で2027年2月21日まで 「いのち」をつなぐための戦略 多様な性の理由を知る&nbsp;&nbsp;美術展ナビ",
-     "summary": "特別展「生きものたちの性」が国立科学博物館で2027年2月21日まで開催されるにゃ。この展覧会では、「いのち」をつなぐための多様な性の理由について探求されているそうだにゃん。生き物たちの性に関する新たな視点を得ることができる貴重な機会だにゃ。"
+     "type": "paper",
+     "title": "From Prefabricated Content to Situated Generation: A Four-Wave Longitudinal Study of AI-Mediated Museum Surfaces and Spaces",
+     "link": "https://arxiv.org/abs/2610.24076v1",
+     "date": "2026-10-16T18:02:56+00:00",
+     "source": "arXiv",
+     "snippet": "Generative AI changes a basic condition of interactive surfaces and spaces (ISS): visitor-facing content can be produced during interaction rather than fully authored before it. We report a longitudinal qualitative study with 23 Chinese science museum practitioners, interviewed annually from 2023 to 2026 (retention 23 to 19) and analyzed using reflexive thematic analysis. Participants' accounts moved from anticipated epistemic and operational risks, through backstage experimentation and visitor-facing trials, toward situated governance and renewed questions about the purpose of museum interact",
+     "summary": "生成AIは、訪問者向けのコンテンツを事前に作成するのではなく、インタラクション中に生成できるため、博物館のインタラクティブな表面や空間に変化をもたらすだにゃ。2023年から2026年にかけて、中国の科学博物館の実務者23名を対象に行った縦断的な質的研究では、参加者の意見が、リスクの予測から実験、訪問者向けの試行を経て、博物館の目的に関する新たな問いに至るまでの過程が示されたそうだにゃん。"
     }
    ]
   },
@@ -255,49 +64,13 @@
    "title": "🥽 VR・AR・プロジェクションマッピング",
    "items": [
     {
-     "type": "news",
-     "title": "東京ドームシティで「超かぐや姫！」コラボイベント開催 劇中曲がアトラクションを彩り、「ツクヨミ」AR体験も - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxN0xVdGIwbjJ1WmlqZ2tmcVlyQkNPMm5reXlkMnZnVVFReWRmMkIyRHFiZExVRnI1ZlNSbjZiVkNsNmQ2c3F5ZVVVbGNRaWM4ZllmVDJNb0gybTdJelpwaUZlR3lBV2V3QlplUU5reDBIdEZpclZTZGR5UQ?oc=5",
-     "date": "2026-10-31T11:00:19+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "東京ドームシティで「超かぐや姫！」コラボイベント開催 劇中曲がアトラクションを彩り、「ツクヨミ」AR体験も&nbsp;&nbsp;ニコニコニュース",
-     "summary": "東京ドームシティで「超かぐや姫！」とのコラボイベントが開催されるにゃ。劇中の楽曲がアトラクションを彩り、参加者は「ツクヨミ」のAR体験も楽しめるそうだにゃ。イベントは多くのファンに支持され、特別な体験が提供される予定だにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "メタバースやＶＲ体験も 環境問題楽しく学ぶ 群馬県庁 (26/10/31)（群馬テレビ） - ｄメニューニュース",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51UXZHbTlhYl9GaFY2WTFoLXFMWXBNVlRpMmx5am13U2hua2xMQ1JvYlVYTEFxVVJSbEtJc3R1MXVLSmZ6SHhZT19UcWZmR19PZ1AzWTh2TVc5dS1kSVZwOUwwaFVtV0lyekFkeGVzcWJzUUFrYXdzd25B?oc=5",
-     "date": "2026-10-31T09:42:00+00:00",
-     "source": "ｄメニューニュース",
-     "snippet": "メタバースやＶＲ体験も 環境問題楽しく学ぶ 群馬県庁 (26/10/31)（群馬テレビ）&nbsp;&nbsp;ｄメニューニュース",
-     "summary": "群馬県庁では、メタバースやVRを活用して環境問題を楽しく学ぶイベントが行われるにゃ。参加者は新しい技術を通じて、環境保護の重要性を理解することができるそうだにゃ。教育とエンターテインメントが融合した取り組みだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "メタバースやＶＲ体験も 環境問題楽しく学ぶ 群馬県庁（群馬テレビ） - Yahoo!ニュース",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwcTRnOEE1UENHRXJGbkFOSXQwOFVKdjJockFtbnhLeVhlUzR6UjJsR1J0bEFrQ0RLeUczcnJhQl9GVS1TTUhPQ1NEQzFFOEdXOTV4NmtCV2s3NFh3UFVrdnRSWTRQeDRISWV4T2U3RUI1ZTgwV1Zuc1IyN0hGQXM?oc=5",
-     "date": "2026-10-31T08:12:22+00:00",
-     "source": "Yahoo!ニュース",
-     "snippet": "メタバースやＶＲ体験も 環境問題楽しく学ぶ 群馬県庁（群馬テレビ）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "群馬県庁で行われるイベントでは、メタバースやVR体験を通じて環境問題を楽しく学ぶことができるにゃ。参加者は新しい技術を利用して、環境保護の重要性を理解する機会を得るそうだにゃん。教育的な要素が強いイベントだにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "メタバースやＶＲ体験も 環境問題楽しく学ぶ 群馬県庁 - Excite エキサイト",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wMVJVZE9tUVFOQ1FxeTloT3NUZUc3VV80ZTFlYUNKd004VS1IaFBRazllQmxQYWV1WU8tcEFWbEg0U2U5MjNlUURGRG45Uk40RzA4NjBoVUdfbzlWb3RWYnBQNC1vZVlpME9vdjN3?oc=5",
-     "date": "2026-10-31T08:05:00+00:00",
-     "source": "Excite エキサイト",
-     "snippet": "メタバースやＶＲ体験も 環境問題楽しく学ぶ 群馬県庁&nbsp;&nbsp;Excite エキサイト",
-     "summary": "群馬県庁では、メタバースやVR体験を通じて環境問題を楽しく学ぶイベントが開催されるにゃ。参加者は新しい技術を利用して、環境保護の重要性を理解することができるそうだにゃん。楽しみながら学べる機会だにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "「ファイナルファンタジーXIV：チョコボレースVR」がティフォニウム お台場に11月20日登場！本日10月31日より体験予約受付スタート - にじめん",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sblFsbDlRVGxSclplc1pnSVdXc3FhVG05ZEZlN0JDdXh4ajQzZ3dIRUtNMWxPdDg3bVlYUllVb1ZQNWRSUzF6SmlCUV9ranVNUXhJdUVZbw?oc=5",
-     "date": "2026-10-31T03:48:00+00:00",
-     "source": "にじめん",
-     "snippet": "「ファイナルファンタジーXIV：チョコボレースVR」がティフォニウム お台場に11月20日登場！本日10月31日より体験予約受付スタート&nbsp;&nbsp;にじめん",
-     "summary": "「ファイナルファンタジーXIV：チョコボレースVR」が11月20日にティフォニウムお台場に登場するにゃ！体験予約は10月31日から開始されるそうだにゃ。ファンにとって楽しみな新しい体験が待っているにゃん。"
+     "type": "paper",
+     "title": "Time-Dynamic Semantic-Activity Entanglement: Quantifying Communication-Based Synchrony in Collaborative VR",
+     "link": "https://arxiv.org/abs/2610.37427v1",
+     "date": "2026-10-27T15:40:51+00:00",
+     "source": "arXiv",
+     "snippet": "Collaborative virtual reality (VR) produces rich multimodal traces of team behavior, yet practical methods for characterizing time-varying team communication remain limited. We present time-dynamic semantic-activity entanglement (TSAE), inspired by the entanglement concept introduced by Gloor et al. (2022), to describe communication-based team synchronization within discrete time windows. TSAE is modeled by combining relative speaking activity with contextual semantic alignment for participant pairs, which is aggregated into participant-level trajectories and summarized through the Gini coeffi",
+     "summary": "「時間動的意味活動の絡み合い（TSAE）」という手法が提案されたにゃ。これは、協力的なバーチャルリアリティ（VR）におけるチームのコミュニケーションの同期を定量化するためのもので、Gloorらの概念に基づいているにゃ。TSAEは、参加者ペアの発言活動と文脈的な意味の整合性を組み合わせてモデル化され、参加者レベルの軌跡に集約されるんだにゃ。これにより、時間変化するチームのコミュニケーションをより良く理解できるようになるにゃん。"
     }
    ]
   }
