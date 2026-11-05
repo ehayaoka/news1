@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T01:02:11.274329+00:00",
+ "updated": "2026-11-05T02:50:50.232868+00:00",
  "categories": [
   {
    "id": "ai_media",
@@ -7,30 +7,48 @@
    "items": [
     {
      "type": "gov",
+     "title": "出馬表 - 地方競馬",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWEVGVHlBZ2pqTUZJSUYxMk10M0hNZG5nTjJZc2JTc2VCM0thMmk3X1Y4YVJfbVpkWGpGMlJrRkxNS0tkNm85S1Z2NDRZemJHczNfTjhSUDM1dHFwS0xmNEIzQ1oxMGN4MzFsOTdReU1yakU5MnNMdE1JZWpQMTlNMWVSMS13MWVUR2dMcHdyZG5zUGE5MFdpUzQ0VktOeVAzTVI3TnZTSEQyTVk?oc=5",
+     "date": "2026-11-05T01:56:44+00:00",
+     "source": "地方競馬",
+     "snippet": "出馬表&nbsp;&nbsp;地方競馬",
+     "summary": "出馬表は地方競馬に関する情報を提供するもので、競馬ファンにとって重要な資料だにゃ。出馬表には出走馬の情報やレースの詳細が含まれているにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "「あなたの農園のAI活用術、教えてください！」全国のAI実践農家を発掘するプロジェクト始動 - 沖縄タイムス社",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHVFVtM0VudHRnaUU1b21Rc0w5aEVnQlU0NThhZTdqSHpZZEFUVkk3NURieVBhU2FNd1R6Yk8xZ1BpQWlYdTI2Y2pHNnpPM0F5TEJ4R1hWeDA4MkxjUkE?oc=5",
+     "date": "2026-11-05T01:43:05+00:00",
+     "source": "沖縄タイムス社",
+     "snippet": "「あなたの農園のAI活用術、教えてください！」全国のAI実践農家を発掘するプロジェクト始動&nbsp;&nbsp;沖縄タイムス社",
+     "summary": "沖縄タイムス社が全国の農家を対象に、AIを活用した農業の実践事例を募集するプロジェクトを始めたにゃ。農業の効率化や生産性向上を目指し、AIの活用方法を共有することが目的だにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "全固体電池材料の探索を支えるロボット実験システムを開発 - AIST： 産業技術総合研究所",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVDQ5bk5YYTVrV2U3MEtSZVNlSWZtUXZERnFFZDB0ZUxER3lWVjZndkFDdDFFdlBGUFlNeWRyQjVqMm5WVTlyVFlmNmpXcENybmNWbGt2cmQ3MDNTeTdHUmI0SGRCOVRzak9FQ3JkTmtFVmR4Zkhubk9Mb2t6dHYyaVdOOA?oc=5",
+     "date": "2026-11-05T01:36:09+00:00",
+     "source": "AIST： 産業技術総合研究所",
+     "snippet": "全固体電池材料の探索を支えるロボット実験システムを開発&nbsp;&nbsp;AIST： 産業技術総合研究所",
+     "summary": "産業技術総合研究所が全固体電池材料の探索を支援するロボット実験システムを開発したにゃ。このシステムにより、より効率的に新しい電池材料の研究が進むことが期待されているそうだにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "オウンドメディアのAIフレンドリー対応に向けて AI検索向け実装診断ツール「Aiolyze(アイオライズ)」を開発 - アットプレス",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Lc19IZHAxaEgtdGh6Q2RyMmg0anJGZ3RnLVhFcFlBX2VBRm1WbFptWEQyRHVZQlhReXpncTAwazZFZUdLbmNYX05yck1vdw?oc=5",
+     "date": "2026-11-05T01:30:00+00:00",
+     "source": "アットプレス",
+     "snippet": "オウンドメディアのAIフレンドリー対応に向けて AI検索向け実装診断ツール「Aiolyze(アイオライズ)」を開発&nbsp;&nbsp;アットプレス",
+     "summary": "アットプレスがオウンドメディアのAIフレンドリー対応を促進するため、AI検索向けの実装診断ツール「Aiolyze」を開発したにゃ。このツールはメディアの検索エンジン最適化を助けることを目指しているそうだにゃん。"
+    },
+    {
+     "type": "gov",
      "title": "次世代太陽電池とAI画像処理を衛星で宇宙実証へ シンガポール南洋理工大学 - Science Portal Asia Pacific",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjYXljbV91SUxhTy1ocHRMcW9WRmhIY19kdURiOGlFSnQ1MHRvc2thS2ZzZTNrX2d6QnhhMmRGVEZzNW1pb2JBNzlKN3g3NjQwNllJR3dueEhmZXhnOG5WaGN3a0xBU0Jz?oc=5",
      "date": "2026-11-05T00:34:31+00:00",
      "source": "Science Portal Asia Pacific",
      "snippet": "次世代太陽電池とAI画像処理を衛星で宇宙実証へ シンガポール南洋理工大学&nbsp;&nbsp;Science Portal Asia Pacific",
-     "summary": "シンガポール南洋理工大学は、次世代太陽電池とAI画像処理技術を搭載した衛星を宇宙で実証する計画を発表したにゃ。これにより、太陽電池の性能向上とAI技術の実用化が期待されているそうだにゃん。宇宙環境での実験は、持続可能なエネルギーの未来に向けた重要なステップだにゃ。"
-    },
-    {
-     "type": "gov",
-     "title": "出馬表 - 地方競馬",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWEVGVHlBZ2pqTUZJSUYxMk10M0hNZG5nTjJZc2JTc2VCM0thMmk3X1Y4YVJfbVpkWGpGMlJrRkxNS0tkNm85S1Z2NDRZemJHczNfTjhSUDM1dHFwS0xmNEIzQ1oxMGN4MzFsOTdReU1yakU5MnNMdE1JZWpQMTlNMWVSMS13MWVUR2dMcHdyZG5zUGE5MFdpUzQ0VktOeVAzTVI3TnZTSEQyTVk?oc=5",
-     "date": "2026-11-04T22:53:54+00:00",
-     "source": "地方競馬",
-     "snippet": "出馬表&nbsp;&nbsp;地方競馬",
-     "summary": "出馬表は地方競馬に関する情報を提供するもので、具体的な内容は記載されていないにゃ。競馬ファンにとって、出馬表はレースの参加馬や騎手の情報を確認するための重要な資料だにゃん。"
-    },
-    {
-     "type": "gov",
-     "title": "中国、米国のDeepSeek利用禁止措置に反発(中国、米国) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmalA3a2lFOExaTXRhd0QyWXZGQXVLZEpNRmg2WVJaOG9NbjdlS2M5aS1LYVRFbi05dUN4cGpNMnJYNjA0OUZzRHl6dHBUUHpzY21yaHVZb29RTjdsYlRYTDlVdlFiazZ5SWg1R21n?oc=5",
-     "date": "2026-11-04T15:33:27+00:00",
-     "source": "ジェトロ（日本貿易振興機構）",
-     "snippet": "中国、米国のDeepSeek利用禁止措置に反発(中国、米国) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "中国は、米国がDeepSeekの利用を禁止した措置に対して強く反発しているにゃ。中国政府は、この措置が不当であり、国際的な技術競争において不利になると主張しているそうだにゃん。"
+     "summary": "シンガポール南洋理工大学が次世代太陽電池とAI画像処理技術を宇宙で実証するプロジェクトを進めているにゃ。衛星を用いて新技術の有効性を確認することで、持続可能なエネルギーの未来を探るそうだにゃん。"
     },
     {
      "type": "news",
@@ -39,7 +57,16 @@
      "date": "2026-11-04T10:55:21+00:00",
      "source": "Yahoo!ニュース",
      "snippet": "AI時代のニュースの価値は？ メディアインテリジェンス団体FIBEPの年次総会、東アジアで初開催（南龍太） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "メディアインテリジェンス団体FIBEPの年次総会が東アジアで初めて開催されたにゃ。AI時代におけるニュースの価値について議論され、メディアの役割や変化が注目されたそうだにゃん。"
+     "summary": "FIBEPの年次総会が東アジアで初めて開催され、AI時代におけるニュースの価値について議論されたにゃ。メディアインテリジェンス団体として、AIがニュースの収益化に与える影響が注目されているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "【丸岡いずみ特認教授と語り合う】人を動かす伝える力ーテレビ報道からSNS・生成AI時代までー（四国大学） - 徳島新聞デジタル",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xY01xSUp6X09aLWlxZ3JlcXBHb1UzX2tXZS1HQjIxN0JaOHBMYkI1T0J2azJ5enM3TDVCRUNwdnJNRG5oZjBwbEdFQnBIZURDU3d2eGVfdmQ1QzBQQmlaNGRrTHNOVkNlRE13?oc=5",
+     "date": "2026-11-04T08:21:57+00:00",
+     "source": "徳島新聞デジタル",
+     "snippet": "【丸岡いずみ特認教授と語り合う】人を動かす伝える力ーテレビ報道からSNS・生成AI時代までー（四国大学）&nbsp;&nbsp;徳島新聞デジタル",
+     "summary": "四国大学の丸岡いずみ特認教授が、テレビ報道からSNS、生成AI時代における「伝える力」について語り合ったにゃ。人々の行動を促すためのコミュニケーションの重要性が強調されたそうだにゃん。"
     },
     {
      "type": "news",
@@ -48,16 +75,7 @@
      "date": "2026-11-04T05:00:40+00:00",
      "source": "DIGIDAY［日本版］",
      "snippet": "AI に読まれる記事を、メディアはどう収益に変えるか？ GEO支援とコンテンツライセンスの現在地&nbsp;&nbsp;DIGIDAY［日本版］",
-     "summary": "メディアがAIに読まれる記事をどのように収益化するかがテーマの議論が行われたにゃ。GEO支援やコンテンツライセンスの現状についても触れられ、メディアの収益モデルの変化が求められているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "自社サイト改善と外部メディア掲載の掛け合わせでAIO対策の成果を実証 - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFcUJsNlpmUlQydkRyVERYdVp4VmtUZmJMQUJYeDRPZHBCN24teWl6N0NpM1laOGRGN25LLVRQUU11Yi1iQ3doZ1R1TjhDUUh4M3JnRWMyQU5sTnNWWVNDenpSM1dSNnZ6YUE?oc=5",
-     "date": "2026-11-04T02:00:01+00:00",
-     "source": "PR TIMES",
-     "snippet": "自社サイト改善と外部メディア掲載の掛け合わせでAIO対策の成果を実証&nbsp;&nbsp;PR TIMES",
-     "summary": "自社サイトの改善と外部メディアへの掲載を組み合わせることで、AIO対策の成果が実証されたにゃ。これにより、企業はより効果的な情報発信が可能になると期待されているそうだにゃん。"
+     "summary": "DIGIDAYが、AIに読まれる記事をメディアがどのように収益化するかについて考察したにゃ。GEO支援やコンテンツライセンスの現状を踏まえ、メディアの収益モデルの変化が求められているそうだにゃん。"
     },
     {
      "type": "news",
@@ -66,7 +84,7 @@
      "date": "2026-11-03T23:30:00+00:00",
      "source": "MarkeZine",
      "snippet": "生成AI時代に「BtoBオウンドメディア」はどうなるか？枌谷氏に聞く、情報発信のあり方 (1/3)&nbsp;&nbsp;MarkeZine",
-     "summary": "生成AI時代におけるBtoBオウンドメディアの未来について、枌谷氏が情報発信のあり方を語ったにゃ。新しい技術の導入が、企業のコミュニケーション戦略にどのように影響するかが焦点となっているそうだにゃん。"
+     "summary": "MarkeZineが生成AI時代におけるBtoBオウンドメディアの情報発信のあり方について、枌谷氏にインタビューしたにゃ。AIの進化がメディア戦略に与える影響についての考察が行われているそうだにゃん。"
     },
     {
      "type": "news",
@@ -75,25 +93,7 @@
      "date": "2026-11-02T02:00:03+00:00",
      "source": "Media Innovation",
      "snippet": "朝日新聞、取材・報道でのAI利用指針を策定 生成関与時は読者に説明&nbsp;&nbsp;Media Innovation",
-     "summary": "朝日新聞は、取材や報道におけるAI利用の指針を策定したにゃ。AIが関与する場合は、読者にその旨を説明することが求められ、透明性を重視する姿勢が示されているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "シンポジウム「生成AI最前線とメディアの未来～SNS時代の「真実」とは～」開催のお知らせ - 共同通信PRワイヤー",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hTFNyM21HMUtCdnMwVThWMjlaYVlNS1Q3Y1BkWW4tb3ZzWnI5bEdsNDNBR3dFY0I1NmRydm5RMHpmZDRYX2s5UExnMjlFUXNta2N4dGtac3djMG8?oc=5",
-     "date": "2026-11-02T01:30:00+00:00",
-     "source": "共同通信PRワイヤー",
-     "snippet": "シンポジウム「生成AI最前線とメディアの未来～SNS時代の「真実」とは～」開催のお知らせ&nbsp;&nbsp;共同通信PRワイヤー",
-     "summary": "シンポジウム「生成AI最前線とメディアの未来」が開催されるにゃ。このイベントでは、SNS時代における「真実」のあり方について議論され、メディアの役割が再評価される予定だにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "Uravation、60代・70代向けのAI入門メディア「シニアAIガイド」が公開記事300本を突破。2026年5月の開設から約5か月、10月23日時点で312本を無料公開 - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBd3hvOEpyd0pZVHZCcTc0NXV2bVBuZG9BSExiZ2RhOXNUWnNWQ2hGQVVBSjMtYXQ2SGRlSXRxcHByeXZCV1BLZ3NuXy0zMkFMbV95UE1lZmcwQ3p4bnMtdV9BUXV0cjBpc0E?oc=5",
-     "date": "2026-10-31T08:00:02+00:00",
-     "source": "PR TIMES",
-     "snippet": "Uravation、60代・70代向けのAI入門メディア「シニアAIガイド」が公開記事300本を突破。2026年5月の開設から約5か月、10月23日時点で312本を無料公開&nbsp;&nbsp;PR TIMES",
-     "summary": "Uravationが60代・70代向けのAI入門メディア「シニアAIガイド」を公開し、記事数が312本を超えたにゃ。2026年5月の開設から約5か月で、無料で多くの情報を提供しているそうだにゃん。"
+     "summary": "朝日新聞が取材や報道におけるAI利用の指針を策定したにゃ。AIが生成に関与した場合には、読者にその旨を説明することが求められるそうだにゃん。透明性を重視した取り組みだにゃ。"
     }
    ]
   },
@@ -105,10 +105,10 @@
      "type": "gov",
      "title": "出馬表 - 地方競馬",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWEVGVHlBZ2pqTUZJSUYxMk10M0hNZG5nTjJZc2JTc2VCM0thMmk3X1Y4YVJfbVpkWGpGMlJrRkxNS0tkNm85S1Z2NDRZemJHczNfTjhSUDM1dHFwS0xmNEIzQ1oxMGN4MzFsOTdReU1yakU5MnNMdE1JZWpQMTlNMWVSMS13MWVUR2dMcHdyZG5zUGE5MFdpUzQ0VktOeVAzTVI3TnZTSEQyTVk?oc=5",
-     "date": "2026-11-04T22:53:54+00:00",
+     "date": "2026-11-05T01:56:44+00:00",
      "source": "地方競馬",
      "snippet": "出馬表&nbsp;&nbsp;地方競馬",
-     "summary": "出馬表は地方競馬に関する情報を提供するもので、具体的な内容は記載されていないにゃ。地方競馬の開催情報や出走馬の詳細が含まれていると思われるにゃん。"
+     "summary": "出馬表は地方競馬に関する情報を提供するもので、具体的な内容は記載されていないにゃ。地方競馬の開催や出馬情報を確認するための重要な資料だにゃん。"
     },
     {
      "type": "news",
@@ -117,7 +117,7 @@
      "date": "2026-11-04T22:30:26+00:00",
      "source": "ニコニコニュース",
      "snippet": "2026年11月19日（木）に開催される「ふるさと納税-未来創造AWARD2026」にアイハーツ株式会社の参加が決定しました&nbsp;&nbsp;ニコニコニュース",
-     "summary": "2026年11月19日（木）に「ふるさと納税-未来創造AWARD2026」が開催され、アイハーツ株式会社が参加することが決まったにゃ。イベントの詳細についてはまだ不明だが、注目される取り組みだにゃん。"
+     "summary": "アイハーツ株式会社が2026年11月19日（木）に開催される「ふるさと納税-未来創造AWARD2026」に参加することが決まったにゃ。このイベントは地域振興やふるさと納税の重要性を広めることを目的としているそうだにゃん。"
     },
     {
      "type": "news",
@@ -126,7 +126,7 @@
      "date": "2026-11-04T15:19:42+00:00",
      "source": "アットエス",
      "snippet": "【自治体・観光団体向け】Redditを活用したインバウンド情報発信支援プログラムを10月22日から開始 (株)トムスが3カ月間無償サポート&nbsp;&nbsp;アットエス",
-     "summary": "株式会社トムスは、自治体や観光団体向けにRedditを活用したインバウンド情報発信支援プログラムを10月22日から開始するにゃ。このプログラムは3カ月間無償でサポートされるそうだにゃん。"
+     "summary": "株式会社トムスは、自治体や観光団体向けにRedditを活用したインバウンド情報発信支援プログラムを10月22日から開始するにゃ。このプログラムは3カ月間無償でサポートされ、観光促進を目指しているそうだにゃん。"
     },
     {
      "type": "news",
@@ -135,16 +135,16 @@
      "date": "2026-11-04T10:34:08+00:00",
      "source": "埼玉県",
      "snippet": "広報ラジオ番組をSmile SUMMIT内で放送！「SMILE LEARNING ～埼玉県議会スペシャル～」特別委員会編&nbsp;&nbsp;埼玉県",
-     "summary": "埼玉県では、広報ラジオ番組「SMILE LEARNING ～埼玉県議会スペシャル～」をSmile SUMMIT内で放送するにゃ。特別委員会編が放送される予定で、県民への情報発信を強化する狙いがあるそうだにゃん。"
+     "summary": "埼玉県では、広報ラジオ番組「SMILE LEARNING ～埼玉県議会スペシャル～」をSmile SUMMIT内で放送するにゃ。この番組は特別委員会編として、県議会の活動や情報を市民に伝えることを目的としているそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "生活再建や災害に強いまちづくり 震災復興に向け熊本市が素案 - NHKニュース",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82RmVkNzZoYWluZ2xiaEhfZmVtTWJPNDhxZWtQUUpKM05NYjhrd19aQi1jYWxDRG5fOVNCYThzMzBvcVhhWVhzeDk4dlZ3bDlsU3hSRUltTXlyS1lvUkpB?oc=5",
-     "date": "2026-11-04T05:40:04+00:00",
-     "source": "NHKニュース",
-     "snippet": "生活再建や災害に強いまちづくり 震災復興に向け熊本市が素案&nbsp;&nbsp;NHKニュース",
-     "summary": "熊本市は震災復興に向けて、生活再建や災害に強いまちづくりの素案を策定したにゃ。この素案は、地域の安全性を高めるための具体的な施策を含むことが期待されているそうだにゃん。"
+     "title": "東日本大震災の復興支援継続と強化を国に求める 北海道・東北・新潟県の知事会議（khb東日本放送） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XRndLaUsxdUVDWGctMS13bnY1c0RxbjBZYm5oZi1XNUVvSDF3ejRucFNRWEh4T3ZsbVE3MVU4emN6TTl2b1ZNa3k0NWFnTWQzQUs1X3l4YkVtSTRvcXJaa1o4VVctRDNHVW45VmRBTnE0aU5OeGtBb081bGg3YmM?oc=5",
+     "date": "2026-11-04T10:21:25+00:00",
+     "source": "Yahoo!ニュース",
+     "snippet": "東日本大震災の復興支援継続と強化を国に求める 北海道・東北・新潟県の知事会議（khb東日本放送）&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "北海道・東北・新潟県の知事会議が開催され、東日本大震災の復興支援の継続と強化を国に求めたにゃ。各知事は復興の重要性を再確認し、支援を強化するよう訴えたそうだにゃん。"
     }
    ]
   },
@@ -159,7 +159,7 @@
      "date": "2026-11-05T00:00:46+00:00",
      "source": "ニコニコニュース",
      "snippet": "山形新聞社が山形銀行・荘内銀行・きらやか銀行の県内3行と「生成AIの利用推進と地域課題の解決に関する連携協定」を締結&nbsp;&nbsp;ニコニコニュース",
-     "summary": "山形新聞社は、山形銀行・荘内銀行・きらやか銀行の県内3行と「生成AIの利用推進と地域課題の解決に関する連携協定」を締結したにゃ。これにより、生成AIを活用して地域の課題解決を目指す取り組みが進むことが期待されるにゃん。"
+     "summary": "山形新聞社が山形銀行、荘内銀行、きらやか銀行の3行と連携協定を締結したにゃ。この協定は生成AIの利用を推進し、地域課題の解決を目指すものだにゃん。地域の発展に向けて、AI技術を活用した取り組みが期待されるにゃ。"
     },
     {
      "type": "news",
@@ -168,7 +168,7 @@
      "date": "2026-11-04T10:37:00+00:00",
      "source": "47NEWS",
      "snippet": "地元ゆかりのスタートアップ、上場の道のりなど披露 TSUNAGU広島2026&nbsp;&nbsp;47NEWS",
-     "summary": "地元のスタートアップが、上場に向けた道のりを披露するイベント「TSUNAGU広島2026」が開催されたにゃ。地域の企業や投資家が集まり、スタートアップの成長を支援するための情報交換が行われたそうだにゃん。"
+     "summary": "地元のスタートアップが上場の道のりを披露するイベント「TSUNAGU広島2026」が開催されたにゃ。地域の企業や投資家が集まり、スタートアップの成長や地域経済の活性化について意見交換が行われたそうだにゃん。"
     },
     {
      "type": "news",
@@ -177,7 +177,7 @@
      "date": "2026-11-04T09:07:47+00:00",
      "source": "NHKニュース",
      "snippet": "受刑者らが起業家めざし事業計画を発表 京都刑務所&nbsp;&nbsp;NHKニュース",
-     "summary": "京都刑務所で、受刑者たちが起業家を目指して事業計画を発表したにゃ。彼らは新たなビジネスを通じて社会復帰を目指す意欲を示し、地域との関わりを深めることを目指しているそうだにゃん。"
+     "summary": "京都刑務所では、受刑者たちが起業家を目指して事業計画を発表したにゃ。彼らは社会復帰を見据え、自らのアイデアを形にするための挑戦を行っているそうだにゃん。新たなスタートを切るための重要な一歩だにゃ。"
     },
     {
      "type": "news",
@@ -186,7 +186,7 @@
      "date": "2026-11-04T09:07:14+00:00",
      "source": "Yahoo!ニュース",
      "snippet": "地域企業×スタートアップで課題解決!新たなビジネス創出へ 広島市でイベント開催【TSUNAGU 広島 2026】（RCC中国放送）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "広島市で「TSUNAGU広島2026」というイベントが開催され、地域企業とスタートアップが協力して課題解決を目指す取り組みが紹介されたにゃ。新たなビジネス創出に向けたアイデアが共有され、地域活性化が期待されるにゃん。"
+     "summary": "広島市で「TSUNAGU広島2026」というイベントが開催され、地域企業とスタートアップが協力して課題解決を目指す取り組みが紹介されたにゃ。新たなビジネス創出に向けたアイデアやプロジェクトが発表され、地域の活性化が期待されるにゃん。"
     },
     {
      "type": "news",
@@ -195,7 +195,7 @@
      "date": "2026-11-04T09:06:00+00:00",
      "source": "TBS NEWS DIG",
      "snippet": "地域企業×スタートアップで課題解決！新たなビジネス創出へ 広島市でイベント開催【TSUNAGU 広島 2026】&nbsp;&nbsp;TBS NEWS DIG",
-     "summary": "広島市で行われた「TSUNAGU広島2026」イベントでは、地域企業とスタートアップが連携し、地域課題の解決を目指す取り組みが紹介されたにゃ。新しいビジネスの創出が期待され、地域の活性化に寄与することを目指しているそうだにゃん。"
+     "summary": "広島市で行われた「TSUNAGU広島2026」イベントでは、地域企業とスタートアップが連携し、課題解決を目指す取り組みが紹介されたにゃ。新しいビジネスの創出に向けた意見交換が行われ、地域の発展に寄与することが期待されるそうだにゃん。"
     }
    ]
   },
@@ -210,7 +210,7 @@
      "date": "2026-11-04T10:05:10+00:00",
      "source": "www.famtimes.co.kr",
      "snippet": "国立密陽気象科学館、竜巻と気象キャスター体験の展示&nbsp;&nbsp;www.famtimes.co.kr",
-     "summary": "国立密陽気象科学館では、竜巻と気象キャスター体験の展示が行われているにゃ。来館者は、竜巻の仕組みや気象キャスターの役割を学びながら、実際に体験できるコーナーが設けられているそうだにゃん。これは、気象に対する理解を深める良い機会だにゃ。"
+     "summary": "国立密陽気象科学館で、竜巻や気象キャスターの体験展示が行われているにゃ。来館者は、竜巻の仕組みや気象予報士の仕事を体験できる機会が提供されているそうだにゃん。子どもから大人まで楽しめる内容になっているみたいだにゃ。"
     },
     {
      "type": "news",
@@ -219,7 +219,7 @@
      "date": "2026-11-04T05:26:21+00:00",
      "source": "カレントアウェアネス・ポータル",
      "snippet": "国立科学博物館筑波実験植物園、ミニ企画展「学習マンガがえがく植物の世界」を開催&nbsp;&nbsp;カレントアウェアネス・ポータル",
-     "summary": "国立科学博物館筑波実験植物園では、ミニ企画展「学習マンガがえがく植物の世界」を開催しているにゃ。この展覧会では、植物に関する知識をマンガを通じて楽しく学べる内容になっているそうだにゃ。家族連れや学生にとって、植物の魅力を再発見する良いチャンスだにゃん。"
+     "summary": "国立科学博物館筑波実験植物園では、ミニ企画展「学習マンガがえがく植物の世界」が開催されているにゃ。この展示では、植物に関する知識をマンガ形式で学ぶことができるそうだにゃん。参加者は楽しく植物の世界を探求できる機会が与えられているみたいだにゃ。"
     },
     {
      "type": "news",
@@ -228,7 +228,7 @@
      "date": "2026-11-04T05:00:02+00:00",
      "source": "PR TIMES",
      "snippet": "【国立科学博物館】オトメアオイの花には化学擬態のタイミング調整があった！-「ハエをだます花」の香り放出時間とハエの活動時間の同調性の発見-&nbsp;&nbsp;PR TIMES",
-     "summary": "国立科学博物館の研究によると、オトメアオイの花はハエを引き寄せるために香りを放出するタイミングを調整していることが発見されたにゃ。この化学擬態の仕組みは、ハエの活動時間と同調しており、進化の過程での戦略が見られるそうだにゃん。"
+     "summary": "国立科学博物館で、オトメアオイの花が持つ化学擬態のタイミング調整についての研究が発表されたにゃ。この花は、香りを放出する時間とハエの活動時間が同調していることが発見されたそうだにゃん。この現象は、花がハエを誘引するための戦略の一部だと考えられているみたいだにゃ。"
     },
     {
      "type": "news",
@@ -237,16 +237,16 @@
      "date": "2026-11-03T12:46:58+00:00",
      "source": "アイエム［インターネットミュージアム］",
      "snippet": "求愛から子育てまで、命をつなぐ戦略 ─ 特別展「生きものたちの性」（レポート）&nbsp;&nbsp;アイエム［インターネットミュージアム］",
-     "summary": "特別展「生きものたちの性」では、求愛から子育てに至るまでの生物の命をつなぐ戦略が紹介されているにゃ。この展覧会では、さまざまな生物の繁殖行動や育児の方法が展示されており、命の大切さを考えるきっかけになるそうだにゃん。"
+     "summary": "特別展「生きものたちの性」では、求愛から子育てに至るまでの生物の戦略が紹介されているにゃ。さまざまな生物の性に関する展示があり、命をつなぐための多様な戦略が学べる内容になっているそうだにゃん。来場者は生物の不思議を体感できる機会があるみたいだにゃ。"
     },
     {
      "type": "news",
-     "title": "科博初“性”がテーマの展覧会！特別展「生きものたちの性」が国立科学博物館で開催中 - ぴあエンタメ情報",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtS2lYdlpLN3NSZDBHelRORFRxRGdXQ2RLbF9Kd3g0MFY0M3VJS1M1WHVYcXBuRTZRSHBicnJNLVFvWVQ2c0R4VWMyWHlZUzE0V3NORENoNUQ0RUhzZWZ0Rl9HcGI1RGdVTVhPRkdjUQ?oc=5",
-     "date": "2026-11-02T11:00:00+00:00",
-     "source": "ぴあエンタメ情報",
-     "snippet": "科博初“性”がテーマの展覧会！特別展「生きものたちの性」が国立科学博物館で開催中&nbsp;&nbsp;ぴあエンタメ情報",
-     "summary": "国立科学博物館で初めて「性」をテーマにした特別展「生きものたちの性」が開催中だにゃ。この展覧会では、生物の繁殖や育成に関する多様な視点が提供されており、来場者は生き物の性に関する新たな理解を深めることができるそうだにゃん。"
+     "title": "科博初“性”がテーマの展覧会！特別展「生きものたちの性」が国立科学博物館で開催中（チケットぴあ） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UOWZJUkR3c2R5cl83Z1g3YjdEVFUzUWZ2eGVqTFBycDNLN3Uxb1VrSThBb1EtZV9QbW96VktyYnpmQkYtUXNVQ2NFc0V1Sm5QcWlLbWJTempnck9MQ3FCQmRpUnF1RXJQWFU0bVlCVGtPRDF2d1B5YldZRkJiT2c?oc=5",
+     "date": "2026-11-02T11:00:17+00:00",
+     "source": "Yahoo!ニュース",
+     "snippet": "科博初“性”がテーマの展覧会！特別展「生きものたちの性」が国立科学博物館で開催中（チケットぴあ）&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "国立科学博物館で初めて“性”をテーマにした特別展「生きものたちの性」が開催中だにゃ。展示では、生物の求愛行動や繁殖戦略について詳しく紹介されているそうだにゃん。来場者は生物の多様な性に関する知識を深めることができる機会が与えられているみたいだにゃ。"
     }
    ]
   },
@@ -256,12 +256,30 @@
    "items": [
     {
      "type": "news",
+     "title": "「VRで内覧、現地で体感」 総合住宅展示場業界初！設計図をもとにフルCGで再現した「VR有明住宅公園」を公開 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhTDlvRDE1bkU2UGNIU1J1dU9IVVo3bmx3Z2VYcjQtdWlrSmtuYjhKS3JWMGlhQTZ0SXo0MlZILUJGWUcwd19vQ3FHSEJHcUp0TUFleGdYOG81M2RVV0VqdmpaeWs2dk53VFE?oc=5",
+     "date": "2026-11-05T01:36:05+00:00",
+     "source": "PR TIMES",
+     "snippet": "「VRで内覧、現地で体感」 総合住宅展示場業界初！設計図をもとにフルCGで再現した「VR有明住宅公園」を公開&nbsp;&nbsp;PR TIMES",
+     "summary": "「VRで内覧、現地で体感」という新しい住宅展示場「VR有明住宅公園」が公開されたにゃ。この展示場は、設計図を基にフルCGで再現されていて、訪れる人はVRを通じてリアルな内覧体験ができるそうだにゃん。総合住宅展示場業界では初の試みで、最新技術を活用した新しい住宅の見せ方を提供するにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "株式会社ローソンのフランチャイズ加盟店に InstaVRのクルー育成用VR教育ツールの展開を開始 - Newscast.jp",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FMDRxU0FrWEhxWkx4Wmt0TmRNMDBGa2tpNllxcTc4S2VwUW0wazRpMjh2ZHNqdzg5M3RzazVoUXhCX18wNkFHR3QwUXljNEk?oc=5",
+     "date": "2026-11-05T01:00:00+00:00",
+     "source": "Newscast.jp",
+     "snippet": "株式会社ローソンのフランチャイズ加盟店に InstaVRのクルー育成用VR教育ツールの展開を開始&nbsp;&nbsp;Newscast.jp",
+     "summary": "株式会社ローソンがフランチャイズ加盟店向けに、InstaVRのクルー育成用VR教育ツールの展開を開始したにゃ。このツールは、VRを利用してクルーの教育を効率的に行うことを目的としているそうだにゃん。これにより、店舗運営のスムーズさが期待されているにゃ。"
+    },
+    {
+     "type": "news",
      "title": "大阪・USJ近くに\"泊まれるテーマパーク\"誕生――4つのコンセプト寝室とAR体験を備えたファミリー向け貸切一軒家「ファ - ニコニコニュース",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50bmtFQ2Iwdmt2UVZ0a0FQZHhBeHI1RUtrV0ptTGhDR2lRVEFKM0R0VmVvZUlCUW1xc0FrakoxUTdsWXhwTUt2WmlYS1MtQ2hBTS00cm1teTc0eklqaDdORGxiU0h5NlBs?oc=5",
      "date": "2026-11-04T19:18:24+00:00",
      "source": "ニコニコニュース",
      "snippet": "大阪・USJ近くに\"泊まれるテーマパーク\"誕生――4つのコンセプト寝室とAR体験を備えたファミリー向け貸切一軒家「ファ&nbsp;&nbsp;ニコニコニュース",
-     "summary": "大阪・USJ近くに、ファミリー向けの貸切一軒家「ファ」が誕生したにゃ。この施設は、4つの異なるコンセプトの寝室と、AR体験を備えているんだにゃ。宿泊することで、テーマパークのような楽しさを味わえるのが特徴だにゃん。家族での特別な思い出作りにぴったりな場所だと思うにゃ。"
+     "summary": "大阪・USJ近くに「泊まれるテーマパーク」が誕生したにゃ。ファミリー向けの貸切一軒家で、4つのコンセプト寝室とAR体験が用意されているそうだにゃん。家族で楽しめる新しい宿泊体験を提供し、テーマパークの魅力をさらに引き立てることを目指しているにゃ。"
     },
     {
      "type": "news",
@@ -270,7 +288,7 @@
      "date": "2026-11-04T10:34:52+00:00",
      "source": "Yahoo!ニュース",
      "snippet": "【山口】小学校で防災体験 ＡＲで洪水避難訓練（yab山口朝日放送）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "山口県の小学校で、AR技術を使った洪水避難訓練が行われたにゃ。生徒たちは、実際の災害時に備えて、ARを通じて避難経路を学ぶ体験をしたそうだにゃ。これにより、子どもたちが防災意識を高めることが期待されているにゃん。"
+     "summary": "山口県の小学校で、ARを活用した洪水避難訓練が行われたにゃ。この防災体験は、子どもたちに実際の避難行動を学ばせるためのもので、AR技術を使ってリアルな状況を再現しているそうだにゃん。安全意識を高めるための重要な取り組みだにゃ。"
     },
     {
      "type": "news",
@@ -279,25 +297,7 @@
      "date": "2026-11-04T08:02:08+00:00",
      "source": "Mogura VR",
      "snippet": "ジョリーグッド、建設現場の実写360度VR安全教育「現場360」を開始&nbsp;&nbsp;Mogura VR",
-     "summary": "ジョリーグッドが、建設現場の実写を用いた360度VR安全教育「現場360」を開始したにゃ。このプログラムは、現場での安全意識を高めるために設計されていて、リアルな体験を通じて学ぶことができるんだにゃ。安全教育の新たな形として注目されているにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "断熱・遮音性能を体感 アイ工務店、北谷町にVR対応の住宅展示施設をオープン 県内４拠点目 - 沖縄タイムス社",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45TldUejRqNm5abFZBaWR3VkJwR2E5ZTk5dVhqYnNqdVpMY2NBeVphb2J1ek51MnVqNFZQSmdDVmpfWnhQOWFIYU8xRDJ6cS1WZVl5cUp3dWltVVVXVmc?oc=5",
-     "date": "2026-11-04T07:28:00+00:00",
-     "source": "沖縄タイムス社",
-     "snippet": "断熱・遮音性能を体感 アイ工務店、北谷町にVR対応の住宅展示施設をオープン 県内４拠点目&nbsp;&nbsp;沖縄タイムス社",
-     "summary": "アイ工務店が、北谷町にVR対応の住宅展示施設をオープンしたにゃ。これは県内4拠点目となり、断熱や遮音性能を体感できる場所だにゃ。VR技術を活用することで、よりリアルな住宅体験が可能になっているんだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "新型ARグラス「XREAL AURA」体験会を3都市で開催へ - Mogura VR",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kSV93MnI3YWQ3Wm9uOFZxM2RYRHd1dGdsM21aQ1JRcmN5RGpPWGoyeWw3ek43akl6Ym5nV01hVHQtQlU5MzJFdmljbkVnb1Y3dUJTckp2ZGRtOHlqd0E?oc=5",
-     "date": "2026-11-04T07:07:08+00:00",
-     "source": "Mogura VR",
-     "snippet": "新型ARグラス「XREAL AURA」体験会を3都市で開催へ&nbsp;&nbsp;Mogura VR",
-     "summary": "新型ARグラス「XREAL AURA」の体験会が、3都市で開催されることが決まったにゃ。このグラスは、AR技術を活用した新しい体験を提供するもので、多くの人々にその魅力を伝える機会となるんだにゃ。参加者は最新の技術を体感できるにゃん。"
+     "summary": "ジョリーグッドが、建設現場の実写360度VR安全教育「現場360」を開始したにゃ。このプログラムは、建設現場の危険をリアルに体験しながら学ぶことができるもので、労働者の安全意識向上を目指しているそうだにゃん。最新の技術を活用した教育方法だにゃ。"
     }
    ]
   }
