@@ -1,10 +1,46 @@
 {
- "updated": "2026-11-12T03:23:43.314484+00:00",
+ "updated": "2026-11-13T01:28:03.733503+00:00",
  "categories": [
   {
    "id": "ai_media",
    "title": "🤖 AI×メディア研究（ニュース・論文・行政）",
    "items": [
+    {
+     "type": "gov",
+     "title": "国家AI安全基本計画の年内策定へ官民作業部会発足 韓国MSIT - Science Portal Asia Pacific",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrY1Z2SjVpUjZGb0h2V3FuSEJUTi0tVDdOTjRqa3ZXNXZkb1hLMDVXMExDSG01V1VmajJvOEswRWNmeWRCMnVOaFRhajZEd25aOGlDMEhvS1FIT0JHeHN0azVEZlZ4aHlq?oc=5",
+     "date": "2026-11-13T00:08:05+00:00",
+     "source": "Science Portal Asia Pacific",
+     "snippet": "国家AI安全基本計画の年内策定へ官民作業部会発足 韓国MSIT&nbsp;&nbsp;Science Portal Asia Pacific",
+     "summary": "韓国のMSITは、国家AI安全基本計画を年内に策定するための官民作業部会を発足させたにゃ。この計画は、AI技術の安全性を確保し、国の発展に寄与することを目的としているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "地方創生メディア「Made In Local」、生成AIのブランド言及数で1位を獲得！ChatGPT・Geminiでの言及率は84％を記録 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KVUpvTHZsVjYzRExEWUs2OFN2ajA5VGxyRUJBQVc1YmxxdVFDMF9XVGRpblhuVGVrbkQwM05Rai1faDRpYkZFS05HUmpnLTFyVzA3OGZtNWQ5OU1IalFnYWkxQThwX1RmU2c?oc=5",
+     "date": "2026-11-12T23:30:01+00:00",
+     "source": "PR TIMES",
+     "snippet": "地方創生メディア「Made In Local」、生成AIのブランド言及数で1位を獲得！ChatGPT・Geminiでの言及率は84％を記録&nbsp;&nbsp;PR TIMES",
+     "summary": "地方創生メディア「Made In Local」が、生成AIに関するブランド言及数で1位を獲得したにゃ。特にChatGPTやGeminiにおける言及率は84％に達したそうだにゃん。これは、生成AIの影響力が高まっていることを示しているにゃ。"
+    },
+    {
+     "type": "gov",
+     "title": "出馬表 - 地方競馬",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZVpLYkN0ejdORE9SX0ItUGxIS1oyWFVmMDZnX0h0YzdrakV0WUFtSExRN3loc01RazZoM3lfX1ZaTzNWM1pQMHRGT1RIU0I2bVJDRG0zV1JEU2VyM0RWVWpXejQ2T1M2RG9KRDJ6bnpKUVdLNzhfRGZIdTMwS1pNNVEwTkx3cktjb2p5bVdRaTF2VWo1MDlKT1JaUFotOVhBLTlObEhPM3FDdG8?oc=5",
+     "date": "2026-11-12T10:19:27+00:00",
+     "source": "地方競馬",
+     "snippet": "出馬表&nbsp;&nbsp;地方競馬",
+     "summary": "出馬表は地方競馬に関する情報を提供するもので、具体的な内容は示されていないにゃ。競馬ファンにとって重要な情報源だと思われるにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "愛知医科大学医学部「リベラルアーツ」非常勤講師の公募 - JREC-IN",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XaWQtZDF2a09LQjJ1ZDNSdXVhQ1dwakZWbWYwVzlKTllCZUZka3ZGamltRGE4ODROVzhaRjB1UWd5UGk2MWxlWGtYQ1dsSTZ2QmQ1TzByTS1YamhsZ19pczFnN2NXUWxp?oc=5",
+     "date": "2026-11-12T07:37:24+00:00",
+     "source": "JREC-IN",
+     "snippet": "愛知医科大学医学部「リベラルアーツ」非常勤講師の公募&nbsp;&nbsp;JREC-IN",
+     "summary": "愛知医科大学医学部が「リベラルアーツ」の非常勤講師を公募しているにゃ。教育機関としての役割を果たすため、優れた人材を求めているそうだにゃん。"
+    },
     {
      "type": "news",
      "title": "最新の画像生成AI「Seedream 5.5」がPOPPIXSに登場！サブスク会員は期間限定で生成無制限 - PR TIMES",
@@ -12,43 +48,7 @@
      "date": "2026-11-12T03:07:59+00:00",
      "source": "PR TIMES",
      "snippet": "最新の画像生成AI「Seedream 5.5」がPOPPIXSに登場！サブスク会員は期間限定で生成無制限&nbsp;&nbsp;PR TIMES",
-     "summary": "最新の画像生成AI「Seedream 5.5」がPOPPIXSに登場したにゃ。サブスク会員は期間限定で生成が無制限にできるそうだにゃん。これにより、ユーザーは自由に画像を生成できる楽しさが広がるにゃ。"
-    },
-    {
-     "type": "gov",
-     "title": "出馬表 - 地方競馬",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZVpLYkN0ejdORE9SX0ItUGxIS1oyWFVmMDZnX0h0YzdrakV0WUFtSExRN3loc01RazZoM3lfX1ZaTzNWM1pQMHRGT1RIU0I2bVJDRG0zV1JEU2VyM0RWVWpXejQ2T1M2RG9KRDJ6bnpKUVdLNzhfRGZIdTMwS1pNNVEwTkx3cktjb2p5bVdRaTF2VWo1MDlKT1JaUFotOVhBLTlObEhPM3FDdG8?oc=5",
-     "date": "2026-11-12T01:15:58+00:00",
-     "source": "地方競馬",
-     "snippet": "出馬表&nbsp;&nbsp;地方競馬",
-     "summary": "出馬表が地方競馬に関する情報を提供しているにゃ。具体的な内容は記載されていないが、競馬ファンにとって重要な情報源だにゃ。"
-    },
-    {
-     "type": "gov",
-     "title": "偽・誤情報の可能性、まさかで疑え。 - 政府広報オンライン",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RdlZoeUVMeXdsRFNqSHBvQnk1SkFqUmd1azUyU0FGd05odnRrd2pxZXAwbUdnd2ZLdkRrUXh3SmJ5VnJqajNmS3VFbFF4bWltbjhmQl9pa0prd19neUZF?oc=5",
-     "date": "2026-11-12T01:01:46+00:00",
-     "source": "政府広報オンライン",
-     "snippet": "偽・誤情報の可能性、まさかで疑え。&nbsp;&nbsp;政府広報オンライン",
-     "summary": "政府広報オンラインでは、偽・誤情報の可能性について注意を促しているにゃ。情報を鵜呑みにせず、疑ってかかることが大切だと伝えているそうだにゃん。"
-    },
-    {
-     "type": "gov",
-     "title": "AI・半導体・スマート医療をつなぐ技術エコシステム構築 台湾・陽明交通大学|その他アジア等科学技術ニュース - Science Portal Asia Pacific",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12NW4yUTZFenA4UGprdjVDdlUzN09HNWhBWHYtTHlELUEzdDdMSUVFbUJHVzN0eEpPX0dyQWpud0FtOG5fSFBPWS1aZE1lSW1JOEVhVEc0T3huWmlINEtnd21HOXJuNHA5aXlUeFkxVQ?oc=5",
-     "date": "2026-11-12T00:29:35+00:00",
-     "source": "Science Portal Asia Pacific",
-     "snippet": "AI・半導体・スマート医療をつなぐ技術エコシステム構築 台湾・陽明交通大学|その他アジア等科学技術ニュース&nbsp;&nbsp;Science Portal Asia Pacific",
-     "summary": "台湾の陽明交通大学がAI、半導体、スマート医療をつなぐ技術エコシステムを構築しているにゃ。これにより、各分野の技術革新が促進されることが期待されているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "AIが変えるメディア、情報発信の効率化と偽情報拡大 新華社が報告書 - 36Kr Japan",
-     "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE03bGd3YUhkUDU5T1FmSGxZS1BJWXk4c0hqTFJxeFJFd291Y0JxVTczcl9JVWVBZWFpaTZB?oc=5",
-     "date": "2026-11-11T09:02:38+00:00",
-     "source": "36Kr Japan",
-     "snippet": "AIが変えるメディア、情報発信の効率化と偽情報拡大 新華社が報告書&nbsp;&nbsp;36Kr Japan",
-     "summary": "新華社の報告書によると、AIはメディアの情報発信を効率化する一方で、偽情報の拡大にも寄与しているにゃ。AIの影響を考慮する必要があるそうだにゃん。"
+     "summary": "最新の画像生成AI「Seedream 5.5」がPOPPIXSに登場したにゃ。サブスク会員は期間限定で生成が無制限にできる特典があるそうだにゃん。これはクリエイターにとって大きなチャンスだと思うにゃ。"
     },
     {
      "type": "news",
@@ -57,25 +57,7 @@
      "date": "2026-11-11T03:18:00+00:00",
      "source": "株式会社共同通信社",
      "snippet": "シンポジウム「生成AI最前線とメディアの未来」を12月3日開催 国立情報学研究所の新井紀子教授が基調講演 新聞通信調査会&nbsp;&nbsp;株式会社共同通信社",
-     "summary": "国立情報学研究所が主催するシンポジウム「生成AI最前線とメディアの未来」が12月3日に開催されるにゃ。新井紀子教授が基調講演を行う予定だそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "フジテレビの地上波ドラマ制作、生成AIで工数最大70～80％削減 ANDENTと「AI Sandbox」実証 - Media Innovation",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xMUtZVDZrNUszRk4tN2t3TlRHUVhLZ3JHd2NSUDZSSXdDYjF4Si05SHVKUm96NWFSaWstblFrbEpNYjBjUkJLLWtRc1N3RXZnNlpYLVlwdGc1MU1OZWU4V0wzdE9vRzRTV3c?oc=5",
-     "date": "2026-11-10T05:00:03+00:00",
-     "source": "Media Innovation",
-     "snippet": "フジテレビの地上波ドラマ制作、生成AIで工数最大70～80％削減 ANDENTと「AI Sandbox」実証&nbsp;&nbsp;Media Innovation",
-     "summary": "フジテレビは、生成AIを活用して地上波ドラマ制作の工数を最大70～80％削減できることを実証したにゃ。ANDENTとの「AI Sandbox」プロジェクトが進行中だにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "「正式決定した事実はない」――サカナAI上場報道を即日否定、時価総額はメルカリ超えか - shiritomo",
-     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5CLWYwNTRaTmVIWXZWb1BPYldIWnNjaThDb3c0bUU5R1VyU1F4bkY1M2NSOUNlYjVxSTgyTWU0dVcwZw?oc=5",
-     "date": "2026-11-10T03:22:13+00:00",
-     "source": "shiritomo",
-     "snippet": "「正式決定した事実はない」――サカナAI上場報道を即日否定、時価総額はメルカリ超えか&nbsp;&nbsp;shiritomo",
-     "summary": "サカナAIの上場報道について、正式決定はないと即日否定されたにゃ。時価総額はメルカリを超える可能性があるとのことだが、詳細は不明だにゃん。"
+     "summary": "シンポジウム「生成AI最前線とメディアの未来」が12月3日に開催されるにゃ。国立情報学研究所の新井紀子教授が基調講演を行う予定だそうだにゃん。生成AIの影響を考える重要な機会だと思うにゃ。"
     },
     {
      "type": "news",
@@ -84,7 +66,7 @@
      "date": "2026-11-10T02:16:00+00:00",
      "source": "au Webポータル",
      "snippet": "ディズニーとAdobeが生成AI活用で複数年契約を結びパークやメディアコンテンツにAI導入&nbsp;&nbsp;au Webポータル",
-     "summary": "ディズニーとAdobeが生成AIを活用するために複数年契約を結んだにゃ。これにより、パークやメディアコンテンツにAIが導入される予定だそうだにゃん。"
+     "summary": "ディズニーとAdobeが生成AIを活用するために複数年契約を結んだにゃ。この契約により、パークやメディアコンテンツにAIが導入されることになるそうだにゃん。新たなエンターテインメントの形が楽しみだにゃ。"
     },
     {
      "type": "news",
@@ -93,7 +75,25 @@
      "date": "2026-11-10T00:41:25+00:00",
      "source": "Science Portal Asia Pacific",
      "snippet": "AI生成メディア検証の｢証拠の軌跡｣示す協働基盤を開発 台湾・陽明交通大学|その他アジア等科学技術ニュース&nbsp;&nbsp;Science Portal Asia Pacific",
-     "summary": "台湾の陽明交通大学がAI生成メディアの検証のための「証拠の軌跡」を示す協働基盤を開発したにゃ。これにより、生成されたメディアの信頼性向上が期待されているそうだにゃん。"
+     "summary": "台湾の陽明交通大学が、AI生成メディアの検証を行うための協働基盤を開発したにゃ。この基盤は「証拠の軌跡」を示すもので、AIの信頼性向上に寄与することが期待されているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "オールアバウトが「All Aboutメディアパートナーサービス」開始、企業の生成AI検索対策を支援 - Web担当者Forum",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16V25sbnRlWV9ZMnNmSkVKVnpvSG85cHhBX195c3lVVERVamVIQU0zTU1lNVVlbzE4WmVCR0pHWHFIQTJZb2duS1U3enBqZFRMV1VpX2xvS2hWalU?oc=5",
+     "date": "2026-11-09T22:01:00+00:00",
+     "source": "Web担当者Forum",
+     "snippet": "オールアバウトが「All Aboutメディアパートナーサービス」開始、企業の生成AI検索対策を支援&nbsp;&nbsp;Web担当者Forum",
+     "summary": "オールアバウトが「All Aboutメディアパートナーサービス」を開始したにゃ。このサービスは、企業の生成AI検索対策を支援するもので、デジタルマーケティングの新たな手法を提供するそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "総合情報サイト「All About」、企業のAIO/LLMO（生成AI検索対策）を支援する「All About メディアパートナーサービス」を提供開始 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CUTFMeHBhQVI4LXBZMzRwM1pkYWFSM2k5aWpSWFc0ajRuRG9LTndjZjVMc0pWc28tUDlxQUpWZ2hmUnBnUGt2YlRMWERrX3dKLVZVZlFKdDFVSnFjb3BXUExsU0ZRRzlUWUE?oc=5",
+     "date": "2026-11-09T04:00:24+00:00",
+     "source": "PR TIMES",
+     "snippet": "総合情報サイト「All About」、企業のAIO/LLMO（生成AI検索対策）を支援する「All About メディアパートナーサービス」を提供開始&nbsp;&nbsp;PR TIMES",
+     "summary": "総合情報サイト「All About」が、企業のAIO/LLMO（生成AI検索対策）を支援する「All About メディアパートナーサービス」を提供開始したにゃ。企業のデジタル戦略に役立つサービスだと思うにゃん。"
     }
    ]
   },
@@ -103,48 +103,48 @@
    "items": [
     {
      "type": "gov",
-     "title": "偽・誤情報の可能性、まさかで疑え。 - 政府広報オンライン",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RdlZoeUVMeXdsRFNqSHBvQnk1SkFqUmd1azUyU0FGd05odnRrd2pxZXAwbUdnd2ZLdkRrUXh3SmJ5VnJqajNmS3VFbFF4bWltbjhmQl9pa0prd19neUZF?oc=5",
-     "date": "2026-11-12T01:01:46+00:00",
-     "source": "政府広報オンライン",
-     "snippet": "偽・誤情報の可能性、まさかで疑え。&nbsp;&nbsp;政府広報オンライン",
-     "summary": "政府広報オンラインでは、偽情報や誤情報の可能性について警鐘を鳴らしているにゃ。情報を受け取る際には、その真偽を疑う姿勢が重要だと強調しているにゃん。特に、SNSなどで流れる情報は信頼性が低いことが多いので、慎重に判断することが求められるだにゃ。"
+     "title": "過去の新着情報一覧 - 厚生労働省",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JSDFtNm9QUmc2aU4yRTJLalU0Yk43eFpKbmQ5czFfb3Z6SVpNQkRGdE5NVDVkY1JfQkp3bFNpTmlpN01BUU9uS0xUcXIzQlpVSXUxbURmLUYzZw?oc=5",
+     "date": "2026-11-13T01:09:32+00:00",
+     "source": "厚生労働省",
+     "snippet": "過去の新着情報一覧&nbsp;&nbsp;厚生労働省",
+     "summary": "厚生労働省の過去の新着情報一覧が掲載されているにゃ。具体的な内容は記載されていないけれど、最新の情報が確認できる場所だにゃん。"
     },
     {
      "type": "news",
-     "title": "地域創生撮影活動 肱川物語 序章「ひじかわの詩」② - 千葉テレビ放送株式会社",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YZTQwWDdLczlGdDA3Q0NXaDZ1SU1ac2pmUFpPeWh1c0ZlUlljNE9yTFVJcWN2Z2JQOEVmNExOdE8wWGF0VnA4WTJJMExISTM2RTNoQlVfTGtGN2YzRXJn?oc=5",
-     "date": "2026-11-11T20:00:15+00:00",
-     "source": "千葉テレビ放送株式会社",
-     "snippet": "地域創生撮影活動 肱川物語 序章「ひじかわの詩」②&nbsp;&nbsp;千葉テレビ放送株式会社",
-     "summary": "千葉テレビ放送株式会社の「肱川物語」では、地域創生をテーマにした撮影活動が行われているにゃ。序章「ひじかわの詩」では、地域の魅力を伝えるための映像制作が進められているそうだにゃん。地域の文化や自然を大切にしながら、新たな物語を紡いでいくことが期待されているにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "森から、新しい体験と事業を！このほし、森業メディア「Shall We Forest?」創刊・「森業共創研究所」発足！ - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xVjNIdDktZHFZdmI5WU9IM0ZmbUx2c3BTYV84TjE2RFN4a0YtNWVVSG1qQWZ5YjNoYlJGRmwzck9RS2MzT0xYcFVBdkF6RXViMjMyRHdUWnRrVUN4djl6c25ScFhONlhyM3c?oc=5",
-     "date": "2026-11-11T09:39:04+00:00",
+     "title": "地方創生メディア「Made In Local」、生成AIのブランド言及数で1位を獲得！ChatGPT・Geminiでの言及率は84％を記録 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KVUpvTHZsVjYzRExEWUs2OFN2ajA5VGxyRUJBQVc1YmxxdVFDMF9XVGRpblhuVGVrbkQwM05Rai1faDRpYkZFS05HUmpnLTFyVzA3OGZtNWQ5OU1IalFnYWkxQThwX1RmU2c?oc=5",
+     "date": "2026-11-12T23:30:01+00:00",
      "source": "PR TIMES",
-     "snippet": "森から、新しい体験と事業を！このほし、森業メディア「Shall We Forest?」創刊・「森業共創研究所」発足！&nbsp;&nbsp;PR TIMES",
-     "summary": "PR TIMESによると、新たな森業メディア「Shall We Forest?」が創刊され、森業共創研究所も発足したにゃ。この取り組みは、森から新しい体験や事業を生み出すことを目指しているそうだにゃん。森の持つ可能性を広げ、持続可能な社会を実現するための活動が進められるにゃ。"
+     "snippet": "地方創生メディア「Made In Local」、生成AIのブランド言及数で1位を獲得！ChatGPT・Geminiでの言及率は84％を記録&nbsp;&nbsp;PR TIMES",
+     "summary": "地方創生メディア「Made In Local」が、生成AIのブランド言及数で1位を獲得したにゃ。特にChatGPTとGeminiの言及率は84％に達したそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "【出展のお知らせ】株式会社アナログPR、11月18日開催「公民連携フォーラム2026 inTOKYO」にブース出展決定！ - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55MXFqS3RHRkZXMTIzMWhkRDg4Y0RXaHd1Z3g1UW43YVVLdW5veGx1dy1DUDd4cklmN0VqYjlURDlWX2lwS190d216Mm9uMzFIeEZqYUkxS0JjczZ5LXpiQXRkR0ZaSkFaWWc?oc=5",
-     "date": "2026-11-11T09:29:37+00:00",
-     "source": "PR TIMES",
-     "snippet": "【出展のお知らせ】株式会社アナログPR、11月18日開催「公民連携フォーラム2026 inTOKYO」にブース出展決定！&nbsp;&nbsp;PR TIMES",
-     "summary": "PR TIMESの情報によると、株式会社アナログPRが11月18日に開催される「公民連携フォーラム2026 inTOKYO」にブース出展することが決定したにゃ。公民連携の重要性を広めるため、さまざまな取り組みを紹介する予定だそうだにゃん。参加者との交流を通じて、新たなアイデアの創出が期待されているにゃ。"
+     "title": "『おおあざ』が佐賀県基山町の地域メディアとして10年続いたワケを編集長・江藤裕子さんに聞いた｜境治＠MediaBorder - note",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEdGQ0T2piTVlLZnlvQWl2MUs1d3JhZFVHSl9OSG8xTXJNZ2c3ZEN6RUFpOFBDTDhuSC1EOHJuSlpFVVctVHByTzdzUlVoblZTTUFQT0Utbw?oc=5",
+     "date": "2026-11-12T23:30:00+00:00",
+     "source": "note",
+     "snippet": "『おおあざ』が佐賀県基山町の地域メディアとして10年続いたワケを編集長・江藤裕子さんに聞いた｜境治＠MediaBorder&nbsp;&nbsp;note",
+     "summary": "佐賀県基山町の地域メディア『おおあざ』が10年間続いた理由を、編集長の江藤裕子さんに聞いた記事だにゃ。地域密着の情報発信が支持されたことが要因のようだにゃん。"
     },
     {
      "type": "news",
-     "title": "北海道発のSNS支援サービス「AI:Promo」、函館のDX展示会でSNS投稿制作を実演 写真やWeb情報から文章・画像を生成、予約投稿まで支援 - Glocal Mission Times",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14ZFFZTnJ6V25pQ3BxakZ1Q19EQWw4cVJxVVU3SEkyaHV6cjNINWtCbXBTSTVZN1FJd1ZOc0w1MnRGMG5tOUcxZUt1YVpDMlkxbFpLUkZR?oc=5",
-     "date": "2026-11-11T09:03:01+00:00",
-     "source": "Glocal Mission Times",
-     "snippet": "北海道発のSNS支援サービス「AI:Promo」、函館のDX展示会でSNS投稿制作を実演 写真やWeb情報から文章・画像を生成、予約投稿まで支援&nbsp;&nbsp;Glocal Mission Times",
-     "summary": "Glocal Mission Timesによると、北海道発のSNS支援サービス「AI:Promo」が函館のDX展示会でSNS投稿制作を実演したにゃ。写真やWeb情報をもとに文章や画像を生成し、予約投稿まで支援する機能が紹介されたそうだにゃん。このサービスは、企業や個人のSNS活用をサポートすることを目的としているにゃ。"
+     "title": "若者と企業の「わからない」を「共創」で解決 都内企業が秋田に初の地方拠点（秋田朝日放送） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPQ2pOREluaTJsaXBLblFsVjU4ZUpRbEd1RFRNaUVtRjdxU3lzUVhtdmJ5YkNIaTBpSUJmMUlEaXpNcWNjUndlWDJYcWFzdTlHR0FwQlNYRm5NR0ZoQnJoenhqQmxLb3E2d00wLUlQSzFhamgwekFaNEMxN1N4aWc?oc=5",
+     "date": "2026-11-12T12:06:02+00:00",
+     "source": "Yahoo!ニュース",
+     "snippet": "若者と企業の「わからない」を「共創」で解決 都内企業が秋田に初の地方拠点（秋田朝日放送）&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "都内企業が秋田に初の地方拠点を設立し、若者と企業の「わからない」を「共創」で解決する取り組みを始めたにゃ。地域との連携が期待されているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "地域をあげて取り組みを 氷見市で復興まちづくり推進会議（北日本放送） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pZWdXemg2bUlhSW00am1wR2pXUU5XOTN6aV9BQjlyM3FEZlgzMFhMZ295TWNob0I5MFQxQVJWMUQ0ZGV4TnpBWTVvN1IzRUZENmNtYi1Ccm1Vcm51X0FTOWFOYzRLeGZPWVU4dDFEaDlZVzgtOTlpeEo3SHBaU0U?oc=5",
+     "date": "2026-11-12T10:37:00+00:00",
+     "source": "Yahoo!ニュース",
+     "snippet": "地域をあげて取り組みを 氷見市で復興まちづくり推進会議（北日本放送）&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "氷見市で復興まちづくり推進会議が開催され、地域全体での取り組みが進められているにゃ。復興に向けた具体的な施策が話し合われているそうだにゃん。"
     }
    ]
   },
@@ -154,48 +154,48 @@
    "items": [
     {
      "type": "news",
+     "title": "新規事業の開拓へ100社以上が参加 生命保険会社が地域の企業向けに商談会を開催 - TBSテレビ",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FWFBOTFFQOGFxU2E3STRGZFNhQXBkX0pRaXFyc1VUWnlrNDdCUlNCd3VFUW5wNm5fX0pIZkktd1RFV09tMEVjNjhTT0FwQjZCVF9RX0czdWRrQQ?oc=5",
+     "date": "2026-11-12T09:26:00+00:00",
+     "source": "TBSテレビ",
+     "snippet": "新規事業の開拓へ100社以上が参加 生命保険会社が地域の企業向けに商談会を開催&nbsp;&nbsp;TBSテレビ",
+     "summary": "新規事業の開拓を目的に、100社以上の企業が参加する商談会が生命保険会社によって開催されたにゃ。地域の企業との連携を深め、新たなビジネスチャンスを模索する場となったそうだにゃん。参加企業は多様で、地域経済の活性化に寄与することが期待されているにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "J:COMといい生活、不動産業界と地域社会のDX推進に向け業務資本提携:共同通信PRワイヤー - 福島民友新聞社",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnRjQyM0RlWmszckxDOEYzM2VOYmtIZlVMdGhXTGNPQy1Ga0luMUtJQlh2dkpOTTlSV0l3VVlUNzEtYTB4R3VmXzlyZTB1cS1KWkJjVUZZOF8zandwZElDRkNmdkVReGlNRElGcw?oc=5",
+     "date": "2026-11-12T07:00:00+00:00",
+     "source": "福島民友新聞社",
+     "snippet": "J:COMといい生活、不動産業界と地域社会のDX推進に向け業務資本提携:共同通信PRワイヤー&nbsp;&nbsp;福島民友新聞社",
+     "summary": "J:COMといい生活が不動産業界と地域社会のデジタルトランスフォーメーション（DX）推進に向けて業務資本提携を結んだにゃ。これにより、地域の不動産業界のデジタル化を促進し、より良いサービスを提供することを目指すそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "博報堂DYホールディングスが大広、読売広告社、オプトで新事業体を検討、AI時代のマーケビジネス再編（Web担当者Forum） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WdHRiS0pEMzlvN1k4NUlJajBrSzRhX29aREJzM2RyWlFxQkI5eU8weXBhZlNxMEZ3enNDbHBLMWpxeTRIVk9fVXNSY0pXd0pxU0ZkYjZENmo0ci1IMXN0amRjM2RYZlNQSW1OREJCZ2NMSFVEbkVDTng0cUtzSm8?oc=5",
+     "date": "2026-11-12T06:03:29+00:00",
+     "source": "Yahoo!ニュース",
+     "snippet": "博報堂DYホールディングスが大広、読売広告社、オプトで新事業体を検討、AI時代のマーケビジネス再編（Web担当者Forum）&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "博報堂DYホールディングスが、大広、読売広告社、オプトと共に新たな事業体を検討しているにゃ。AI時代におけるマーケティングビジネスの再編を目指し、各社の強みを活かした新しい形のビジネスモデルを模索しているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "HENNGE One、メールDXプラットフォーム「yaritori」とのシングルサインオン連携開始 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04T0pnaF91YXNsdXZpSEJOU1h0cTU4M2pGalliQ2RTZ2FydEJkemZycE9JM0hKQkJ1a1Bjd053Z24zbkE2RU5qeVZFQ3R3bi1DM0RmSmVZVU40NXZGTVlpN3JzcFlCMWlZc1E?oc=5",
+     "date": "2026-11-12T02:30:02+00:00",
+     "source": "PR TIMES",
+     "snippet": "HENNGE One、メールDXプラットフォーム「yaritori」とのシングルサインオン連携開始&nbsp;&nbsp;PR TIMES",
+     "summary": "HENNGE Oneが、メールDXプラットフォーム「yaritori」とのシングルサインオン連携を開始したにゃ。この連携により、ユーザーはより便利にサービスを利用できるようになり、業務効率の向上が期待されているそうだにゃん。"
+    },
+    {
+     "type": "news",
      "title": "「アルビス」TOB成立で「ライフ」の子会社に 富山 - NHKニュース",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EemhHVE9EWTFiYTlJYmNBR1RnSFJPa3hDUGtON1ViRGV5QnN2YWhwYnlKeFloSEdtT0tSWGx4b1drdXBHQzJwZzB2bWxTa1NCVWVranRDNjB6d0FvUGpv?oc=5",
-     "date": "2026-11-11T09:16:14+00:00",
+     "date": "2026-11-11T09:16:00+00:00",
      "source": "NHKニュース",
      "snippet": "「アルビス」TOB成立で「ライフ」の子会社に 富山&nbsp;&nbsp;NHKニュース",
-     "summary": "富山の「アルビス」がTOBを成立させ、「ライフ」の子会社となったことが報じられたにゃ。この動きは、企業の再編や戦略的な成長を目指すもので、地域経済にも影響を与える可能性があるにゃ。今後の展開に注目だにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "九州最大規模のU25世代向けスタートアップの祭典『TORYUMON KYUSHU 2026 REBOOT』全登壇者・コンテンツを公開！ - 西日本新聞me",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pM2kyNV9zcVlOSWpBbjBFSkZMcUstLUpGaTJCLS14Mk1FTzBpZnU1QkhZMm1kNmFTUzBOTkc3MnNTaUZLNWpzU2pLak02VU4yZGRuZXN3?oc=5",
-     "date": "2026-11-11T08:00:01+00:00",
-     "source": "西日本新聞me",
-     "snippet": "九州最大規模のU25世代向けスタートアップの祭典『TORYUMON KYUSHU 2026 REBOOT』全登壇者・コンテンツを公開！&nbsp;&nbsp;西日本新聞me",
-     "summary": "九州最大規模のU25世代向けスタートアップ祭典『TORYUMON KYUSHU 2026 REBOOT』が開催されることが発表されたにゃ。全登壇者やコンテンツが公開され、若者の起業意欲を刺激するイベントとなる予定だにゃ。参加者の反応が楽しみだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "セミナー「経営を科学するCFO組織とデータドリブン参謀：予実管理DX・BI・会計基盤で実現する『未来予測型』経営への転換」 12月8日（火）13時からオンラインで開催《参加者募集》 - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mRW9jaGtlSFItanFrNTBIZmN2M1Z6V1V0Unc1X3JvejZxSFRRd1hhZHNITTc2YXNUWWFrZjN0SUdnTHVGUTU1bG55NUJnUUdodEtGRXR5cUZKTThleU1SbGlvR2hiSFpoWGc?oc=5",
-     "date": "2026-11-11T01:10:01+00:00",
-     "source": "PR TIMES",
-     "snippet": "セミナー「経営を科学するCFO組織とデータドリブン参謀：予実管理DX・BI・会計基盤で実現する『未来予測型』経営への転換」 12月8日（火）13時からオンラインで開催《参加者募集》&nbsp;&nbsp;PR TIMES",
-     "summary": "セミナー「経営を科学するCFO組織とデータドリブン参謀」が12月8日にオンラインで開催されるにゃ。このセミナーでは、予実管理DXやBIを活用した未来予測型経営への転換について議論される予定で、参加者を募集中だにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "博報堂DYHD、大広・読売広告社・オプトを中心とした新事業体を検討 AI時代に対応し国内マーケティング事業を再編へ - Agenda note (アジェンダノート)",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBM29XZTRQWmNKaWxtU21oTExRbHg0dWxUb0t0bDdDa3c5RFoxNDB2dUdyb0JXYko0QlY2dTc1UVZlSDRxZDdtOVpOTjZxQzdTMkV6RjVwbGc?oc=5",
-     "date": "2026-11-10T23:55:35+00:00",
-     "source": "Agenda note (アジェンダノート)",
-     "snippet": "博報堂DYHD、大広・読売広告社・オプトを中心とした新事業体を検討 AI時代に対応し国内マーケティング事業を再編へ&nbsp;&nbsp;Agenda note (アジェンダノート)",
-     "summary": "博報堂DYHDが、大広・読売広告社・オプトを中心に新事業体を検討しているにゃ。これはAI時代に対応した国内マーケティング事業の再編を目指すもので、業界の動向に影響を与える可能性があるにゃん。今後の進展が気になるにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "新プロジェクトX「宇都宮LRT特集」停留場に停車するLRT（写真提供＝NHK宇都宮放送局） - 宇都宮経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RcW84cmNVTTRGblBNMG9na0hGM2pQeENQZmNQVl8yeGp4QzJhRDdpS2dIcWdpUEVZRkxDVXpObUF6WE5oVGRfVHp1U0JucUExbi0zWmVJOFBUZw?oc=5",
-     "date": "2026-11-10T12:06:47+00:00",
-     "source": "宇都宮経済新聞",
-     "snippet": "新プロジェクトX「宇都宮LRT特集」停留場に停車するLRT（写真提供＝NHK宇都宮放送局）&nbsp;&nbsp;宇都宮経済新聞",
-     "summary": "新プロジェクトXとして「宇都宮LRT特集」が発表されたにゃ。停留場に停車するLRTの写真が提供され、地域の交通インフラの発展が期待されるにゃ。このプロジェクトがどのように進展するか注目だにゃん。"
+     "summary": "富山の「アルビス」がTOBを成立させ、「ライフ」の子会社となったにゃ。この結果、両社のシナジー効果が期待され、地域の流通業界における競争力が強化される見込みだそうだにゃん。"
     }
    ]
   },
@@ -205,21 +205,30 @@
    "items": [
     {
      "type": "news",
+     "title": "【レポート】特別展「生きものたちの性」国立科学博物館で、27年2月21日まで 知れば知るほど、いつもの世界が違って見える！ 生きものたちの驚くべき「性」の仕組みとは - 美術展ナビ",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TeGlqdk9sTjRsTnRyNURzZnpyMjhtbmtmXzlEUWQ4Yzd4Sng2S2NwaUlta1F4NUdJZjZLOEFpLVEtaGhHUVh2MXVEMGJRM2tXNFUyc0owWnRsMXBBLTVKYnRZc19BMGst?oc=5",
+     "date": "2026-11-12T18:24:00+00:00",
+     "source": "美術展ナビ",
+     "snippet": "【レポート】特別展「生きものたちの性」国立科学博物館で、27年2月21日まで 知れば知るほど、いつもの世界が違って見える！ 生きものたちの驚くべき「性」の仕組みとは&nbsp;&nbsp;美術展ナビ",
+     "summary": "国立科学博物館で特別展「生きものたちの性」が開催されているにゃ。この展覧会は2027年2月21日まで続く予定で、生きものたちの多様な性の仕組みを紹介しているんだにゃ。知識を深めることで、普段の世界がどれほど違って見えるかを体験できる展示が盛りだくさんだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "特別展「可愛いだけじゃない！？ピングー展」【福岡市科学館】2026 - 福岡市観光情報サイト よかなび",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sNDNKXy1GSFZ3ODB6ZVZxcVZJYzlLbVBRS0V2STlxUlZva0s3bXYzV3QwMVVfZUpxUXVZc01tS1BtY2cxdHJSZGR3?oc=5",
+     "date": "2026-11-12T06:29:51+00:00",
+     "source": "福岡市観光情報サイト よかなび",
+     "snippet": "特別展「可愛いだけじゃない！？ピングー展」【福岡市科学館】2026&nbsp;&nbsp;福岡市観光情報サイト よかなび",
+     "summary": "福岡市科学館で特別展「可愛いだけじゃない！？ピングー展」が2026年に開催される予定だにゃ。この展覧会では、ピングーの魅力だけでなく、さまざまな視点からピングーの世界を楽しむことができる内容になるそうだにゃん。詳細は福岡市観光情報サイトで確認できるにゃ。"
+    },
+    {
+     "type": "news",
      "title": "国立科学博物館初の「性」がテーマの展覧会、「生きものたちの性」が開幕。多様な性のあり方を知る - Tokyo Art Beat",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90MkZ4OE5zM3I1RWdMWl9MelI0WTA5V3oxUld3aldsdFhxM0paODdRY3FFQkdzYVNTUlZENVlid1VXa0hsWnNjV24xQ2loOFRNTGNybnpyTmFRNWlNdTJ6UXRRV2xoS3puRzl5YlgtaW84SmxfdVE?oc=5",
      "date": "2026-11-11T11:31:00+00:00",
      "source": "Tokyo Art Beat",
      "snippet": "国立科学博物館初の「性」がテーマの展覧会、「生きものたちの性」が開幕。多様な性のあり方を知る&nbsp;&nbsp;Tokyo Art Beat",
-     "summary": "国立科学博物館で初めての「性」をテーマにした展覧会「生きものたちの性」が開幕したにゃ。この展覧会では、動植物の多様な性のあり方を紹介し、性に関する理解を深めることを目的としているそうだにゃん。来場者は、さまざまな生き物の性に関する展示を通じて、自然界の不思議を体験できるだにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "過去の被害、学びに＝昭和南海地震８０年の企画展―気象科学館 - 時事通信ニュース",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VekgweGF4VGhiS3k3RWQteFNOaG9ZcEUzMHVtTGtabGNYZUw0ZV9SbzhoblNOdVVFUmVMV2JaNzRJXy1DQmtZYTllWWM3a1NXRlFvRg?oc=5",
-     "date": "2026-11-11T05:13:00+00:00",
-     "source": "時事通信ニュース",
-     "snippet": "過去の被害、学びに＝昭和南海地震８０年の企画展―気象科学館&nbsp;&nbsp;時事通信ニュース",
-     "summary": "気象科学館では、昭和南海地震から80年を迎え、過去の被害を学ぶ企画展が開催されるにゃ。この展覧会では、地震の影響やその後の対策についての情報が提供され、来場者が防災意識を高めることが期待されているそうだにゃん。歴史を振り返りながら、未来に向けた学びの場となるだにゃ。"
+     "summary": "国立科学博物館で初めて「性」をテーマにした展覧会「生きものたちの性」が開幕したにゃ。この展覧会では、多様な性のあり方について学ぶことができるんだにゃ。生きものたちの驚くべき性の仕組みを知ることで、新たな視点が得られる展示が展開されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -228,7 +237,7 @@
      "date": "2026-11-10T19:13:19+00:00",
      "source": "川口経済新聞",
      "snippet": "秋期企画展「ぼくらの理科室 科学館！」&nbsp;&nbsp;川口経済新聞",
-     "summary": "川口経済新聞によると、秋期企画展「ぼくらの理科室 科学館！」が開催されるにゃ。この展覧会では、科学の楽しさを体験できる様々な展示やアクティビティが用意されているそうだにゃん。子どもたちが科学に興味を持つきっかけとなることを目指しているだにゃ。"
+     "summary": "川口経済新聞によると、秋期企画展「ぼくらの理科室 科学館！」が開催されるにゃ。この展覧会では、科学の楽しさを体験できるさまざまな展示やアクティビティが用意されているそうだにゃん。子どもたちが科学に親しむ良い機会になるだろうにゃ。"
     },
     {
      "type": "news",
@@ -237,16 +246,7 @@
      "date": "2026-11-10T14:03:50+00:00",
      "source": "川口経済新聞",
      "snippet": "中高生が科学の面白さを紹介する「ぼくらの科学展」 「わくわく屋台村」も&nbsp;&nbsp;川口経済新聞",
-     "summary": "川口経済新聞が伝えるところによると、中高生が科学の面白さを紹介する「ぼくらの科学展」が開催されるにゃ。「わくわく屋台村」も併設され、参加者は楽しく科学に触れることができるそうだにゃん。若い世代が科学に興味を持つ機会を提供するイベントだにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "【鹿児島開催イベント】 科学館に寿司がやってきた！〜にぎって味わう、“おいしさ”の奥へ - 日本科学未来館",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KUmt6Q1Z2WG5tTno5bDV3eE00djNnNUlIR1d1dUVZQXF3UnhjdkVjU2RyWDZhVFhFZEtjTkFSQTA2LXZRZlpmQW9pcUxBaG0tWGljeGtJdUdrTEdhMmpEUGlkX2tTUQ?oc=5",
-     "date": "2026-11-10T10:45:55+00:00",
-     "source": "日本科学未来館",
-     "snippet": "【鹿児島開催イベント】 科学館に寿司がやってきた！〜にぎって味わう、“おいしさ”の奥へ&nbsp;&nbsp;日本科学未来館",
-     "summary": "日本科学未来館で、鹿児島開催のイベント「科学館に寿司がやってきた！」が行われるにゃ。このイベントでは、寿司をにぎる体験を通じて「おいしさ」の奥深さを学ぶことができるそうだにゃん。食文化と科学の融合を楽しむ機会となるだにゃ。"
+     "summary": "中高生が科学の面白さを紹介する「ぼくらの科学展」が開催されるにゃ。川口経済新聞によると、「わくわく屋台村」も併設されており、楽しい体験ができるイベントになるそうだにゃん。若い世代が科学に興味を持つきっかけになることを期待しているにゃ。"
     }
    ]
   },
@@ -256,48 +256,48 @@
    "items": [
     {
      "type": "news",
-     "title": "アテンションエコノミー時代、どうすれば「選ばれる」？――YouTube分析とVR体験から探る【Inter BEE 2026 セッション事前レポート】 - Magazine | コンテンツビジネスとプロフェッショナルのためのメディア総合展示会 Inter BEE 2026 - Inter BEE 2026",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wMXJyZzlBWnE3MDZ2U1lrbHQ2SW5FdG1XaEUwdXVyZ1drTTNmZ285aXRGemxFU1NVWDVKeTBKNEVLNkRRZDNhd3dkU1lzUGlVWDJRVXVoS0JhTFBYbWZaM3N5elZzQ2It?oc=5",
-     "date": "2026-11-12T00:45:14+00:00",
-     "source": "Inter BEE 2026",
-     "snippet": "アテンションエコノミー時代、どうすれば「選ばれる」？――YouTube分析とVR体験から探る【Inter BEE 2026 セッション事前レポート】 - Magazine | コンテンツビジネスとプロフェッショナルのためのメディア総合展示会 Inter BEE 2026&nbsp;&nbsp;Inter BEE 2026",
-     "summary": "アテンションエコノミー時代において、コンテンツが「選ばれる」ための戦略を探るセッションがInter BEE 2026で行われるにゃ。YouTubeの分析やVR体験を通じて、視聴者の注意を引く方法や、効果的なコンテンツ制作のポイントが議論される予定だにゃん。これにより、クリエイターや企業は新たな視聴者を獲得するためのヒントを得ることができるにゃ。"
+     "title": "ＡＲアドバン - 日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80dFVOQ2lRbFNhdkVMNkxxTHFIN2J3ZE9reXhRQ1J3c2JxSDFHU0k3VDVDNG5DQy1na2oyZ1JDSndYRkppQUlneWR5eVR3OVJhZkpnbFFpcGtYMXk4UmNBNHZuUlZCQVo1WGc?oc=5",
+     "date": "2026-11-13T01:00:00+00:00",
+     "source": "日本経済新聞",
+     "snippet": "ＡＲアドバン&nbsp;&nbsp;日本経済新聞",
+     "summary": "「ＡＲアドバン」は日本経済新聞に掲載された記事だにゃ。詳細な内容は記載されていないけれど、AR技術に関連する情報が含まれていると思われるにゃ。"
     },
     {
      "type": "news",
-     "title": "火星を歩いて探索！みなとみらいの体験型火星ミュージアムが夜の延長営業と200円引き - いこーよニュース",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UaTB0cVpvbGp3bkJHa05QLTFFci1NTjg0OGdxN2VWRERZQnZINFY2bG5aRVExWVh6Ym1ManhUNE1uTDA2Y1l0OGJTUUZsckM1M0E?oc=5",
-     "date": "2026-11-12T00:24:37+00:00",
-     "source": "いこーよニュース",
-     "snippet": "火星を歩いて探索！みなとみらいの体験型火星ミュージアムが夜の延長営業と200円引き&nbsp;&nbsp;いこーよニュース",
-     "summary": "みなとみらいの体験型火星ミュージアムが、夜の延長営業を行い、入場料が200円引きになるキャンペーンを実施するにゃ。火星をテーマにしたこのミュージアムでは、訪問者が火星を探索する体験ができるにゃん。特に夜間の営業は、より多くの人々に楽しんでもらうための取り組みだにゃ。"
+     "title": "東京の魅力を食べて、体験して、次の旅先を見つけよう！ 東京周遊フェス「TOKYO周穫祭2026」 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DWDhXVTNvd01QMV9zMVZpVlQ1NjVJZGRDb0t6aU9VVkJPa1ZGbDhiMGVUUmVfWnZfMndLMGVzTXVxdzh1MU5KbXQ5R2dMNzFFYzM3eUY1Wno5bzJHLUVrVVppSjM2VW5tSWFrZk5ZM2dfMXc?oc=5",
+     "date": "2026-11-12T23:33:32+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "東京の魅力を食べて、体験して、次の旅先を見つけよう！ 東京周遊フェス「TOKYO周穫祭2026」&nbsp;&nbsp;ニコニコニュース",
+     "summary": "「TOKYO周穫祭2026」は、東京の魅力を食べたり体験したりするイベントだにゃ。参加者は新しい旅先を見つけることができるそうだにゃん。詳細はニコニコニュースに掲載されているにゃ。"
     },
     {
      "type": "news",
-     "title": "キヤノン、スーパー耐久最終戦に車載映像から制作したVRコンテンツを展示。HMDでレース気分を味わえる - autosport web",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xZXNzM3pIaGJtaDk0NGs0b2ozWU91SEVtbkVlMDd0MVJEUTA5RFFSa25sUmJpeFY1TWJoaUU5TzRiQUktQm1NbkpTRmhfd2s?oc=5",
-     "date": "2026-11-11T10:24:00+00:00",
-     "source": "autosport web",
-     "snippet": "キヤノン、スーパー耐久最終戦に車載映像から制作したVRコンテンツを展示。HMDでレース気分を味わえる&nbsp;&nbsp;autosport web",
-     "summary": "キヤノンはスーパー耐久最終戦で、車載映像を基にしたVRコンテンツを展示するにゃ。HMDを使用することで、観客はレースの臨場感を体験できる仕組みだにゃん。この取り組みは、VR技術を活用してスポーツ観戦の新しい楽しみ方を提供するもので、注目を集めているにゃ。"
+     "title": "2027年1月2日(土)から開催！まほステ5周年記念「舞台『魔法使いの約束』5th - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LU2NaX0hETHluVUJ4Q1JVcTVLS3VNcGkzemxfVS1vOERqa3JqQ3BCdmh3QWY3dXhRLURYYUowVldOX2F4dWgyaXRrcXE5dXE4YlRhQmlmbGVsTEdHd1cxcDFQc0NuVlNkOHFHRXgxb0hxbG9BNlhYaGxoRQ?oc=5",
+     "date": "2026-11-12T11:45:32+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "2027年1月2日(土)から開催！まほステ5周年記念「舞台『魔法使いの約束』5th&nbsp;&nbsp;ニコニコニュース",
+     "summary": "舞台『魔法使いの約束』の5周年記念イベントが、2027年1月2日から開催されるにゃ。詳細はニコニコニュースで確認できるにゃん。ファンには嬉しいニュースだにゃ。"
     },
     {
      "type": "news",
-     "title": "体験型火星ミュージアム『THE SUNSET OF MARS』11月20日（金）より平日限定で「VR火星旅行 夜がお得WEEK」営業時間を2時間延長 ＆ 夜間限定「一律200円引き」 - Infoseek",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CdnpuR29CaHVJTTRENFlTSTkyV01rdFI2OGI4eEptUEM2Q2lId1B6MENaZGNzNTRSMXFvLVdNeXNDYWdyQzl1TlZNSFJKRzlmTy1tUEc3VENxTHhMd3Q4TVVuQ0tNbk1pSE5wUTBQSVNodw?oc=5",
-     "date": "2026-11-11T08:39:05+00:00",
-     "source": "Infoseek",
-     "snippet": "体験型火星ミュージアム『THE SUNSET OF MARS』11月20日（金）より平日限定で「VR火星旅行 夜がお得WEEK」営業時間を2時間延長 ＆ 夜間限定「一律200円引き」&nbsp;&nbsp;Infoseek",
-     "summary": "体験型火星ミュージアム『THE SUNSET OF MARS』が、11月20日から平日限定で「VR火星旅行 夜がお得WEEK」を開催するにゃ。営業時間を2時間延長し、夜間限定で入場料が一律200円引きになる特典があるにゃん。これにより、より多くの来館者に火星の魅力を体験してもらうことを目指しているにゃ。"
+     "title": "【XR Kaigi 2026】現地で体験できるXRデバイス情報まとめ、スマートグラスからヘッドセット、トラッキングデバイスまで - Mogura VR",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Bb3d3eThpUnJwVjBfME9VUFNCanpEVV9PNTFEalpFLUgteGE0TDhGdzRwVlNqS0tycGp3dk1ScGUyTWFJYzkzY1FmbTc4bVFHSEdTZ283c01BZk5KNENremkzdWJ2MWhHNEl3?oc=5",
+     "date": "2026-11-12T09:58:57+00:00",
+     "source": "Mogura VR",
+     "snippet": "【XR Kaigi 2026】現地で体験できるXRデバイス情報まとめ、スマートグラスからヘッドセット、トラッキングデバイスまで&nbsp;&nbsp;Mogura VR",
+     "summary": "「XR Kaigi 2026」では、現地で体験できるXRデバイスの情報がまとめられているにゃ。スマートグラスやヘッドセット、トラッキングデバイスなど、多様なデバイスが紹介されているそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "ももクロメンバーとバーチャルドッジボールで対戦！ARスポーツ「HADO」が12月5日・6日にピオニウォーク東松山に登場！ - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KYnR0NXFHbGZaQUFRakkwb3hpZlBmR1hDQTVlWENtVUlNNFJIaTRISUpYQnJpRUpqdW01cnp0Q0tsYk1VRlhZQjg4SDgyWkhfVk1ua21CZWVWcUZIQzBtcUhQanN2enVCY2c?oc=5",
-     "date": "2026-11-11T05:36:06+00:00",
-     "source": "PR TIMES",
-     "snippet": "ももクロメンバーとバーチャルドッジボールで対戦！ARスポーツ「HADO」が12月5日・6日にピオニウォーク東松山に登場！&nbsp;&nbsp;PR TIMES",
-     "summary": "ももクロのメンバーとバーチャルドッジボールで対戦できるARスポーツ「HADO」が、12月5日・6日にピオニウォーク東松山に登場するにゃ。参加者は、リアルな動きとAR技術を組み合わせた新感覚のスポーツを楽しむことができるにゃん。このイベントは、ファンにとって特別な体験となるだろうにゃ。"
+     "title": "レーシングカーに乗った気分になれる！ スーパー耐久最終戦にキヤノンがVR体験ブースを出展 - GetNavi web",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GdGhIMVFqNjdoQWJiLV92NlFzelRMWWhJZzZ2NzB4SGVPNF9seFRFY0E0OFZobHJ5cXVvUkhrQy1MMFA0R0g5bjRrZlo?oc=5",
+     "date": "2026-11-12T08:15:00+00:00",
+     "source": "GetNavi web",
+     "snippet": "レーシングカーに乗った気分になれる！ スーパー耐久最終戦にキヤノンがVR体験ブースを出展&nbsp;&nbsp;GetNavi web",
+     "summary": "スーパー耐久最終戦にて、キヤノンがVR体験ブースを出展するにゃ。参加者はレーシングカーに乗った気分を味わえる体験ができるそうだにゃん。詳細はGetNavi webで確認できるにゃ。"
     }
    ]
   }
