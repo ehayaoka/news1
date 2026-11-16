@@ -1,45 +1,72 @@
 {
- "updated": "2026-11-15T02:09:46.297486+00:00",
+ "updated": "2026-11-16T00:21:00.588625+00:00",
  "categories": [
   {
    "id": "ai_media",
    "title": "🤖 AI×メディア研究（ニュース・論文・行政）",
    "items": [
     {
+     "type": "gov",
+     "title": "AI事業者などへの2.5％賦課金を提案 豪科学アカデミー - Science Portal Asia Pacific",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uTElfU3JyWXNici1uUHFoZmozOU1sdnBKdXo4ZDlzVkxlUlgxMUNCSF9fNFA5VkduZGJZZVdyVkRZYnpMd2VfUFZrMzFuZ0hXRTIwdFR2bkhDd3N6T25SbjNIejdjQ2RRWDVv?oc=5",
+     "date": "2026-11-16T00:11:47+00:00",
+     "source": "Science Portal Asia Pacific",
+     "snippet": "AI事業者などへの2.5％賦課金を提案 豪科学アカデミー&nbsp;&nbsp;Science Portal Asia Pacific",
+     "summary": "豪科学アカデミーがAI事業者に対して2.5％の賦課金を提案したにゃ。この提案は、AI技術の発展に伴う社会的影響を考慮し、資金を調達する目的があるそうだにゃ。賦課金の導入により、AI関連の研究や社会的課題への対応が進むことが期待されているにゃん。"
+    },
+    {
      "type": "news",
-     "title": "AIの答えを疑う農家ほど、AIを使いこなせる？ みかん農家が実践する「鵜呑みにしない」生成AI活用 - 弘前経済新聞",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03eGl1bjRUT09IcFV3NFJzaG9UYzNNcVQtMXplcm9zbENkX3FocFNZeGg1SjJBbnlDc1VuN2hiNzJEbUh3SVRiNlktTXFZSnA2V0g3ZHpB?oc=5",
-     "date": "2026-11-13T10:21:17+00:00",
-     "source": "弘前経済新聞",
-     "snippet": "AIの答えを疑う農家ほど、AIを使いこなせる？ みかん農家が実践する「鵜呑みにしない」生成AI活用&nbsp;&nbsp;弘前経済新聞",
-     "summary": "弘前経済新聞の記事では、みかん農家が生成AIを活用する際に、AIの答えを鵜呑みにせず疑う姿勢が重要であることが述べられているにゃ。農家はAIの提案を参考にしつつ、自らの経験や知識を活かして判断を行うことで、より効果的な活用ができると考えているそうだにゃん。これにより、農業の生産性向上が期待されるにゃ。"
+     "title": "Megaspeed、AIクラウド事業をめぐる報道の調査に向け弁護士を起用 - Unite.AI",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGNPZVR1RlVfd3J3QXNLb0V2YUxuSjQ3NjZ0VlV5d19lWExZNHB0aEZzUjBiWHdaSFNTUmVocDlOMlFSV0o1dlA1d3o1dXlKY1RrU3hyS2g1RHZadGhLa3J5VW1EMktYa3RMVmhtblBDczZ0bGp1blROZEdudU51MTRDNlZFM2thWVdKUmRxODNlcV85OXVn?oc=5",
+     "date": "2026-11-15T09:16:04+00:00",
+     "source": "Unite.AI",
+     "snippet": "Megaspeed、AIクラウド事業をめぐる報道の調査に向け弁護士を起用&nbsp;&nbsp;Unite.AI",
+     "summary": "MegaspeedがAIクラウド事業に関する報道を受けて、調査のために弁護士を起用したにゃ。具体的な内容は明らかにされていないが、報道の信憑性や影響を検討するための措置と考えられるにゃん。今後の展開が注目されるにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "イトウ先生のTips note 【Premiere 2026】Premiere上で動画生成AIを使用し、ビデオやサウンドを作成できる「生成メディアツール」 - CGWORLD.jp",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0QnJLYnJLTl9FQVhTUEI3b2xweXVPbGVhejh6bmp0RC1vZzBMcGRYT2c0TFJ4NTNaa0VMSGxsSjl0d3BLa1cyeHRLZlpoWU1FNUZZLWY5TW1uSHM?oc=5",
+     "date": "2026-11-14T00:16:22+00:00",
+     "source": "CGWORLD.jp",
+     "snippet": "イトウ先生のTips note 【Premiere 2026】Premiere上で動画生成AIを使用し、ビデオやサウンドを作成できる「生成メディアツール」&nbsp;&nbsp;CGWORLD.jp",
+     "summary": "Premiere 2026では、動画生成AIを活用した「生成メディアツール」が導入されるにゃ。このツールを使うことで、ユーザーはビデオやサウンドを簡単に作成できるようになるそうだにゃ。クリエイティブな表現が広がることが期待されているにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "AIと動画が広がるほど、媒体固有の価値をどうつくるか【今週のメディアニュースレターひとまとめ】11/14号 - Media Innovation",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xN1dHdkFSU21LT1ZFUDBKVWNZOWZHZDNQRHhfTjFxRlhsM1dTcUthcDFYU2FEd3VfajJydENkMjJsQkxCdGZrWDdaS1RneHZvRkROMmVCMzZINUhEUE53eGVqUlFXdlNJYlE?oc=5",
+     "date": "2026-11-14T00:00:02+00:00",
+     "source": "Media Innovation",
+     "snippet": "AIと動画が広がるほど、媒体固有の価値をどうつくるか【今週のメディアニュースレターひとまとめ】11/14号&nbsp;&nbsp;Media Innovation",
+     "summary": "AIと動画の普及が進む中、媒体固有の価値をどう創出するかが重要なテーマとなっているにゃ。メディアニュースレターでは、今後のメディア戦略についての考察が行われており、独自性を保つための取り組みが求められているそうだにゃん。"
     },
     {
      "type": "gov",
-     "title": "中国、高齢者向け製品の消費拡大に向け新たな措置を発表、多様な消費シーン創出へ(中国) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2MXpLM3BLSFN2YXhlY19SM1ZzRXR3VDQzczFBcGFod2QzcXdsRGVxY1AwVEZQdzZfc1I5OVJhTG11ci1Lb0JpVXdROUZ6cGRtSWRLSnBud0s3X092bXpleDQwZ0taWjBHQVJDMGFn?oc=5",
-     "date": "2026-11-13T06:36:56+00:00",
-     "source": "ジェトロ（日本貿易振興機構）",
-     "snippet": "中国、高齢者向け製品の消費拡大に向け新たな措置を発表、多様な消費シーン創出へ(中国) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "ジェトロの記事によると、中国政府は高齢者向け製品の消費拡大を目指し、新たな施策を発表したにゃ。これにより、高齢者が多様な消費シーンで製品を利用できるようにすることを目指しているそうだにゃん。具体的な施策の内容はまだ明らかではないが、高齢者市場の活性化が期待されているにゃ。"
+     "title": "日米海底鉱物資源イノベーション・プラットフォーム 高市総理ビデオメッセージ-令和8年11月13日 - 政府広報オンライン",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGM1VG5WMXNOVkh2M3RYQWtWQUNQWnhCQm0tYnlzNjJSUk5jT05SRGxaSEQyRlJsSk04ajRRdjF2Vnh0NG1TcEF4YVVRekxJUnhuV1lJVFdPSkpWZXRpNFVlaHpqNXBqbXgyWlhvazNsTmduUDZ1SVFzUVFsVFJNUGY1UUo4VGtxQW9zZ0ZZTQ?oc=5",
+     "date": "2026-11-13T10:14:13+00:00",
+     "source": "政府広報オンライン",
+     "snippet": "日米海底鉱物資源イノベーション・プラットフォーム 高市総理ビデオメッセージ-令和8年11月13日&nbsp;&nbsp;政府広報オンライン",
+     "summary": "高市総理が日米海底鉱物資源イノベーション・プラットフォームに関するビデオメッセージを発信したにゃ。このプラットフォームは、海底資源の開発や利用に向けた国際的な協力を促進することを目的としているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "小中学生が生成AIで「空想アニメのワンシーン」をつくる。大阪府大東市で11月22日に参加無料のワークショップを開催 - valuepress",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XMncxdzBRMUpzQlNaYXdTYkFsdHRQTFhiQzRvMV9TbUlDZEx2VkNNMnNEVEJTS2kyN2NMTDRSelFaU2RJSEZpTXJ1RWR0dDU4eHFCcWpLM3FOUUE?oc=5",
+     "date": "2026-11-13T10:00:00+00:00",
+     "source": "valuepress",
+     "snippet": "小中学生が生成AIで「空想アニメのワンシーン」をつくる。大阪府大東市で11月22日に参加無料のワークショップを開催&nbsp;&nbsp;valuepress",
+     "summary": "大阪府大東市で、11月22日に小中学生向けの無料ワークショップが開催されるにゃ。このワークショップでは、参加者が生成AIを使って「空想アニメのワンシーン」を制作することができるそうだにゃ。子どもたちの創造力を育む機会になるにゃん。"
     },
     {
      "type": "gov",
-     "title": "韓国・教育部、学校におけるデジタルメディアのリテラシー教育に関する基本計画を発表 - カレントアウェアネス・ポータル",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CSzVSTDhOQzJXTzBPTDB3ZFp4dFY4MVNFLVVjYzd1d181MU1uUHZaTlRyV084dGxXTTlLWXdaZXZOc25lNGt6ZXFHXzg?oc=5",
-     "date": "2026-11-13T06:34:40+00:00",
-     "source": "カレントアウェアネス・ポータル",
-     "snippet": "韓国・教育部、学校におけるデジタルメディアのリテラシー教育に関する基本計画を発表&nbsp;&nbsp;カレントアウェアネス・ポータル",
-     "summary": "カレントアウェアネス・ポータルの記事では、韓国の教育部が学校におけるデジタルメディアのリテラシー教育に関する基本計画を発表したにゃ。この計画は、学生がデジタルメディアを適切に利用できるようにすることを目的としており、教育現場でのデジタルスキル向上を図るものだにゃん。具体的な施策や内容については今後の発表を待つ必要があるにゃ。"
-    },
-    {
-     "type": "gov",
-     "title": "韓国政府、「AIスタートアップBeyondユニコーン育成戦略」を発表(韓国) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KbVUycWFLZWdncm02cWFrWTZGc19DdTBVUWsyMnNjem1VYVhuTlFzNVpQcml1NTd4R0ZuU0Q3cWR2SUtrQzQ0bXo3TTVsd0c5UkFfbUpqQmIxX2xhNnY4Q0NINjlRQWxUbExDNGpn?oc=5",
-     "date": "2026-11-13T06:32:11+00:00",
-     "source": "ジェトロ（日本貿易振興機構）",
-     "snippet": "韓国政府、「AIスタートアップBeyondユニコーン育成戦略」を発表(韓国) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "ジェトロの記事によると、韓国政府は「AIスタートアップBeyondユニコーン育成戦略」を発表したにゃ。この戦略は、AI関連のスタートアップ企業を支援し、ユニコーン企業を超える成長を促すことを目的としているそうだにゃん。具体的な支援内容や施策については今後の詳細が待たれるにゃ。"
+     "title": "報道発表資料 - 農林水産省",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BLWZXZDJJZVhGcXpJbzVsMVowU2NUZDk5ejAzYngwVVpkMk9YeGJ6c0JmVVdBWTI3UTQtMW9aZmJqVFZ4UVQzUkZKQVZENWFqdWpv?oc=5",
+     "date": "2026-11-13T08:00:00+00:00",
+     "source": "農林水産省",
+     "snippet": "報道発表資料&nbsp;&nbsp;農林水産省",
+     "summary": "農林水産省からの報道発表資料が公開されたにゃ。具体的な内容は記載されていないが、農林水産業に関連する重要な情報が含まれていると考えられるにゃん。今後の動向に注目だにゃ。"
     },
     {
      "type": "news",
@@ -48,7 +75,7 @@
      "date": "2026-11-13T06:00:00+00:00",
      "source": "クラウド Watch",
      "snippet": "アドバンスト・メディア、小規模コンタクトセンター向けのAI音声認識ソリューション「AmiVoice CommSuite Lite」を提供&nbsp;&nbsp;クラウド Watch",
-     "summary": "クラウド Watchの記事では、アドバンスト・メディアが小規模コンタクトセンター向けにAI音声認識ソリューション「AmiVoice CommSuite Lite」を提供することを発表したにゃ。このソリューションは、業務の効率化を図るために設計されており、小規模な事業者でも導入しやすいように工夫されているそうだにゃん。"
+     "summary": "アドバンスト・メディアが、小規模コンタクトセンター向けにAI音声認識ソリューション「AmiVoice CommSuite Lite」を提供するにゃ。このソリューションは、業務効率を向上させるためのツールとして期待されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -57,7 +84,7 @@
      "date": "2026-11-13T05:02:07+00:00",
      "source": "株式会社インプレス",
      "snippet": "朝日新聞、AIの報道利用基準を策定する「SPUR」の一般会員にアジア初加盟&nbsp;&nbsp;株式会社インプレス",
-     "summary": "株式会社インプレスの記事によると、朝日新聞がAIの報道利用基準を策定する国際メディア連合「SPUR」の一般会員にアジア初加盟したにゃ。この加盟により、朝日新聞はAIを活用した報道の透明性や倫理性を高める取り組みを進めることが期待されているそうだにゃん。"
+     "summary": "朝日新聞が、AIの報道利用基準を策定する国際団体「SPUR」の一般会員に加盟したにゃ。これはアジア初の加盟であり、AI技術の利用に関する基準を整備することを目指しているそうだにゃん。"
     },
     {
      "type": "news",
@@ -66,34 +93,7 @@
      "date": "2026-11-13T03:00:01+00:00",
      "source": "PR TIMES",
      "snippet": "朝日新聞社がAI企業によるコンテンツ利用の条件整備をめざす国際メディア連合「SPUR」に加盟&nbsp;&nbsp;PR TIMES",
-     "summary": "PR TIMESの記事では、朝日新聞社がAI企業によるコンテンツ利用の条件整備を目指す国際メディア連合「SPUR」に加盟したことが報じられているにゃ。これにより、AIを用いた報道やコンテンツ制作における基準の確立が進むことが期待されているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "地方創生メディア「Made In Local」、生成AIのブランド言及数で1位を獲得！ChatGPT・Geminiでの言及率は84％を記録 - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KVUpvTHZsVjYzRExEWUs2OFN2ajA5VGxyRUJBQVc1YmxxdVFDMF9XVGRpblhuVGVrbkQwM05Rai1faDRpYkZFS05HUmpnLTFyVzA3OGZtNWQ5OU1IalFnYWkxQThwX1RmU2c?oc=5",
-     "date": "2026-11-12T23:30:01+00:00",
-     "source": "PR TIMES",
-     "snippet": "地方創生メディア「Made In Local」、生成AIのブランド言及数で1位を獲得！ChatGPT・Geminiでの言及率は84％を記録&nbsp;&nbsp;PR TIMES",
-     "summary": "PR TIMESの記事によると、地方創生メディア「Made In Local」が生成AIのブランド言及数で1位を獲得したにゃ。特に、ChatGPTやGeminiにおける言及率は84％を記録しており、生成AIの活用が進んでいることが示されているそうだにゃん。これにより、地域のブランド力向上が期待されているにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "最新の画像生成AI「Seedream 5.5」がPOPPIXSに登場！サブスク会員は期間限定で生成無制限 - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xb3Y1UmF1LTZCQmRkbUk3MnZRWUVnZ0dHMFFFSy1DZDExQUZUaUoxbGpvbXp5NUNUZndSTFpDSEFoYnNINHU1SVNlOHRZUklFSExVMEVwa3NTako5cThQNDQ3UEdTR3BBR1E?oc=5",
-     "date": "2026-11-12T03:07:59+00:00",
-     "source": "PR TIMES",
-     "snippet": "最新の画像生成AI「Seedream 5.5」がPOPPIXSに登場！サブスク会員は期間限定で生成無制限&nbsp;&nbsp;PR TIMES",
-     "summary": "PR TIMESの記事では、最新の画像生成AI「Seedream 5.5」がPOPPIXSに登場したことが報じられているにゃ。サブスク会員は期間限定で生成無制限の特典があり、ユーザーにとって魅力的なサービスとなっているそうだにゃん。これにより、クリエイティブな活動がさらに広がることが期待されているにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "イトウ先生のTips note 【Premiere 2026】Premiere上で動画生成AIを使用し、ビデオやサウンドを作成できる「生成メディアツール」 - CGWORLD.jp",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0QnJLYnJLTl9FQVhTUEI3b2xweXVPbGVhejh6bmp0RC1vZzBMcGRYT2c0TFJ4NTNaa0VMSGxsSjl0d3BLa1cyeHRLZlpoWU1FNUZZLWY5TW1uSHM?oc=5",
-     "date": "2026-11-12T00:17:59+00:00",
-     "source": "CGWORLD.jp",
-     "snippet": "イトウ先生のTips note 【Premiere 2026】Premiere上で動画生成AIを使用し、ビデオやサウンドを作成できる「生成メディアツール」&nbsp;&nbsp;CGWORLD.jp",
-     "summary": "CGWORLD.jpの記事では、Premiere 2026上で動画生成AIを使用し、ビデオやサウンドを作成できる「生成メディアツール」が紹介されているにゃ。このツールにより、クリエイターはより効率的にコンテンツを制作できるようになることが期待されているそうだにゃん。"
+     "summary": "朝日新聞社が国際メディア連合「SPUR」に加盟し、AI企業によるコンテンツ利用の条件整備を進めることを目指しているにゃ。この取り組みは、メディアとAIの関係をより良くするための重要なステップだと考えられるにゃん。"
     }
    ]
   },
@@ -103,48 +103,48 @@
    "items": [
     {
      "type": "gov",
-     "title": "シリーズフォーラム「気候変動リスクを地域の力に」 - 気候変動適応情報プラットフォーム（A-PLAT）",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GeThaRUlHRlBwR1E0U0lxTGo5NmlwZHJCanVYaFhjUTZtNGZXTzV3c3ZkYlRSTWNnQXpxVFJneG9qNVppTmxvMG53a0YyWGYwS2NTR0pLM2ZHRWZ4VHVXV0kyNDkxZHlFaERZZ3dSbVlVZHc?oc=5",
-     "date": "2026-11-14T12:53:14+00:00",
-     "source": "気候変動適応情報プラットフォーム（A-PLAT）",
-     "snippet": "シリーズフォーラム「気候変動リスクを地域の力に」&nbsp;&nbsp;気候変動適応情報プラットフォーム（A-PLAT）",
-     "summary": "シリーズフォーラム「気候変動リスクを地域の力に」が開催されるにゃ。これは気候変動適応情報プラットフォーム（A-PLAT）が主催しているイベントで、地域の力を活かして気候変動に対処する方法を探ることを目的としているんだにゃ。具体的な内容や日程については、A-PLATの公式情報をチェックすることをおすすめするにゃん。"
+     "title": "犯罪下見活動（令和8年（2026年）11月掲載） - 政府広報オンライン",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRV85clBoWVF6Zi1HVlBCeWJVcGN1eDNkTmNWRTdPSk1ySW5heDdSaDJsWFVjOEdjS3RjYjlkVGVHd21Bc3ljaG1jRlRUTmlfdkUyRHBxYkFMZXRILTg4YTE5cThSclpMT05TWnc0Vi1KeXVaaVJSd0ZCYXJ3MkJuZGNR?oc=5",
+     "date": "2026-11-15T22:43:24+00:00",
+     "source": "政府広報オンライン",
+     "snippet": "犯罪下見活動（令和8年（2026年）11月掲載）&nbsp;&nbsp;政府広報オンライン",
+     "summary": "犯罪下見活動についての情報が令和8年（2026年）11月に掲載されたにゃ。政府広報オンラインでのこの発表は、犯罪予防に向けた重要な取り組みを示しているそうだにゃん。具体的な内容は記載されていないけれど、犯罪の未然防止を目的とした活動が強調されているにゃ。"
     },
     {
      "type": "news",
-     "title": "民教協の「日本のチカラ選奨」で総務大臣賞 SBSテレビ制作のドキュメンタリー作品 地方創生に寄与する番組として評価=静岡 - Yahoo!ニュース",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyM21HeUVBRUhMem9PODcwM3J6MmVGdFhJaUpEVUdKMGVKdExWQThQbWpMRjNfRU5wMHZjaDJ3cElScDM0SlZWNVlabkJIWjFwUFpCS1Fjak1xZWtsSEpWaXVycUdCb3lLbnZvWlp3Wml0Vkg5UDhQR083aHZCc00?oc=5",
-     "date": "2026-11-14T11:52:13+00:00",
-     "source": "Yahoo!ニュース",
-     "snippet": "民教協の「日本のチカラ選奨」で総務大臣賞 SBSテレビ制作のドキュメンタリー作品 地方創生に寄与する番組として評価=静岡&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "静岡のSBSテレビ制作のドキュメンタリー作品が、民教協の「日本のチカラ選奨」で総務大臣賞を受賞したにゃ。この作品は地方創生に寄与する内容が評価されており、地域の魅力や課題を伝える重要な役割を果たしているんだにゃ。地域メディアの力が再認識される良い機会だと思うにゃん。"
+     "title": "勇さんフォーカス 地域育てるメディアの力 地方創生実践論出版 [滋賀県] - 朝日新聞",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VWUhoVjdWNUpDeWZVY21JX01KMzV1TVhjemVjaE5JeFNFaG5rV0JmX3NKSnF6UlRpaVhjZUVFN2VKMEIyQ3dpOUsxTXBIbnpwd0VOaW9PUEdoSkxwckZ1b21EZHhTZmc?oc=5",
+     "date": "2026-11-15T22:00:00+00:00",
+     "source": "朝日新聞",
+     "snippet": "勇さんフォーカス 地域育てるメディアの力 地方創生実践論出版 [滋賀県]&nbsp;&nbsp;朝日新聞",
+     "summary": "滋賀県の朝日新聞によると、地域を育てるメディアの力をテーマにした「地方創生実践論」が出版されたにゃ。この本は、地域の活性化や創生に向けた実践的な知見を提供することを目指しているそうだにゃん。地域メディアの役割が重要視されているにゃ。"
     },
     {
      "type": "news",
-     "title": "『おおあざ』が佐賀県基山町の地域メディアとして10年続いたワケを編集長・江藤裕子さんに聞いた｜境治＠MediaBorder - note",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEdGQ0T2piTVlLZnlvQWl2MUs1d3JhZFVHSl9OSG8xTXJNZ2c3ZEN6RUFpOFBDTDhuSC1EOHJuSlpFVVctVHByTzdzUlVoblZTTUFQT0Utbw?oc=5",
-     "date": "2026-11-13T11:09:14+00:00",
-     "source": "note",
-     "snippet": "『おおあざ』が佐賀県基山町の地域メディアとして10年続いたワケを編集長・江藤裕子さんに聞いた｜境治＠MediaBorder&nbsp;&nbsp;note",
-     "summary": "佐賀県基山町の地域メディア『おおあざ』が10年間続いている理由を、編集長の江藤裕子さんに聞いたにゃ。地域に密着した情報発信や、住民とのつながりを大切にする姿勢が、長続きの秘訣だと語られているんだにゃ。地域メディアの重要性が改めて感じられる内容だにゃん。"
+     "title": "東野ぶらぶらチーキーズ6 - TVer",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kdEFXdWNWZU9NcENFd2taQlhuYzVDQ2FOYzVwME03WXpzbERMemVzTzFjY0tGV1VmTzZZb0dpRy1RLVJxLVBzLXVodw?oc=5",
+     "date": "2026-11-15T20:20:43+00:00",
+     "source": "TVer",
+     "snippet": "東野ぶらぶらチーキーズ6&nbsp;&nbsp;TVer",
+     "summary": "TVerで放送される「東野ぶらぶらチーキーズ6」についての情報があるにゃ。この番組は、東野幸治さんが様々な場所をぶらぶらしながら、地域の魅力を紹介する内容になっているそうだにゃん。視聴者に新たな発見を提供することを目的としているにゃ。"
     },
     {
      "type": "news",
-     "title": "アニメやゲームで若者の県外流出を防ぐ 仙台経済同友会がまちづくりへ向けた政策提言書を郡市長に提出（仙台放送） - Yahoo!ニュース",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3UVJrUV9rUUJ5SzVDX25CazBPc0RpLVFWTmZrWmVjSTkwaEJvV0pIWkdvUGdCNjhfUGhKWUY4b3pDUURBaHpYcWh5SHJneUJ5a1lqNmtybkwyZmxSQlBsS3JQemFZQTZnNnNkMi1EOHdWSVdmSm9HREFrempmblk?oc=5",
-     "date": "2026-11-13T10:18:01+00:00",
-     "source": "Yahoo!ニュース",
-     "snippet": "アニメやゲームで若者の県外流出を防ぐ 仙台経済同友会がまちづくりへ向けた政策提言書を郡市長に提出（仙台放送）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "仙台経済同友会が、アニメやゲームを活用して若者の県外流出を防ぐための政策提言書を郡市長に提出したにゃ。地域の魅力を高め、若者が地元に留まるような施策を推進することが目的なんだにゃ。地域振興に向けた新たな取り組みが期待されるにゃん。"
+     "title": "プラットワークス、ソニー・ミュージックソリューションズより「MUSIC ON! TV」「アジアドラマチックTV」事業を承継へ - Infoseek",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1raWE4VHdVSThvejVSYTNwVjJCT25pdDNCX3RjNW1qWGdDTTZocnlVX1ppcTBENHBWN21MZWlLUzJaczJiUWZkMy16VDlYOUU1SFliZVlMVkRqaEpaRExnNWQxTjgtV05TdHdnaG9YNzQ4dw?oc=5",
+     "date": "2026-11-15T06:00:00+00:00",
+     "source": "Infoseek",
+     "snippet": "プラットワークス、ソニー・ミュージックソリューションズより「MUSIC ON! TV」「アジアドラマチックTV」事業を承継へ&nbsp;&nbsp;Infoseek",
+     "summary": "プラットワークスがソニー・ミュージックソリューションズから「MUSIC ON! TV」と「アジアドラマチックTV」事業を承継することが発表されたにゃ。Infoseekによると、これによりプラットワークスは新たなメディアコンテンツの展開を図ることになるそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "地方創生メディア「Made In Local」、生成AIのブランド言及数で1位を獲得！ChatGPT・Geminiでの言及率は84％を記録 - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wd2pmZmItb0p5bllpdlJIeGVKamJ6VC1tbUs1Y2xsOGtsTVlCcC1OejFISk1PYkhYSXM1Vlgzc1UxRFJmTVJsZE1RVVJsM3pTTk96cXZfeTYwb0IwOUI0bEVuZUtWcXM4VHdwRXRLWi1xSlFkZlU3THNSNA?oc=5",
-     "date": "2026-11-13T01:30:42+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "地方創生メディア「Made In Local」、生成AIのブランド言及数で1位を獲得！ChatGPT・Geminiでの言及率は84％を記録&nbsp;&nbsp;ニコニコニュース",
-     "summary": "地方創生メディア「Made In Local」が、生成AIにおけるブランド言及数で1位を獲得したにゃ。特にChatGPTやGeminiでの言及率は84％に達しており、地域の情報発信がデジタル時代においても注目されていることを示しているんだにゃ。地域の声が広がることは嬉しいことだにゃん。"
+     "title": "民教協の「日本のチカラ選奨」で総務大臣賞 SBSテレビ制作のドキュメンタリー作品 地方創生に寄与する番組として評価＝静岡 - TBS NEWS DIG",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OaUdmc2QySlhod1FQSEhvcGxUT2NidTQzTXY1aFhLcmFvNU5WU2wwLWVIYkVoRXdpb3doamstdkJWVWZyMmVjOHVrcWlqV3AtVExfdTFvOA?oc=5",
+     "date": "2026-11-14T11:51:00+00:00",
+     "source": "TBS NEWS DIG",
+     "snippet": "民教協の「日本のチカラ選奨」で総務大臣賞 SBSテレビ制作のドキュメンタリー作品 地方創生に寄与する番組として評価＝静岡&nbsp;&nbsp;TBS NEWS DIG",
+     "summary": "静岡のSBSテレビ制作のドキュメンタリー作品が、民教協の「日本のチカラ選奨」で総務大臣賞を受賞したにゃ。この作品は地方創生に寄与する内容として評価されているそうだにゃん。地域の課題を取り上げ、解決に向けた取り組みを紹介しているにゃ。"
     }
    ]
   },
@@ -154,39 +154,21 @@
    "items": [
     {
      "type": "news",
-     "title": "徳島県初となるスタートアップカンファレンス「AWAODORI TECH 2026」にDGDVマネージングディレクター渡辺大和が登壇 - 山陽新聞",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81SmFDN1FZSUMwdkh4c3ZCenBRNWtPa244QzN6TjU4amtpNHcwU095TUstd04yQUYxaW92dE5PQVFjN2Z1Qzl0Z1VldUxqSEdlWkE?oc=5",
-     "date": "2026-11-14T08:32:40+00:00",
-     "source": "山陽新聞",
-     "snippet": "徳島県初となるスタートアップカンファレンス「AWAODORI TECH 2026」にDGDVマネージングディレクター渡辺大和が登壇&nbsp;&nbsp;山陽新聞",
-     "summary": "徳島県初のスタートアップカンファレンス「AWAODORI TECH 2026」に、DGDVのマネージングディレクター渡辺大和が登壇するんだにゃ。新しいビジネスのアイデアや地域の活性化に向けた取り組みが話される予定だにゃ。地域のスタートアップ支援が期待されるイベントだにゃん。"
+     "title": "プラットワークス、日本ワムネットよりCATV・番組供給事業者向けサービス「Commucatto」事業を買収 - 調布経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHVmNycXh5VEtmdmZRYnU5UXA1d2MwY3h0aWxUTGV4UDhuX2IxV0cySFRQbzkyV0VNeGVyRnJIeDIwZWQyeDVLOTFnMU90ZG9XZmc?oc=5",
+     "date": "2026-11-15T09:04:10+00:00",
+     "source": "調布経済新聞",
+     "snippet": "プラットワークス、日本ワムネットよりCATV・番組供給事業者向けサービス「Commucatto」事業を買収&nbsp;&nbsp;調布経済新聞",
+     "summary": "プラットワークスが日本ワムネットからCATV・番組供給事業者向けサービス「Commucatto」を買収したにゃ。この買収により、プラットワークスは新たなサービスを提供し、事業の拡大を図ることが期待されるにゃん。"
     },
     {
      "type": "news",
-     "title": "東海テレビのEdgeが26年12月にカンファレンス開催へ - Dellows News",
-     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84bFVWT3A1UTVkMXZ5S2pGZHlJb0tFN21VeHhqSkhOSWhwT2twMXpQU3U2TWdMZkxwOHA4aVBNYW0xNkFQYU1R?oc=5",
-     "date": "2026-11-13T20:10:02+00:00",
-     "source": "Dellows News",
-     "snippet": "東海テレビのEdgeが26年12月にカンファレンス開催へ&nbsp;&nbsp;Dellows News",
-     "summary": "東海テレビの「Edge」が、2026年12月にカンファレンスを開催することが決まったんだにゃ。このカンファレンスでは、様々な新規事業に関する情報やアイデアが発信される予定だにゃ。地域のビジネス活性化に寄与するイベントになることが期待されているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "東海テレビ「Edge」が初のカンファレンスを12月15日に開催、テレビ局のスタジオから新規事業の挑戦を発信 - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TNnF3aWRPSnBybjV1RTFGZEd5dTZjODRNSGdZeWNkeWE0TW5hWDZkaVNJdWprTHRtVGJveHhtejEtNy1jdC1tY3FmQnI2RnZ1ZDlEaGU2emxwWEVHU3NpSG5kYTBCNGxUMW80aXlGX3RWeE1QWVpMMFNGUQ?oc=5",
-     "date": "2026-11-13T18:48:28+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "東海テレビ「Edge」が初のカンファレンスを12月15日に開催、テレビ局のスタジオから新規事業の挑戦を発信&nbsp;&nbsp;ニコニコニュース",
-     "summary": "東海テレビの「Edge」が、初のカンファレンスを12月15日に開催することが発表されたにゃ。テレビ局のスタジオから新規事業の挑戦を発信し、地域のビジネス環境を活性化させることを目指すイベントだにゃ。多くの参加者が集まることが期待されているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "コクー、全国の地域金融機関とスタートアップが集結する『BANK SUMMIT 2026』のピッチコンテスト「BANK SUMMIT PITCH」において最優秀賞を受賞 - Infoseek",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE52T21HTEhDc3NUYkpvQ0xDeTM4TXllaHBmdG12bjFjVnVvMktpc3dQdDNnaklKN2ZyQ0xJSVRDWHlFMWVKcDVabm1rYTU4SEZLcHJtc2lBNkpyVXNrZS1faVhWLXpMT0NqOF8xVTlVekJUQQ?oc=5",
-     "date": "2026-11-13T07:15:38+00:00",
-     "source": "Infoseek",
-     "snippet": "コクー、全国の地域金融機関とスタートアップが集結する『BANK SUMMIT 2026』のピッチコンテスト「BANK SUMMIT PITCH」において最優秀賞を受賞&nbsp;&nbsp;Infoseek",
-     "summary": "コクーが、全国の地域金融機関とスタートアップが集まる『BANK SUMMIT 2026』のピッチコンテスト「BANK SUMMIT PITCH」で最優秀賞を受賞したんだにゃ。この受賞により、コクーのビジネスモデルやアイデアが評価されたことになるにゃ。今後の展開が楽しみだにゃん。"
+     "title": "東海テレビ「Edge」が初のカンファレンスを12月15日に開催、テレビ局のスタジオから新規事業の挑戦を発信 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IOUFGSWxLZDc2X0tIbEdVQ2pwQ0pNU2NNWnpGQjNkUzI5Q3NNMzJaRzl1VFlYS3FlSUVUcG1VMF9hM24tclJzTEJaU0dRMm1ERW5CaVZsb2NqU3FtSlhfejZYczF6dzJLaVE?oc=5",
+     "date": "2026-11-13T08:05:11+00:00",
+     "source": "PR TIMES",
+     "snippet": "東海テレビ「Edge」が初のカンファレンスを12月15日に開催、テレビ局のスタジオから新規事業の挑戦を発信&nbsp;&nbsp;PR TIMES",
+     "summary": "東海テレビの「Edge」が初のカンファレンスを12月15日に開催するにゃ。テレビ局のスタジオから新規事業の挑戦を発信する場となる予定で、業界関係者の参加が見込まれているそうだにゃん。"
     },
     {
      "type": "news",
@@ -195,7 +177,25 @@
      "date": "2026-11-13T07:10:00+00:00",
      "source": "福島民友新聞社",
      "snippet": "会社員の経験を活かしてチャレンジできる。大学発スタートアップの“最初の経営メンバー”の一歩へーー甲信・北関東の研究者と出会う対面イベントを11月26日に東京・神田で開催&nbsp;&nbsp;福島民友新聞社",
-     "summary": "会社員の経験を活かして新たな挑戦ができるイベントが、11月26日に東京・神田で開催されるんだにゃ。この対面イベントでは、大学発スタートアップの初期経営メンバーを目指す人々が、甲信・北関東の研究者と出会う機会が提供されるにゃ。新たなビジネスの芽が生まれることが期待されているそうだにゃん。"
+     "summary": "大学発スタートアップの経営メンバーを目指すイベントが、11月26日に東京・神田で開催されるにゃ。参加者は会社員の経験を活かし、甲信・北関東の研究者と出会う機会を得ることができるそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "コクー、全国の地域金融機関とスタートアップが集結する『BANK SUMMIT 2026』のピッチコンテスト「BANK SUMMIT PITCH」において最優秀賞を受賞 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hcXVmZG9Fd2d3SUdwZXpVTWFYTUZZdEMtakttdHM5NUdYLVJmSVhWQnB2bGZ6allnamNMUjFRY0NyZnpYVU9mWHJUU2lYNWQ0NEd1S0Q5bjJySWZ3Q0lvWC0xd054LXB4aWc?oc=5",
+     "date": "2026-11-13T07:00:02+00:00",
+     "source": "PR TIMES",
+     "snippet": "コクー、全国の地域金融機関とスタートアップが集結する『BANK SUMMIT 2026』のピッチコンテスト「BANK SUMMIT PITCH」において最優秀賞を受賞&nbsp;&nbsp;PR TIMES",
+     "summary": "コクーが『BANK SUMMIT 2026』のピッチコンテスト「BANK SUMMIT PITCH」で最優秀賞を受賞したにゃ。この受賞により、地域金融機関との連携がさらに強化されることが期待されるだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "【愛媛県×AlphaDrive】愛媛内企業6社が海洋領域の新規事業の共創パートナーを募集。マッチングイベントを11月20日に大阪、11月30日に東京で開催 - 山陽新聞",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZLW5xUWI3Q216a3J1NjY2WWYxazloTUV1QWN6Y1FGR2VZOW9YT2lhaWlaSFRIaWRQSHhlbGRqY0s3eXFfeEFCZWJqNEVYTzkxd2c?oc=5",
+     "date": "2026-11-13T05:14:53+00:00",
+     "source": "山陽新聞",
+     "snippet": "【愛媛県×AlphaDrive】愛媛内企業6社が海洋領域の新規事業の共創パートナーを募集。マッチングイベントを11月20日に大阪、11月30日に東京で開催&nbsp;&nbsp;山陽新聞",
+     "summary": "愛媛県とAlphaDriveが協力し、愛媛内の企業6社が海洋領域の新規事業の共創パートナーを募集するにゃ。マッチングイベントは11月20日に大阪、11月30日に東京で開催される予定だにゃん。"
     }
    ]
   },
@@ -210,7 +210,7 @@
      "date": "2026-11-14T10:00:00+00:00",
      "source": "au Webポータル",
      "snippet": "“爆発の危険”も…推定40トン・巨大クジラ解剖・解体の過酷な現場 強烈な腐敗臭の先に「貴重な標本」 国立科学博物館の専門家チームに密着【ニュースキャスター】&nbsp;&nbsp;au Webポータル",
-     "summary": "国立科学博物館の専門家チームが、推定40トンの巨大クジラを解剖・解体する過酷な現場に密着したにゃ。強烈な腐敗臭が漂う中、爆発の危険もあるが、貴重な標本を得るための作業が進められているそうだにゃん。専門家たちは、科学的な価値を見出すために、厳しい状況に立ち向かっているんだにゃ。"
+     "summary": "国立科学博物館の専門家チームが、推定40トンの巨大クジラの解剖・解体作業を行った現場に密着したにゃ。強烈な腐敗臭が漂う中、作業は過酷で「爆発の危険」も伴ったそうだにゃ。しかし、貴重な標本を得るための重要な作業であり、専門家たちはその意義を強調しているにゃん。"
     },
     {
      "type": "news",
@@ -219,7 +219,7 @@
      "date": "2026-11-14T09:00:00+00:00",
      "source": "講談社コクリコ",
      "snippet": "ホウレンソウにオスとメスがある！ 国立科学博物館の特別展「生きものたちの性」 植物の多様な世界を〔総合監修者〕が徹底解説&nbsp;&nbsp;講談社コクリコ",
-     "summary": "国立科学博物館で開催される特別展「生きものたちの性」では、ホウレンソウにオスとメスが存在することが紹介されるにゃ。植物の多様な性別や生態について、総合監修者が詳しく解説するそうだにゃん。これにより、観察者は植物の世界の新たな側面を知ることができるんだにゃ。"
+     "summary": "国立科学博物館で開催中の特別展「生きものたちの性」では、ホウレンソウにオスとメスが存在することが紹介されているにゃ。植物の多様な性別や生態について、総合監修者が詳しく解説しており、来場者に新たな発見を提供しているそうだにゃん。"
     },
     {
      "type": "news",
@@ -228,16 +228,16 @@
      "date": "2026-11-14T03:00:00+00:00",
      "source": "朝日新聞",
      "snippet": "フタバスズキリュウ発掘に力 恐竜研究の礎築いた「博物館人」の矜持&nbsp;&nbsp;朝日新聞",
-     "summary": "フタバスズキリュウの発掘に力を入れた「博物館人」の矜持が、恐竜研究の礎を築いているにゃ。朝日新聞の記事によると、彼らの努力が恐竜の理解を深める重要な役割を果たしているそうだにゃん。博物館の専門家たちは、研究を通じて新たな発見を目指しているんだにゃ。"
+     "summary": "フタバスズキリュウの発掘に尽力した「博物館人」の矜持が語られているにゃ。恐竜研究の礎を築いた彼らの努力は、今も多くの研究者に影響を与えているそうだにゃ。博物館の役割や重要性について再認識される機会となっているにゃん。"
     },
     {
      "type": "news",
      "title": "国立科学博物館の貴重なはく製など約180点が集結 新居浜・県総合科学博物館で特別展、 - TBS NEWS DIG",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hSjI5S2dKMWw5TUR0bEpoMVpXZ0JEWlFnZS1HR0RoUmV4d1hZSW1oN1JJTlVYWU5aNVVSWEo3aUZxZEFkcC1zbkpkdnVfeXNrLV92eVRyTzdPUQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TM0FPbzhncDg2Q2dfZVAxVjZhYWhLcDVRelo1LUxVYzJqUFQtemZSM3F2WThaRk5MRnZ5WVc1TG5iaTBKM3ZjQ1dUcl9aWjA3dEh0Nlk1SQ?oc=5",
      "date": "2026-11-13T10:02:00+00:00",
      "source": "TBS NEWS DIG",
      "snippet": "国立科学博物館の貴重なはく製など約180点が集結 新居浜・県総合科学博物館で特別展、&nbsp;&nbsp;TBS NEWS DIG",
-     "summary": "新居浜の県総合科学博物館で、国立科学博物館から約180点の貴重なはく製が集結した特別展が開催されるにゃ。TBS NEWS DIGによると、様々な生物のはく製が展示され、訪れる人々に科学の魅力を伝える機会となるそうだにゃん。多様な生物の姿を楽しむことができるんだにゃ。"
+     "summary": "新居浜の県総合科学博物館で、国立科学博物館から約180点の貴重なはく製が集結した特別展が開催されているにゃ。多様な生物の標本が展示され、来場者に科学の魅力を伝えているそうだにゃん。特に教育的な意義が強調されているにゃ。"
     },
     {
      "type": "news",
@@ -246,7 +246,7 @@
      "date": "2026-11-13T09:00:00+00:00",
      "source": "講談社コクリコ",
      "snippet": "「性」を初めてテーマに！ 国立科学博物館 特別展「生きものたちの性」 総合監修者が「驚きの生態」を詳しく解説&nbsp;&nbsp;講談社コクリコ",
-     "summary": "国立科学博物館で初めて「性」をテーマにした特別展「生きものたちの性」が開催されるにゃ。総合監修者が驚きの生態を詳しく解説し、訪問者に新たな知識を提供するそうだにゃん。生物の多様な性の理解が深まることを期待しているんだにゃ。"
+     "summary": "国立科学博物館の特別展「生きものたちの性」では、「性」をテーマにした初の試みが行われているにゃ。総合監修者が驚きの生態を詳しく解説し、来場者に新たな視点を提供しているそうだにゃん。生物の多様性についての理解が深まる展覧会だにゃ。"
     }
    ]
   },
@@ -256,48 +256,48 @@
    "items": [
     {
      "type": "news",
+     "title": "明電舎、複数人が同時ＶＲ体験 教育システム提供 - 化学工業日報 電子版",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CSmlhNlZZd3hjWjN0V2E5Y2VaMEJIelhibmF5eFQ5Yi1tbU52YXhTT3RpUXhHSkxzdmN6cFc2SVA2dGhuUWhfaDI1cnU4cEF6dDVZ?oc=5",
+     "date": "2026-11-15T20:05:08+00:00",
+     "source": "化学工業日報 電子版",
+     "snippet": "明電舎、複数人が同時ＶＲ体験 教育システム提供&nbsp;&nbsp;化学工業日報 電子版",
+     "summary": "明電舎は、複数人が同時にVR体験できる教育システムを提供することを発表したにゃ。これにより、参加者はリアルな環境で学習を進めることができるそうだにゃん。教育分野におけるVRの活用が期待されているにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "美容医療の消費者トラブルや投資勧誘詐欺をＶＲ体験、参加者「現実のようで没入感がある」 - 読売新聞",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tWlVqM0dXbFBhLTU4M1BaNHloaG9UV0d4LVFPSFpKRDNHTHZ5TjZxMzJ4aHNkaVdkbVUtTVdGYmJxV05ZLTNibkdLcTRpWW9DS2l2S2V2S3lfS1JUOXF5bzU4SDFIZw?oc=5",
+     "date": "2026-11-15T08:29:00+00:00",
+     "source": "読売新聞",
+     "snippet": "美容医療の消費者トラブルや投資勧誘詐欺をＶＲ体験、参加者「現実のようで没入感がある」&nbsp;&nbsp;読売新聞",
+     "summary": "美容医療に関する消費者トラブルや投資勧誘詐欺をVRで体験するイベントが開催されたにゃ。参加者は「現実のようで没入感がある」と感想を述べ、VR技術の効果を実感したそうだにゃん。教育や啓発におけるVRの可能性が広がっているにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "Pimax、COO来日に伴い日本のVRユーザーとの「特別1on1対話会」を11月24日・25日に東京・新宿で開催 - クレアウェブ",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4d3BNUjFvTkh4MEJwTlZKS1c4RkVKVDZJd0NzSHpTck1UMGJrM0JpeU9oYTFSQUl6Ym5vbEMtbmpXUkp3c3dXSUg5RlBJN1FXXzZjS2Z5ZC03NUVFNGJJbEQ3YmJYTUlvblRpMGZMQmw5QQ?oc=5",
+     "date": "2026-11-15T01:53:41+00:00",
+     "source": "クレアウェブ",
+     "snippet": "Pimax、COO来日に伴い日本のVRユーザーとの「特別1on1対話会」を11月24日・25日に東京・新宿で開催&nbsp;&nbsp;クレアウェブ",
+     "summary": "PimaxのCOOが来日し、日本のVRユーザーとの「特別1on1対話会」を11月24日・25日に東京・新宿で開催するにゃ。ユーザーとの直接対話を通じて、VR技術の理解を深める機会になるそうだにゃん。参加者の期待が高まっているにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "画像9 / 9＞迫力のVR体験ができる施設「VR ZONE OSAKA」が梅田に誕生！ ゴジラ、川下り、ホラーVR体験してきた。 - ウォーカープラス",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hblVVRVgyaDhjdEp3bEJFOXlvQUlRZThJZGQ0NjNNRXhzX05sMjhwVmZKUUhaQUpiS0pCYldlWmMwRGVLaUowbTdOMVVqVWJfOFVlekhVbkhKMjh0S2kwZnQ2LXNtcTJBWFE?oc=5",
+     "date": "2026-11-14T17:16:43+00:00",
+     "source": "ウォーカープラス",
+     "snippet": "画像9 / 9＞迫力のVR体験ができる施設「VR ZONE OSAKA」が梅田に誕生！ ゴジラ、川下り、ホラーVR体験してきた。&nbsp;&nbsp;ウォーカープラス",
+     "summary": "「VR ZONE OSAKA」が梅田にオープンしたにゃ。ここでは、ゴジラや川下り、ホラーなど迫力満点のVR体験が楽しめるそうだにゃん。新しいエンターテインメントの場として、多くの人々が訪れることが期待されているにゃ。"
+    },
+    {
+     "type": "news",
      "title": "＜画像1 / 5＞イオンモール神戸南にVR体験施設「VR ZONE Portal」が国内初登場！ - ウォーカープラス",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vN2xnU3NsbVZBQXVhTi1OTVdfejlzOXk0SlExUjVzRkI3cWJmdVBxUzFkQUt2YzJ6MERWMnpscV9Hd2R5Q1dXcXlrTTlfRVdXRFZxN1l2aWRGLWtXTTQ1NkphbmtMeGV0OFE?oc=5",
      "date": "2026-11-14T10:35:42+00:00",
      "source": "ウォーカープラス",
      "snippet": "＜画像1 / 5＞イオンモール神戸南にVR体験施設「VR ZONE Portal」が国内初登場！&nbsp;&nbsp;ウォーカープラス",
-     "summary": "イオンモール神戸南に、国内初のVR体験施設「VR ZONE Portal」がオープンしたにゃ。多様なVRコンテンツが楽しめるこの施設は、訪れる人々に新しい体験を提供することを目指しているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "Pimax、COO来日に伴い日本のVRユーザーとの「特別1on1対話会」を11月24日・25日に東京・新宿で開催 - PR TIMES",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zWS1mYUFiZmtaQTFNall1VUJrdzJpbXVKZzZjRGdiZmVlQjNQVkxIekppd1NheEItclgwTi01cDVaTFNud2tzSURVcXFZYVViajJYTXNhRnBqQUxweThsVW9aeVBDWXNtbmc?oc=5",
-     "date": "2026-11-14T09:00:02+00:00",
-     "source": "PR TIMES",
-     "snippet": "Pimax、COO来日に伴い日本のVRユーザーとの「特別1on1対話会」を11月24日・25日に東京・新宿で開催&nbsp;&nbsp;PR TIMES",
-     "summary": "PimaxのCOOが来日し、11月24日・25日に東京・新宿で日本のVRユーザーとの「特別1on1対話会」を開催するにゃ。このイベントは、ユーザーとの直接的なコミュニケーションを図る貴重な機会になるそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "ECC、保育博2026に出展へ 園向け教育サービスやリール発信術セミナーを展開 - Dellows News",
-     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ReF91TkZPVUt5S2Mxa2NrNW9UVDdKY2hlM0Rja01jalNkZFFwWW85d0hDVjRZYmdNRzJHQ0pUU2JNenQyMDMw?oc=5",
-     "date": "2026-11-13T16:09:05+00:00",
-     "source": "Dellows News",
-     "snippet": "ECC、保育博2026に出展へ 園向け教育サービスやリール発信術セミナーを展開&nbsp;&nbsp;Dellows News",
-     "summary": "ECCが保育博2026に出展することが決定したにゃ。園向けの教育サービスや、リール発信術に関するセミナーを展開する予定で、保育業界における新しい取り組みを紹介する機会になるそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "VR体験もできる Galaxy Studioがグランフロント大阪に登場！ - ウォーカープラス",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FLWtwaF9iWmt2RzBycDJ1Uml5UkhidW10V2JCbXhOZTJUVndCZzFEV1JYdW13NXdOYmhfaFpXRFNzVDBieHB6NnM4b3QtdTVmQ3haVdIBWkFVX3lxTFAwVFZsZnpXN2oya2NIUWQzZWVuakVxX0hCTVM5NlcyeG8zd3NydDFXUGl2Z1ByUDJkZHROQ3VzMWtPRlNfYnpOT3REaTE3dXF1cFd3ek1KMDJQdw?oc=5",
-     "date": "2026-11-13T13:28:39+00:00",
-     "source": "ウォーカープラス",
-     "snippet": "VR体験もできる Galaxy Studioがグランフロント大阪に登場！&nbsp;&nbsp;ウォーカープラス",
-     "summary": "グランフロント大阪に、VR体験ができる「Galaxy Studio」がオープンしたにゃ。ここでは、最新のVR技術を体験できるコンテンツが用意されており、訪れる人々に新しい楽しみを提供することを目指しているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "高尾の森が月面基地に、VR体験やプログラミングに取り組む1泊2日の宇宙キャンプを開催 - こどもとIT",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93eHQ4c3Y2UXFQOU1TRXllUmZDY0diaHdGMEZRcHVETzZ1QXRYX042UEliOUNYMUNfWEk0UXB0VkdWRUpnMklHSTE5S1hrbGk3MDBpUkRtSTFPU25DbDJYZkdfVkg?oc=5",
-     "date": "2026-11-13T08:00:00+00:00",
-     "source": "こどもとIT",
-     "snippet": "高尾の森が月面基地に、VR体験やプログラミングに取り組む1泊2日の宇宙キャンプを開催&nbsp;&nbsp;こどもとIT",
-     "summary": "高尾の森で、月面基地をテーマにした1泊2日の宇宙キャンプが開催されるにゃ。参加者はVR体験やプログラミングに取り組むことができ、宇宙に関する知識を深める貴重な機会になるそうだにゃん。"
+     "summary": "イオンモール神戸南に国内初のVR体験施設「VR ZONE Portal」が登場したにゃ。さまざまなVRコンテンツを楽しむことができ、訪れる人々に新たな体験を提供するそうだにゃん。地域の活性化にも寄与することが期待されているにゃ。"
     }
    ]
   }
