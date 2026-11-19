@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T01:59:30.022311+00:00",
+ "updated": "2026-11-19T03:52:08.880314+00:00",
  "categories": [
   {
    "id": "ai_media",
@@ -7,12 +7,39 @@
    "items": [
     {
      "type": "gov",
-     "title": "米国のAIデータセンター政策の今後、中間選挙踏まえ現地シンクタンクが解説(米国) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoemhmOVBiR0VPZ0V2bERtck44VGN2RTRwdEROZl81RFNLamxhVUh6eVA0MzFUaGZSQ0lyRDc3ekxZbUtBaGxHRnF0WEZuQzVVR0lxdFJpVGxVMV9WMnZuczJjMFNNVnVkRzdLakJR?oc=5",
-     "date": "2026-11-19T01:36:13+00:00",
+     "title": "クアッド4カ国首脳、経済的威圧への懸念表明とAI（SI）協力強化で一致(インド、中国、日本、オーストラリア、米国) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wamJJODB5RmZ2amt4MUVUdzdoZXJ1UmgwWUhYa0lLMHFSNjVrX2t4aGYxN29XSVpDVmlpMEVrMjlqM2xHc1hfbVk2bUxfNkVuSVI5R3Q1NjBaeklFdFNPYk9JZkdydWVyNFpsR2RR?oc=5",
+     "date": "2026-11-19T03:32:10+00:00",
      "source": "ジェトロ（日本貿易振興機構）",
-     "snippet": "米国のAIデータセンター政策の今後、中間選挙踏まえ現地シンクタンクが解説(米国) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "米国のAIデータセンター政策について、現地のシンクタンクが中間選挙を踏まえた解説を行ったにゃ。政策の今後の方向性や影響が注目されているそうだにゃん。"
+     "snippet": "クアッド4カ国首脳、経済的威圧への懸念表明とAI（SI）協力強化で一致(インド、中国、日本、オーストラリア、米国) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
+     "summary": "クアッド4カ国（インド、日本、オーストラリア、米国）の首脳が経済的威圧に対する懸念を表明し、AI（スーパーインテリジェンス）協力の強化で一致したにゃ。これにより、各国は経済的な安全保障を高めるための連携を強化する方針を示したそうだにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "米商務省、「米国スーパーインテリジェンス（SI）輸出プログラム」で33件採択、政府による支援へ(日本、米国) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBUC1HQkZBSm5yd19vRVFQSU56Nk9GVUo5X2RBYURfV0ZTaUdab0FRd2hfVS1hRXVtdC1Kem1VSkYyd2lyUmtpb19zSERYTUwxTkxHRm0tdGY3M01DYjdGM09rTTFadDhrS1JzVVV3?oc=5",
+     "date": "2026-11-19T03:31:27+00:00",
+     "source": "ジェトロ（日本貿易振興機構）",
+     "snippet": "米商務省、「米国スーパーインテリジェンス（SI）輸出プログラム」で33件採択、政府による支援へ(日本、米国) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
+     "summary": "米商務省が「米国スーパーインテリジェンス（SI）輸出プログラム」で33件を採択し、政府による支援が決定したにゃ。このプログラムは、AI技術の輸出を促進し、国内産業の競争力を高めることを目的としているそうだにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "米国で先端AI半導体に関する国家安全保障に対する懸念が浮上(米国) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92Q3FwZDR6dldYVGUySkRMWU5QX24wblR3MnhaOUo5VDkwMC1TVUhHajMtX2dKdmthYWhDRzRqS2paMVFqdDB2eVAxUkUzMGI4d1M0VlV1Y0o0UGV5cUUxZHlZOUpxRkpkV3lXSWpn?oc=5",
+     "date": "2026-11-19T02:31:57+00:00",
+     "source": "ジェトロ（日本貿易振興機構）",
+     "snippet": "米国で先端AI半導体に関する国家安全保障に対する懸念が浮上(米国) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
+     "summary": "米国では先端AI半導体に関する国家安全保障の懸念が浮上しているにゃ。特に、これらの技術が悪用されるリスクが指摘されており、政府は対策を検討しているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "AIO対策ツールからAI動画作成サービスまで、実務で使えるAIエージェントが集結! 「AIエージェント博 2026 byAI博覧会」注目出展社を発表 新宿住友ビル 三角広場・住友ホールにて12月15日・16日に開催 - AIsmiley",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KVXg0S0w4aExEWkFuaHdVSDBia2ZZWU1UaXRXNXZ2Mm8tVHNiTlU5RU9vWTY0WGI0QTBiRlNzZk95cUFuOVQ0OFJEcG5hQVdfQXU0N1Z1RGVmQUg1bjF2Yw?oc=5",
+     "date": "2026-11-19T02:04:34+00:00",
+     "source": "AIsmiley",
+     "snippet": "AIO対策ツールからAI動画作成サービスまで、実務で使えるAIエージェントが集結! 「AIエージェント博 2026 byAI博覧会」注目出展社を発表 新宿住友ビル 三角広場・住友ホールにて12月15日・16日に開催&nbsp;&nbsp;AIsmiley",
+     "summary": "「AIエージェント博 2026」が新宿で開催されるにゃ。AI動画作成サービスやAIO対策ツールなど、実務で使えるAIエージェントが集結するイベントで、注目の出展社が発表されたそうだにゃん。"
     },
     {
      "type": "news",
@@ -21,16 +48,7 @@
      "date": "2026-11-19T01:00:02+00:00",
      "source": "PR TIMES",
      "snippet": "人気インフルエンサーの逮捕報道で考える、AIが下げる「悪事のハードル」&nbsp;&nbsp;PR TIMES",
-     "summary": "人気インフルエンサーが逮捕された報道を受けて、AIが悪事を行うハードルを下げる可能性について考察されたにゃ。AI技術の進化が社会に与える影響が懸念されているそうだにゃん。"
-    },
-    {
-     "type": "gov",
-     "title": "フェロトーシス伝播の方向と停止機構を解明 台湾・中央研究院|その他アジア等科学技術ニュース - Science Portal Asia Pacific",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55TkhEQkVMeXNWWm5RRnc5MTFHSkxiUk1PVHh2czZfeVpDYXVtOWNqQnpjSy1mWF83d1V0c09Xalg0UFNFcEJDNktkNjJrSjJZMDBHNERvX0ZkVHBHZk1ONmVoUnVfOGk5OXJmcDBHYw?oc=5",
-     "date": "2026-11-19T00:23:28+00:00",
-     "source": "Science Portal Asia Pacific",
-     "snippet": "フェロトーシス伝播の方向と停止機構を解明 台湾・中央研究院|その他アジア等科学技術ニュース&nbsp;&nbsp;Science Portal Asia Pacific",
-     "summary": "台湾・中央研究院がフェロトーシスの伝播の方向と停止機構を解明したにゃ。この研究は細胞死のメカニズムに関する新たな知見を提供するもので、科学界において注目されているそうだにゃん。"
+     "summary": "人気インフルエンサーの逮捕報道を受けて、AIが「悪事のハードル」を下げる可能性について考察されているにゃ。AI技術の進展が犯罪行為に与える影響が懸念されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -39,16 +57,7 @@
      "date": "2026-11-18T22:31:03+00:00",
      "source": "Unite.AI",
      "snippet": "AnthropicのIPO価格、報道によると83ドル 仮条件の上限を上回る&nbsp;&nbsp;Unite.AI",
-     "summary": "AnthropicのIPO価格が83ドルに設定されたとの報道があったにゃ。これは仮条件の上限を上回る価格であり、投資家の関心が高まっていることを示しているそうだにゃん。"
-    },
-    {
-     "type": "gov",
-     "title": "ジェトロ、米アリゾナ州でヘルスケア・イノベーション視察プログラムを実施(日本、米国) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ（日本貿易振興機構）",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xNEltV09lbTZMTWpZVEhUYWpBQjlUNjllYTNvZVJaUVdFRXh3bU1rUDI1eGZLajFVV2hTMURETEJ5UXJwRDlRUzZXQkItd2hIaG1nSGV5R3VyRW1tLTlVWC1lWkVjbUJiYzhwYzFR?oc=5",
-     "date": "2026-11-18T15:36:21+00:00",
-     "source": "ジェトロ（日本貿易振興機構）",
-     "snippet": "ジェトロ、米アリゾナ州でヘルスケア・イノベーション視察プログラムを実施(日本、米国) | ビジネス短信 ―ジェトロの海外ニュース&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "ジェトロが米アリゾナ州でヘルスケア・イノベーション視察プログラムを実施したにゃ。日本と米国の医療分野における最新の取り組みを学ぶ機会となっているそうだにゃん。"
+     "summary": "AnthropicのIPO価格が83ドルに設定され、仮条件の上限を上回ったという報道があったにゃ。これにより、同社の市場での評価が高まることが期待されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -57,7 +66,7 @@
      "date": "2026-11-18T12:38:30+00:00",
      "source": "K-EnterTech Hub",
      "snippet": "AI制作支援は納品まで、メディア規制は振興中心に&nbsp;&nbsp;K-EnterTech Hub",
-     "summary": "AI制作支援が納品まで行われることが強調され、メディア規制は振興中心に進められる方針が示されたにゃ。業界の発展に向けた取り組みが進行中だそうだにゃん。"
+     "summary": "AI制作支援が納品まで行われることが強調され、メディア規制は振興を中心に進められる方針が示されたにゃ。これにより、AI技術の活用が促進されることが期待されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -66,16 +75,7 @@
      "date": "2026-11-18T10:30:03+00:00",
      "source": "Media Innovation",
      "snippet": "ビクターエンタテインメント、アーティストの権利と生成AI活用めぐる有識者会議を発足&nbsp;&nbsp;Media Innovation",
-     "summary": "ビクターエンタテインメントがアーティストの権利と生成AI活用に関する有識者会議を発足させたにゃ。この会議はアーティストの権利保護とAIの適切な利用を目指しているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "OpenAI、ChatGPTでLe Figaroの記事を紹介する提携を発表 - Unite.AI",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ3BTSXlrR0lnQkdMZ3hHVXFOelZDQ0d1UWczNlhnczNKSXA0NDBHalVWOHNJYkpyMG1zLUJ3SVozdlFfbmNEMndHbjFGNkt6amRheGx0c0tIWGtIVFlfNGYyYkZQemlyWXFSYmlxVnJZcnZWUi1qRzBvV2ZFRUtSMG5QYXZ6S0RxSkdMR21B?oc=5",
-     "date": "2026-11-18T09:39:02+00:00",
-     "source": "Unite.AI",
-     "snippet": "OpenAI、ChatGPTでLe Figaroの記事を紹介する提携を発表&nbsp;&nbsp;Unite.AI",
-     "summary": "OpenAIがChatGPTを通じてLe Figaroの記事を紹介する提携を発表したにゃ。この提携により、情報のアクセスが広がることが期待されているそうだにゃん。"
+     "summary": "ビクターエンタテインメントがアーティストの権利と生成AI活用に関する有識者会議を発足させたにゃ。この会議では、アーティストの権利保護とAIの適切な利用について議論される予定だそうだにゃん。"
     },
     {
      "type": "news",
@@ -84,7 +84,7 @@
      "date": "2026-11-18T08:26:22+00:00",
      "source": "매일경제",
      "snippet": "「AIがニュースを吸い込む時代、出所の信頼度が命」&nbsp;&nbsp;매일경제",
-     "summary": "AIがニュースを吸い込む時代において、情報の出所の信頼度が重要であると指摘されたにゃ。信頼性のある情報源の確保が求められているそうだにゃん。"
+     "summary": "「AIがニュースを吸い込む時代」において、情報の出所の信頼度が重要だと指摘されているにゃ。AIによる情報処理が進む中、信頼性の確保が求められているそうだにゃん。"
     },
     {
      "type": "news",
@@ -93,7 +93,7 @@
      "date": "2026-11-18T06:17:00+00:00",
      "source": "風傳媒",
      "snippet": "台湾・蕭美琴副総統、生成AIとフェイクニュースに警鐘 「報道の自由は民主主義の第一防衛線」&nbsp;&nbsp;風傳媒",
-     "summary": "台湾の蕭美琴副総統が生成AIとフェイクニュースについて警鐘を鳴らし、報道の自由が民主主義の第一防衛線であると強調したにゃ。情報の正確性が重要視されているそうだにゃん。"
+     "summary": "台湾の蕭美琴副総統が生成AIとフェイクニュースに警鐘を鳴らしたにゃ。「報道の自由は民主主義の第一防衛線」とし、情報の正確性が重要であると強調しているそうだにゃん。"
     }
    ]
   },
@@ -103,12 +103,21 @@
    "items": [
     {
      "type": "gov",
-     "title": "過去の新着情報一覧 - 厚生労働省",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JSDFtNm9QUmc2aU4yRTJLalU0Yk43eFpKbmQ5czFfb3Z6SVpNQkRGdE5NVDVkY1JfQkp3bFNpTmlpN01BUU9uS0xUcXIzQlpVSXUxbURmLUYzZw?oc=5",
-     "date": "2026-11-19T01:09:07+00:00",
-     "source": "厚生労働省",
-     "snippet": "過去の新着情報一覧&nbsp;&nbsp;厚生労働省",
-     "summary": "厚生労働省の過去の新着情報一覧が掲載されているにゃ。最新の情報を確認するための便利なリソースだにゃん。"
+     "title": "令和8年11月19日(木)午前-内閣官房長官記者会見 - 政府広報オンライン",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObW4zRGxRWHNBRFR6YldGSGZodGNXTGlXUWt4cmdQWXhaSmF0YXBBZnN4MUZRSUFuWm91ZlNBZlZrVzFLWjRNSHRMLUxXN1YwS2w4Z1J1dU03T05qVlB5NWVYc09iYWlyN1AxclBNTzRlTGt3ajFxSTdjYXdlWTh3S25idmFnUDY5aGNPZlFiSC1KcnQtTnZXelhVMA?oc=5",
+     "date": "2026-11-19T03:30:17+00:00",
+     "source": "政府広報オンライン",
+     "snippet": "令和8年11月19日(木)午前-内閣官房長官記者会見&nbsp;&nbsp;政府広報オンライン",
+     "summary": "令和8年11月19日(木)午前に内閣官房長官の記者会見が行われたにゃ。具体的な内容は記載されていないけれど、政府の重要な情報が発表される場だと思うにゃ。記者会見では、政策や施策についての質問が行われることが多いにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "沖縄発のスタートアップ・Coraleonが「沖縄を代表する企業100選」に選出 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05eFJ2U19QaEdoaDBha1dxS2NVV3I3MWx4Z294OTNRZTBvMTNWRUR3eERFUHhjeHBuSHUzTXJjdm5JMzExUEJrM2pjNnFHUklPMGxaNWNFYVF3WHVpNjN3VzlnZnhnWHJL?oc=5",
+     "date": "2026-11-19T02:45:23+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "沖縄発のスタートアップ・Coraleonが「沖縄を代表する企業100選」に選出&nbsp;&nbsp;ニコニコニュース",
+     "summary": "沖縄発のスタートアップ・Coraleonが「沖縄を代表する企業100選」に選ばれたにゃ。この選出は、沖縄の経済や文化を代表する企業としての評価を受けたことを意味するにゃん。Coraleonは地域の発展に貢献する企業として注目されているそうだにゃ。"
     },
     {
      "type": "news",
@@ -117,7 +126,7 @@
      "date": "2026-11-18T08:53:00+00:00",
      "source": "TBS NEWS DIG",
      "snippet": "地方創生を目指す「マッチングHUB北陸」が金沢で開幕 全国から約2000人出席&nbsp;&nbsp;TBS NEWS DIG",
-     "summary": "金沢で「マッチングHUB北陸」が開幕したにゃ。全国から約2000人が参加し、地方創生を目指す取り組みが行われるそうだにゃ。"
+     "summary": "金沢で「マッチングHUB北陸」が開幕したにゃ。これは地方創生を目指すイベントで、全国から約2000人が参加したそうだにゃ。地域の活性化や新たなビジネスの創出を目指して、さまざまな交流やマッチングが行われる予定だにゃん。"
     },
     {
      "type": "news",
@@ -126,7 +135,7 @@
      "date": "2026-11-18T08:30:36+00:00",
      "source": "Yahoo!ニュース",
      "snippet": "光井市長が美作大学の公立化に言及「大学を核とした町づくりを」 津山市の地域創生推進会議【岡山】（RSK山陽放送）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "津山市の光井市長が美作大学の公立化について言及したにゃ。「大学を核とした町づくり」を提案し、地域創生の重要性を強調しているそうだにゃん。"
+     "summary": "津山市の地域創生推進会議で、光井市長が美作大学の公立化について言及したにゃ。市長は大学を核とした町づくりを進める重要性を強調していて、地域の活性化に向けた取り組みが期待されるにゃん。大学の存在が地域に与える影響は大きいそうだにゃ。"
     },
     {
      "type": "news",
@@ -135,16 +144,7 @@
      "date": "2026-11-17T10:20:00+00:00",
      "source": "Yahoo!ニュース",
      "snippet": "農山漁村の発展をめざす 青森県農林水産地方創生センターを開設 青森市（青森放送）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "青森市に農山漁村の発展を目指す「青森県農林水産地方創生センター」が開設されたにゃ。このセンターは地域の振興を図るための拠点となるそうだにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "モーニング娘。'26が登場「光の彼方に」を深掘り！ - TVer",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oSkVCXzRYaDNyZ21KUXcyekRnc3ZIOURhUFdybUlGQmI0eExXYWVEUmdfSEE0Xy00blpCaHpudkJHNm9Kd0dxVTl1NA?oc=5",
-     "date": "2026-11-17T03:18:27+00:00",
-     "source": "TVer",
-     "snippet": "モーニング娘。'26が登場「光の彼方に」を深掘り！&nbsp;&nbsp;TVer",
-     "summary": "モーニング娘。'26が「光の彼方に」について深掘りする企画があるにゃ。新たな魅力やメッセージを探る内容になっているそうだにゃん。"
+     "summary": "青森市に青森県農林水産地方創生センターが開設されたにゃ。これは農山漁村の発展を目指す取り組みの一環で、地域の資源を活かした発展を図ることが目的だにゃん。農業や漁業の振興を通じて、地域経済の活性化が期待されているそうだにゃ。"
     }
    ]
   },
@@ -159,7 +159,7 @@
      "date": "2026-11-19T00:25:28+00:00",
      "source": "PRESIDENT Online（プレジデントオンライン）",
      "snippet": "宇野千代に離婚を切り出されても責めず､追わず…エリート銀行員で終わらなかった\"2番目の夫\"のその後&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）",
-     "summary": "宇野千代の2番目の夫について、離婚を切り出された際に責めず、追わなかったエリート銀行員のその後が語られているにゃ。彼は、宇野との関係を大切にしつつ、自身の人生を歩んでいる様子が伝わる記事だにゃん。"
+     "summary": "宇野千代に離婚を切り出された2番目の夫についての記事だにゃ。彼はエリート銀行員だったが、離婚後も責めず追わずの姿勢を貫いたそうだにゃん。彼のその後の人生や心境について詳しく触れられているにゃ。"
     },
     {
      "type": "news",
@@ -168,7 +168,7 @@
      "date": "2026-11-18T11:04:15+00:00",
      "source": "au Webポータル",
      "snippet": "NHK委託業者のグループ会社、助成金不正申請が判明 会長が説明&nbsp;&nbsp;au Webポータル",
-     "summary": "NHKの委託業者に関連するグループ会社が助成金の不正申請を行っていたことが明らかになったにゃ。会長がこの問題について説明を行い、詳細が報じられている記事だにゃ。"
+     "summary": "NHKの委託業者のグループ会社が助成金の不正申請を行っていたことが明らかになったにゃ。会長がこの問題について説明を行ったそうだにゃん。詳細な内容はまだ不明だが、今後の対応が注目されるにゃ。"
     },
     {
      "type": "news",
@@ -177,7 +177,7 @@
      "date": "2026-11-18T08:24:07+00:00",
      "source": "au Webポータル",
      "snippet": "和歌山社経研調査「ＤＸヘの取組について」&nbsp;&nbsp;au Webポータル",
-     "summary": "和歌山社経研による調査が「DXへの取組」について行われたにゃ。調査結果は、企業のデジタルトランスフォーメーションに関する現状や課題を示していると思われる記事だにゃん。"
+     "summary": "和歌山社経研が実施した調査「DXへの取組について」の結果が発表されたにゃ。調査内容は具体的には示されていないが、デジタルトランスフォーメーションに関する企業の取り組みが焦点になっているそうだにゃん。"
     },
     {
      "type": "news",
@@ -186,7 +186,7 @@
      "date": "2026-11-18T06:21:46+00:00",
      "source": "西日本新聞me",
      "snippet": "職人育成DXのカシスト、「JACIC情報」134号「i-Construction 2.0」特集に寄稿、11/28には日本青年会議所 長崎ブロック建設クラブにて記念講演に登壇&nbsp;&nbsp;西日本新聞me",
-     "summary": "職人育成DXを推進するカシストが、「JACIC情報」134号に寄稿し、11月28日には日本青年会議所長崎ブロック建設クラブで記念講演を行う予定だにゃ。特集は「i-Construction 2.0」に関連しているにゃん。"
+     "summary": "職人育成DXを進めるカシストが、「JACIC情報」134号に寄稿したにゃ。特集は「i-Construction 2.0」で、11月28日には日本青年会議所の長崎ブロック建設クラブで記念講演を行う予定だにゃん。"
     },
     {
      "type": "news",
@@ -195,7 +195,7 @@
      "date": "2026-11-18T05:00:02+00:00",
      "source": "PR TIMES",
      "snippet": "【 静岡県 × eiicon 】『CO-LAB Shizuoka 2026』スタートアップ10社が採択決定！静岡県内全域をフィールドに実証実験へ&nbsp;&nbsp;PR TIMES",
-     "summary": "静岡県とeiiconが共同で『CO-LAB Shizuoka 2026』を立ち上げ、10社のスタートアップが採択されたにゃ。これらの企業は静岡県内全域をフィールドに実証実験を行う予定だにゃん。"
+     "summary": "静岡県とeiiconが共同で『CO-LAB Shizuoka 2026』を立ち上げ、10社のスタートアップが採択されたにゃ。これらの企業は静岡県内全域で実証実験を行う予定だにゃん。地域活性化に向けた取り組みが期待されるにゃ。"
     }
    ]
   },
@@ -210,7 +210,7 @@
      "date": "2026-11-19T00:42:06+00:00",
      "source": "디지털투데이",
      "snippet": "国立果川科学館、受験生向け特別企画 常設展示館を無料開放&nbsp;&nbsp;디지털투데이",
-     "summary": "国立果川科学館が受験生向けに特別企画を実施するにゃ。常設展示館を無料で開放することで、受験生が学びやすい環境を提供するそうだにゃん。受験生にとって、科学の知識を深める良い機会になるだろうにゃ。"
+     "summary": "国立果川科学館が受験生向けに特別企画を実施するにゃ。常設展示館を無料で開放することで、受験生たちがリラックスしながら学ぶ機会を提供するんだにゃ。詳細はディジタル投資から確認できるにゃん。"
     },
     {
      "type": "news",
@@ -219,7 +219,7 @@
      "date": "2026-11-18T20:30:28+00:00",
      "source": "ニコニコニュース",
      "snippet": "特別展「氷河期展 ～人類が見た4万年前の世界～」2026年11月28日(土)、ＦＵＪＩなごや科学館で開幕！&nbsp;&nbsp;ニコニコニュース",
-     "summary": "特別展「氷河期展 ～人類が見た4万年前の世界～」が2026年11月28日(土)にＦＵＪＩなごや科学館で開幕するにゃ。この展覧会では、氷河期の人類や環境についての貴重な情報が展示されるそうだにゃ。多くの人が訪れることが期待されているにゃん。"
+     "summary": "特別展「氷河期展 ～人類が見た4万年前の世界～」が2026年11月28日(土)にＦＵＪＩなごや科学館で開幕するにゃ。氷河期の人類の生活や環境についての展示が行われる予定で、興味深い内容になりそうだにゃん。"
     },
     {
      "type": "news",
@@ -228,7 +228,7 @@
      "date": "2026-11-18T09:00:18+00:00",
      "source": "Dellows News",
      "snippet": "ＦＵＪＩなごや科学館で特別展「氷河期展」開催へ&nbsp;&nbsp;Dellows News",
-     "summary": "ＦＵＪＩなごや科学館で特別展「氷河期展」が開催されるにゃ。この展覧会では、氷河期の人類の生活や環境についての展示が行われるそうだにゃ。来場者は、過去の世界を体験できる貴重な機会になるだろうにゃん。"
+     "summary": "ＦＵＪＩなごや科学館で特別展「氷河期展」が開催されるにゃ。展示では、氷河期の人類や生物の様子を紹介し、来場者にその時代の理解を深めてもらうことを目的としているそうだにゃん。"
     },
     {
      "type": "news",
@@ -237,7 +237,7 @@
      "date": "2026-11-17T09:30:00+00:00",
      "source": "Yahoo!ニュース",
      "snippet": "東京・上野の国立科学博物館の特別展「生きものたちの性」が開催中！常識がひっくり返るおもしろさにラランドも大興奮&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "東京・上野の国立科学博物館で特別展「生きものたちの性」が開催中だにゃ。常識が覆る内容に、ラランドも大興奮しているそうだにゃ。生物の性に関する新たな視点を提供する展示が多くの来場者を魅了しているにゃん。"
+     "summary": "東京・上野の国立科学博物館で特別展「生きものたちの性」が開催中だにゃ。常識が覆るような面白い内容で、ラランドも大興奮しているにゃん。生物の性に関する新たな視点を提供する展示になっているそうだにゃ。"
     },
     {
      "type": "news",
@@ -246,7 +246,7 @@
      "date": "2026-11-17T01:06:00+00:00",
      "source": "八重山毎日新聞",
      "snippet": "国立自然史博物館誘致に向け 小中高生が研究発表&nbsp;&nbsp;八重山毎日新聞",
-     "summary": "国立自然史博物館の誘致に向けて、小中高生が研究発表を行ったにゃ。地域の自然や歴史についての理解を深めることを目的としているそうだにゃん。若い世代が積極的に参加することで、地域の科学教育が進むことが期待されているにゃ。"
+     "summary": "国立自然史博物館の誘致に向けて、小中高生が研究発表を行ったにゃ。地域の自然史に関する知識を深め、博物館の必要性を訴える内容だったそうだにゃん。八重山毎日新聞で詳しい情報が得られるにゃ。"
     }
    ]
   },
@@ -256,12 +256,30 @@
    "items": [
     {
      "type": "news",
+     "title": "今週末は3連休！屋内で楽しめる関東の11月21日・22日・23日のイベント10選を紹介！ - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OdXF2a3JYSHZlRE4yVWNGOW4wYVpkQmF5T1dNQ0lZdTUwWHh2SVdjaXhGTHZYcHZTWm9hR0w1bmtkam9pRGtMSFVaeVV0Z1IxTjFNWTVuakppV1ZsLWcxOW00RGJZNlh3UmU3T1R1ZUpfZHNJMkJWYklvOA?oc=5",
+     "date": "2026-11-19T03:12:11+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "今週末は3連休！屋内で楽しめる関東の11月21日・22日・23日のイベント10選を紹介！&nbsp;&nbsp;ニコニコニュース",
+     "summary": "今週末は3連休だにゃ！関東では11月21日から23日まで、屋内で楽しめるイベントが10個紹介されているにゃ。家族や友達と一緒に楽しめるアクティビティが盛りだくさんだにゃん。雨の日でも安心して楽しめるので、ぜひ参加してみてほしいにゃ！"
+    },
+    {
+     "type": "news",
+     "title": "HYBE JAPANのVRコンサート3作品が映像賞受賞 LE SSERAFIM、&TEAM、TXTの魅力を没入体験で伝える - 韓流エンターテインメント",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44Qk9LalFrMGxfVWtCbkc4bmg3SG1NRTJRMXp3a0RWN1R4LW16ZkIxaS13Y1pVWGxuSGhranY3OVRLUGtzTkEwSy1ubw?oc=5",
+     "date": "2026-11-19T03:03:52+00:00",
+     "source": "韓流エンターテインメント",
+     "snippet": "HYBE JAPANのVRコンサート3作品が映像賞受賞 LE SSERAFIM、&amp;TEAM、TXTの魅力を没入体験で伝える&nbsp;&nbsp;韓流エンターテインメント",
+     "summary": "HYBE JAPANのVRコンサートが3作品も映像賞を受賞したにゃ。LE SSERAFIM、&TEAM、TXTの魅力を没入体験で伝える内容になっているそうだにゃん。これにより、ファンは新たな形でアーティストを楽しむことができるにゃ！"
+    },
+    {
+     "type": "news",
      "title": "体験型火星ミュージアム「THE SUNSET OF MARS」平日限定「VR火星旅行 夜がお得WEEK」11/27(金)まで - 横浜市",
      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oalBtUWRqS3UtR3BGaUpCc2xMNU1KTE9LZ3UwaWN3YmFPRmRMbGN1OUdrV1owcDNpbm93aHFwYXNXaHdzSzl0a2sySWJfNUJiZVNWd0Vnbm50OWJwSUFwWkxUNzhWYklIbzJrdmZpSDlyNkozNFNScw?oc=5",
      "date": "2026-11-18T15:02:23+00:00",
      "source": "横浜市",
      "snippet": "体験型火星ミュージアム「THE SUNSET OF MARS」平日限定「VR火星旅行 夜がお得WEEK」11/27(金)まで&nbsp;&nbsp;横浜市",
-     "summary": "横浜市の体験型火星ミュージアム「THE SUNSET OF MARS」では、平日限定で「VR火星旅行 夜がお得WEEK」を開催中だにゃ。イベントは11月27日（金）まで続くので、興味がある方はぜひ訪れてみてほしいにゃん。火星の魅力をVRで体験できる貴重な機会だにゃ。"
+     "summary": "体験型火星ミュージアム「THE SUNSET OF MARS」では、平日限定で「VR火星旅行 夜がお得WEEK」が開催されているにゃ。11月27日までの期間中、特別な体験ができるチャンスだにゃん。火星の世界をVRで楽しむことができるので、興味がある人はぜひ訪れてみてほしいにゃ！"
     },
     {
      "type": "news",
@@ -270,7 +288,7 @@
      "date": "2026-11-18T10:28:16+00:00",
      "source": "Mogura VR",
      "snippet": "愛知県知多市・新舞子にイマーシブミュージアム「Arte Museum Nagoya」グランドオープン、新作6作品が公開&nbsp;&nbsp;Mogura VR",
-     "summary": "愛知県知多市の新舞子に「Arte Museum Nagoya」がグランドオープンしたにゃ。ここでは新作6作品が公開され、イマーシブな体験が楽しめるそうだにゃ。アートとテクノロジーが融合した新しい形のミュージアムで、訪れる価値があるにゃん。"
+     "summary": "愛知県知多市・新舞子にイマーシブミュージアム「Arte Museum Nagoya」がグランドオープンしたにゃ。新作6作品が公開されており、訪れる人々に新しい体験を提供しているそうだにゃん。アートとテクノロジーの融合を楽しむことができる場所だにゃ！"
     },
     {
      "type": "news",
@@ -279,25 +297,7 @@
      "date": "2026-11-18T10:04:09+00:00",
      "source": "いこーよニュース",
      "snippet": "宇宙食試験も！VR・ARで宇宙飛行士の適性をチェック 平塚で親子向け宇宙体験フェス&nbsp;&nbsp;いこーよニュース",
-     "summary": "平塚で開催された親子向け宇宙体験フェスでは、VRやARを使って宇宙飛行士の適性をチェックする体験ができるにゃ。さらに、宇宙食の試験も行われ、参加者は楽しく学ぶことができたそうだにゃん。家族での参加にぴったりなイベントだにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "500円から体験できるVR・AR宇宙フェスが三重大学で12月5日開催、工作や月面散策も - いこーよニュース",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05d1RMa3ZSOGQ3Rm55dWY2clBYNGFaYk82SlR3OHVYTHQxSktneWtqZnNFcWNFUU9EMUp3VVRId0pnZzdZNlZSTk10WGxuNE9jLVE?oc=5",
-     "date": "2026-11-18T10:00:55+00:00",
-     "source": "いこーよニュース",
-     "snippet": "500円から体験できるVR・AR宇宙フェスが三重大学で12月5日開催、工作や月面散策も&nbsp;&nbsp;いこーよニュース",
-     "summary": "三重大学で12月5日に開催されるVR・AR宇宙フェスでは、500円から体験できる様々なアクティビティが用意されているにゃ。工作や月面散策など、宇宙に関連した楽しい体験ができるので、興味がある方はぜひ参加してみてほしいにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "名古屋・栄から4500年前のピラミッド建設現場へ!?新作VRで古代エジプトを冒険12/16〜 - ライブドアニュース",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yYll5dXB0aTF2cnU3d0p2NjJSNlpfaWMwbnJ5M2lQM21JNUk3aWg1UGZyODU5aDdKZ1Y0RTM5eUk1X01jMF9ycnRlQXJPRTIxOEpSS3VQZlpxM1JteGJZ?oc=5",
-     "date": "2026-11-18T08:45:29+00:00",
-     "source": "ライブドアニュース",
-     "snippet": "名古屋・栄から4500年前のピラミッド建設現場へ!?新作VRで古代エジプトを冒険12/16〜&nbsp;&nbsp;ライブドアニュース",
-     "summary": "名古屋・栄では、12月16日から新作VRで4500年前のピラミッド建設現場を冒険できるイベントが始まるにゃ。古代エジプトの歴史を体験しながら学べる貴重な機会だそうだにゃん。歴史好きにはたまらない内容になっているにゃ。"
+     "summary": "平塚で親子向けの宇宙体験フェスが開催され、VR・ARを使って宇宙飛行士の適性をチェックする体験ができるにゃ。宇宙食試験も行われるそうだにゃん。子どもたちが宇宙に興味を持つきっかけになるイベントだと思うにゃ！"
     }
    ]
   }
