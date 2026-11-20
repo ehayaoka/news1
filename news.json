@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T01:53:29.848156+00:00",
+ "updated": "2026-11-20T03:44:30.852098+00:00",
  "categories": [
   {
    "id": "ai_media",
@@ -7,12 +7,30 @@
    "items": [
     {
      "type": "gov",
+     "title": "LEAP 2026 サウジアラビアのAI・データセンター産業（2） - ジェトロ（日本貿易振興機構）",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTGQzb2I3U3dQRHhzWWt2TFBwV3hoaEFrUEFuaHExaTRBbS1SLU1BQXJ3RGs2a2xpd0M1M0poaDh0Z0FVdEZtbmpaOUVfYlNYWUI1emFHTTZFN3FPbkJacERTOEFOdm1VSkU1eDUyeTBzRnlIdkFJUEQxZkdsc3FsWWlPOGswQQ?oc=5",
+     "date": "2026-11-20T03:37:57+00:00",
+     "source": "ジェトロ（日本貿易振興機構）",
+     "snippet": "LEAP 2026 サウジアラビアのAI・データセンター産業（2）&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
+     "summary": "LEAP 2026では、サウジアラビアのAIとデータセンター産業の発展がテーマだにゃ。特に、AI技術の進展が経済成長に寄与することが期待されているにゃ。サウジアラビアは、デジタルインフラの強化とともに、国際的な投資を促進する方針を示しているそうだにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "データセンター開発拡大がもたらす課題と政策対応、米国・テキサス州 | 地域・分析レポート - 海外ビジネス情報 - ジェトロ（日本貿易振興機構）",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oSkRnMDI0MzJQRFc1WEQyOERuOTNRREFzZUJNbGtEcXpSQjBTaEFfVXZxUm50T2RNamVsLTEzSi1Lb0FOazJwZmhpSC1NRUZiTWtYMXZpZ0U2eEFhMlVoR1pFSXdGMk5fYjRyQkhnd2EwcGN2?oc=5",
+     "date": "2026-11-20T03:37:56+00:00",
+     "source": "ジェトロ（日本貿易振興機構）",
+     "snippet": "データセンター開発拡大がもたらす課題と政策対応、米国・テキサス州 | 地域・分析レポート - 海外ビジネス情報&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
+     "summary": "テキサス州ではデータセンターの開発が進んでいるが、それに伴う課題も浮上しているにゃ。特に、環境への影響や地域社会との調和が求められているそうだにゃ。政策対応として、持続可能な開発を目指す取り組みが進められているにゃん。"
+    },
+    {
+     "type": "gov",
      "title": "ルーマニアでモビリティー・フォーラム開催、持続可能で利用しやすいモビリティーがテーマ(ルーマニア) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fcy1XUmJiWHBySGNfYXg3UU1NcHFPT3BnSzViUHpFRHVyaEtrd3RJV2dIZnFsQjlWZXFzb0dWMEdIY0dQcjZLdHpXejZhSlVCMl96bmotMWVXdXpVNGVya2QwNzVCVFI4QTNNS29B?oc=5",
      "date": "2026-11-20T01:31:45+00:00",
      "source": "ジェトロ（日本貿易振興機構）",
      "snippet": "ルーマニアでモビリティー・フォーラム開催、持続可能で利用しやすいモビリティーがテーマ(ルーマニア) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "ルーマニアで開催されたモビリティー・フォーラムでは、持続可能で利用しやすいモビリティーがテーマに選ばれたにゃ。参加者は、環境に配慮した交通手段の重要性や、技術革新がもたらす未来の交通システムについて議論したそうだにゃん。フォーラムは、国際的な視点からの知見を共有する場となり、各国の取り組みや成功事例が紹介されたにゃ。"
+     "summary": "ルーマニアで開催されたモビリティー・フォーラムでは、持続可能で利用しやすい交通手段がテーマに選ばれたにゃ。参加者たちは、環境に配慮した交通システムの構築に向けた意見を交換し、未来のモビリティーについて議論したそうだにゃん。"
     },
     {
      "type": "news",
@@ -21,7 +39,7 @@
      "date": "2026-11-20T00:15:30+00:00",
      "source": "ニコニコニュース",
      "snippet": "【日本生成AIラーニング協会】AIの情報格差の解消を目指すニュースメディア「AI Learning News」を開設&nbsp;&nbsp;ニコニコニュース",
-     "summary": "日本生成AIラーニング協会が新たにニュースメディア「AI Learning News」を開設したにゃ。このメディアは、AIに関する情報格差を解消することを目指しているそうだにゃん。AI技術の進展に伴い、正確な情報を提供し、一般の理解を深めることが重要だと考えられているにゃ。"
+     "summary": "日本生成AIラーニング協会が新たに「AI Learning News」を開設したにゃ。このニュースメディアは、AIに関する情報格差を解消することを目的としているそうだにゃん。多くの人々にAIの知識を広めるための取り組みだにゃ。"
     },
     {
      "type": "news",
@@ -30,7 +48,7 @@
      "date": "2026-11-19T23:03:45+00:00",
      "source": "文化通信",
      "snippet": "【デジタルマーケティングの真価】17 メディアはAI検索にどう向き合うか 2027年は｢人間らしさ｣が競争力に&nbsp;&nbsp;文化通信",
-     "summary": "デジタルマーケティングにおいて、メディアはAI検索にどう向き合うべきかが議論されているにゃ。2027年には「人間らしさ」が競争力の鍵になると予測され、メディアはAIとの共存を模索する必要があるそうだにゃん。人間の感情や価値観を反映したコンテンツが求められる時代が来るかもしれないにゃ。"
+     "summary": "デジタルマーケティングにおいて、メディアはAI検索にどう向き合うかが重要なテーマだにゃ。2027年には「人間らしさ」が競争力の鍵になると予測されており、企業はその点を意識した戦略を考える必要があるそうだにゃん。"
     },
     {
      "type": "news",
@@ -39,25 +57,7 @@
      "date": "2026-11-19T22:22:21+00:00",
      "source": "ｄメニューニュース",
      "snippet": "半導体規制と収益難、中国の生成AIは「暗い時代」へ？―香港メディア&nbsp;&nbsp;ｄメニューニュース",
-     "summary": "中国の生成AIは、半導体規制や収益難により「暗い時代」に突入する可能性があると香港メディアが報じているにゃ。これにより、技術の発展が停滞し、競争力が低下する懸念があるそうだにゃん。中国のAI産業は、今後の政策や市場環境に大きく影響されるだろうにゃ。"
-    },
-    {
-     "type": "gov",
-     "title": "インドで始動する半導体製造 インドのAI・半導体（2） - ジェトロ（日本貿易振興機構）",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOckVicjNyWXdCSHBZN0JsQXd0SGJ3UndMM2R6bjdwczRST3lPdkJHYTV6c0RWY3F1czF5U3N6S3NUc0lDWURuTDQ0WVg3Z3hZNTZ0YTZqbmdFX0FaTHJub2RzaHJyYkxOazcxSlItTE8weFR6YTladDlNekl3QzBKTWJvaXZYdw?oc=5",
-     "date": "2026-11-19T19:47:37+00:00",
-     "source": "ジェトロ（日本貿易振興機構）",
-     "snippet": "インドで始動する半導体製造 インドのAI・半導体（2）&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "インドで半導体製造が始動することが報じられたにゃ。インドはAIと半導体産業の成長を目指しており、国際的な競争力を高めるための取り組みを進めているそうだにゃん。これにより、インドの経済成長や技術革新が期待されているにゃ。"
-    },
-    {
-     "type": "gov",
-     "title": "ＡＳＥＡＮ関連首脳会議及びＡＰＥＣ首脳会議出席等についての内外記者会見 - 首相官邸",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyTVdBUk9VVmtiWE1HQ1ZtZGd4RjFnalhlVDlIWDBHb2E4X1N0UmRTdDlidl9SYW9IQXRRT1NhSldFSlNHeEY0YUM0V2tpSzVJRWY0eWE2Wi1yRUtpb2ZxWjNma1JOc0VyZUVQczVhZw?oc=5",
-     "date": "2026-11-19T18:06:16+00:00",
-     "source": "首相官邸",
-     "snippet": "ＡＳＥＡＮ関連首脳会議及びＡＰＥＣ首脳会議出席等についての内外記者会見&nbsp;&nbsp;首相官邸",
-     "summary": "首相官邸で行われた記者会見では、ASEAN関連首脳会議やAPEC首脳会議への出席について説明されたにゃ。これらの会議は、地域の協力や経済連携を強化するための重要な機会となるそうだにゃん。首相は、国際的な課題に対する日本の立場を明確にすることを目指しているにゃ。"
+     "summary": "中国の生成AIは、半導体規制や収益の難しさから「暗い時代」に突入する可能性があると報じられているにゃ。これにより、技術革新や市場競争に影響が出るかもしれないそうだにゃん。"
     },
     {
      "type": "news",
@@ -66,7 +66,7 @@
      "date": "2026-11-19T15:51:21+00:00",
      "source": "ニコニコニュース",
      "snippet": "人気インフルエンサーの逮捕報道で考える、AIが下げる「悪事のハードル」&nbsp;&nbsp;ニコニコニュース",
-     "summary": "人気インフルエンサーの逮捕報道を受けて、AIが「悪事のハードル」を下げる影響について考察されたにゃ。AI技術の進化が、犯罪行為を助長する可能性があると指摘されているそうだにゃん。社会全体での倫理的な議論が求められているにゃ。"
+     "summary": "人気インフルエンサーの逮捕報道を受けて、AIが「悪事のハードル」を下げる可能性について考察されているにゃ。AI技術の進化が犯罪行為にどのように影響を与えるのか、社会的な議論が必要だそうだにゃん。"
     },
     {
      "type": "news",
@@ -75,7 +75,7 @@
      "date": "2026-11-19T04:00:00+00:00",
      "source": "ITmedia",
      "snippet": "AI音声認識マウスアプリに建設業向けテンプレ管理機能 アドバンスト・メディア：AI&nbsp;&nbsp;ITmedia",
-     "summary": "アドバンスト・メディアが開発したAI音声認識マウスアプリに、建設業向けのテンプレ管理機能が追加されたにゃ。この機能により、建設業界での業務効率が向上することが期待されているそうだにゃん。AI技術の導入が、業界のデジタル化を進める一助となるだろうにゃ。"
+     "summary": "アドバンスト・メディアは、建設業向けのAI音声認識マウスアプリにテンプレ管理機能を追加したにゃ。この機能により、業務の効率化が期待されているそうだにゃん。AI技術の活用が進む中、業界のニーズに応える取り組みだにゃ。"
     },
     {
      "type": "news",
@@ -84,7 +84,7 @@
      "date": "2026-11-18T10:30:03+00:00",
      "source": "Media Innovation",
      "snippet": "ビクターエンタテインメント、アーティストの権利と生成AI活用めぐる有識者会議を発足&nbsp;&nbsp;Media Innovation",
-     "summary": "ビクターエンタテインメントが、アーティストの権利と生成AIの活用に関する有識者会議を発足させたにゃ。この会議では、アーティストの権利保護とAI技術の適切な利用について議論される予定だそうだにゃん。音楽業界における新たな課題に対応するための重要なステップだにゃ。"
+     "summary": "ビクターエンタテインメントは、アーティストの権利と生成AIの活用に関する有識者会議を発足させたにゃ。アーティストの権利保護とAI技術の適切な利用について議論し、業界の未来を見据えた取り組みを進めるそうだにゃん。"
     },
     {
      "type": "news",
@@ -93,7 +93,7 @@
      "date": "2026-11-18T06:17:00+00:00",
      "source": "風傳媒",
      "snippet": "台湾・蕭美琴副総統、生成AIとフェイクニュースに警鐘 「報道の自由は民主主義の第一防衛線」&nbsp;&nbsp;風傳媒",
-     "summary": "台湾の蕭美琴副総統が、生成AIとフェイクニュースに警鐘を鳴らしたにゃ。「報道の自由は民主主義の第一防衛線」とし、正確な情報の重要性を強調しているそうだにゃん。AI技術の進展が報道の信頼性に与える影響について、社会全体での議論が必要だにゃ。"
+     "summary": "台湾の蕭美琴副総統は、生成AIとフェイクニュースの問題について警鐘を鳴らしたにゃ。彼女は、報道の自由が民主主義の第一防衛線であると強調し、情報の正確性を保つ重要性を訴えたそうだにゃん。"
     }
    ]
   },
@@ -103,12 +103,21 @@
    "items": [
     {
      "type": "news",
+     "title": "平井知事の定例会見からひも解く「ローカルフードファイト騒動」と行政の境界線 2026.11.19 - 企業調査のかくし扉",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52RDA1emVTbmNONHNBTkpqdEpSMlNfTl9YTnkxcV9ZVnNvaFhKNld6dVltUzVjSFFiS1Z4MVFsZVZRSWtfWXBHZEV4X3AtYUZNN1dwRG8zVW0xVl9ocEFlTVhrZw?oc=5",
+     "date": "2026-11-20T03:10:16+00:00",
+     "source": "企業調査のかくし扉",
+     "snippet": "平井知事の定例会見からひも解く「ローカルフードファイト騒動」と行政の境界線 2026.11.19&nbsp;&nbsp;企業調査のかくし扉",
+     "summary": "平井知事の定例会見では、「ローカルフードファイト騒動」についての議論が行われたにゃ。この騒動は地域の食文化を巡るもので、行政の役割や境界線についても触れられたそうだにゃ。知事は地域振興の重要性を強調し、行政と市民の協力が必要だと述べたにゃん。"
+    },
+    {
+     "type": "news",
      "title": "【町制70周年】LocaLink所属「みっけ！やましろ」、宇治田原町の記念ロゴを手がけ共創手ぬぐいを式典で披露 - ニコニコニュース",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oRldSWFVkVlpjX3FRbFl6TXBxaHU2R2NLOTBvRmI3dlJTdVhhQlotNGY0TWk0aEExbkttaXRoZVl5b1EzQ0c3RkpHazM2LWpNa1hxZ1FtZUFTN3pvNUdIbUY3ZjhJbnQ0?oc=5",
      "date": "2026-11-19T20:00:45+00:00",
      "source": "ニコニコニュース",
      "snippet": "【町制70周年】LocaLink所属「みっけ！やましろ」、宇治田原町の記念ロゴを手がけ共創手ぬぐいを式典で披露&nbsp;&nbsp;ニコニコニュース",
-     "summary": "宇治田原町の町制70周年を記念して、LocaLink所属の「みっけ！やましろ」が特別なロゴをデザインしたにゃ。式典では、共創手ぬぐいも披露され、地域の文化や伝統を大切にする姿勢が示されたそうだにゃん。"
+     "summary": "宇治田原町の町制70周年を記念して、LocaLink所属の「みっけ！やましろ」が特別なロゴをデザインしたにゃ。式典では共創手ぬぐいも披露され、地域の文化や伝統を大切にする姿勢が示されたそうだにゃん。町民の参加もあり、盛り上がりを見せたにゃ。"
     },
     {
      "type": "news",
@@ -117,7 +126,7 @@
      "date": "2026-11-19T18:51:20+00:00",
      "source": "ニコニコニュース",
      "snippet": "クラダシ、「クラダシチャレンジ」の取り組み拡大に向け、地域滞在型プログラム「遊ぶ広報」に社員が参加&nbsp;&nbsp;ニコニコニュース",
-     "summary": "クラダシは「クラダシチャレンジ」の取り組みを拡大するため、地域滞在型プログラム「遊ぶ広報」に社員が参加したにゃ。このプログラムは地域とのつながりを深めることを目的としており、地域創生に貢献する活動だそうだにゃ。"
+     "summary": "クラダシは「クラダシチャレンジ」の取り組みを拡大するため、地域滞在型プログラム「遊ぶ広報」に社員が参加したにゃ。このプログラムは地域とのつながりを深め、地域活性化を目指すもので、社員たちの積極的な関与が期待されているそうだにゃん。"
     },
     {
      "type": "gov",
@@ -126,7 +135,7 @@
      "date": "2026-11-19T15:23:48+00:00",
      "source": "政府広報オンライン",
      "snippet": "トランプ米国大統領との電話会談等についての会見-令和8年11月19日&nbsp;&nbsp;政府広報オンライン",
-     "summary": "令和8年11月19日、政府広報オンラインでトランプ米国大統領との電話会談に関する会見が行われたにゃ。詳細は不明だが、重要な外交の一環として注目されているそうだにゃん。"
+     "summary": "令和8年11月19日に行われた会見では、トランプ米国大統領との電話会談についての報告があったにゃ。具体的な内容は明らかにされていないが、両国の関係強化に向けた意見交換が行われたとされているにゃん。今後の動向に注目だにゃ。"
     },
     {
      "type": "news",
@@ -135,16 +144,7 @@
      "date": "2026-11-19T11:17:25+00:00",
      "source": "東海大学",
      "snippet": "広報メディア学科の野口准教授が「第21回日本広報学会賞」の研究奨励賞を受賞しました&nbsp;&nbsp;東海大学",
-     "summary": "東海大学の広報メディア学科に所属する野口准教授が、「第21回日本広報学会賞」の研究奨励賞を受賞したにゃ。この受賞は、広報分野における優れた研究を評価された結果であり、今後の活躍が期待されるそうだにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "【地域創生】地域創生を事業化：SC事業の事業領域拡大をリード ―新規事業開発PM - 株式会社メディアドゥ",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zTzlfYzk1VjRGMjlhUm5QZW41bEJjRFgyRW0xeHQ2M1Q2LWZkWEpGdC0zd2dyVmhfLXdtRWdKNHUzZWZtSXdxMk1JcnBJWEkyaXdiSm45NWhzdw?oc=5",
-     "date": "2026-11-19T05:06:39+00:00",
-     "source": "株式会社メディアドゥ",
-     "snippet": "【地域創生】地域創生を事業化：SC事業の事業領域拡大をリード ―新規事業開発PM&nbsp;&nbsp;株式会社メディアドゥ",
-     "summary": "株式会社メディアドゥは、地域創生を事業化するためにSC事業の領域を拡大する取り組みを進めているにゃ。新規事業開発PMがリードし、地域の活性化に向けた新たなビジネスモデルの構築を目指しているそうだにゃん。"
+     "summary": "東海大学の広報メディア学科に所属する野口准教授が、「第21回日本広報学会賞」の研究奨励賞を受賞したにゃ。この賞は広報に関する優れた研究を評価するもので、野口准教授の業績が認められたことは、大学にとっても大きな誇りだにゃん。"
     }
    ]
   },
@@ -159,7 +159,7 @@
      "date": "2026-11-19T16:10:03+00:00",
      "source": "Infoseek",
      "snippet": "東海テレビ「Edge」が初の事業伴走支援を実施、中日金型の新規事業金型教育システム「マナガタ」のブラッシュアップを支援&nbsp;&nbsp;Infoseek",
-     "summary": "東海テレビの「Edge」が、中日金型の新規事業である金型教育システム「マナガタ」のブラッシュアップを支援する初の事業伴走支援を実施したそうだにゃ。これにより、教育システムの向上が期待されているにゃん。"
+     "summary": "東海テレビの「Edge」が、中日金型の新規事業である金型教育システム「マナガタ」のブラッシュアップを支援する初の事業伴走支援を実施したにゃ。この取り組みは、地域の企業が新たなビジネスを展開するためのサポートを目的としているそうだにゃん。"
     },
     {
      "type": "news",
@@ -168,7 +168,7 @@
      "date": "2026-11-19T09:39:16+00:00",
      "source": "NHKニュース",
      "snippet": "シャープや関電子会社で情報漏えい 「プレイド」不正アクセス&nbsp;&nbsp;NHKニュース",
-     "summary": "シャープや関電子会社で情報漏えいが発生したにゃ。これは「プレイド」という企業への不正アクセスによるもので、詳細はまだ明らかになっていないそうだにゃん。"
+     "summary": "シャープとその関連会社で情報漏えいが発生したにゃ。「プレイド」という企業が不正アクセスを受けたことが原因とされているにゃ。この事件は、企業の情報管理の重要性を再認識させる出来事だと思うにゃん。"
     },
     {
      "type": "news",
@@ -177,7 +177,7 @@
      "date": "2026-11-19T09:35:00+00:00",
      "source": "日本経済新聞",
      "snippet": "スタートアップ40社、AIや新技術で課題解決訴え 山口FGがイベント&nbsp;&nbsp;日本経済新聞",
-     "summary": "山口FGが主催したイベントで、40社のスタートアップがAIや新技術を活用した課題解決を訴えたにゃ。これにより、地域の産業振興や新たなビジネスチャンスが期待されているそうだにゃん。"
+     "summary": "山口FGが開催したイベントにおいて、40社のスタートアップがAIや新技術を活用して社会課題の解決を訴えたにゃ。これにより、地域のイノベーションを促進し、ビジネスの可能性を広げる狙いがあるそうだにゃん。"
     },
     {
      "type": "news",
@@ -186,16 +186,16 @@
      "date": "2026-11-19T09:32:25+00:00",
      "source": "熊本日日新聞社",
      "snippet": "水俣市が18議案提出へ 高校魅力化など新事業費計上&nbsp;&nbsp;熊本日日新聞社",
-     "summary": "水俣市が18の議案を提出する予定で、高校の魅力化や新事業費の計上が含まれているにゃ。これにより、地域の教育環境や経済の活性化が目指されているそうだにゃん。"
+     "summary": "水俣市が18の議案を提出する予定で、高校の魅力化など新しい事業費を計上するにゃ。この取り組みは、地域の教育環境を改善し、若者の定住を促進することを目指しているそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "ロス五輪機運醸成へ米ソフトボールリーグに日本人共同オーナー - NHKニュース",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LMHlYYWEtb2d4bGlpbGpoM1J2X2JuZU1feEJzTEdaLVU2STJZeVktNnVkTkZJem90Zzh5Yk5ncTV6d0xnM3Y0cmRTUkxNMHRxRkJsTkY5M0RsdG9UY1Fj?oc=5",
-     "date": "2026-11-19T06:40:00+00:00",
+     "title": "山口 AIで仕事が変わる？ 最新技術が下関に集結 - NHKニュース",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtN0FyVUZCcFdQNi1hR2dIb2NIaDJneDNQbU9CS0JLOVhqY1pseGFOZHRDOTdtd1l6RG9PZnAxakxucnowMDVqREF3TnRDVFIteTYzb2FkM2d3M2pUTUkw?oc=5",
+     "date": "2026-11-19T08:54:33+00:00",
      "source": "NHKニュース",
-     "snippet": "ロス五輪機運醸成へ米ソフトボールリーグに日本人共同オーナー&nbsp;&nbsp;NHKニュース",
-     "summary": "ロサンゼルス五輪の機運を醸成するため、日本人が米ソフトボールリーグの共同オーナーとなったにゃ。これにより、日本のソフトボールの普及や国際交流が進むことが期待されているそうだにゃん。"
+     "snippet": "山口 AIで仕事が変わる？ 最新技術が下関に集結&nbsp;&nbsp;NHKニュース",
+     "summary": "山口県下関市に最新のAI技術が集結し、仕事の変革について議論が行われたにゃ。AIの導入がどのように労働環境を変えるかに焦点が当てられ、地域の企業や労働者にとって重要なテーマとなっているそうだにゃん。"
     }
    ]
   },
@@ -210,7 +210,7 @@
      "date": "2026-11-19T09:15:00+00:00",
      "source": "佐賀新聞",
      "snippet": "＜ゆめぎんが通信＞佐賀県立宇宙科学館で11月21日に天文祭 12月5日からは企画展「宇宙ヲ知ル」&nbsp;&nbsp;佐賀新聞",
-     "summary": "佐賀県立宇宙科学館では、11月21日に天文祭が開催されるにゃ。さらに、12月5日からは「宇宙ヲ知ル」という企画展が始まるそうだにゃ。宇宙に関するさまざまな展示やイベントが予定されているので、興味がある人はぜひ訪れてみてほしいにゃん。"
+     "summary": "佐賀県立宇宙科学館で11月21日に天文祭が開催されるにゃ。また、12月5日からは企画展「宇宙ヲ知ル」が始まるそうだにゃ。宇宙に関するさまざまな展示やイベントが予定されているので、興味のある方はぜひ訪れてみてほしいにゃん。"
     },
     {
      "type": "news",
@@ -219,7 +219,16 @@
      "date": "2026-11-19T00:42:06+00:00",
      "source": "디지털투데이",
      "snippet": "国立果川科学館、受験生向け特別企画 常設展示館を無料開放&nbsp;&nbsp;디지털투데이",
-     "summary": "国立果川科学館では、受験生向けの特別企画として、常設展示館を無料で開放するそうだにゃ。受験勉強の合間に科学を楽しむ良い機会になるにゃん。詳細は公式サイトなどで確認して、ぜひ利用してほしいにゃ。"
+     "summary": "国立果川科学館では、受験生向けの特別企画として常設展示館を無料開放するにゃ。受験勉強の合間に、科学館でリフレッシュできるチャンスだにゃ。受験生にとって、学びの場としても楽しめる場所になると思うにゃん。"
+    },
+    {
+     "type": "paper",
+     "title": "Towards Restorative Urban Spaces: An Exploratory Field Study of Nature Videos on Public Multi-Display Signage",
+     "link": "https://arxiv.org/abs/2611.25259v1",
+     "date": "2026-11-18T22:42:08+00:00",
+     "source": "arXiv",
+     "snippet": "In recent years, multi-display signage (MDS) has become increasingly common in urban stations, plazas, and other public spaces, where it is primarily used to present advertisements and information. Beyond these conventional applications, MDS offers opportunities to shape people's experiences of public environments through spatially distributed and dynamic visual content. Motivated by the potential of mediated nature to support restorative experiences in urban environments, we conducted a nine-day exploratory field study in a free-admission area of a science museum, presenting artificial intell",
+     "summary": "都市の公共空間における多重表示サイネージ（MDS）の利用が進んでいるにゃ。最近の研究では、MDSが人々の体験を豊かにする可能性があることが示されたそうだにゃ。特に、自然を媒介としたコンテンツが都市環境での癒しの体験をサポートすることが期待されているにゃん。"
     },
     {
      "type": "news",
@@ -228,7 +237,7 @@
      "date": "2026-11-18T20:30:28+00:00",
      "source": "ニコニコニュース",
      "snippet": "特別展「氷河期展 ～人類が見た4万年前の世界～」2026年11月28日(土)、ＦＵＪＩなごや科学館で開幕！&nbsp;&nbsp;ニコニコニュース",
-     "summary": "特別展「氷河期展 ～人類が見た4万年前の世界～」が、2026年11月28日からＦＵＪＩなごや科学館で開催されるにゃ。氷河期の人類や生態系についての展示が行われる予定で、興味深い内容になりそうだにゃん。"
+     "summary": "特別展「氷河期展 ～人類が見た4万年前の世界～」が2026年11月28日(土)にＦＵＪＩなごや科学館で開幕するにゃ。この展覧会では、氷河期の世界をテーマにした展示が行われる予定だそうだにゃ。歴史に興味がある方には見逃せないイベントになると思うにゃん。"
     },
     {
      "type": "news",
@@ -237,16 +246,7 @@
      "date": "2026-11-18T09:00:18+00:00",
      "source": "Dellows News",
      "snippet": "ＦＵＪＩなごや科学館で特別展「氷河期展」開催へ&nbsp;&nbsp;Dellows News",
-     "summary": "ＦＵＪＩなごや科学館で特別展「氷河期展」が開催されるにゃ。具体的な日程は2026年11月28日からで、氷河期に関するさまざまな展示が行われる予定だそうだにゃ。歴史に興味がある人には楽しみなイベントになるにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "東京・上野の国立科学博物館の特別展「生きものたちの性」が開催中！常識がひっくり返るおもしろさにラランドも大興奮 - Yahoo!ニュース",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4ySGdNTThRdkdGNzdXMloxUklKdldhOE9EYzExdDVFWElDOVNYWHJrci1IZl94UnU3aFdMZTl1T3ZJNHZ5WFBCdzNWR0FzSWp3Z0hKZmhKcHJ2VnNoVjQxWnRSaFQ1LXZ4V1plcXR3Zjk0amFxMFhlMGNXRXdUX1k?oc=5",
-     "date": "2026-11-17T09:30:00+00:00",
-     "source": "Yahoo!ニュース",
-     "snippet": "東京・上野の国立科学博物館の特別展「生きものたちの性」が開催中！常識がひっくり返るおもしろさにラランドも大興奮&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "東京・上野の国立科学博物館で特別展「生きものたちの性」が開催中だにゃ。常識が覆るような面白い内容が多く、ラランドも大興奮しているそうだにゃん。生物の性に関する新たな視点を楽しめる展示になっているにゃ。"
+     "summary": "ＦＵＪＩなごや科学館で特別展「氷河期展」が開催されるにゃ。具体的な内容はまだ詳細がわからないが、氷河期に関する展示が行われることが期待されているそうだにゃ。歴史や科学に興味がある方にとって、楽しみなイベントになるだろうにゃん。"
     }
    ]
   },
@@ -256,48 +256,48 @@
    "items": [
     {
      "type": "news",
+     "title": "渋谷でテクノロジーとアートのイベント、「DIG SHIBUYA 2027」が開催、ARグラスを使った街歩きツアーやVR映像の上映も - Mogura VR",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fb3hEc19ER1loQ3BRQlZnTzVGOENYV2NoMHJiNm54cjlwTFJJaVFtZVBmUkJzeFVRSl9qYS10dFA5YWdfdy1kOE9hcEpobHNvX3VPeUVQLTRNRW9jUXM1SEdkczI?oc=5",
+     "date": "2026-11-20T03:18:41+00:00",
+     "source": "Mogura VR",
+     "snippet": "渋谷でテクノロジーとアートのイベント、「DIG SHIBUYA 2027」が開催、ARグラスを使った街歩きツアーやVR映像の上映も&nbsp;&nbsp;Mogura VR",
+     "summary": "渋谷で「DIG SHIBUYA 2027」というテクノロジーとアートのイベントが開催されるにゃ。ARグラスを使った街歩きツアーや、VR映像の上映が行われる予定だにゃん。新しい体験を通じて、テクノロジーとアートの融合を楽しむことができるイベントだにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "【FF14】乗馬体験が活きた！ チョコボの手綱を握ってエオルゼアを疾走する“チョコボレースVR”体験レポート - 電撃オンライン",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tdTI4bTZaNjNXdG1sZVhoalJ5Yk5sMXNIdzh0TEwzN2tlTFExMXJnM2pqM3phOW5xdjlaLUd2NXVNek1jWXVRUWJqaUpjdkY1ajd0SDV0Qk5YZw?oc=5",
+     "date": "2026-11-20T02:20:00+00:00",
+     "source": "電撃オンライン",
+     "snippet": "【FF14】乗馬体験が活きた！ チョコボの手綱を握ってエオルゼアを疾走する“チョコボレースVR”体験レポート&nbsp;&nbsp;電撃オンライン",
+     "summary": "「FF14」の新しい体験として、チョコボの手綱を握ってエオルゼアを疾走する「チョコボレースVR」が登場するにゃ。乗馬体験が活かされたこのVR体験は、プレイヤーにリアルな感覚を提供するそうだにゃん。詳細なレポートが電撃オンラインに掲載されているにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "「チョコボレースVR」本日11月20日よりティフォニウムお台場にて体験開始、12月3日より新宿店でも展開決定 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2a3hoTHFPYmd2Sy1DY1BCa1g3Y0o2b0E1cUxwMGIxWkZ4REtmbzVmT1kwRHJROXo3SVItM2twZDN4UkpuZHhDYWFvNFRZaVVMOE9EU1lWa1VpTEw5Q0tROG52c3lqUTRzV1E?oc=5",
+     "date": "2026-11-20T02:00:03+00:00",
+     "source": "PR TIMES",
+     "snippet": "「チョコボレースVR」本日11月20日よりティフォニウムお台場にて体験開始、12月3日より新宿店でも展開決定&nbsp;&nbsp;PR TIMES",
+     "summary": "「チョコボレースVR」が11月20日よりティフォニウムお台場で体験開始されるにゃ。さらに、12月3日からは新宿店でも展開される予定だにゃん。ファイナルファンタジーのファンにとって、楽しみなイベントになること間違いなしだにゃ。"
+    },
+    {
+     "type": "news",
      "title": "大型VR体験施設「イマーシブジャーニー 大阪」12月19日オープン決定＆チケット販売スタート（ぴあ） - Yahoo!ニュース",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56S2s1QmJGcVBUYm9DZGVHaGNIbTZFQUtxUjVMRTVDa2VqUk1YajY1M2JDRTdQSVljZEtrQzViT2taX0FzVzUySnhUeS1oUDVUOXlEbms2a095SU9pVzhBQW9KNlFMLXZabDlHZUJiN1M2NWtjSk0tMURIOTBTTVk?oc=5",
      "date": "2026-11-20T01:04:42+00:00",
      "source": "Yahoo!ニュース",
      "snippet": "大型VR体験施設「イマーシブジャーニー 大阪」12月19日オープン決定＆チケット販売スタート（ぴあ）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "大型VR体験施設「イマーシブジャーニー 大阪」が12月19日にオープンすることが決定したにゃ。チケットの販売もスタートしているにゃん。この施設は関西エリアに初上陸し、ヒルトンプラザ イーストの8階に位置するそうだにゃ。日本国内では累計来場者数が35万人を突破しており、注目を集めているにゃん。"
+     "summary": "大型VR体験施設「イマーシブジャーニー 大阪」が12月19日にオープンすることが決定したにゃ。チケットの販売もスタートするそうだにゃん。関西エリア初上陸で、累計来場者数は35万人を突破しているにゃ。新たな体験が楽しめる場所になるだろうにゃ。"
     },
     {
      "type": "news",
-     "title": "大型VR体験施設「イマーシブジャーニー 大阪」が関西エリアに初上陸 「ヒルトンプラザ イースト」の8階にて12/19オープン - PANORA",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45dTNIaFdKcnNtNkRkbmR0M0pCUnRDd05qSmhPeWhZOUM3WXE1TDVLLXhrLUM2dlVZaGJXTEtQS0Yyb0FWVGZwTTBjZFQ?oc=5",
-     "date": "2026-11-20T01:00:00+00:00",
-     "source": "PANORA",
-     "snippet": "大型VR体験施設「イマーシブジャーニー 大阪」が関西エリアに初上陸 「ヒルトンプラザ イースト」の8階にて12/19オープン&nbsp;&nbsp;PANORA",
-     "summary": "「イマーシブジャーニー 大阪」が関西エリアに初めて登場するにゃ。オープン日は12月19日で、ヒルトンプラザ イーストの8階に位置するそうだにゃ。大型VR体験施設として、多くの人々に楽しんでもらえることを目指しているにゃん。チケットの販売も開始されているので、興味がある方はチェックしてみてほしいにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "関西エリア初上陸！日本で累計来場者数35万人突破で話題の大型VR体験施設「イマーシブジャーニー 大阪」12月19日（土）オープン決定 チケット販売スタート！ - エンタメラッシュ",
-     "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1ENE5PZ0NqYkpSZjZMSnNEdUc4UGdOTmNGeTg1WlN4cWhuVmFzcTdqQi1fajBKelV3Q0N2Ym02TmJNTnM?oc=5",
-     "date": "2026-11-20T01:00:00+00:00",
-     "source": "エンタメラッシュ",
-     "snippet": "関西エリア初上陸！日本で累計来場者数35万人突破で話題の大型VR体験施設「イマーシブジャーニー 大阪」12月19日（土）オープン決定 チケット販売スタート！&nbsp;&nbsp;エンタメラッシュ",
-     "summary": "「イマーシブジャーニー 大阪」が12月19日にオープンするにゃ。関西エリア初上陸で、これまでに日本での来場者数は35万人を超えているそうだにゃ。チケット販売も始まっており、多くの人々がこの大型VR体験を楽しむことが期待されているにゃん。新しい体験が待っているので、ぜひ訪れてみてほしいにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "富山大空襲の資料保存、常設展示施設を柱に基本方針案 「VRなど体験型」も検討（富山テレビ） - Yahoo!ニュース",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EakYtbWdpNnNxM1ZSM2VlcGNJdkM1VkJKZlRDeFZFLXBxbXk4eEZ0WHJ1SkhTSWJMc01GVVdLbFl4RjNlZlJMeWNuT3ptY3pLRVNCRlk4STY1Sk15ejRxbG1JYThUZHlPR2Q3cGdGcGVvM0FxRGtLUmg0eTlLejQ?oc=5",
-     "date": "2026-11-19T22:45:01+00:00",
+     "title": "関西エリア初上陸！累計来場者数35万人突破の大型VR体験施設「イマーシブジャーニー 大阪」12月19日（土）オープン決定 チケット販売開始！（株式会社CinemaLeap） - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nS21ISXJFQWJlOFg1WlhjNGhzOG9hZS1DdGt4MkN1Nlg2V0txWDlZOHJkS01PWmpzRmp4MGxwNG43NjVRcjhIV3JieU5PYVJTMzhZOWw0cEl1eXdIM3lsN1gtVGRMVHFCSUs1aUxtNm9BeG5yR3ZJZEFOWmNVTXM?oc=5",
+     "date": "2026-11-20T01:03:49+00:00",
      "source": "Yahoo!ニュース",
-     "snippet": "富山大空襲の資料保存、常設展示施設を柱に基本方針案 「VRなど体験型」も検討（富山テレビ）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "富山大空襲の資料保存に関する基本方針案が策定され、常設展示施設を中心に検討が進められているにゃ。さらに、VRなどの体験型展示も考慮されているそうだにゃ。この取り組みは、歴史を伝える重要な役割を果たすことを目指しているにゃん。具体的な計画が進むことで、多くの人々に学びの場を提供できるといいにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "愛媛の防災VRが「ルミエール・ジャパン・アワード2026」VR部門 特別賞を受賞 - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUMGpfdlZvcEdwbG1weXhUMHllR1dmWDJDY3F3YlJzd0U2aFVoQnZUNVppVkJtT2Z5LVVOWnhkZF9FSE01NWp1aE4ta0d3elNpUVhQZWVNdS1uLWI0d2ZQRXRobE5BYmNv?oc=5",
-     "date": "2026-11-19T19:30:20+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "愛媛の防災VRが「ルミエール・ジャパン・アワード2026」VR部門 特別賞を受賞&nbsp;&nbsp;ニコニコニュース",
-     "summary": "愛媛県の防災VRが「ルミエール・ジャパン・アワード2026」のVR部門で特別賞を受賞したにゃ。この受賞は、地域の防災意識を高めるための取り組みが評価された結果だにゃん。防災VRは、実際の災害を想定した体験を通じて、地域住民の安全意識を向上させることを目的としているにゃ。今後の展開にも期待がかかるにゃ。"
+     "snippet": "関西エリア初上陸！累計来場者数35万人突破の大型VR体験施設「イマーシブジャーニー 大阪」12月19日（土）オープン決定 チケット販売開始！（株式会社CinemaLeap）&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "「イマーシブジャーニー 大阪」が12月19日にオープンするにゃ。関西エリア初上陸の大型VR体験施設で、累計来場者数は35万人を超えているそうだにゃん。チケット販売も開始されており、多くの人々が楽しむことが期待されているにゃ。"
     }
    ]
   }
