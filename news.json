@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T02:40:16.533890+00:00",
+ "updated": "2026-11-23T01:07:10.960505+00:00",
  "categories": [
   {
    "id": "ai_media",
@@ -7,21 +7,30 @@
    "items": [
     {
      "type": "news",
-     "title": "サンメディアと米Cashmere、生成AI向けコンテンツライセンスで戦略提携 - Dellows News",
-     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA5N2VRRVJaUzcxUUVjN05JZ3BkRUJBNTlOajYydXEtajVaWldhZ3RwQ3gzRldocm1SNGRRZXF4amt3WTlkS3c?oc=5",
-     "date": "2026-11-21T16:15:14+00:00",
+     "title": "プラッタ、SUPER ACTを活用し地域情報メディアかしわっぷの生成AI対策支援を開始 - Dellows News",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5vNTQ1RTAtaWJNZlF3X2F3dmRheWdIOEJRRG5YYU9XYTFrcVBVZWs5NVE1bG5VUFEzT0ZuZXJodFdSVlVkYkE?oc=5",
+     "date": "2026-11-22T04:29:18+00:00",
      "source": "Dellows News",
-     "snippet": "サンメディアと米Cashmere、生成AI向けコンテンツライセンスで戦略提携&nbsp;&nbsp;Dellows News",
-     "summary": "サンメディアと米国のCashmereが、生成AI向けのコンテンツライセンスに関する戦略提携を結んだにゃ。この提携により、両社は生成AIを活用した新しいコンテンツの制作や配信を進めることを目指しているそうだにゃん。"
+     "snippet": "プラッタ、SUPER ACTを活用し地域情報メディアかしわっぷの生成AI対策支援を開始&nbsp;&nbsp;Dellows News",
+     "summary": "プラッタが地域情報メディア「かしわっぷ」の生成AI対策支援を開始したにゃ。SUPER ACTを活用して、地域メディアの情報発信力を強化することを目指しているそうだにゃん。これにより、生成AIの影響を受ける地域情報の質を守る取り組みが進むだろうにゃ。"
     },
     {
      "type": "news",
-     "title": "AIバブルは崩壊するのか―独メディア - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZNTZqUnJSYjJDQ3diT0U0eTZzMzZPcTN0c2tiRTZPM3NsZG5jOU9henNtU1B5RG1McVV0ODFDNmtJN0ZaUXVtdUtZcXc0d05aLTU2Z2V0VE1MQTNpenQzT1BCQVhCTmJiUE5aS1hCSlA2aEJETEtlNU1PRQ?oc=5",
-     "date": "2026-11-21T11:00:20+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "AIバブルは崩壊するのか―独メディア&nbsp;&nbsp;ニコニコニュース",
-     "summary": "独メディアは、AIバブルが崩壊する可能性について論じているにゃ。AI技術の急速な発展とそれに伴う投資の増加が見られる一方で、持続可能な成長が求められているとのことだにゃ。"
+     "title": "AIバブルは崩壊するのか―独メディア - Infoseek",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XZUdldU1Zalk4ZDctYjJNQTZUNEdsd1hsQ1BhNHJkbHozSlFHWU9QdGkyTTBrSFJ3RFFYQUVvT3hpMHRmczN0RTBhQU9jTGZUM0NXTFZPeHdOWW1DSms5Mk1fMHpCXzNZMmc?oc=5",
+     "date": "2026-11-21T11:00:02+00:00",
+     "source": "Infoseek",
+     "snippet": "AIバブルは崩壊するのか―独メディア&nbsp;&nbsp;Infoseek",
+     "summary": "独メディアがAIバブルの崩壊について報じたにゃ。AI技術の急速な進展と投資の増加が続く一方で、過剰な期待や投機が問題視されているそうだにゃん。今後の市場動向に注目が集まっているにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "CrowdStrike、AIセキュリティパートナーのZscaler買収に向け協議中と報道 - Unite.AI",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFhNb0ZlYkFVQy1VOE9IUm9ydm5yU01MbEZ5THVsQm50S3RyQ1lWYlZNRF9XeEpGZWR2NW5vdXA5X3ZJRFgwbkpad0dWbU4teFhacHJiOHBQeG8tN2h0akxEWjdoczh0ak52Qzh6dWxQV1piZHN0a09sQ2dXTkJiZEtkMjJYXzFsUEkxTUtQQjB3S0cwOEE2ZjFqYw?oc=5",
+     "date": "2026-11-20T22:13:03+00:00",
+     "source": "Unite.AI",
+     "snippet": "CrowdStrike、AIセキュリティパートナーのZscaler買収に向け協議中と報道&nbsp;&nbsp;Unite.AI",
+     "summary": "CrowdStrikeがAIセキュリティパートナーのZscalerの買収に向けて協議中との報道があったにゃ。これにより、サイバーセキュリティ分野での競争力をさらに強化する狙いがあるそうだにゃん。"
     },
     {
      "type": "news",
@@ -30,7 +39,7 @@
      "date": "2026-11-20T20:10:00+00:00",
      "source": "神戸新聞",
      "snippet": "日々小論＞生成ＡＩと選挙 報道部長・永田憲亮|オピニオン&nbsp;&nbsp;神戸新聞",
-     "summary": "神戸新聞の報道部長・永田憲亮氏が、生成AIと選挙の関係について考察しているにゃ。生成AIが選挙報道や情報提供に与える影響についての議論が進んでいるそうだにゃん。"
+     "summary": "神戸新聞の永田憲亮報道部長が、生成AIと選挙の関係について考察したにゃ。生成AIの影響が選挙報道や情報の信頼性に及ぶ可能性について、重要な視点を提供しているそうだにゃん。"
     },
     {
      "type": "gov",
@@ -39,16 +48,16 @@
      "date": "2026-11-20T17:16:02+00:00",
      "source": "ジェトロ（日本貿易振興機構）",
      "snippet": "日米など10カ国、サンフランシスコ宣言でAI時代の供給網連携を具体化へ&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "日米を含む10カ国が、サンフランシスコ宣言を通じてAI時代の供給網連携を具体化する方針を示したにゃ。これにより、国際的な協力が進むことが期待されているそうだにゃん。"
+     "summary": "日米など10カ国がサンフランシスコ宣言を通じてAI時代の供給網連携を具体化することを目指しているにゃ。これにより、国際的な協力が進むことが期待されているそうだにゃん。"
     },
     {
      "type": "news",
      "title": "「GetBackers-奪還屋-」再始動も生成AI使用に往年のファンから失望の声―中国メディア - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wUnQ4NEp3ZlhuYlFKS1lIdFI5SHM1ckNRaTZlcjBmUWpOT0MxVmVtSnk4eUt6SzBYak5zZzdNRHJ4aVo3SVlzUzRfaHROMGNOWWpyYW5zcUdOWmRXNi1IX1hBNkxEMUtBMnZtaV84TDQ3bWc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2NW9yNkR6dWZNSmFGMlMzQUJuNlZmX0ZoaXRhXzMyZlR4UmFFX194Um8zdl9FY2NhY05wV3E3Z0piMXM3REhDdjlhNzRheEVHUGQ0SA?oc=5",
      "date": "2026-11-20T14:03:13+00:00",
      "source": "ニコニコニュース",
      "snippet": "「GetBackers-奪還屋-」再始動も生成AI使用に往年のファンから失望の声―中国メディア&nbsp;&nbsp;ニコニコニュース",
-     "summary": "「GetBackers-奪還屋-」が再始動するも、生成AIの使用に対して往年のファンから失望の声が上がっているにゃ。ファンは、作品のクオリティに懸念を抱いているそうだにゃん。"
+     "summary": "「GetBackers-奪還屋-」が再始動するも、生成AIの使用に対して往年のファンから失望の声が上がっているにゃ。ファンの期待と新たな技術の導入との間で意見が分かれているそうだにゃん。"
     },
     {
      "type": "gov",
@@ -57,7 +66,7 @@
      "date": "2026-11-20T12:03:51+00:00",
      "source": "ジェトロ（日本貿易振興機構）",
      "snippet": "トランプ米大統領、中ロ首脳と平和宣言を発表、ASEAN各国と経済関係強化&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "トランプ米大統領が、中ロ首脳と共に平和宣言を発表し、ASEAN各国との経済関係強化を図ることを発表したにゃ。国際的な協力の重要性が強調されているそうだにゃん。"
+     "summary": "トランプ米大統領が中ロ首脳と平和宣言を発表し、ASEAN各国との経済関係を強化する意向を示したにゃ。国際関係の変化に注目が集まる中、経済連携の重要性が再認識されているそうだにゃん。"
     },
     {
      "type": "news",
@@ -66,7 +75,16 @@
      "date": "2026-11-20T10:10:00+00:00",
      "source": "信濃毎日新聞デジタル",
      "snippet": "長野県の地域メディアが会合 生成AI活用や災害時の対応方法報告&nbsp;&nbsp;信濃毎日新聞デジタル",
-     "summary": "長野県の地域メディアが会合を開き、生成AIの活用や災害時の対応方法について報告したにゃ。地域メディアの役割が再評価されているそうだにゃん。"
+     "summary": "長野県の地域メディアが会合を開き、生成AIの活用や災害時の対応方法について報告したにゃ。地域メディアの役割や新たな技術の導入が地域社会に与える影響について議論されたそうだにゃん。"
+    },
+    {
+     "type": "gov",
+     "title": "Awit Awardsから見るフィリピン音楽市場の変化と日比連携 | 地域・分析レポート - 海外ビジネス情報 - ジェトロ（日本貿易振興機構）",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYTjVLS0IxZmU0U05CeWI0NlVzTUtqQjhlQ1lscW45cTlGN25RaTJ5bTFpQmtRdFQxV3lkVXBjRE44Ymx4MDE3TjdERTlCUmdha1hSaTJFVDRtVVZFNVVsV0NlLWlrMmx1clAyNFV1a2dIYm5z?oc=5",
+     "date": "2026-11-20T09:39:32+00:00",
+     "source": "ジェトロ（日本貿易振興機構）",
+     "snippet": "Awit Awardsから見るフィリピン音楽市場の変化と日比連携 | 地域・分析レポート - 海外ビジネス情報&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
+     "summary": "Awit Awardsを通じてフィリピン音楽市場の変化と日比連携について分析が行われたにゃ。音楽業界のトレンドや国際的な協力の重要性が浮き彫りになっているそうだにゃん。"
     },
     {
      "type": "news",
@@ -75,25 +93,7 @@
      "date": "2026-11-20T08:25:02+00:00",
      "source": "Media Innovation",
      "snippet": "共同通信社、生成AIによる英文記事執筆支援システムを本格導入 NLPeanutsと開発&nbsp;&nbsp;Media Innovation",
-     "summary": "共同通信社が、生成AIによる英文記事執筆支援システムを本格導入したにゃ。NLPeanutsと共同で開発したこのシステムは、記事制作の効率化を目指しているそうだにゃん。"
-    },
-    {
-     "type": "gov",
-     "title": "米FRB理事、AIが金融安定にもたらし得る影響について講演(米国) | ビジネス短信 - ジェトロ（日本貿易振興機構）",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vWEIySVhhWEVDSk1MRnhnZ2tLZHZBb1p0cGxnd0d0WW9qLTl2eklDUjlOR2xXRFJRVERnRVNPLVFPQmI2THBMT3ExMVZFMy1TTHlmZ1h6MjVBMkRDS042cDdfbFh6Ny1mc0R4aVh3?oc=5",
-     "date": "2026-11-20T07:31:47+00:00",
-     "source": "ジェトロ（日本貿易振興機構）",
-     "snippet": "米FRB理事、AIが金融安定にもたらし得る影響について講演(米国) | ビジネス短信&nbsp;&nbsp;ジェトロ（日本貿易振興機構）",
-     "summary": "米FRB理事が、AIが金融安定にもたらす影響について講演したにゃ。AI技術の進展が金融システムに与えるリスクと機会についての理解が求められているそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "「AI無料ニュースはだめ」グローバルメディアが集まった - 매일경제",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iVncybm1HTkF6RzVTV3JsbXJreFV4YkFTZDczdW5qNlY1REZwTXh3ekZxMXVQZXZCS1d0eWt5UHlUXzRIbE9Md0FhY0RiNlEzbXc?oc=5",
-     "date": "2026-11-20T07:28:10+00:00",
-     "source": "매일경제",
-     "snippet": "「AI無料ニュースはだめ」グローバルメディアが集まった&nbsp;&nbsp;매일경제",
-     "summary": "「AI無料ニュースはだめ」との声が上がり、グローバルメディアが集まったにゃ。AIによるニュース生成の質や信頼性についての懸念が共有されているそうだにゃん。"
+     "summary": "共同通信社が生成AIによる英文記事執筆支援システムを本格導入したにゃ。NLPeanutsと共同で開発されたこのシステムは、効率的な記事作成を目指しているそうだにゃん。"
     }
    ]
   },
@@ -102,13 +102,22 @@
    "title": "🏘 地方創生×メディア",
    "items": [
     {
+     "type": "news",
+     "title": "【11/27兵庫・三田】兵庫県・幸南食糧・学生メディア「ヒョウゴジテン」など5組が登壇！地域課題をビジネスに変える「コモンズコネクト兵庫」開催 - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Mb3FxSFdiMjJiZ19abUZ0QVdyQlVoMlpsSDlSNFNKN1llaFpPWnZPYk9VbU50UVNBR3NkWDJtQk1YenEybUFFQVR1X1l5aEFnazNtRmVHQkc0am1lUUdVNjNydm8xVnc1dXc?oc=5",
+     "date": "2026-11-23T00:30:01+00:00",
+     "source": "PR TIMES",
+     "snippet": "【11/27兵庫・三田】兵庫県・幸南食糧・学生メディア「ヒョウゴジテン」など5組が登壇！地域課題をビジネスに変える「コモンズコネクト兵庫」開催&nbsp;&nbsp;PR TIMES",
+     "summary": "11月27日に兵庫県三田で「コモンズコネクト兵庫」が開催されるにゃ。幸南食糧や学生メディア「ヒョウゴジテン」など5組が登壇し、地域課題をビジネスに変えるアイデアを発表するそうだにゃ。地域の活性化を目指す取り組みが注目されているにゃん。"
+    },
+    {
      "type": "gov",
-     "title": "日・チリ首脳会談-令和8年11月20日 - 政府広報オンライン",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNalFKMXhHTk9EalN2V1ludFlteHVIRTFCaUhGbUZRSDFSbkh0dV9VRG9ncHFYanZoeGN3WnRoT1VvNE9ZM2IzSjluZklPWkZyOUpEUUY0YkN0OUpiazB0N2ZSTVIxQk51TXA5aEx4V2xWUzhmb1pmY1RzSl9QcDRrY05HeWdvbEpDOXBrdS1rWQ?oc=5",
-     "date": "2026-11-20T14:34:09+00:00",
+     "title": "振り込め詐欺救済法（令和8年（2026年）11月掲載） - 政府広報オンライン",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRFpxV0tSVUxGQ2U3ZkdSVVRWR1dzOHJGQ3kyVFRFa2h2MzBIZGc5OENxZ0w2eXZmSWhxSVR4TVQ4Y0hfS05ydERZSUdpeHlreGdreXlvbnpXSW5YZW1LZi1oZTFsRzh1QWhHM0NrVlpVRzgtY1lXZXNUaEZpdkxvS2RB?oc=5",
+     "date": "2026-11-22T23:19:23+00:00",
      "source": "政府広報オンライン",
-     "snippet": "日・チリ首脳会談-令和8年11月20日&nbsp;&nbsp;政府広報オンライン",
-     "summary": "日・チリ首脳会談が令和8年11月20日に行われる予定だにゃ。詳細な内容はまだ発表されていないが、両国の関係強化や経済協力について話し合われることが期待されているにゃ。政府広報オンラインからの情報だにゃん。"
+     "snippet": "振り込め詐欺救済法（令和8年（2026年）11月掲載）&nbsp;&nbsp;政府広報オンライン",
+     "summary": "振り込め詐欺救済法が令和8年（2026年）11月に掲載されるにゃ。詳細はまだ不明だけど、詐欺被害者を救済するための法律が整備される予定だにゃん。政府の取り組みが期待されるにゃ。"
     },
     {
      "type": "news",
@@ -117,7 +126,16 @@
      "date": "2026-11-20T11:20:00+00:00",
      "source": "Yahoo!ニュース",
      "snippet": "「地方創生のモデルケースにもなる事業…」NHK長崎放送会館 市庁舎跡地へ移転に向け基本合意《長崎》（長崎国際テレビ）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "NHK長崎放送会館が市庁舎跡地へ移転する基本合意がなされたそうだにゃ。この事業は地方創生のモデルケースとして期待されており、地域活性化に寄与する可能性があるにゃ。長崎国際テレビの報道だにゃん。"
+     "summary": "NHK長崎放送会館が旧長崎市役所本館跡地に移転する基本合意が成立したにゃ。これは地方創生のモデルケースになると期待されていて、井上会長は駅と浜町をつなぐ役割を果たすと述べているそうだにゃん。"
+    },
+    {
+     "type": "news",
+     "title": "「NHK長崎放送会館」が旧長崎市役所本館跡地へ 移転基本合意 井上会長「駅と浜町の中間点、双方つなぐ役割に」 - ｄメニューニュース",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QbTg2T1d0QW9yWTN5TGlUc2RGUTllQXFRbGJZUklQb0VKNWZ5TWw4NXNUX0Rmd0hvNW9pMGZDSUhWN2dJOW5VQnFveFVtdWhmS3BIb3RZa2ppQUhvNzMzVXNILThqZk5ab0txUWUtQdIBdEFVX3lxTFBEa0FaYnBlMXZRSDEtSmg3YnllZGZjMjJQdHlIaDhoRkVXcVNQWThFQVVWTnpIVDk3c19qVkxYbU5ucHhrWDUxaGF6UllVUGRDZm1PME41Nk5vVHhuNHhpdzZna0xuUjAtNFN1blNxMmdtWjNH?oc=5",
+     "date": "2026-11-20T09:43:00+00:00",
+     "source": "ｄメニューニュース",
+     "snippet": "「NHK長崎放送会館」が旧長崎市役所本館跡地へ 移転基本合意 井上会長「駅と浜町の中間点、双方つなぐ役割に」&nbsp;&nbsp;ｄメニューニュース",
+     "summary": "NHK長崎放送会館が旧長崎市役所本館跡地に移転する基本合意がなされたにゃ。井上会長は、駅と浜町の中間に位置し、両者をつなぐ重要な役割を果たすことを強調しているにゃん。地域の発展に寄与することが期待されるにゃ。"
     },
     {
      "type": "news",
@@ -126,25 +144,7 @@
      "date": "2026-11-20T03:10:16+00:00",
      "source": "企業調査のかくし扉",
      "snippet": "平井知事の定例会見からひも解く「ローカルフードファイト騒動」と行政の境界線 2026.11.19&nbsp;&nbsp;企業調査のかくし扉",
-     "summary": "平井知事の定例会見で「ローカルフードファイト騒動」についての議論が行われたにゃ。この騒動は行政の境界線に関わるもので、地域の食文化やイベントの在り方について考察されているそうだにゃん。企業調査のかくし扉からの情報だにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "「とにかくオフェンシブに」 徳島ガンバロウズ代表・藤田氏が語るスポーツと地方創生(高知) - TBS NEWS DIG",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXVTgwU19wSTdfTHVYeVhDWjlWaUlnT0I5eDdmcWNmR21LbjFrVFRrTFZySE1nZ3VkaDg5UkdIbUg4UXlnUzBOWEw3YXpZejdIcFc5eWx6ejRqVWg5U2RlNmNqQkgyVXZa?oc=5",
-     "date": "2026-11-20T02:58:00+00:00",
-     "source": "TBS NEWS DIG",
-     "snippet": "「とにかくオフェンシブに」 徳島ガンバロウズ代表・藤田氏が語るスポーツと地方創生(高知)&nbsp;&nbsp;TBS NEWS DIG",
-     "summary": "徳島ガンバロウズの代表・藤田氏がスポーツと地方創生について語ったにゃ。「とにかくオフェンシブに」という姿勢で地域活性化を目指しているそうだにゃ。高知での取り組みが注目されているにゃん。TBS NEWS DIGの報道だにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "クラダシ、「クラダシチャレンジ」の取り組み拡大に向け、地域滞在型プログラム「遊ぶ広報」に社員が参加 - ニコニコニュース",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPMGF3a05LYjN4c2duNVNNSzI4bFFrS0VPbHlLZWFGR1g4Zk50SWhiY1BXYllsbGRpNFVXR2dGUVFfczFkMkZWdnB2cWdqSUI5U2JNS2p0TEtzNTl0aWZadHgxQ2dNUHNQ?oc=5",
-     "date": "2026-11-19T18:51:20+00:00",
-     "source": "ニコニコニュース",
-     "snippet": "クラダシ、「クラダシチャレンジ」の取り組み拡大に向け、地域滞在型プログラム「遊ぶ広報」に社員が参加&nbsp;&nbsp;ニコニコニュース",
-     "summary": "クラダシが「クラダシチャレンジ」の取り組みを拡大するため、地域滞在型プログラム「遊ぶ広報」に社員が参加したにゃ。このプログラムは地域とのつながりを深めることを目的としているそうだにゃ。ニコニコニュースからの情報だにゃん。"
+     "summary": "平井知事の定例会見で「ローカルフードファイト騒動」について語られたにゃ。この騒動を通じて、行政の境界線や地域の課題が浮き彫りになったそうだにゃん。地域の食文化や行政の関与について考える機会となっているにゃ。"
     }
    ]
   },
@@ -154,48 +154,48 @@
    "items": [
     {
      "type": "news",
-     "title": "元TBSアナ・国山ハセン、米国での起業“大失敗”を告白…資金5000万円ほぼ使い切った“見切り発車”に「甘すぎる」集まる酷評 - smart-flash.jp",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tTmZlNHRKMExONkNoenRlTF95T1BBakV6cFpSNEpEQXRaV3RxZnBpVzEzN2RxM09MZWt6dXQ1VC1YaUtCcjlaaWxSc1RvRkhwakwwVzc4cV9zWGRNa3VkcHg0aHRwS2lxME4tSmxXY1I?oc=5",
-     "date": "2026-11-21T09:50:00+00:00",
-     "source": "smart-flash.jp",
-     "snippet": "元TBSアナ・国山ハセン、米国での起業“大失敗”を告白…資金5000万円ほぼ使い切った“見切り発車”に「甘すぎる」集まる酷評&nbsp;&nbsp;smart-flash.jp",
-     "summary": "元TBSアナウンサーの国山ハセン氏が、米国での起業が失敗に終わったことを告白したにゃ。彼は5000万円をほぼ使い切り、見切り発車だったと振り返り、「甘すぎる」との厳しい意見が集まったそうだにゃ。事業の難しさを実感し、痛みを伴う経験を得たようだにゃん。再起を目指す国山氏に対しては、励ましの声も寄せられているにゃ。"
+     "title": "【NHKカルチャー】「40までにしたい10のこと」ファン必見！池田千尋監督が語るドラマと劇場版の世界 12月19日（土 - ニコニコニュース",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YdWhmWjl4SGxaWHlFVDBGMXV0TE9RcGFLTXBERWJYMTBuVG5JU2dSajN1MWp4Y1VTQVpsbXBKV3NIdDZlUWprS25zdVRYeEJhd2R4Y0tha2lnQUd6cFZzV0NYUEFBUnFYZFVqQ3NCVmpUbkI2SVFqZg?oc=5",
+     "date": "2026-11-23T00:18:31+00:00",
+     "source": "ニコニコニュース",
+     "snippet": "【NHKカルチャー】「40までにしたい10のこと」ファン必見！池田千尋監督が語るドラマと劇場版の世界 12月19日（土&nbsp;&nbsp;ニコニコニュース",
+     "summary": "池田千尋監督が「40までにしたい10のこと」について語る記事だにゃ。ドラマと劇場版の世界観やキャラクターについての深い洞察があり、ファンにとって興味深い内容になっているにゃ。特に、作品のテーマやメッセージについての監督の考えが紹介されているそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "国山ハセン氏なぜ「5000万損失」 米国事業の失敗に「甘い」の声と再起への励まし - zakⅡ",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3TEhEWjZ5akNDcDZQeXlJSzhBdF9NcnpXd2Z3bHNyd3V2NldwZmZITGtfS21YS2hhcjlhSlNOeVlWTll1b0pRYVI4WlV1U1diYlVseFRhQmZTOU1ES1J1M2RlTDNaRExkRDhRSDlMTGcxakh0aDVfRdIBjAFBVV95cUxOOGZVRU1MV2NESzE3dkRJOGRaNC1RS2ltYnhXZGNzZGNLOWZ3Yl9rV05BTE1sQ2Vfc2lGRmxTZ3FNZDFmOXhPRXpDU3d3STRBRWJHS1oyVENubFllWG9iUkVQUk42R0pLWUhaazFYcFFFdHU5cERfc1J5QXBlWDVESEV1U01GRVpISWtvZw?oc=5",
-     "date": "2026-11-21T01:52:44+00:00",
-     "source": "zakⅡ",
-     "snippet": "国山ハセン氏なぜ「5000万損失」 米国事業の失敗に「甘い」の声と再起への励まし&nbsp;&nbsp;zakⅡ",
-     "summary": "国山ハセン氏が米国での事業において5000万円の損失を出したことが話題になっているにゃ。彼は失敗を「甘い」と批判される中、再起への意欲を見せているそうだにゃ。事業の難しさを痛感した国山氏は、得た教訓を次に生かそうとしているにゃん。周囲からは励ましの声も上がっているようだにゃ。"
+     "title": "米アンソロピックの目論見書に基づくAI安全性スタートアップ市場 - 日本経済新聞",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54QUZiSmt3VXFaNDlHY29EMHJKSVV2TUotdEh0dDMtWFgtZjVJdWFPbHAyU0JpMUxnVWtxbDdxanZxNHEzcHJoaGl2dFJFcnVUbjRtVEUzN2hGQ3RCMFVuRlp6MERnT09ndlN6bg?oc=5",
+     "date": "2026-11-22T17:00:00+00:00",
+     "source": "日本経済新聞",
+     "snippet": "米アンソロピックの目論見書に基づくAI安全性スタートアップ市場&nbsp;&nbsp;日本経済新聞",
+     "summary": "米アンソロピックの目論見書に基づくAI安全性スタートアップ市場についての記事だにゃ。AI技術の進展に伴い、安全性を重視するスタートアップが増加している様子が伝えられているにゃ。市場の動向や今後の展望についても触れられているそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "「5,000万円をほぼ使い切りました」国山ハセン、米国での起業失敗を告白「正直かなり痛かったです」も得た教訓 - マイナビニュース",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zeUROOS11X3VqWG53LURvWmZjSEo1OEVMWVBaMGZOX0ctM3BkczYwMHZ5c2xTejJNVHZrSF94b1dod2Q0R0tRRkg4SWdMaGRTU0RaTjl1a3dneHZ3?oc=5",
-     "date": "2026-11-20T10:29:05+00:00",
-     "source": "マイナビニュース",
-     "snippet": "「5,000万円をほぼ使い切りました」国山ハセン、米国での起業失敗を告白「正直かなり痛かったです」も得た教訓&nbsp;&nbsp;マイナビニュース",
-     "summary": "国山ハセン氏が米国での起業に失敗し、5000万円をほぼ使い切ったことを明かしたにゃ。彼は「正直かなり痛かった」と語りつつも、得た教訓を大切にしたいと考えているそうだにゃ。事業の難しさを実感した国山氏は、次のステップに向けて前向きな姿勢を見せているにゃん。"
+     "title": "元TBS国山ハセン氏「仕事が取れませんでした」、シリコンバレー起業で5000万円使い切り事業失敗 - shiritomo",
+     "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9QT0hlTXBlSmdZWVN3dzg4NjhGWmdlZ0pLb0pLUnF1S3dwTnh5T3l0VWJ1Q3F1aC14bS1wUXdSU2ZobjA?oc=5",
+     "date": "2026-11-22T03:55:00+00:00",
+     "source": "shiritomo",
+     "snippet": "元TBS国山ハセン氏「仕事が取れませんでした」、シリコンバレー起業で5000万円使い切り事業失敗&nbsp;&nbsp;shiritomo",
+     "summary": "元TBSの国山ハセン氏がシリコンバレーでの起業に挑戦したものの、5000万円を使い切り事業が失敗したことを語る記事だにゃ。彼は、テレビ局の看板に頼ることの難しさを実感し、仕事が取れなかった理由について反省しているそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "元TBS国山ハセン氏「5000万円をほぼ使い切り事業は失敗」 米国で起業も事業の難しさを赤裸々告白 - ｄメニューニュース",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQXhVVjJPMmFmS1VEaFRhVFNiMTZzZ1JSUkFaVnRybjZRRk5HSVpUSU9TV1NqYTdTVjRCRWpYUTNhOXpRcl80Q1VIbERGSUtNcy1PYjMyS09kY1RoMU1Oc3Fiaml6RlBYazlvM2U5cnBBQWFCbXVqbl9TLVlaQkZCRGUtdW0ySUdjREZHWkZpUjN6X195bzhN0gGcAUFVX3lxTFBEbFVYR1U3c1pCX0JBZVVWWTc2d0lJV2h3SFo0MXRDQ1owT3U5dnhjaE12R1AweHNFNnlfNnZhQm1jZUp4ckdLUjJPbXVtOC1uN2VCYmttMmFMcGEwd080VHB0OVptcVJvNnYzbzdnYU54MVdVcmpJNWo3X3M2cEJjNXpKRm9NTWVBcTN5aDRzNjVuZ1R5Vk5jUUdyYw?oc=5",
-     "date": "2026-11-20T09:24:00+00:00",
-     "source": "ｄメニューニュース",
-     "snippet": "元TBS国山ハセン氏「5000万円をほぼ使い切り事業は失敗」 米国で起業も事業の難しさを赤裸々告白&nbsp;&nbsp;ｄメニューニュース",
-     "summary": "元TBSアナウンサーの国山ハセン氏が、米国での起業が失敗に終わり、5000万円をほぼ使い切ったことを告白したにゃ。事業の難しさを赤裸々に語り、痛みを伴う経験をしたことを強調しているそうだにゃ。彼はこの経験を通じて得た教訓を次に生かしたいと考えているにゃん。"
+     "title": "元TBS・国山ハセン氏、5000万円の起業失敗で知ったテレビ局の看板の重さ - アゴラ 言論プラットフォーム",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3aHpscHVtMWFMTlJ6bUZMeV9jTXc5Q1lLWjVqdi1JajJNS2F1dFlSbWU2aEtJbUtSY0p5WGJlWHMtMV9nRnJMYlNwUHlfY3JFTVRybnU1SlpvMHc?oc=5",
+     "date": "2026-11-22T02:40:59+00:00",
+     "source": "アゴラ 言論プラットフォーム",
+     "snippet": "元TBS・国山ハセン氏、5000万円の起業失敗で知ったテレビ局の看板の重さ&nbsp;&nbsp;アゴラ 言論プラットフォーム",
+     "summary": "元TBSの国山ハセン氏が5000万円の起業失敗を通じて、テレビ局の看板の重さを知ったという記事だにゃ。彼は、メディアでの経験が必ずしもビジネスに活かせるわけではないことを痛感し、今後のキャリアについて考え直しているそうだにゃん。"
     },
     {
      "type": "news",
-     "title": "伝説のバンカー大櫃直人は見た タイミーの代表は何を聞いてもパーフェクトに答えた - 日経ビジネス電子版",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RRThnNWpObHplTjRicWREU1I1dXVMSUN6SU10WjF6TEtaUEJ4QVlpcjBDVjgwaVZjdGc0dE1hQUZlS2VFeGxMNFNKLWVfRzVJSXhsLVUzZ3dOUmt5MTBIc0pkbFduQW8?oc=5",
-     "date": "2026-11-20T08:00:00+00:00",
-     "source": "日経ビジネス電子版",
-     "snippet": "伝説のバンカー大櫃直人は見た タイミーの代表は何を聞いてもパーフェクトに答えた&nbsp;&nbsp;日経ビジネス電子版",
-     "summary": "伝説のバンカー大櫃直人氏が、タイミーの代表がどんな質問にも完璧に答えた様子を伝えているにゃ。彼の卓越した対応力が評価されているようだにゃ。ビジネスの現場でのコミュニケーション能力の重要性を示すエピソードだにゃん。"
+     "title": "【日経3000円暴落！】なぜ岐阜暴威さんは損切りできないのか？ - アゴラ 言論プラットフォーム",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHb0xMeFBNdTN3ZnMxMHdOY2k1LTcyOVZMelozcmtiQVhaYXk5SEptTDVCdlNab2ZZN2tiOFBsblNRbXRqOXFVRTRFZVhWSzFfTFcyQjVXbUZhWk0?oc=5",
+     "date": "2026-11-22T02:40:30+00:00",
+     "source": "アゴラ 言論プラットフォーム",
+     "snippet": "【日経3000円暴落！】なぜ岐阜暴威さんは損切りできないのか？&nbsp;&nbsp;アゴラ 言論プラットフォーム",
+     "summary": "日経平均株価が3000円暴落したことを受け、岐阜暴威氏が損切りできない理由について考察する記事だにゃ。市場の変動に対する心理的な影響や投資家の行動について分析されており、投資の難しさが浮き彫りになっているそうだにゃん。"
     }
    ]
   },
@@ -205,21 +205,21 @@
    "items": [
     {
      "type": "news",
-     "title": "世界初のプラネタリウム投影機が明石市立天文科学館に 12月6日まで特別展示 日本現役最古も健在 - ライブドアニュース",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xOGlaZXpVWk5YNWtMazdYNE9aclJSdFd3V25qeXZwQzVtd2RaeVJFY1YtbDd3eE8td0NUOURJeloyMG9LWUt5MXpsWUljbk9JRDBzbElRV00yS3ZLNnhn?oc=5",
-     "date": "2026-11-21T22:00:39+00:00",
-     "source": "ライブドアニュース",
-     "snippet": "世界初のプラネタリウム投影機が明石市立天文科学館に 12月6日まで特別展示 日本現役最古も健在&nbsp;&nbsp;ライブドアニュース",
-     "summary": "明石市立天文科学館で、世界初のプラネタリウム投影機が特別展示されているにゃ。展示は12月6日まで行われ、日本現役最古のプラネタリウムも健在だにゃん。訪れる人々にとって、貴重な体験ができる機会だにゃ。"
+     "title": "ポーアイの「青少年科学館」と「コーヒー博物館」をセットで巡る『体験ツアー』があるみたい。申し込み受付中 - 神戸ジャーナル",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWN013RnRYcGw2MTJFUFExS0VZdkxPSHFNRUszOS05ZmVkTGhTa3JTaFl6Zlp4SnFKaS1hNXU3NzhMTHhJSGI0SXFBRVA4MUl4dy1VYzlRUFhzSWI1aVE?oc=5",
+     "date": "2026-11-22T14:04:59+00:00",
+     "source": "神戸ジャーナル",
+     "snippet": "ポーアイの「青少年科学館」と「コーヒー博物館」をセットで巡る『体験ツアー』があるみたい。申し込み受付中&nbsp;&nbsp;神戸ジャーナル",
+     "summary": "ポーアイにある「青少年科学館」と「コーヒー博物館」を巡る『体験ツアー』が開催されるみたいだにゃ。申し込みは現在受付中で、科学とコーヒーの魅力を同時に楽しめる内容になっているそうだにゃん。興味がある方はぜひ参加してみてほしいにゃ！"
     },
     {
      "type": "news",
-     "title": "東京国立博物館など上野の4施設は障害者手帳で本人と付き添い1人が無料。国立科学博物館は受給者証も対象、特別展は別料金（LIMO） - Yahoo!ニュース",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IREpoVTd0TzhBR3dlbXVpM2JDWmdCZURTZjFfaGhJQy1iSVBGN25HVUVkSDhPODRoWkc3aGRZd0V5QmRBdVlMUUttaGFSNGNwLWdsUmF5aUtxN0xaTWZiX1NiU3U2YTBsR1oydFdiRVdKRWw2enljZmVNY2VqVmM?oc=5",
-     "date": "2026-11-20T08:05:33+00:00",
+     "title": "世界初のプラネタリウム投影機が明石市立天文科学館に 12月6日まで特別展示 日本現役最古も健在 - Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11WjUyYkY2V3hBWFh2TlFVRkIyd1AyTWFlQWdXQkFKZDlqYlBWYUMwTFN3YzM4REZ3RUxVSC1MSHpBeTRQSzdNOFdBdENqeUljYS1pY0pSb0tsS28xUEZYODZicWVhWHE1cEZhR0YwcW1MLWhSUUJURUJGcnhwWlk?oc=5",
+     "date": "2026-11-21T22:00:39+00:00",
      "source": "Yahoo!ニュース",
-     "snippet": "東京国立博物館など上野の4施設は障害者手帳で本人と付き添い1人が無料。国立科学博物館は受給者証も対象、特別展は別料金（LIMO）&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "東京国立博物館など上野の4つの施設では、障害者手帳を持つ本人と付き添い1人が無料で入場できるにゃ。国立科学博物館では受給者証も対象となっているが、特別展は別料金だそうだにゃん。"
+     "snippet": "世界初のプラネタリウム投影機が明石市立天文科学館に 12月6日まで特別展示 日本現役最古も健在&nbsp;&nbsp;Yahoo!ニュース",
+     "summary": "明石市立天文科学館で、世界初のプラネタリウム投影機が特別展示されているそうだにゃ。この展示は12月6日まで行われており、日本で現役最古のプラネタリウムも見ることができるにゃん。天文に興味がある人には見逃せないイベントだにゃ！"
     },
     {
      "type": "news",
@@ -228,16 +228,16 @@
      "date": "2026-11-19T09:15:00+00:00",
      "source": "佐賀新聞",
      "snippet": "＜ゆめぎんが通信＞佐賀県立宇宙科学館で11月21日に天文祭 12月5日からは企画展「宇宙ヲ知ル」&nbsp;&nbsp;佐賀新聞",
-     "summary": "佐賀県立宇宙科学館で、11月21日に天文祭が開催されるにゃ。さらに、12月5日からは企画展「宇宙ヲ知ル」が行われる予定だにゃ。宇宙に関するさまざまな知識を学べる機会だにゃん。"
+     "summary": "佐賀県立宇宙科学館で、11月21日に天文祭が開催されるみたいだにゃ。さらに、12月5日からは企画展「宇宙ヲ知ル」が始まるそうだにゃん。宇宙に関するさまざまな知識を楽しみながら学べる機会だにゃ！"
     },
     {
-     "type": "paper",
-     "title": "Towards Restorative Urban Spaces: An Exploratory Field Study of Nature Videos on Public Multi-Display Signage",
-     "link": "https://arxiv.org/abs/2611.25259v1",
-     "date": "2026-11-18T22:42:08+00:00",
-     "source": "arXiv",
-     "snippet": "In recent years, multi-display signage (MDS) has become increasingly common in urban stations, plazas, and other public spaces, where it is primarily used to present advertisements and information. Beyond these conventional applications, MDS offers opportunities to shape people's experiences of public environments through spatially distributed and dynamic visual content. Motivated by the potential of mediated nature to support restorative experiences in urban environments, we conducted a nine-day exploratory field study in a free-admission area of a science museum, presenting artificial intell",
-     "summary": "最近、公共の場でのマルチディスプレイサイネージ（MDS）が増えているにゃ。これを利用して、都市環境での癒しの体験を促進するための研究が行われたにゃ。科学館の無料エリアでの9日間のフィールドスタディが実施されたそうだにゃん。"
+     "type": "news",
+     "title": "特別展「氷河期展 ～人類が見た4万年前の世界～」2026年11月28日(土)、ＦＵＪＩなごや科学館で開幕！ - PR TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xaFZ2QVB3OFF6THZyN1ZIcXA5S3J6cWt6bE1uS1d4ZlEwaXgya0hwUEVvVFB0dVp2SUZUbW9LV2R1Z3liN3Vwek1vTV9FYjZoVHZZMFRPeDlZdDRkYmRmOHdPZW83TERaSEE?oc=5",
+     "date": "2026-11-18T09:00:18+00:00",
+     "source": "PR TIMES",
+     "snippet": "特別展「氷河期展 ～人類が見た4万年前の世界～」2026年11月28日(土)、ＦＵＪＩなごや科学館で開幕！&nbsp;&nbsp;PR TIMES",
+     "summary": "2026年11月28日(土)に、ＦＵＪＩなごや科学館で特別展「氷河期展 ～人類が見た4万年前の世界～」が開幕するそうだにゃ。この展覧会では、氷河期の人類の生活や環境について深く知ることができる内容になっているにゃん。"
     },
     {
      "type": "news",
@@ -246,7 +246,7 @@
      "date": "2026-11-17T09:30:00+00:00",
      "source": "Yahoo!ニュース",
      "snippet": "東京・上野の国立科学博物館の特別展「生きものたちの性」が開催中！常識がひっくり返るおもしろさにラランドも大興奮&nbsp;&nbsp;Yahoo!ニュース",
-     "summary": "東京・上野の国立科学博物館で特別展「生きものたちの性」が開催中だにゃ。常識がひっくり返るような内容で、ラランドも大興奮しているにゃん。新たな視点で生き物の性について学べるチャンスだにゃ。"
+     "summary": "東京・上野の国立科学博物館で、特別展「生きものたちの性」が開催中だにゃ。この展覧会では、生き物の性に関する常識が覆されるようなおもしろい展示が行われており、ラランドも大興奮しているそうだにゃん。興味がある方はぜひ足を運んでみてほしいにゃ！"
     }
    ]
   },
@@ -256,12 +256,30 @@
    "items": [
     {
      "type": "news",
-     "title": "エベレスト初登頂を追体験、没入型VRエンタメが日本初上陸 自らの足で歩き最高峰への冒険へ - au Webポータル",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3Ri1sNFBwUjNBdGp6RUVVbUlaZDdHMnk1Rlp5alRkWi1sdGRWUFMzYk9jRFp0bWI1elV0WnM2X3pxdFRIQUkxaGJnaG9ZSzhCbTFHTFdkYlFOOG9XOVhjQjhIZjBUcndlUzJQWFZB?oc=5",
+     "title": "大阪南港で能の特別展示が2026年11月開催へ 巨大LED映像やVR体験も - Dellows News",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9LeFR5LWtCS183c1RaclhWZ0gzVGg3UWx6TE9XWWluOWtZRGx2UDRkLXZid0dkZ2JSR29kNlQtMlk2M1AwY3c?oc=5",
+     "date": "2026-11-22T04:30:00+00:00",
+     "source": "Dellows News",
+     "snippet": "大阪南港で能の特別展示が2026年11月開催へ 巨大LED映像やVR体験も&nbsp;&nbsp;Dellows News",
+     "summary": "大阪南港で2026年11月に能の特別展示が開催されることが決まったにゃ。展示では巨大なLED映像やVR体験が取り入れられ、訪れる人々に新しい形の能の魅力を伝える予定だにゃん。伝統文化と最新技術の融合が楽しめるイベントになるにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "エベレスト初登頂を追体験、没入型VRエンタメが日本初上陸 自らの足で歩き最高峰への冒険へ - 女子旅プレス",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4ycUtSSWhEMHpXZ1lmRkxwNGM1YURwbG15WWtHeGNYVFBmZEFseUc4VDhDNzhtMEJLYXlDa3FrY1dCQURQS3B3NTNQc3lnVy12WUt1emt1c9IBU0FVX3lxTE02OS1oejdMMmllaGsxWGhzcklaUFhUamlFUWt3RzdfQ2RsQXNkcDlNZlRpYnJSbW1GNFpZXzl2V3I3X0VfZE84dVlqeWhDU2JJNEdj?oc=5",
      "date": "2026-11-21T23:00:00+00:00",
-     "source": "au Webポータル",
-     "snippet": "エベレスト初登頂を追体験、没入型VRエンタメが日本初上陸 自らの足で歩き最高峰への冒険へ&nbsp;&nbsp;au Webポータル",
-     "summary": "エベレスト初登頂を追体験できる没入型VRエンタメが日本に上陸したにゃ。自らの足で歩きながら、最高峰への冒険を楽しむことができるそうだにゃん。これにより、リアルな登山体験を仮想空間で味わえる機会が増えるにゃ。"
+     "source": "女子旅プレス",
+     "snippet": "エベレスト初登頂を追体験、没入型VRエンタメが日本初上陸 自らの足で歩き最高峰への冒険へ&nbsp;&nbsp;女子旅プレス",
+     "summary": "エベレスト初登頂を追体験できる没入型VRエンタメが日本に初上陸するにゃ。参加者は自らの足で歩きながら、最高峰への冒険を体験できる仕組みだにゃん。リアルな体験を通じて、エベレストの魅力を感じることができるイベントになるそうだにゃ。"
+    },
+    {
+     "type": "news",
+     "title": "愛媛南海トラフ自然災害防災VR、VR部門 特別賞を受賞 - Dellows News",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtWjdlU0R3aUV1SElRbFN1Q3oyM2UxVkhzbXFLT3FGdzZKSExReEVuS3NMVTBlWWxFSXpMeXRucWwxXzRBT0lN?oc=5",
+     "date": "2026-11-21T14:41:22+00:00",
+     "source": "Dellows News",
+     "snippet": "愛媛南海トラフ自然災害防災VR、VR部門 特別賞を受賞&nbsp;&nbsp;Dellows News",
+     "summary": "愛媛県の南海トラフ自然災害防災VRが、VR部門で特別賞を受賞したにゃ。このVRは自然災害に対する防災意識を高めることを目的としており、効果的な教育ツールとして評価されたそうだにゃん。地域の安全を守るための取り組みが進んでいるにゃ。"
     },
     {
      "type": "news",
@@ -270,7 +288,7 @@
      "date": "2026-11-21T09:55:25+00:00",
      "source": "PRONEWS",
      "snippet": "ソニー、FX5とRialto 65を展示。ライブARからAI脚本解析まで紹介&nbsp;&nbsp;PRONEWS",
-     "summary": "ソニーがFX5とRialto 65を展示したにゃ。ライブARやAIによる脚本解析など、最新技術を紹介しているそうだにゃん。これにより、映像制作の新たな可能性が広がるかもしれないにゃ。"
+     "summary": "ソニーがFX5とRialto 65を展示し、ライブARやAI脚本解析などの最新技術を紹介したにゃ。これにより、映像制作の新しい可能性が広がることが期待されているそうだにゃん。技術の進化がクリエイティブな表現をサポートするにゃ。"
     },
     {
      "type": "news",
@@ -279,25 +297,7 @@
      "date": "2026-11-20T22:57:39+00:00",
      "source": "湘南人",
      "snippet": "【平塚市】VR・ARで宇宙を体験「バーチャル宇宙体験フェス」12月12日開催&nbsp;&nbsp;湘南人",
-     "summary": "平塚市でVR・ARを使った「バーチャル宇宙体験フェス」が12月12日に開催されるにゃ。参加者は宇宙を体験できるアトラクションを楽しむことができるそうだにゃん。新しい形の宇宙体験が期待されるにゃ。"
-    },
-    {
-     "type": "news",
-     "title": "YouTubeの異世界Vlog「遷移圏見聞録」の世界に飛び込むXR体験「Mobilis Frontier ー追憶の忘都ー」はいいぞ【体験レポート】 - Mogura VR",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbWpNNU1tQ0tiMFBobWNOR1dWMXd2MlZtbm1qamxnV196WVp1VFJKbW1GanRhNlc1ODN6UVRUSFQ3Ui1qbDEzeE12d0RWWDdMelBPeTZJdlNqQnQtZThsbWpWTjdzeWNtdDVpaGRtZTBiTnN4SExJdm5GRFoyQ3ZZanhwSk0wdWVZ?oc=5",
-     "date": "2026-11-20T09:43:41+00:00",
-     "source": "Mogura VR",
-     "snippet": "YouTubeの異世界Vlog「遷移圏見聞録」の世界に飛び込むXR体験「Mobilis Frontier ー追憶の忘都ー」はいいぞ【体験レポート】&nbsp;&nbsp;Mogura VR",
-     "summary": "YouTubeの異世界Vlog「遷移圏見聞録」をテーマにしたXR体験「Mobilis Frontier ー追憶の忘都ー」が注目されているにゃ。体験レポートによれば、参加者はその世界に飛び込む感覚を味わえるそうだにゃん。"
-    },
-    {
-     "type": "news",
-     "title": "『千本桜』投稿15周年を記念した展示会が開催決定！大画面で3DCG映像などを上映、2026年9月に新潟県で開催されたVRプログラムも一部の日程で実施 - 電ファミニコゲーマー",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpNlNaNFUxdFo5REpvOVpRNU1WUFUtcXJiMkZoSTNfRmxoVFo0QlR0c0FKVFBqYWh2R3B2MVVPa1FaMVJaUlg1M2lHM1AzY3h2T1NDRWpqc1QwUQ?oc=5",
-     "date": "2026-11-20T09:00:00+00:00",
-     "source": "電ファミニコゲーマー",
-     "snippet": "『千本桜』投稿15周年を記念した展示会が開催決定！大画面で3DCG映像などを上映、2026年9月に新潟県で開催されたVRプログラムも一部の日程で実施&nbsp;&nbsp;電ファミニコゲーマー",
-     "summary": "『千本桜』の投稿15周年を記念した展示会が開催されるにゃ。大画面での3DCG映像上映や、2026年9月に新潟県で行われるVRプログラムも一部実施されるそうだにゃん。ファンにとって特別なイベントになるだろうにゃ。"
+     "summary": "平塚市で12月12日にVR・ARを使った「バーチャル宇宙体験フェス」が開催されるにゃ。参加者は宇宙を体験しながら、楽しむことができるイベントだにゃん。新しい形の宇宙体験が提供されることで、多くの人に宇宙の魅力を伝えることが目指されているそうだにゃ。"
     }
    ]
   }
